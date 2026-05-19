@@ -125,6 +125,18 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("top set", description)
         self.assertIn("back-off", description)
 
+    def test_each_wave_keeps_heavy_compounds_and_core_work(self):
+        plan = build_month_plan("2026-06", PROFILE, {})
+        first_wave = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
+
+        for compound in ("bench", "squat", "deadlift", "pull-ups"):
+            self.assertIn(compound, first_wave)
+        core_mentions = sum(
+            token in first_wave
+            for token in ("pallof", "side plank", "hanging", "dead bug", "copenhagen", "anti-rotation")
+        )
+        self.assertGreaterEqual(core_mentions, 4)
+
 
 if __name__ == "__main__":
     unittest.main()

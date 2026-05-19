@@ -34,6 +34,8 @@ Programming priorities:
 - conservative calisthenics: pull-ups, dips, push-ups, inverted rows, hanging leg raises, crawling, and plank variations
 - low-dose plyometrics: pogos, snap-downs, skips, low broad jumps, and hill sprint technique
 - functional work: farmer carries, suitcase carries, sled if easy to set up, lunges, hinges, trunk anti-rotation
+- every 14-day wave must include heavy compounds for press, squat/knee-dominant work, hinge/deadlift pattern, and vertical/horizontal pull
+- core work must appear repeatedly through carries, anti-rotation, side plank/Copenhagen plank, hanging leg raises, crawling, or dead bugs
 - low initial running volume around 20-25 km per week after the recent marathon
 - training placed around calendar risk rather than forced into fixed weekdays
 
