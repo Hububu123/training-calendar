@@ -142,11 +142,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
-                "Progression gate: add volume only when all work is clean with 1-2 reps in reserve.",
-                f"Bench press: {strength_sets} x 4-6.",
-                "Pull-ups: 4 x 4-8 paired with chest-supported row 3 x 8-12.",
-                "Incline dumbbell press: 2-3 x 8-10 paired with push-ups or dips 2 x clean reps.",
-                "Farmer carries: 3 x 30-40 m.",
+                "Progression: double progression; add load only after all sets reach the top of the range with 1-2 reps in reserve.",
+                f"Bench press: top set 1 x 4-6, then {max(2, int(strength_sets) - 1)} back-off sets x 5-7.",
+                "Pull-ups: 4 x 4-8 paired with chest-supported row 4 x 8-12.",
+                "Incline dumbbell press: 3 x 8-12 paired with dips or push-ups 2-3 x clean reps.",
+                "Farmer carries: 4 x 30-40 m.",
             ),
         ),
         2: PlanDay(
@@ -157,11 +157,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and tibialis raises.",
-                "Progression gate: add volume only when knee tracking stays clean and discomfort stays 0-2/10.",
-                f"Hack squat or goblet squat: {strength_sets} x 6-10.",
-                f"Romanian deadlift: {strength_sets} x 6-8.",
+                "Progression: double progression; add load only when knee tracking stays clean and discomfort stays 0-2/10.",
+                f"Hack squat or goblet squat: top set 1 x 6-8, then {max(2, int(strength_sets) - 1)} back-off sets x 8-10.",
+                f"Romanian deadlift: {strength_sets} x 6-8 with controlled eccentrics.",
                 "Split squat or step-up: 3 x 8-10 per leg paired with leg curl 3 x 10-15.",
-                "Calf raises plus tibialis raises: 3 x 12-20 each.",
+                "Calf raises plus tibialis raises: 4 x 12-20 each.",
             ),
         ),
         3: PlanDay(
@@ -185,7 +185,7 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 5 min easy cardio, shoulder circles, light rows, and scap pull-ups.",
-                "Progression gate: add volume only when total reps rise without elbow or shoulder irritation.",
+                "Progression: double progression; beat total quality reps before adding load or a set.",
                 "Pull-ups: 5 x 4-8 or 20-30 total quality reps.",
                 "Dips or push-ups: 3 x 8-15.",
                 "One-arm dumbbell row or inverted row: 3 x 8-12 paired with incline dumbbell press 2-3 x 8-12.",
@@ -200,8 +200,8 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 7-8 min bike, glute bridges, ankle mobility, and light hinge ramp sets.",
-                "Progression gate: add volume only when hinge speed and hamstring control stay crisp.",
-                f"Romanian deadlift: {strength_sets} x 6-8.",
+                "Progression: double progression; add load only when hinge speed and hamstring control stay crisp.",
+                f"Romanian deadlift: top set 1 x 5-7, then {max(2, int(strength_sets) - 1)} back-off sets x 6-8.",
                 "Hip thrust or glute bridge: 3 x 8-12 paired with front-foot elevated split squat 2-3 x 8-10.",
                 "Farmer carries: 3 x 30-40 m.",
                 "Pallof press or side plank: 2-3 sets.",
@@ -215,11 +215,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up jog: 10-12 min easy plus leg swings, A-skips, ankling, and 3 relaxed strides.",
+                "Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day.",
                 "Plyometrics: pogos 3 x 20 sec, snap-downs 3 x 5, low broad jumps 3 x 3.",
                 f"Hill sprints: {sprint_reps} x 10-12 sec uphill at powerful but controlled effort; full walk-back recovery.",
                 "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
                 "Optional: dead bug 3 x 8 per side and side plank 2 x 30 sec.",
-                "Fueling: have carbs before the session and hydrate with electrolytes if sleep was poor.",
             ),
         ),
         7: PlanDay(
@@ -243,10 +243,10 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 7 min easy cardio, squat-to-stand, band rows, push-ups, and hinge ramp sets.",
-                "Progression gate: add volume only when presses, hinges, and pulls are all stable.",
-                f"Incline press or bench press: {volume} x 6-8.",
+                "Progression: double progression; add load only when presses, hinges, and pulls are all stable.",
+                f"Incline press or bench press: top set 1 x 6-8, then {volume} back-off sets x 8-10.",
                 f"Trap-bar deadlift, Romanian deadlift, or heavy hinge: {volume} x 5-6.",
-                "Pull-ups or chest-supported rows: 3-4 x 6-10 paired with goblet squat 3 x 8-12.",
+                "Pull-ups or chest-supported rows: 4 x 6-10 paired with goblet squat 3 x 8-12.",
                 "Farmer carries: 3 x 40 m.",
             ),
         ),
@@ -271,10 +271,10 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 7-8 min bike, split squat isometric holds, ankle rocks, and hinge ramp sets.",
-                "Progression gate: add volume only when tempo and knee control stay stable.",
+                "Progression: double progression; add load only when tempo and knee control stay stable.",
                 "Bulgarian split squat or step-up: 3-4 x 6-10 per leg.",
                 "Romanian deadlift: 3 x 8 paired with leg curl 3 x 10-15.",
-                "Walking lunges: 2 x 12 steps per leg.",
+                "Walking lunges: 2-3 x 12 steps per leg.",
                 "Calf raises plus Copenhagen plank: 2-3 sets each.",
             ),
         ),
@@ -286,7 +286,7 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
-                "Progression gate: add volume only when the density block improves without rushed reps.",
+                "Progression: double progression by adding clean reps before adding time or load.",
                 "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises.",
                 "Easy run: 4 km conversational immediately after or in the morning.",
                 "Carry finisher: suitcase carry 3 x 30 m per side.",
@@ -315,11 +315,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up jog: 10 min easy plus skips, ankling, hip openers, and 3 relaxed strides.",
+                "Progression: add power volume only when jumps stay crisp and knees stay quiet the next day.",
                 "Plyometrics: pogos 3 x 20 sec, low broad jumps 4 x 2, and med-ball slams 4 x 5 if available.",
                 "Hill sprint technique: 4-6 x 8-10 sec at fast but controlled effort.",
                 "Functional work: sled push if easy to set up or farmer carries 4 x 30 m.",
                 "Core: crawling 3 x 20 m or dead bug 3 x 8 per side.",
-                "Recovery: stop at the first sign of knee irritation or sloppy contacts.",
             ),
         ),
         14: PlanDay(
@@ -404,10 +404,10 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
         )
     elif conflict and "work" in current_flags and conflict.work_minutes >= 510 and category == "gym":
         adjustments.append("Shortened for schedule constraints.")
-        if any(line.startswith("Progression gate:") for line in description):
+        if any(line.startswith("Progression:") for line in description):
             description = [
-                "Progression gate: add volume only if energy is good; minimum effective dose is the first 3 main lifts."
-                if line.startswith("Progression gate:")
+                "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good."
+                if line.startswith("Progression:")
                 else line
                 for line in description
             ]
@@ -415,10 +415,10 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
             description.append("Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave.")
     elif current_flags & {"travel", "exam"} and category in {"gym", "sprint", "long_run"}:
         adjustments.append("Adjusted for schedule constraints.")
-        if any(line.startswith("Progression gate:") for line in description):
+        if any(line.startswith("Progression:") for line in description):
             description = [
                 f"{line} Reduce volume by 25-40% before adding intensity."
-                if line.startswith("Progression gate:")
+                if line.startswith("Progression:")
                 else line
                 for line in description
             ]

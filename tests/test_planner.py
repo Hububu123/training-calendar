@@ -121,7 +121,9 @@ class PlannerTests(unittest.TestCase):
 
         self.assertTrue(all(len(day.description) <= 6 for day in plan.days))
         self.assertIn("progression", description)
-        self.assertIn("add volume only", description)
+        self.assertIn("double progression", description)
+        self.assertIn("top set", description)
+        self.assertIn("back-off", description)
 
 
 if __name__ == "__main__":

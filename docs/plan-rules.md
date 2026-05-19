@@ -37,6 +37,15 @@ Programming priorities:
 - low initial running volume around 20-25 km per week after the recent marathon
 - training placed around calendar risk rather than forced into fixed weekdays
 
+Use progression rules instead of fixed session-length rules:
+
+- Main lifts use top set plus back-off sets where useful.
+- Hypertrophy and calisthenics work use double progression: add reps first, then load or a set.
+- Add volume only when performance improves without joint irritation, sleep/recovery is adequate, and reps stay technically clean.
+- Keep 1-2 reps in reserve on most work while strength is still rebuilding after the marathon.
+- For knee-dominant work, progression requires stable tracking and discomfort staying around 0-2/10.
+- For sprint/plyometric work, add contacts or sprint reps only when mechanics stay crisp and knees are quiet the next day.
+
 Avoid a hard 5K interval block in the first month unless recovery is clearly excellent.
 
 ## Calendar Review

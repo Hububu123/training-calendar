@@ -7,45 +7,47 @@ X-WR-CALNAME:Hubert Training
 X-WR-TIMEZONE:Europe/Copenhagen
 BEGIN:VEVENT
 UID:hubert-training-20260601@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:Upper Strength + Calisthenics Pull
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for s
  chedule constraints.\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\
- , scap push-ups\, and 2 bench ramp sets.\n\nMain Work:\n- Progression gat
- e: add volume only if energy is good\; minimum effective dose is the firs
- t 3 main lifts.\n- Bench press: 4 x 4-6.\n- Pull-ups: 4 x 4-8 paired with
-  chest-supported row 3 x 8-12.\n- Incline dumbbell press: 2-3 x 8-10 pair
- ed with push-ups or dips 2 x clean reps.\n- Farmer carries: 3 x 30-40 m.\
- n\nFueling:\n- Hit daily macros\, keep protein near target\, and place ca
- rbohydrates before and after training.\n\nRecovery:\n- Sleep window stays
-  22:00-06:00\; add mobility if joints feel stiff.
+ , scap push-ups\, and 2 bench ramp sets.\n\nMain Work:\n- Progression: us
+ e the minimum effective dose today\; complete the first 3 main lifts and 
+ add accessories only if energy is good.\n- Bench press: top set 1 x 4-6\,
+  then 3 back-off sets x 5-7.\n- Pull-ups: 4 x 4-8 paired with chest-suppo
+ rted row 4 x 8-12.\n- Incline dumbbell press: 3 x 8-12 paired with dips o
+ r push-ups 2-3 x clean reps.\n- Farmer carries: 4 x 30-40 m.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- Sleep window stays 22:00-06:00
+ \; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260602@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:Lower Strength + Knee Capacity
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodywei
- ght squats\, and tibialis raises.\n\nMain Work:\n- Progression gate: add 
- volume only if energy is good\; minimum effective dose is the first 3 mai
- n lifts.\n- Hack squat or goblet squat: 4 x 6-10.\n- Romanian deadlift: 4
-  x 6-8.\n- Split squat or step-up: 3 x 8-10 per leg paired with leg curl 
- 3 x 10-15.\n- Calf raises plus tibialis raises: 3 x 12-20 each.\n\nFuelin
- g:\n- Hit daily macros\, keep protein near target\, and place carbohydrat
- es before and after training.\n\nRecovery:\n- Sleep window stays 22:00-06
- :00\; add mobility if joints feel stiff.
+ ght squats\, and tibialis raises.\n\nMain Work:\n- Progression: use the m
+ inimum effective dose today\; complete the first 3 main lifts and add acc
+ essories only if energy is good.\n- Hack squat or goblet squat: top set 1
+  x 6-8\, then 3 back-off sets x 8-10.\n- Romanian deadlift: 4 x 6-8 with 
+ controlled eccentrics.\n- Split squat or step-up: 3 x 8-10 per leg paired
+  with leg curl 3 x 10-15.\n- Calf raises plus tibialis raises: 4 x 12-20 
+ each.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
+ ace carbohydrates before and after training.\n\nRecovery:\n- Sleep window
+  stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260603@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Recovery + Easy Zone 2
@@ -61,7 +63,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260604@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:Recovery / Maintenance Day
@@ -80,7 +82,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260605@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Recovery Day After High-Risk Schedule
@@ -97,7 +99,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260606@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Recovery Day After High-Risk Schedule
@@ -115,7 +117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260607@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:Recovery Day After High-Risk Schedule
@@ -133,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260608@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
 SUMMARY:Full-Body Athletic Strength
@@ -141,19 +143,19 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7 min easy cardio\, squat-to-stand\,
   band rows\, push-ups\, and hinge ramp sets.\n\nMain Work:\n- Progression
-  gate: add volume only if energy is good\; minimum effective dose is the 
- first 3 main lifts.\n- Incline press or bench press: 3-4 x 6-8.\n- Trap-b
- ar deadlift\, Romanian deadlift\, or heavy hinge: 3-4 x 5-6.\n- Pull-ups 
- or chest-supported rows: 3-4 x 6-10 paired with goblet squat 3 x 8-12.\n-
-  Farmer carries: 3 x 40 m.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel sti
- ff.
+ : use the minimum effective dose today\; complete the first 3 main lifts 
+ and add accessories only if energy is good.\n- Incline press or bench pre
+ ss: top set 1 x 6-8\, then 3-4 back-off sets x 8-10.\n- Trap-bar deadlift
+ \, Romanian deadlift\, or heavy hinge: 3-4 x 5-6.\n- Pull-ups or chest-su
+ pported rows: 4 x 6-10 paired with goblet squat 3 x 8-12.\n- Farmer carri
+ es: 3 x 40 m.\n\nFueling:\n- Hit daily macros\, keep protein near target\
+ , and place carbohydrates before and after training.\n\nRecovery:\n- Slee
+ p window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260609@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Easy Run + Relaxed Strides
@@ -168,47 +170,48 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260610@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Lower Unilateral + Posterior Chain
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, split squat isometric
-  holds\, ankle rocks\, and hinge ramp sets.\n\nMain Work:\n- Progression 
- gate: add volume only if energy is good\; minimum effective dose is the f
- irst 3 main lifts.\n- Bulgarian split squat or step-up: 3-4 x 6-10 per le
- g.\n- Romanian deadlift: 3 x 8 paired with leg curl 3 x 10-15.\n- Walking
-  lunges: 2 x 12 steps per leg.\n- Calf raises plus Copenhagen plank: 2-3 
- sets each.\n\nFueling:\n- Hit daily macros\, keep protein near target\, a
- nd place carbohydrates before and after training.\n\nRecovery:\n- Sleep w
- indow stays 22:00-06:00\; add mobility if joints feel stiff.
+  holds\, ankle rocks\, and hinge ramp sets.\n\nMain Work:\n- Progression:
+  use the minimum effective dose today\; complete the first 3 main lifts a
+ nd add accessories only if energy is good.\n- Bulgarian split squat or st
+ ep-up: 3-4 x 6-10 per leg.\n- Romanian deadlift: 3 x 8 paired with leg cu
+ rl 3 x 10-15.\n- Walking lunges: 2-3 x 12 steps per leg.\n- Calf raises p
+ lus Copenhagen plank: 2-3 sets each.\n\nFueling:\n- Hit daily macros\, ke
+ ep protein near target\, and place carbohydrates before and after trainin
+ g.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joint
+ s feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260611@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Calisthenics Density + Zone 2
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 4 km\nAdjustments:\n- Adjusted for s
  chedule constraints.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, h
- ip mobility\, and crawling patterns.\n\nMain Work:\n- Progression gate: a
- dd volume only when the density block improves without rushed reps. Reduc
- e volume by 25-40% before adding intensity.\n- Density block: 20 min alte
- rnating pull-ups\, push-ups\, inverted rows\, and hanging knee raises.\n-
-  Easy run: 4 km conversational immediately after or in the morning.\n- Ca
- rry finisher: suitcase carry 3 x 30 m per side.\n\nOptional:\n- lateral r
- aises or curls 2 x 15-20 if time remains.\n\nRun:\n- Planned running volu
- me: 4 km.\n\nFueling:\n- Hit daily macros\, keep protein near target\, an
- d place carbohydrates before and after training.\n\nRecovery:\n- Sleep wi
- ndow stays 22:00-06:00\; add mobility if joints feel stiff.
+ ip mobility\, and crawling patterns.\n\nMain Work:\n- Progression: double
+  progression by adding clean reps before adding time or load. Reduce volu
+ me by 25-40% before adding intensity.\n- Density block: 20 min alternatin
+ g pull-ups\, push-ups\, inverted rows\, and hanging knee raises.\n- Easy 
+ run: 4 km conversational immediately after or in the morning.\n- Carry fi
+ nisher: suitcase carry 3 x 30 m per side.\n\nOptional:\n- lateral raises 
+ or curls 2 x 15-20 if time remains.\n\nRun:\n- Planned running volume: 4 
+ km.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and plac
+ e carbohydrates before and after training.\n\nRecovery:\n- Sleep window s
+ tays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260612@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Recovery + Mobility Capacity
@@ -224,27 +227,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260613@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Plyometrics + Functional Power
 DESCRIPTION:Overview:\nMacros: 3550 kcal\, 165 g protein\, 520 g carbs\, 1
  00 g fat\nCategory: sprint\nRun volume: 3 km\nAdjustments:\n- Adjusted fo
  r schedule constraints.\n\nWarm-Up:\n- 10 min easy plus skips\, ankling\,
-  hip openers\, and 3 relaxed strides.\n\nMain Work:\n- Plyometrics: pogos
-  3 x 20 sec\, low broad jumps 4 x 2\, and med-ball slams 4 x 5 if availab
- le.\n- Hill sprint technique: 4-6 x 8-10 sec at fast but controlled effor
- t.\n- Functional work: sled push if easy to set up or farmer carries 4 x 
- 30 m.\n- Core: crawling 3 x 20 m or dead bug 3 x 8 per side.\n\nRun:\n- P
- lanned running volume: 3 km.\n\nFueling:\n- Hit daily macros\, keep prote
- in near target\, and place carbohydrates before and after training.\n\nRe
- covery:\n- stop at the first sign of knee irritation or sloppy contacts. 
- Reduce volume by 25-40% before adding intensity.
+  hip openers\, and 3 relaxed strides.\n\nMain Work:\n- Progression: add p
+ ower volume only when jumps stay crisp and knees stay quiet the next day.
+  Reduce volume by 25-40% before adding intensity.\n- Plyometrics: pogos 3
+  x 20 sec\, low broad jumps 4 x 2\, and med-ball slams 4 x 5 if available
+ .\n- Hill sprint technique: 4-6 x 8-10 sec at fast but controlled effort.
+ \n- Functional work: sled push if easy to set up or farmer carries 4 x 30
+  m.\n- Core: crawling 3 x 20 m or dead bug 3 x 8 per side.\n\nRun:\n- Pla
+ nned running volume: 3 km.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel sti
+ ff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260614@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:Aerobic Base + Reset
@@ -262,47 +267,48 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260615@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Upper Strength + Calisthenics Pull
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for sc
  hedule constraints.\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\,
-  scap push-ups\, and 2 bench ramp sets.\n\nMain Work:\n- Progression gate
- : add volume only when all work is clean with 1-2 reps in reserve. Reduce
-  volume by 25-40% before adding intensity.\n- Bench press: 4 x 4-6.\n- Pu
- ll-ups: 4 x 4-8 paired with chest-supported row 3 x 8-12.\n- Incline dumb
- bell press: 2-3 x 8-10 paired with push-ups or dips 2 x clean reps.\n- Fa
- rmer carries: 3 x 30-40 m.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel sti
- ff.
+  scap push-ups\, and 2 bench ramp sets.\n\nMain Work:\n- Progression: dou
+ ble progression\; add load only after all sets reach the top of the range
+  with 1-2 reps in reserve. Reduce volume by 25-40% before adding intensit
+ y.\n- Bench press: top set 1 x 4-6\, then 3 back-off sets x 5-7.\n- Pull-
+ ups: 4 x 4-8 paired with chest-supported row 4 x 8-12.\n- Incline dumbbel
+ l press: 3 x 8-12 paired with dips or push-ups 2-3 x clean reps.\n- Farme
+ r carries: 4 x 30-40 m.\n\nFueling:\n- Hit daily macros\, keep protein ne
+ ar target\, and place carbohydrates before and after training.\n\nRecover
+ y:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260616@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Lower Strength + Knee Capacity
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for s
  chedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweig
- ht squats\, and tibialis raises.\n\nMain Work:\n- Progression gate: add v
- olume only when knee tracking stays clean and discomfort stays 0-2/10. Re
- duce volume by 25-40% before adding intensity.\n- Hack squat or goblet sq
- uat: 4 x 6-10.\n- Romanian deadlift: 4 x 6-8.\n- Split squat or step-up: 
- 3 x 8-10 per leg paired with leg curl 3 x 10-15.\n- Calf raises plus tibi
- alis raises: 3 x 12-20 each.\n\nFueling:\n- Hit daily macros\, keep prote
- in near target\, and place carbohydrates before and after training.\n\nRe
- covery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel s
- tiff.
+ ht squats\, and tibialis raises.\n\nMain Work:\n- Progression: double pro
+ gression\; add load only when knee tracking stays clean and discomfort st
+ ays 0-2/10. Reduce volume by 25-40% before adding intensity.\n- Hack squa
+ t or goblet squat: top set 1 x 6-8\, then 3 back-off sets x 8-10.\n- Roma
+ nian deadlift: 4 x 6-8 with controlled eccentrics.\n- Split squat or step
+ -up: 3 x 8-10 per leg paired with leg curl 3 x 10-15.\n- Calf raises plus
+  tibialis raises: 4 x 12-20 each.\n\nFueling:\n- Hit daily macros\, keep 
+ protein near target\, and place carbohydrates before and after training.\
+ n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints f
+ eel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260617@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Recovery + Easy Zone 2
@@ -318,46 +324,47 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260618@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Upper Calisthenics + Hypertrophy
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for sc
  hedule constraints.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder circles\,
-  light rows\, and scap pull-ups.\n\nMain Work:\n- Progression gate: add v
- olume only when total reps rise without elbow or shoulder irritation. Red
- uce volume by 25-40% before adding intensity.\n- Pull-ups: 5 x 4-8 or 20-
- 30 total quality reps.\n- Dips or push-ups: 3 x 8-15.\n- One-arm dumbbell
-  row or inverted row: 3 x 8-12 paired with incline dumbbell press 2-3 x 8
- -12.\n- Lateral raises plus hanging leg raises: 2-3 sets each.\n\nFueling
- :\n- Hit daily macros\, keep protein near target\, and place carbohydrate
- s before and after training.\n\nRecovery:\n- Sleep window stays 22:00-06:
- 00\; add mobility if joints feel stiff.
+  light rows\, and scap pull-ups.\n\nMain Work:\n- Progression: double pro
+ gression\; beat total quality reps before adding load or a set. Reduce vo
+ lume by 25-40% before adding intensity.\n- Pull-ups: 5 x 4-8 or 20-30 tot
+ al quality reps.\n- Dips or push-ups: 3 x 8-15.\n- One-arm dumbbell row o
+ r inverted row: 3 x 8-12 paired with incline dumbbell press 2-3 x 8-12.\n
+ - Lateral raises plus hanging leg raises: 2-3 sets each.\n\nFueling:\n- H
+ it daily macros\, keep protein near target\, and place carbohydrates befo
+ re and after training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; a
+ dd mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260619@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Posterior Chain + Functional Carries
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for s
  chedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, glute bridges\, ankle 
- mobility\, and light hinge ramp sets.\n\nMain Work:\n- Progression gate: 
- add volume only when hinge speed and hamstring control stay crisp. Reduce
-  volume by 25-40% before adding intensity.\n- Romanian deadlift: 4 x 6-8.
- \n- Hip thrust or glute bridge: 3 x 8-12 paired with front-foot elevated 
- split squat 2-3 x 8-10.\n- Farmer carries: 3 x 30-40 m.\n- Pallof press o
- r side plank: 2-3 sets.\n\nFueling:\n- Hit daily macros\, keep protein ne
- ar target\, and place carbohydrates before and after training.\n\nRecover
- y:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+ mobility\, and light hinge ramp sets.\n\nMain Work:\n- Progression: doubl
+ e progression\; add load only when hinge speed and hamstring control stay
+  crisp. Reduce volume by 25-40% before adding intensity.\n- Romanian dead
+ lift: top set 1 x 5-7\, then 3 back-off sets x 6-8.\n- Hip thrust or glut
+ e bridge: 3 x 8-12 paired with front-foot elevated split squat 2-3 x 8-10
+ .\n- Farmer carries: 3 x 30-40 m.\n- Pallof press or side plank: 2-3 sets
+ .\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
+ carbohydrates before and after training.\n\nRecovery:\n- Sleep window sta
+ ys 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260620@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Recovery / Maintenance Day
@@ -377,7 +384,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260621@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Recovery Day After High-Risk Schedule
@@ -395,7 +402,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260622@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Full-Body Athletic Strength
@@ -403,19 +410,19 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7 min easy cardio\, squat-to-stand\,
   band rows\, push-ups\, and hinge ramp sets.\n\nMain Work:\n- Progression
-  gate: add volume only if energy is good\; minimum effective dose is the 
- first 3 main lifts.\n- Incline press or bench press: 3-4 x 6-8.\n- Trap-b
- ar deadlift\, Romanian deadlift\, or heavy hinge: 3-4 x 5-6.\n- Pull-ups 
- or chest-supported rows: 3-4 x 6-10 paired with goblet squat 3 x 8-12.\n-
-  Farmer carries: 3 x 40 m.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel sti
- ff.
+ : use the minimum effective dose today\; complete the first 3 main lifts 
+ and add accessories only if energy is good.\n- Incline press or bench pre
+ ss: top set 1 x 6-8\, then 3-4 back-off sets x 8-10.\n- Trap-bar deadlift
+ \, Romanian deadlift\, or heavy hinge: 3-4 x 5-6.\n- Pull-ups or chest-su
+ pported rows: 4 x 6-10 paired with goblet squat 3 x 8-12.\n- Farmer carri
+ es: 3 x 40 m.\n\nFueling:\n- Hit daily macros\, keep protein near target\
+ , and place carbohydrates before and after training.\n\nRecovery:\n- Slee
+ p window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260623@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Easy Run + Relaxed Strides
@@ -430,47 +437,48 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260624@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Lower Unilateral + Posterior Chain
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, split squat isometric
-  holds\, ankle rocks\, and hinge ramp sets.\n\nMain Work:\n- Progression 
- gate: add volume only if energy is good\; minimum effective dose is the f
- irst 3 main lifts.\n- Bulgarian split squat or step-up: 3-4 x 6-10 per le
- g.\n- Romanian deadlift: 3 x 8 paired with leg curl 3 x 10-15.\n- Walking
-  lunges: 2 x 12 steps per leg.\n- Calf raises plus Copenhagen plank: 2-3 
- sets each.\n\nFueling:\n- Hit daily macros\, keep protein near target\, a
- nd place carbohydrates before and after training.\n\nRecovery:\n- Sleep w
- indow stays 22:00-06:00\; add mobility if joints feel stiff.
+  holds\, ankle rocks\, and hinge ramp sets.\n\nMain Work:\n- Progression:
+  use the minimum effective dose today\; complete the first 3 main lifts a
+ nd add accessories only if energy is good.\n- Bulgarian split squat or st
+ ep-up: 3-4 x 6-10 per leg.\n- Romanian deadlift: 3 x 8 paired with leg cu
+ rl 3 x 10-15.\n- Walking lunges: 2-3 x 12 steps per leg.\n- Calf raises p
+ lus Copenhagen plank: 2-3 sets each.\n\nFueling:\n- Hit daily macros\, ke
+ ep protein near target\, and place carbohydrates before and after trainin
+ g.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joint
+ s feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260625@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Calisthenics Density + Zone 2
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 4 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, 
- hip mobility\, and crawling patterns.\n\nMain Work:\n- Progression gate: 
- add volume only if energy is good\; minimum effective dose is the first 3
-  main lifts.\n- Density block: 20 min alternating pull-ups\, push-ups\, i
- nverted rows\, and hanging knee raises.\n- Easy run: 4 km conversational 
- immediately after or in the morning.\n- Carry finisher: suitcase carry 3 
- x 30 m per side.\n\nOptional:\n- lateral raises or curls 2 x 15-20 if tim
- e remains.\n\nRun:\n- Planned running volume: 4 km.\n\nFueling:\n- Hit da
- ily macros\, keep protein near target\, and place carbohydrates before an
- d after training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mo
- bility if joints feel stiff.
+ hip mobility\, and crawling patterns.\n\nMain Work:\n- Progression: use t
+ he minimum effective dose today\; complete the first 3 main lifts and add
+  accessories only if energy is good.\n- Density block: 20 min alternating
+  pull-ups\, push-ups\, inverted rows\, and hanging knee raises.\n- Easy r
+ un: 4 km conversational immediately after or in the morning.\n- Carry fin
+ isher: suitcase carry 3 x 30 m per side.\n\nOptional:\n- lateral raises o
+ r curls 2 x 15-20 if time remains.\n\nRun:\n- Planned running volume: 4 k
+ m.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place
+  carbohydrates before and after training.\n\nRecovery:\n- Sleep window st
+ ays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260626@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Recovery + Mobility Capacity
@@ -486,7 +494,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260627@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Recovery / Maintenance Day
@@ -506,7 +514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260628@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Recovery Day After High-Risk Schedule
@@ -524,7 +532,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260629@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:Recovery / Maintenance Day
@@ -543,7 +551,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260630@training-calendar
-DTSTAMP:20260519T194101Z
+DTSTAMP:20260519T195155Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Recovery Day After High-Risk Schedule
