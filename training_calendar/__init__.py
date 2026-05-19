@@ -1,0 +1,2 @@
+"""Training calendar generator."""
+

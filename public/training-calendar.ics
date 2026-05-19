@@ -1,0 +1,538 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hubert Training Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hubert Training
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VEVENT
+UID:hubert-training-20260601@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Upper Strength + Fueling Focus
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 5-8 min easy bike or incline walk\, band pul
+ l-aparts\, scap push-ups\, and 2-3 bench ramp sets.\n- Bench press: 4 x 4
+ -6 at a conservative post-marathon load\; stop with 1-2 reps in reserve.\
+ n- Incline dumbbell press: 3 x 8-10.\n- Seated dumbbell shoulder press: 3
+  x 6-10.\n- Cable fly or pec deck: 2-3 x 12-15.\n- Lateral raises: 4 x 12
+ -20.\n- Triceps pushdown: 3 x 10-15.\n- Overhead triceps extension: 2 x 1
+ 2-15.\n- Fueling: keep carbs high at lunch and include a carb-focused pre
+ -gym meal 2-3 hours before training.\n- Use the minimum effective dose if
+  time or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260602@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 8-10 min bike\, ankle rocks\, hip airplanes\
+ , bodyweight squats\, and light sled or leg extension if available.\n- Ha
+ ck squat: 4 x 6-10\, smooth depth and no grinding.\n- Leg press: 3 x 8-12
+ .\n- Romanian deadlift: 4 x 6-8.\n- Bulgarian split squat: 2-3 x 8-10 per
+  leg\, controlled tempo.\n- Leg curl: 3 x 10-15.\n- Calf raises: 4 x 10-2
+ 0.\n- Tibialis raises: 3 x 15-25.\n- Squat skill: goblet squat 3 x 8 plus
+  pause bodyweight squat 2 x 8.\n- Fueling: add a salty carb source pre-li
+ ft\; this is not a low-carb day.\n- Use the minimum effective dose if tim
+ e or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260603@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Recovery + Easy Zone 2
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: easy_run\nRun volume: 5 km\nPlan:\n- Easy run: 5 km at conversati
+ onal effort\, roughly 5:30-6:10/km.\n- Keep cadence light and stop if kne
+ es feel worse as the run continues.\n- Mobility: 8-10 min hips\, quads\, 
+ calves\, ankles.\n- Fueling: do not run fasted if you feel flat\; fruit o
+ r bread plus caffeine is enough before an easy morning run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260604@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Upper Hypertrophy + Arms/Delts
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 5 min easy cardio\, shoulder circles\, light
+  rows\, and two easy pressing ramp sets.\n- Weighted pull-ups or bodyweig
+ ht pull-ups: 4 x 5-8.\n- Chest-supported row or barbell row: 4 x 6-10.\n-
+  Incline dumbbell press: 3 x 8-12.\n- Lat pulldown: 3 x 8-12.\n- Cable ro
+ w: 3 x 10-12.\n- Rear delt fly: 3 x 15-20.\n- Lateral raises: 3 x 15-20.\
+ n- Curls superset triceps pressdown: 3 x 10-15 each.\n- Core: Pallof pres
+ s 3 x 10-12 per side.\n- Fueling: dinner should include protein plus a la
+ rge carb portion after training.\n- Use the minimum effective dose if tim
+ e or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260605@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Lower Posterior Chain + Squat Skill
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nPlan:\n- Warm-up: 8 min bike\, dynamic ham
+ strings\, glute bridges\, ankle mobility\, and light hinge ramp sets.\n- 
+ Romanian deadlift: 4 x 6-8.\n- Hip thrust or glute bridge: 3 x 8-12.\n- F
+ ront-foot elevated split squat: 3 x 8-10 per leg\, knee tracking cleanly.
+ \n- Seated or lying leg curl: 3 x 10-15.\n- Back extension: 2-3 x 10-15.\
+ n- Calf raises: 4 x 10-20.\n- Squat skill: goblet squat 3 x 8\, slow ecce
+ ntric and stable foot pressure.\n- If social plans or alcohol are likely\
+ , train earlier and keep 1-2 reps in reserve.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260606@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Controlled Hill Sprints + Mobility
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: sprint\nRun volume: 3 km\nPlan:\n- Warm-up jog: 3 km total includ
+ ing cooldown\, all easy.\n- Dynamic drills: leg swings\, A-skips\, anklin
+ g\, high knees\, and 3 relaxed strides.\n- Hill sprints: 6 x 10-12 sec up
+ hill at powerful but controlled effort\; full walk-back recovery.\n- Stop
+  the sprint set if mechanics get sloppy or knees feel sharp.\n- Accessory
+  option: farmer carries 4 x 30-40 m and ab wheel 3 x 6-10.\n- Fueling: ha
+ ve carbs before the session and hydrate with electrolytes if sleep was po
+ or.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260607@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Easy Longer Aerobic Run
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: long_run\nRun volume: 10 km\nPlan:\n- Easy longer run: 10 km at c
+ onversational effort\, roughly 5:15-5:55/km.\n- This is not a race. Keep 
+ the final 2 km controlled unless recovery feels excellent.\n- Post-run: p
+ rotein plus a large carb meal within 2 hours.\n- Mobility: calves\, quads
+ \, hip flexors\, and gentle knee-friendly range work.\n- Fueling: eat car
+ bs the night before and before the run\; add electrolytes if warm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260608@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Upper Strength + Fueling Focus
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 5-8 min easy bike or incline walk\, band pul
+ l-aparts\, scap push-ups\, and 2-3 bench ramp sets.\n- Bench press: 4 x 4
+ -6 at a conservative post-marathon load\; stop with 1-2 reps in reserve.\
+ n- Incline dumbbell press: 3 x 8-10.\n- Seated dumbbell shoulder press: 3
+  x 6-10.\n- Cable fly or pec deck: 2-3 x 12-15.\n- Lateral raises: 4 x 12
+ -20.\n- Triceps pushdown: 3 x 10-15.\n- Overhead triceps extension: 2 x 1
+ 2-15.\n- Fueling: keep carbs high at lunch and include a carb-focused pre
+ -gym meal 2-3 hours before training.\n- Use the minimum effective dose if
+  time or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260609@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 8-10 min bike\, ankle rocks\, hip airplanes\
+ , bodyweight squats\, and light sled or leg extension if available.\n- Ha
+ ck squat: 4 x 6-10\, smooth depth and no grinding.\n- Leg press: 3 x 8-12
+ .\n- Romanian deadlift: 4 x 6-8.\n- Bulgarian split squat: 2-3 x 8-10 per
+  leg\, controlled tempo.\n- Leg curl: 3 x 10-15.\n- Calf raises: 4 x 10-2
+ 0.\n- Tibialis raises: 3 x 15-25.\n- Squat skill: goblet squat 3 x 8 plus
+  pause bodyweight squat 2 x 8.\n- Fueling: add a salty carb source pre-li
+ ft\; this is not a low-carb day.\n- Use the minimum effective dose if tim
+ e or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260610@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Recovery + Easy Zone 2
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: easy_run\nRun volume: 5 km\nPlan:\n- Easy run: 5 km at conversati
+ onal effort\, roughly 5:30-6:10/km.\n- Keep cadence light and stop if kne
+ es feel worse as the run continues.\n- Mobility: 8-10 min hips\, quads\, 
+ calves\, ankles.\n- Fueling: do not run fasted if you feel flat\; fruit o
+ r bread plus caffeine is enough before an easy morning run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260611@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Upper Hypertrophy + Arms/Delts
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 5 min easy cardio\, shoulder circles\, light 
+ rows\, and two easy pressing ramp sets.\n- Weighted pull-ups or bodyweigh
+ t pull-ups: 4 x 5-8.\n- Chest-supported row or barbell row: 4 x 6-10.\n- 
+ Incline dumbbell press: 3 x 8-12.\n- Lat pulldown: 3 x 8-12.\n- Cable row
+ : 3 x 10-12.\n- Rear delt fly: 3 x 15-20.\n- Lateral raises: 3 x 15-20.\n
+ - Curls superset triceps pressdown: 3 x 10-15 each.\n- Core: Pallof press
+  3 x 10-12 per side.\n- Fueling: dinner should include protein plus a lar
+ ge carb portion after training.\n- Keep this session flexible: reduce vol
+ ume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260612@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Lower Posterior Chain + Squat Skill
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 8 min bike\, dynamic hamstrings\, glute bridg
+ es\, ankle mobility\, and light hinge ramp sets.\n- Romanian deadlift: 4 
+ x 6-8.\n- Hip thrust or glute bridge: 3 x 8-12.\n- Front-foot elevated sp
+ lit squat: 3 x 8-10 per leg\, knee tracking cleanly.\n- Seated or lying l
+ eg curl: 3 x 10-15.\n- Back extension: 2-3 x 10-15.\n- Calf raises: 4 x 1
+ 0-20.\n- Squat skill: goblet squat 3 x 8\, slow eccentric and stable foot
+  pressure.\n- If social plans or alcohol are likely\, train earlier and k
+ eep 1-2 reps in reserve.\n- Keep this session flexible: reduce volume by 
+ 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260613@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Controlled Hill Sprints + Mobility
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: sprint\nRun volume: 4 km\nAdjustments:\n- Adjusted for schedule c
+ onstraints.\nPlan:\n- Warm-up jog: 4 km total including cooldown\, all ea
+ sy.\n- Dynamic drills: leg swings\, A-skips\, ankling\, high knees\, and 
+ 3 relaxed strides.\n- Hill sprints: 7 x 10-12 sec uphill at powerful but 
+ controlled effort\; full walk-back recovery.\n- Stop the sprint set if me
+ chanics get sloppy or knees feel sharp.\n- Accessory option: farmer carri
+ es 4 x 30-40 m and ab wheel 3 x 6-10.\n- Fueling: have carbs before the s
+ ession and hydrate with electrolytes if sleep was poor.\n- Keep this sess
+ ion flexible: reduce volume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260614@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Easy Longer Aerobic Run
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: long_run\nRun volume: 11 km\nAdjustments:\n- Adjusted for schedul
+ e constraints.\nPlan:\n- Easy longer run: 11 km at conversational effort\
+ , roughly 5:15-5:55/km.\n- This is not a race. Keep the final 2 km contro
+ lled unless recovery feels excellent.\n- Post-run: protein plus a large c
+ arb meal within 2 hours.\n- Mobility: calves\, quads\, hip flexors\, and 
+ gentle knee-friendly range work.\n- Fueling: eat carbs the night before a
+ nd before the run\; add electrolytes if warm.\n- Keep this session flexib
+ le: reduce volume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260615@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Upper Strength + Fueling Focus
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 5-8 min easy bike or incline walk\, band pull
+ -aparts\, scap push-ups\, and 2-3 bench ramp sets.\n- Bench press: 4 x 4-
+ 6 at a conservative post-marathon load\; stop with 1-2 reps in reserve.\n
+ - Incline dumbbell press: 3 x 8-10.\n- Seated dumbbell shoulder press: 3 
+ x 6-10.\n- Cable fly or pec deck: 2-3 x 12-15.\n- Lateral raises: 4 x 12-
+ 20.\n- Triceps pushdown: 3 x 10-15.\n- Overhead triceps extension: 2 x 12
+ -15.\n- Fueling: keep carbs high at lunch and include a carb-focused pre-
+ gym meal 2-3 hours before training.\n- Keep this session flexible: reduce
+  volume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260616@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 8-10 min bike\, ankle rocks\, hip airplanes\,
+  bodyweight squats\, and light sled or leg extension if available.\n- Hac
+ k squat: 4 x 6-10\, smooth depth and no grinding.\n- Leg press: 3 x 8-12.
+ \n- Romanian deadlift: 4 x 6-8.\n- Bulgarian split squat: 2-3 x 8-10 per 
+ leg\, controlled tempo.\n- Leg curl: 3 x 10-15.\n- Calf raises: 4 x 10-20
+ .\n- Tibialis raises: 3 x 15-25.\n- Squat skill: goblet squat 3 x 8 plus 
+ pause bodyweight squat 2 x 8.\n- Fueling: add a salty carb source pre-lif
+ t\; this is not a low-carb day.\n- Keep this session flexible: reduce vol
+ ume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260617@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Recovery + Easy Zone 2
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: easy_run\nRun volume: 6 km\nPlan:\n- Easy run: 6 km at conversati
+ onal effort\, roughly 5:30-6:10/km.\n- Keep cadence light and stop if kne
+ es feel worse as the run continues.\n- Mobility: 8-10 min hips\, quads\, 
+ calves\, ankles.\n- Fueling: do not run fasted if you feel flat\; fruit o
+ r bread plus caffeine is enough before an easy morning run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260618@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Upper Hypertrophy + Arms/Delts
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 5 min easy cardio\, shoulder circles\, light 
+ rows\, and two easy pressing ramp sets.\n- Weighted pull-ups or bodyweigh
+ t pull-ups: 4 x 5-8.\n- Chest-supported row or barbell row: 4 x 6-10.\n- 
+ Incline dumbbell press: 3 x 8-12.\n- Lat pulldown: 3 x 8-12.\n- Cable row
+ : 3 x 10-12.\n- Rear delt fly: 3 x 15-20.\n- Lateral raises: 3 x 15-20.\n
+ - Curls superset triceps pressdown: 3 x 10-15 each.\n- Core: Pallof press
+  3 x 10-12 per side.\n- Fueling: dinner should include protein plus a lar
+ ge carb portion after training.\n- Keep this session flexible: reduce vol
+ ume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260619@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Lower Posterior Chain + Squat Skill
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 8 min bike\, dynamic hamstrings\, glute bridg
+ es\, ankle mobility\, and light hinge ramp sets.\n- Romanian deadlift: 4 
+ x 6-8.\n- Hip thrust or glute bridge: 3 x 8-12.\n- Front-foot elevated sp
+ lit squat: 3 x 8-10 per leg\, knee tracking cleanly.\n- Seated or lying l
+ eg curl: 3 x 10-15.\n- Back extension: 2-3 x 10-15.\n- Calf raises: 4 x 1
+ 0-20.\n- Squat skill: goblet squat 3 x 8\, slow eccentric and stable foot
+  pressure.\n- If social plans or alcohol are likely\, train earlier and k
+ eep 1-2 reps in reserve.\n- Keep this session flexible: reduce volume by 
+ 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260620@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Controlled Hill Sprints + Mobility
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: sprint\nRun volume: 4 km\nPlan:\n- Warm-up jog: 4 km total includ
+ ing cooldown\, all easy.\n- Dynamic drills: leg swings\, A-skips\, anklin
+ g\, high knees\, and 3 relaxed strides.\n- Hill sprints: 8 x 10-12 sec up
+ hill at powerful but controlled effort\; full walk-back recovery.\n- Stop
+  the sprint set if mechanics get sloppy or knees feel sharp.\n- Accessory
+  option: farmer carries 4 x 30-40 m and ab wheel 3 x 6-10.\n- Fueling: ha
+ ve carbs before the session and hydrate with electrolytes if sleep was po
+ or.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260621@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Easy Longer Aerobic Run
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: long_run\nRun volume: 12 km\nPlan:\n- Easy longer run: 12 km at c
+ onversational effort\, roughly 5:15-5:55/km.\n- This is not a race. Keep 
+ the final 2 km controlled unless recovery feels excellent.\n- Post-run: p
+ rotein plus a large carb meal within 2 hours.\n- Mobility: calves\, quads
+ \, hip flexors\, and gentle knee-friendly range work.\n- Fueling: eat car
+ bs the night before and before the run\; add electrolytes if warm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260622@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Upper Strength + Fueling Focus
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 5-8 min easy bike or incline walk\, band pul
+ l-aparts\, scap push-ups\, and 2-3 bench ramp sets.\n- Bench press: 4 x 4
+ -6 at a conservative post-marathon load\; stop with 1-2 reps in reserve.\
+ n- Incline dumbbell press: 3 x 8-10.\n- Seated dumbbell shoulder press: 3
+  x 6-10.\n- Cable fly or pec deck: 2-3 x 12-15.\n- Lateral raises: 4 x 12
+ -20.\n- Triceps pushdown: 3 x 10-15.\n- Overhead triceps extension: 2 x 1
+ 2-15.\n- Fueling: keep carbs high at lunch and include a carb-focused pre
+ -gym meal 2-3 hours before training.\n- Use the minimum effective dose if
+  time or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260623@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 8-10 min bike\, ankle rocks\, hip airplanes\
+ , bodyweight squats\, and light sled or leg extension if available.\n- Ha
+ ck squat: 2-3 x 6-10\, smooth depth and no grinding.\n- Leg press: 2 x 8-
+ 12.\n- Romanian deadlift: 2-3 x 6-8.\n- Bulgarian split squat: 2-3 x 8-10
+  per leg\, controlled tempo.\n- Leg curl: 3 x 10-15.\n- Calf raises: 4 x 
+ 10-20.\n- Tibialis raises: 3 x 15-25.\n- Squat skill: goblet squat 3 x 8 
+ plus pause bodyweight squat 2 x 8.\n- Fueling: add a salty carb source pr
+ e-lift\; this is not a low-carb day.\n- Use the minimum effective dose if
+  time or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260624@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Recovery + Easy Zone 2
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: easy_run\nRun volume: 4 km\nPlan:\n- Easy run: 4 km at conversati
+ onal effort\, roughly 5:30-6:10/km.\n- Keep cadence light and stop if kne
+ es feel worse as the run continues.\n- Mobility: 8-10 min hips\, quads\, 
+ calves\, ankles.\n- Fueling: do not run fasted if you feel flat\; fruit o
+ r bread plus caffeine is enough before an easy morning run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260625@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Upper Hypertrophy + Arms/Delts
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 5 min easy cardio\, shoulder circles\, light
+  rows\, and two easy pressing ramp sets.\n- Weighted pull-ups or bodyweig
+ ht pull-ups: 4 x 5-8.\n- Chest-supported row or barbell row: 4 x 6-10.\n-
+  Incline dumbbell press: 3 x 8-12.\n- Lat pulldown: 3 x 8-12.\n- Cable ro
+ w: 3 x 10-12.\n- Rear delt fly: 3 x 15-20.\n- Lateral raises: 3 x 15-20.\
+ n- Curls superset triceps pressdown: 3 x 10-15 each.\n- Core: Pallof pres
+ s 3 x 10-12 per side.\n- Fueling: dinner should include protein plus a la
+ rge carb portion after training.\n- Use the minimum effective dose if tim
+ e or energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260626@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Lower Posterior Chain + Squat Skill
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for schedule con
+ straints.\nPlan:\n- Warm-up: 8 min bike\, dynamic hamstrings\, glute brid
+ ges\, ankle mobility\, and light hinge ramp sets.\n- Romanian deadlift: 2
+ -3 x 6-8.\n- Hip thrust or glute bridge: 3 x 8-12.\n- Front-foot elevated
+  split squat: 3 x 8-10 per leg\, knee tracking cleanly.\n- Seated or lyin
+ g leg curl: 3 x 10-15.\n- Back extension: 2-3 x 10-15.\n- Calf raises: 4 
+ x 10-20.\n- Squat skill: goblet squat 3 x 8\, slow eccentric and stable f
+ oot pressure.\n- If social plans or alcohol are likely\, train earlier an
+ d keep 1-2 reps in reserve.\n- Use the minimum effective dose if time or 
+ energy is limited: first 3 main lifts\, then leave.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260627@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Controlled Hill Sprints + Mobility
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: sprint\nRun volume: 3 km\nAdjustments:\n- Adjusted for schedule c
+ onstraints.\nPlan:\n- Warm-up jog: 3 km total including cooldown\, all ea
+ sy.\n- Dynamic drills: leg swings\, A-skips\, ankling\, high knees\, and 
+ 3 relaxed strides.\n- Hill sprints: 4 x 10-12 sec uphill at powerful but 
+ controlled effort\; full walk-back recovery.\n- Stop the sprint set if me
+ chanics get sloppy or knees feel sharp.\n- Accessory option: farmer carri
+ es 4 x 30-40 m and ab wheel 3 x 6-10.\n- Fueling: have carbs before the s
+ ession and hydrate with electrolytes if sleep was poor.\n- Keep this sess
+ ion flexible: reduce volume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260628@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Easy Longer Aerobic Run
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: long_run\nRun volume: 8 km\nAdjustments:\n- Adjusted for schedule
+  constraints.\nPlan:\n- Easy longer run: 8 km at conversational effort\, 
+ roughly 5:15-5:55/km.\n- This is not a race. Keep the final 2 km controll
+ ed unless recovery feels excellent.\n- Post-run: protein plus a large car
+ b meal within 2 hours.\n- Mobility: calves\, quads\, hip flexors\, and ge
+ ntle knee-friendly range work.\n- Fueling: eat carbs the night before and
+  before the run\; add electrolytes if warm.\n- Keep this session flexible
+ : reduce volume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260629@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Upper Strength + Fueling Focus
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 5-8 min easy bike or incline walk\, band pull
+ -aparts\, scap push-ups\, and 2-3 bench ramp sets.\n- Bench press: 4 x 4-
+ 6 at a conservative post-marathon load\; stop with 1-2 reps in reserve.\n
+ - Incline dumbbell press: 3 x 8-10.\n- Seated dumbbell shoulder press: 3 
+ x 6-10.\n- Cable fly or pec deck: 2-3 x 12-15.\n- Lateral raises: 4 x 12-
+ 20.\n- Triceps pushdown: 3 x 10-15.\n- Overhead triceps extension: 2 x 12
+ -15.\n- Fueling: keep carbs high at lunch and include a carb-focused pre-
+ gym meal 2-3 hours before training.\n- Keep this session flexible: reduce
+  volume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260630@training-calendar
+DTSTAMP:20260519T074603Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Macros: 3250 kcal\, 160 g protein\, 445 g carbs\, 90 g fat\nCa
+ tegory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for schedule cons
+ traints.\nPlan:\n- Warm-up: 8-10 min bike\, ankle rocks\, hip airplanes\,
+  bodyweight squats\, and light sled or leg extension if available.\n- Hac
+ k squat: 2-3 x 6-10\, smooth depth and no grinding.\n- Leg press: 2 x 8-1
+ 2.\n- Romanian deadlift: 2-3 x 6-8.\n- Bulgarian split squat: 2-3 x 8-10 
+ per leg\, controlled tempo.\n- Leg curl: 3 x 10-15.\n- Calf raises: 4 x 1
+ 0-20.\n- Tibialis raises: 3 x 15-25.\n- Squat skill: goblet squat 3 x 8 p
+ lus pause bodyweight squat 2 x 8.\n- Fueling: add a salty carb source pre
+ -lift\; this is not a low-carb day.\n- Keep this session flexible: reduce
+  volume by 25-40% before adding intensity.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

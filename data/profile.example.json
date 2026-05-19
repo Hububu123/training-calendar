@@ -1,0 +1,54 @@
+{
+  "name": "Hubert",
+  "age": 24,
+  "sex": "male",
+  "height_cm": 191,
+  "bodyweight_kg": 75,
+  "timezone": "Europe/Copenhagen",
+  "goals": [
+    "gain muscle and strength",
+    "look more athletic",
+    "maintain cardiovascular fitness",
+    "build controlled explosiveness"
+  ],
+  "training_context": {
+    "recent_marathon": true,
+    "marathon_recovery_status": "mostly recovered",
+    "first_month_emphasis": "growth-biased hybrid",
+    "weekly_running_volume_target_km": [20, 25],
+    "gym_session_target_minutes": [70, 80]
+  },
+  "current_performance": {
+    "bench_kg": 90,
+    "leg_press_kg": 180,
+    "hack_squat_kg": 70,
+    "romanian_deadlift_kg": 90,
+    "pullups_reps": 10,
+    "five_k_time": "21:00",
+    "ten_k_time": "42:00"
+  },
+  "constraints": {
+    "squat_technique_needs_work": true,
+    "knees_need_progressive_strength": true,
+    "sleep_can_be_poor": true,
+    "underfueling_risk": true
+  },
+  "nutrition": {
+    "daily_calories": 3250,
+    "protein_g": 160,
+    "carbs_g": 445,
+    "fat_g": 90,
+    "foods_preferred": [
+      "eggs",
+      "rye bread",
+      "fruit",
+      "chicken",
+      "potatoes",
+      "pasta bolognese",
+      "oven salmon"
+    ],
+    "foods_avoided": ["cheese"],
+    "meal_template_mode": "macro targets plus timing"
+  }
+}
+

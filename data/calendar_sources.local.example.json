@@ -1,0 +1,9 @@
+{
+  "calendars": [
+    {
+      "name": "Example Calendar",
+      "url": "webcal://example.com/published/calendar.ics"
+    }
+  ]
+}
+
