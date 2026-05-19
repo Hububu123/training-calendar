@@ -97,6 +97,12 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("farmer", description)
         self.assertIn("easy run", description)
 
+    def test_workouts_stay_concise_enough_for_efficient_sessions(self):
+        plan = build_month_plan("2026-06", PROFILE, {})
+
+        self.assertTrue(all(len(day.description) <= 6 for day in plan.days))
+        self.assertTrue(all(any("45-60 min" in line for line in day.description) for day in plan.days if day.category == "gym"))
+
 
 if __name__ == "__main__":
     unittest.main()

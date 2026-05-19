@@ -16,7 +16,7 @@
     "marathon_recovery_status": "mostly recovered",
     "first_month_emphasis": "growth-biased hybrid",
     "weekly_running_volume_target_km": [20, 25],
-    "gym_session_target_minutes": [70, 80]
+    "gym_session_target_minutes": [45, 60]
   },
   "current_performance": {
     "bench_kg": 90,
@@ -51,4 +51,3 @@
     "meal_template_mode": "macro targets plus timing"
   }
 }
-

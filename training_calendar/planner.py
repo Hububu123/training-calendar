@@ -100,14 +100,12 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 5-8 min easy bike, band pull-aparts, scap push-ups, dead hangs, and 2-3 bench ramp sets.",
-                f"Bench press: {strength_sets} x 4-6 with 1-2 reps in reserve.",
-                "Pull-ups: 4 x 4-8; add load only if clean.",
-                "Incline dumbbell press: 3 x 8-10.",
-                "Chest-supported row: 3 x 8-12.",
-                "Push-ups or dips: 2-3 x near-technical failure.",
-                "Farmer carries: 4 x 30-40 m, heavy but posture clean.",
-                "Fueling: keep lunch carb-heavy and eat chicken/potatoes, pasta, or rye bread 2-3 hours before lifting.",
+                "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
+                "Time cap: 45-60 min; stop after the listed work and leave 1-2 reps in reserve.",
+                f"Bench press: {strength_sets} x 4-6.",
+                "Pull-ups: 4 x 4-8 paired with chest-supported row 3 x 8-12.",
+                "Incline dumbbell press: 2-3 x 8-10 paired with push-ups or dips 2 x clean reps.",
+                "Farmer carries: 3 x 30-40 m.",
             ),
         ),
         2: PlanDay(
@@ -117,14 +115,12 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and tibialis raises.",
-                f"Hack squat or goblet squat: {strength_sets} x 6-10, smooth depth and no grinding.",
+                "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and tibialis raises.",
+                "Time cap: 45-60 min; prioritize clean knee tracking over load.",
+                f"Hack squat or goblet squat: {strength_sets} x 6-10.",
                 f"Romanian deadlift: {strength_sets} x 6-8.",
-                "Split squat or step-up: 3 x 8-10 per leg, controlled knee tracking.",
-                "Leg curl: 3 x 10-15.",
-                "Calf raises: 4 x 10-20.",
-                "Tibialis raises: 3 x 15-25.",
-                "Recovery: stop lower-body work if knee discomfort climbs during the session.",
+                "Split squat or step-up: 3 x 8-10 per leg paired with leg curl 3 x 10-15.",
+                "Calf raises plus tibialis raises: 3 x 12-20 each.",
             ),
         ),
         3: PlanDay(
@@ -147,14 +143,12 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 5 min easy cardio, shoulder circles, light rows, scap pull-ups, and pressing ramp sets.",
-                "Pull-ups: 5 x 4-8 or density sets until 25-35 quality reps.",
-                "Dips or push-ups: 4 x 8-15.",
-                "One-arm dumbbell row or inverted row: 4 x 8-12.",
-                "Incline dumbbell press: 3 x 8-12.",
-                "Lateral raises: 3 x 15-20.",
-                "Hanging leg raises: 3 x 6-12.",
-                "Fueling: dinner should include protein plus a large carb portion after training.",
+                "Warm-up: 5 min easy cardio, shoulder circles, light rows, and scap pull-ups.",
+                "Time cap: 45-60 min; use density without turning this into junk volume.",
+                "Pull-ups: 5 x 4-8 or 20-30 total quality reps.",
+                "Dips or push-ups: 3 x 8-15.",
+                "One-arm dumbbell row or inverted row: 3 x 8-12 paired with incline dumbbell press 2-3 x 8-12.",
+                "Lateral raises plus hanging leg raises: 2-3 sets each.",
             ),
         ),
         5: PlanDay(
@@ -164,14 +158,12 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 8 min bike, dynamic hamstrings, glute bridges, ankle mobility, and light hinge ramp sets.",
+                "Warm-up: 7-8 min bike, glute bridges, ankle mobility, and light hinge ramp sets.",
+                "Time cap: 45-60 min; posterior chain stimulus without chasing fatigue.",
                 f"Romanian deadlift: {strength_sets} x 6-8.",
-                "Hip thrust or glute bridge: 3 x 8-12.",
-                "Front-foot elevated split squat: 3 x 8-10 per leg.",
-                "Back extension: 2-3 x 10-15.",
-                "Farmer carries: 4 x 30-40 m.",
-                "Pallof press: 3 x 10-12 per side.",
-                "Recovery: keep 1-2 reps in reserve if the evening may run late.",
+                "Hip thrust or glute bridge: 3 x 8-12 paired with front-foot elevated split squat 2-3 x 8-10.",
+                "Farmer carries: 3 x 30-40 m.",
+                "Pallof press or side plank: 2-3 sets.",
             ),
         ),
         6: PlanDay(
@@ -209,14 +201,12 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 8 min easy cardio, squat-to-stand, band rows, push-ups, and two hinge ramp sets.",
+                "Warm-up: 7 min easy cardio, squat-to-stand, band rows, push-ups, and hinge ramp sets.",
+                "Time cap: 45-60 min; full-body strength without accessory sprawl.",
                 f"Incline press or bench press: {volume} x 6-8.",
                 f"Trap-bar deadlift, Romanian deadlift, or heavy hinge: {volume} x 5-6.",
-                "Pull-ups or chest-supported rows: 4 x 6-10.",
-                "Goblet squat: 3 x 8-12 with clean knee tracking.",
+                "Pull-ups or chest-supported rows: 3-4 x 6-10 paired with goblet squat 3 x 8-12.",
                 "Farmer carries: 3 x 40 m.",
-                "Optional: curls and triceps pressdowns 2 x 12-15 each.",
-                "Fueling: keep this as a full-calorie day even if training starts late.",
             ),
         ),
         9: PlanDay(
@@ -239,14 +229,12 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 8-10 min bike, split squat isometric holds, ankle rocks, and light hinge ramp sets.",
-                "Bulgarian split squat or step-up: 4 x 6-10 per leg.",
-                "Romanian deadlift: 3 x 8.",
-                "Leg curl: 3 x 10-15.",
-                "Walking lunges: 2-3 x 12 steps per leg.",
-                "Calf raises: 4 x 12-20.",
-                "Copenhagen plank: 2 x 20-30 sec per side.",
-                "Recovery: keep tempo controlled rather than chasing load.",
+                "Warm-up: 7-8 min bike, split squat isometric holds, ankle rocks, and hinge ramp sets.",
+                "Time cap: 45-60 min; tempo controlled rather than chasing load.",
+                "Bulgarian split squat or step-up: 3-4 x 6-10 per leg.",
+                "Romanian deadlift: 3 x 8 paired with leg curl 3 x 10-15.",
+                "Walking lunges: 2 x 12 steps per leg.",
+                "Calf raises plus Copenhagen plank: 2-3 sets each.",
             ),
         ),
         11: PlanDay(
@@ -257,11 +245,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
+                "Time cap: 45-60 min including the short easy run.",
                 "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises.",
                 "Easy run: 4 km conversational immediately after or in the morning.",
                 "Carry finisher: suitcase carry 3 x 30 m per side.",
-                "Optional: lateral raises and curls 2 x 15-20 each.",
-                "Fueling: add carbs around both the run and the gym block.",
+                "Optional: lateral raises or curls 2 x 15-20 if time remains.",
             ),
         ),
         12: PlanDay(
@@ -375,10 +363,33 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
         )
     elif conflict and "work" in current_flags and conflict.work_minutes >= 510 and category == "gym":
         adjustments.append("Shortened for schedule constraints.")
-        description.append("Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave.")
+        if any(line.startswith("Time cap:") for line in description):
+            description = [
+                "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited."
+                if line.startswith("Time cap:")
+                else line
+                for line in description
+            ]
+        else:
+            description.append("Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave.")
     elif current_flags & {"travel", "exam"} and category in {"gym", "sprint", "long_run"}:
         adjustments.append("Adjusted for schedule constraints.")
-        description.append("Keep this session flexible: reduce volume by 25-40% before adding intensity.")
+        if any(line.startswith("Time cap:") for line in description):
+            description = [
+                f"{line} Reduce volume by 25-40% before adding intensity."
+                if line.startswith("Time cap:")
+                else line
+                for line in description
+            ]
+        elif any(line.startswith("Recovery:") for line in description):
+            description = [
+                f"{line} Reduce volume by 25-40% before adding intensity."
+                if line.startswith("Recovery:")
+                else line
+                for line in description
+            ]
+        else:
+            description.append("Keep this session flexible: reduce volume by 25-40% before adding intensity.")
 
     if adjustments:
         # Preserve insertion order while preventing repeated generic notes.

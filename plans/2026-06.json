@@ -4,7 +4,7 @@
   "days": [
     {
       "date": "2026-06-01",
-      "title": "Upper Strength + Fueling Focus",
+      "title": "Upper Strength + Calisthenics Pull",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -14,16 +14,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 5-8 min easy bike or incline walk, band pull-aparts, scap push-ups, and 2-3 bench ramp sets.",
-        "Bench press: 4 x 4-6 at a conservative post-marathon load; stop with 1-2 reps in reserve.",
-        "Incline dumbbell press: 3 x 8-10.",
-        "Seated dumbbell shoulder press: 3 x 6-10.",
-        "Cable fly or pec deck: 2-3 x 12-15.",
-        "Lateral raises: 4 x 12-20.",
-        "Triceps pushdown: 3 x 10-15.",
-        "Overhead triceps extension: 2 x 12-15.",
-        "Fueling: keep carbs high at lunch and include a carb-focused pre-gym meal 2-3 hours before training.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
+        "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
+        "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited.",
+        "Bench press: 4 x 4-6.",
+        "Pull-ups: 4 x 4-8 paired with chest-supported row 3 x 8-12.",
+        "Incline dumbbell press: 2-3 x 8-10 paired with push-ups or dips 2 x clean reps.",
+        "Farmer carries: 3 x 30-40 m."
       ],
       "adjustments": [
         "Shortened for schedule constraints."
@@ -41,17 +37,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and light sled or leg extension if available.",
-        "Hack squat: 4 x 6-10, smooth depth and no grinding.",
-        "Leg press: 3 x 8-12.",
+        "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and tibialis raises.",
+        "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited.",
+        "Hack squat or goblet squat: 4 x 6-10.",
         "Romanian deadlift: 4 x 6-8.",
-        "Bulgarian split squat: 2-3 x 8-10 per leg, controlled tempo.",
-        "Leg curl: 3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Tibialis raises: 3 x 15-25.",
-        "Squat skill: goblet squat 3 x 8 plus pause bodyweight squat 2 x 8.",
-        "Fueling: add a salty carb source pre-lift; this is not a low-carb day.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
+        "Split squat or step-up: 3 x 8-10 per leg paired with leg curl 3 x 10-15.",
+        "Calf raises plus tibialis raises: 3 x 12-20 each."
       ],
       "adjustments": [
         "Shortened for schedule constraints."
@@ -69,16 +60,98 @@
         "fat_g": 90
       },
       "description": [
-        "Easy run: 5 km at conversational effort, roughly 5:30-6:10/km.",
-        "Keep cadence light and stop if knees feel worse as the run continues.",
-        "Mobility: 8-10 min hips, quads, calves, ankles.",
-        "Fueling: do not run fasted if you feel flat; fruit or bread plus caffeine is enough before an easy morning run."
+        "Easy run: 5 km at conversational effort; cadence light and relaxed.",
+        "Mobility: 8-10 min hips, quads, calves, and ankles.",
+        "Optional: 20-30 min walk later if knees feel normal.",
+        "Fueling: fruit or rye bread plus caffeine is enough before a short morning run."
       ],
       "adjustments": []
     },
     {
       "date": "2026-06-04",
-      "title": "Upper Hypertrophy + Arms/Delts",
+      "title": "Recovery / Maintenance Day",
+      "category": "maintenance",
+      "run_km": 0,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Keep training conservative because the private calendar review found a high-risk schedule constraint.",
+        "Main work: 30-60 min walk or easy bike, then 10-12 min mobility.",
+        "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
+        "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals."
+      ],
+      "adjustments": [
+        "Adjusted for high-risk schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Recovery Day After High-Risk Schedule",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "No heavy lower body or hard running today.",
+        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
+        "Optional: light upper accessories only if energy is clearly good."
+      ],
+      "adjustments": [
+        "Adjusted after high-risk schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Recovery Day After High-Risk Schedule",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "No sprinting today.",
+        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
+        "If energy is good later, add light upper accessories only: rows 2 x 12, lateral raises 2 x 20, curls 2 x 15.",
+        "Macro target stays the same; prioritize fluids and carbohydrates early."
+      ],
+      "adjustments": [
+        "Sprint moved away from a high-risk day."
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Recovery Day After High-Risk Schedule",
+      "category": "recovery",
+      "run_km": 3,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "No heavy lower body or hard running today.",
+        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
+        "Optional: light upper accessories only if energy is clearly good."
+      ],
+      "adjustments": [
+        "Adjusted after high-risk schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Full-Body Athletic Strength",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -88,26 +161,39 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 5 min easy cardio, shoulder circles, light rows, and two easy pressing ramp sets.",
-        "Weighted pull-ups or bodyweight pull-ups: 4 x 5-8.",
-        "Chest-supported row or barbell row: 4 x 6-10.",
-        "Incline dumbbell press: 3 x 8-12.",
-        "Lat pulldown: 3 x 8-12.",
-        "Cable row: 3 x 10-12.",
-        "Rear delt fly: 3 x 15-20.",
-        "Lateral raises: 3 x 15-20.",
-        "Curls superset triceps pressdown: 3 x 10-15 each.",
-        "Core: Pallof press 3 x 10-12 per side.",
-        "Fueling: dinner should include protein plus a large carb portion after training.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
+        "Warm-up: 7 min easy cardio, squat-to-stand, band rows, push-ups, and hinge ramp sets.",
+        "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited.",
+        "Incline press or bench press: 3-4 x 6-8.",
+        "Trap-bar deadlift, Romanian deadlift, or heavy hinge: 3-4 x 5-6.",
+        "Pull-ups or chest-supported rows: 3-4 x 6-10 paired with goblet squat 3 x 8-12.",
+        "Farmer carries: 3 x 40 m."
       ],
       "adjustments": [
         "Shortened for schedule constraints."
       ]
     },
     {
-      "date": "2026-06-05",
-      "title": "Lower Posterior Chain + Squat Skill",
+      "date": "2026-06-09",
+      "title": "Easy Run + Relaxed Strides",
+      "category": "easy_run",
+      "run_km": 6,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Easy run: 6 km conversational.",
+        "Strides: 4 x 15 sec relaxed on flat ground only if knees feel normal.",
+        "Mobility: 8 min calves, quads, glutes, and ankles.",
+        "Fueling: small carb snack before morning running if sleep was poor."
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Lower Unilateral + Posterior Chain",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -117,21 +203,63 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 8 min bike, dynamic hamstrings, glute bridges, ankle mobility, and light hinge ramp sets.",
-        "Romanian deadlift: 4 x 6-8.",
-        "Hip thrust or glute bridge: 3 x 8-12.",
-        "Front-foot elevated split squat: 3 x 8-10 per leg, knee tracking cleanly.",
-        "Seated or lying leg curl: 3 x 10-15.",
-        "Back extension: 2-3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Squat skill: goblet squat 3 x 8, slow eccentric and stable foot pressure.",
-        "If social plans or alcohol are likely, train earlier and keep 1-2 reps in reserve."
+        "Warm-up: 7-8 min bike, split squat isometric holds, ankle rocks, and hinge ramp sets.",
+        "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited.",
+        "Bulgarian split squat or step-up: 3-4 x 6-10 per leg.",
+        "Romanian deadlift: 3 x 8 paired with leg curl 3 x 10-15.",
+        "Walking lunges: 2 x 12 steps per leg.",
+        "Calf raises plus Copenhagen plank: 2-3 sets each."
+      ],
+      "adjustments": [
+        "Shortened for schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Calisthenics Density + Zone 2",
+      "category": "gym",
+      "run_km": 4,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
+        "Time cap: 45-60 min including the short easy run. Reduce volume by 25-40% before adding intensity.",
+        "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises.",
+        "Easy run: 4 km conversational immediately after or in the morning.",
+        "Carry finisher: suitcase carry 3 x 30 m per side.",
+        "Optional: lateral raises or curls 2 x 15-20 if time remains."
+      ],
+      "adjustments": [
+        "Adjusted for schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Recovery + Mobility Capacity",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Recovery: 30-60 min walk or easy bike.",
+        "Mobility: hips, ankles, thoracic spine, calves, and quads for 12-15 min.",
+        "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec.",
+        "Optional: light crawling or plank variations for 5 min.",
+        "Fueling: keep protein at target and do not under-eat on the recovery day."
       ],
       "adjustments": []
     },
     {
-      "date": "2026-06-06",
-      "title": "Controlled Hill Sprints + Mobility",
+      "date": "2026-06-13",
+      "title": "Plyometrics + Functional Power",
       "category": "sprint",
       "run_km": 3,
       "macros": {
@@ -141,184 +269,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up jog: 3 km total including cooldown, all easy.",
-        "Dynamic drills: leg swings, A-skips, ankling, high knees, and 3 relaxed strides.",
-        "Hill sprints: 6 x 10-12 sec uphill at powerful but controlled effort; full walk-back recovery.",
-        "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
-        "Accessory option: farmer carries 4 x 30-40 m and ab wheel 3 x 6-10.",
-        "Fueling: have carbs before the session and hydrate with electrolytes if sleep was poor."
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-06-07",
-      "title": "Easy Longer Aerobic Run",
-      "category": "long_run",
-      "run_km": 10,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Easy longer run: 10 km at conversational effort, roughly 5:15-5:55/km.",
-        "This is not a race. Keep the final 2 km controlled unless recovery feels excellent.",
-        "Post-run: protein plus a large carb meal within 2 hours.",
-        "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
-        "Fueling: eat carbs the night before and before the run; add electrolytes if warm."
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-06-08",
-      "title": "Upper Strength + Fueling Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 5-8 min easy bike or incline walk, band pull-aparts, scap push-ups, and 2-3 bench ramp sets.",
-        "Bench press: 4 x 4-6 at a conservative post-marathon load; stop with 1-2 reps in reserve.",
-        "Incline dumbbell press: 3 x 8-10.",
-        "Seated dumbbell shoulder press: 3 x 6-10.",
-        "Cable fly or pec deck: 2-3 x 12-15.",
-        "Lateral raises: 4 x 12-20.",
-        "Triceps pushdown: 3 x 10-15.",
-        "Overhead triceps extension: 2 x 12-15.",
-        "Fueling: keep carbs high at lunch and include a carb-focused pre-gym meal 2-3 hours before training.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
-      ],
-      "adjustments": [
-        "Shortened for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "title": "Lower Strength + Knee Capacity",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and light sled or leg extension if available.",
-        "Hack squat: 4 x 6-10, smooth depth and no grinding.",
-        "Leg press: 3 x 8-12.",
-        "Romanian deadlift: 4 x 6-8.",
-        "Bulgarian split squat: 2-3 x 8-10 per leg, controlled tempo.",
-        "Leg curl: 3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Tibialis raises: 3 x 15-25.",
-        "Squat skill: goblet squat 3 x 8 plus pause bodyweight squat 2 x 8.",
-        "Fueling: add a salty carb source pre-lift; this is not a low-carb day.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
-      ],
-      "adjustments": [
-        "Shortened for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Recovery + Easy Zone 2",
-      "category": "easy_run",
-      "run_km": 5,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Easy run: 5 km at conversational effort, roughly 5:30-6:10/km.",
-        "Keep cadence light and stop if knees feel worse as the run continues.",
-        "Mobility: 8-10 min hips, quads, calves, ankles.",
-        "Fueling: do not run fasted if you feel flat; fruit or bread plus caffeine is enough before an easy morning run."
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-06-11",
-      "title": "Upper Hypertrophy + Arms/Delts",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 5 min easy cardio, shoulder circles, light rows, and two easy pressing ramp sets.",
-        "Weighted pull-ups or bodyweight pull-ups: 4 x 5-8.",
-        "Chest-supported row or barbell row: 4 x 6-10.",
-        "Incline dumbbell press: 3 x 8-12.",
-        "Lat pulldown: 3 x 8-12.",
-        "Cable row: 3 x 10-12.",
-        "Rear delt fly: 3 x 15-20.",
-        "Lateral raises: 3 x 15-20.",
-        "Curls superset triceps pressdown: 3 x 10-15 each.",
-        "Core: Pallof press 3 x 10-12 per side.",
-        "Fueling: dinner should include protein plus a large carb portion after training.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
-      ],
-      "adjustments": [
-        "Adjusted for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "title": "Lower Posterior Chain + Squat Skill",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 8 min bike, dynamic hamstrings, glute bridges, ankle mobility, and light hinge ramp sets.",
-        "Romanian deadlift: 4 x 6-8.",
-        "Hip thrust or glute bridge: 3 x 8-12.",
-        "Front-foot elevated split squat: 3 x 8-10 per leg, knee tracking cleanly.",
-        "Seated or lying leg curl: 3 x 10-15.",
-        "Back extension: 2-3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Squat skill: goblet squat 3 x 8, slow eccentric and stable foot pressure.",
-        "If social plans or alcohol are likely, train earlier and keep 1-2 reps in reserve.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
-      ],
-      "adjustments": [
-        "Adjusted for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-13",
-      "title": "Controlled Hill Sprints + Mobility",
-      "category": "sprint",
-      "run_km": 4,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up jog: 4 km total including cooldown, all easy.",
-        "Dynamic drills: leg swings, A-skips, ankling, high knees, and 3 relaxed strides.",
-        "Hill sprints: 7 x 10-12 sec uphill at powerful but controlled effort; full walk-back recovery.",
-        "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
-        "Accessory option: farmer carries 4 x 30-40 m and ab wheel 3 x 6-10.",
-        "Fueling: have carbs before the session and hydrate with electrolytes if sleep was poor.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Warm-up jog: 10 min easy plus skips, ankling, hip openers, and 3 relaxed strides.",
+        "Plyometrics: pogos 3 x 20 sec, low broad jumps 4 x 2, and med-ball slams 4 x 5 if available.",
+        "Hill sprint technique: 4-6 x 8-10 sec at fast but controlled effort.",
+        "Functional work: sled push if easy to set up or farmer carries 4 x 30 m.",
+        "Core: crawling 3 x 20 m or dead bug 3 x 8 per side.",
+        "Recovery: stop at the first sign of knee irritation or sloppy contacts. Reduce volume by 25-40% before adding intensity."
       ],
       "adjustments": [
         "Adjusted for schedule constraints."
@@ -326,9 +282,9 @@
     },
     {
       "date": "2026-06-14",
-      "title": "Easy Longer Aerobic Run",
+      "title": "Aerobic Base + Reset",
       "category": "long_run",
-      "run_km": 11,
+      "run_km": 9,
       "macros": {
         "calories": 3250,
         "protein_g": 160,
@@ -336,12 +292,10 @@
         "fat_g": 90
       },
       "description": [
-        "Easy longer run: 11 km at conversational effort, roughly 5:15-5:55/km.",
-        "This is not a race. Keep the final 2 km controlled unless recovery feels excellent.",
-        "Post-run: protein plus a large carb meal within 2 hours.",
-        "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
-        "Fueling: eat carbs the night before and before the run; add electrolytes if warm.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Easy run: 9 km conversational; shorten to 6 km if sleep or knees are poor.",
+        "Optional: 4 x 20 sec relaxed strides only if the week felt easy.",
+        "Recovery: long mobility reset for calves, quads, hips, and feet. Reduce volume by 25-40% before adding intensity.",
+        "Fueling: carbs before and after; keep this aerobic, not competitive."
       ],
       "adjustments": [
         "Adjusted for schedule constraints."
@@ -349,7 +303,7 @@
     },
     {
       "date": "2026-06-15",
-      "title": "Upper Strength + Fueling Focus",
+      "title": "Upper Strength + Calisthenics Pull",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -359,16 +313,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 5-8 min easy bike or incline walk, band pull-aparts, scap push-ups, and 2-3 bench ramp sets.",
-        "Bench press: 4 x 4-6 at a conservative post-marathon load; stop with 1-2 reps in reserve.",
-        "Incline dumbbell press: 3 x 8-10.",
-        "Seated dumbbell shoulder press: 3 x 6-10.",
-        "Cable fly or pec deck: 2-3 x 12-15.",
-        "Lateral raises: 4 x 12-20.",
-        "Triceps pushdown: 3 x 10-15.",
-        "Overhead triceps extension: 2 x 12-15.",
-        "Fueling: keep carbs high at lunch and include a carb-focused pre-gym meal 2-3 hours before training.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
+        "Time cap: 45-60 min; stop after the listed work and leave 1-2 reps in reserve. Reduce volume by 25-40% before adding intensity.",
+        "Bench press: 4 x 4-6.",
+        "Pull-ups: 4 x 4-8 paired with chest-supported row 3 x 8-12.",
+        "Incline dumbbell press: 2-3 x 8-10 paired with push-ups or dips 2 x clean reps.",
+        "Farmer carries: 3 x 30-40 m."
       ],
       "adjustments": [
         "Adjusted for schedule constraints."
@@ -386,17 +336,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and light sled or leg extension if available.",
-        "Hack squat: 4 x 6-10, smooth depth and no grinding.",
-        "Leg press: 3 x 8-12.",
+        "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and tibialis raises.",
+        "Time cap: 45-60 min; prioritize clean knee tracking over load. Reduce volume by 25-40% before adding intensity.",
+        "Hack squat or goblet squat: 4 x 6-10.",
         "Romanian deadlift: 4 x 6-8.",
-        "Bulgarian split squat: 2-3 x 8-10 per leg, controlled tempo.",
-        "Leg curl: 3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Tibialis raises: 3 x 15-25.",
-        "Squat skill: goblet squat 3 x 8 plus pause bodyweight squat 2 x 8.",
-        "Fueling: add a salty carb source pre-lift; this is not a low-carb day.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Split squat or step-up: 3 x 8-10 per leg paired with leg curl 3 x 10-15.",
+        "Calf raises plus tibialis raises: 3 x 12-20 each."
       ],
       "adjustments": [
         "Adjusted for schedule constraints."
@@ -406,7 +351,7 @@
       "date": "2026-06-17",
       "title": "Recovery + Easy Zone 2",
       "category": "easy_run",
-      "run_km": 6,
+      "run_km": 5,
       "macros": {
         "calories": 3250,
         "protein_g": 160,
@@ -414,16 +359,16 @@
         "fat_g": 90
       },
       "description": [
-        "Easy run: 6 km at conversational effort, roughly 5:30-6:10/km.",
-        "Keep cadence light and stop if knees feel worse as the run continues.",
-        "Mobility: 8-10 min hips, quads, calves, ankles.",
-        "Fueling: do not run fasted if you feel flat; fruit or bread plus caffeine is enough before an easy morning run."
+        "Easy run: 5 km at conversational effort; cadence light and relaxed.",
+        "Mobility: 8-10 min hips, quads, calves, and ankles.",
+        "Optional: 20-30 min walk later if knees feel normal.",
+        "Fueling: fruit or rye bread plus caffeine is enough before a short morning run."
       ],
       "adjustments": []
     },
     {
       "date": "2026-06-18",
-      "title": "Upper Hypertrophy + Arms/Delts",
+      "title": "Upper Calisthenics + Hypertrophy",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -433,18 +378,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 5 min easy cardio, shoulder circles, light rows, and two easy pressing ramp sets.",
-        "Weighted pull-ups or bodyweight pull-ups: 4 x 5-8.",
-        "Chest-supported row or barbell row: 4 x 6-10.",
-        "Incline dumbbell press: 3 x 8-12.",
-        "Lat pulldown: 3 x 8-12.",
-        "Cable row: 3 x 10-12.",
-        "Rear delt fly: 3 x 15-20.",
-        "Lateral raises: 3 x 15-20.",
-        "Curls superset triceps pressdown: 3 x 10-15 each.",
-        "Core: Pallof press 3 x 10-12 per side.",
-        "Fueling: dinner should include protein plus a large carb portion after training.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Warm-up: 5 min easy cardio, shoulder circles, light rows, and scap pull-ups.",
+        "Time cap: 45-60 min; use density without turning this into junk volume. Reduce volume by 25-40% before adding intensity.",
+        "Pull-ups: 5 x 4-8 or 20-30 total quality reps.",
+        "Dips or push-ups: 3 x 8-15.",
+        "One-arm dumbbell row or inverted row: 3 x 8-12 paired with incline dumbbell press 2-3 x 8-12.",
+        "Lateral raises plus hanging leg raises: 2-3 sets each."
       ],
       "adjustments": [
         "Adjusted for schedule constraints."
@@ -452,7 +391,7 @@
     },
     {
       "date": "2026-06-19",
-      "title": "Lower Posterior Chain + Squat Skill",
+      "title": "Posterior Chain + Functional Carries",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -462,16 +401,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 8 min bike, dynamic hamstrings, glute bridges, ankle mobility, and light hinge ramp sets.",
+        "Warm-up: 7-8 min bike, glute bridges, ankle mobility, and light hinge ramp sets.",
+        "Time cap: 45-60 min; posterior chain stimulus without chasing fatigue. Reduce volume by 25-40% before adding intensity.",
         "Romanian deadlift: 4 x 6-8.",
-        "Hip thrust or glute bridge: 3 x 8-12.",
-        "Front-foot elevated split squat: 3 x 8-10 per leg, knee tracking cleanly.",
-        "Seated or lying leg curl: 3 x 10-15.",
-        "Back extension: 2-3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Squat skill: goblet squat 3 x 8, slow eccentric and stable foot pressure.",
-        "If social plans or alcohol are likely, train earlier and keep 1-2 reps in reserve.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Hip thrust or glute bridge: 3 x 8-12 paired with front-foot elevated split squat 2-3 x 8-10.",
+        "Farmer carries: 3 x 30-40 m.",
+        "Pallof press or side plank: 2-3 sets."
       ],
       "adjustments": [
         "Adjusted for schedule constraints."
@@ -479,179 +414,8 @@
     },
     {
       "date": "2026-06-20",
-      "title": "Controlled Hill Sprints + Mobility",
-      "category": "sprint",
-      "run_km": 4,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up jog: 4 km total including cooldown, all easy.",
-        "Dynamic drills: leg swings, A-skips, ankling, high knees, and 3 relaxed strides.",
-        "Hill sprints: 8 x 10-12 sec uphill at powerful but controlled effort; full walk-back recovery.",
-        "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
-        "Accessory option: farmer carries 4 x 30-40 m and ab wheel 3 x 6-10.",
-        "Fueling: have carbs before the session and hydrate with electrolytes if sleep was poor."
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Easy Longer Aerobic Run",
-      "category": "long_run",
-      "run_km": 12,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Easy longer run: 12 km at conversational effort, roughly 5:15-5:55/km.",
-        "This is not a race. Keep the final 2 km controlled unless recovery feels excellent.",
-        "Post-run: protein plus a large carb meal within 2 hours.",
-        "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
-        "Fueling: eat carbs the night before and before the run; add electrolytes if warm."
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Upper Strength + Fueling Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 5-8 min easy bike or incline walk, band pull-aparts, scap push-ups, and 2-3 bench ramp sets.",
-        "Bench press: 4 x 4-6 at a conservative post-marathon load; stop with 1-2 reps in reserve.",
-        "Incline dumbbell press: 3 x 8-10.",
-        "Seated dumbbell shoulder press: 3 x 6-10.",
-        "Cable fly or pec deck: 2-3 x 12-15.",
-        "Lateral raises: 4 x 12-20.",
-        "Triceps pushdown: 3 x 10-15.",
-        "Overhead triceps extension: 2 x 12-15.",
-        "Fueling: keep carbs high at lunch and include a carb-focused pre-gym meal 2-3 hours before training.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
-      ],
-      "adjustments": [
-        "Shortened for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Lower Strength + Knee Capacity",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and light sled or leg extension if available.",
-        "Hack squat: 2-3 x 6-10, smooth depth and no grinding.",
-        "Leg press: 2 x 8-12.",
-        "Romanian deadlift: 2-3 x 6-8.",
-        "Bulgarian split squat: 2-3 x 8-10 per leg, controlled tempo.",
-        "Leg curl: 3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Tibialis raises: 3 x 15-25.",
-        "Squat skill: goblet squat 3 x 8 plus pause bodyweight squat 2 x 8.",
-        "Fueling: add a salty carb source pre-lift; this is not a low-carb day.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
-      ],
-      "adjustments": [
-        "Shortened for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-24",
-      "title": "Recovery + Easy Zone 2",
-      "category": "easy_run",
-      "run_km": 4,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Easy run: 4 km at conversational effort, roughly 5:30-6:10/km.",
-        "Keep cadence light and stop if knees feel worse as the run continues.",
-        "Mobility: 8-10 min hips, quads, calves, ankles.",
-        "Fueling: do not run fasted if you feel flat; fruit or bread plus caffeine is enough before an easy morning run."
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-06-25",
-      "title": "Upper Hypertrophy + Arms/Delts",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 5 min easy cardio, shoulder circles, light rows, and two easy pressing ramp sets.",
-        "Weighted pull-ups or bodyweight pull-ups: 4 x 5-8.",
-        "Chest-supported row or barbell row: 4 x 6-10.",
-        "Incline dumbbell press: 3 x 8-12.",
-        "Lat pulldown: 3 x 8-12.",
-        "Cable row: 3 x 10-12.",
-        "Rear delt fly: 3 x 15-20.",
-        "Lateral raises: 3 x 15-20.",
-        "Curls superset triceps pressdown: 3 x 10-15 each.",
-        "Core: Pallof press 3 x 10-12 per side.",
-        "Fueling: dinner should include protein plus a large carb portion after training.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
-      ],
-      "adjustments": [
-        "Shortened for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-26",
-      "title": "Lower Posterior Chain + Squat Skill",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3250,
-        "protein_g": 160,
-        "carbs_g": 445,
-        "fat_g": 90
-      },
-      "description": [
-        "Warm-up: 8 min bike, dynamic hamstrings, glute bridges, ankle mobility, and light hinge ramp sets.",
-        "Romanian deadlift: 2-3 x 6-8.",
-        "Hip thrust or glute bridge: 3 x 8-12.",
-        "Front-foot elevated split squat: 3 x 8-10 per leg, knee tracking cleanly.",
-        "Seated or lying leg curl: 3 x 10-15.",
-        "Back extension: 2-3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Squat skill: goblet squat 3 x 8, slow eccentric and stable foot pressure.",
-        "If social plans or alcohol are likely, train earlier and keep 1-2 reps in reserve.",
-        "Use the minimum effective dose if time or energy is limited: first 3 main lifts, then leave."
-      ],
-      "adjustments": [
-        "Shortened for schedule constraints."
-      ]
-    },
-    {
-      "date": "2026-06-27",
-      "title": "Controlled Hill Sprints + Mobility",
-      "category": "sprint",
+      "title": "Recovery / Maintenance Day",
+      "category": "recovery",
       "run_km": 3,
       "macros": {
         "calories": 3250,
@@ -660,23 +424,169 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up jog: 3 km total including cooldown, all easy.",
-        "Dynamic drills: leg swings, A-skips, ankling, high knees, and 3 relaxed strides.",
-        "Hill sprints: 4 x 10-12 sec uphill at powerful but controlled effort; full walk-back recovery.",
-        "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
-        "Accessory option: farmer carries 4 x 30-40 m and ab wheel 3 x 6-10.",
-        "Fueling: have carbs before the session and hydrate with electrolytes if sleep was poor.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Keep training conservative because the private calendar review found a high-risk schedule constraint.",
+        "Main work: 30-60 min walk or easy bike, then 10-12 min mobility.",
+        "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
+        "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals."
       ],
       "adjustments": [
-        "Adjusted for schedule constraints."
+        "Adjusted for high-risk schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Recovery Day After High-Risk Schedule",
+      "category": "recovery",
+      "run_km": 3,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "No heavy lower body or hard running today.",
+        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
+        "Optional: light upper accessories only if energy is clearly good."
+      ],
+      "adjustments": [
+        "Adjusted after high-risk schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Full-Body Athletic Strength",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Warm-up: 7 min easy cardio, squat-to-stand, band rows, push-ups, and hinge ramp sets.",
+        "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited.",
+        "Incline press or bench press: 3-4 x 6-8.",
+        "Trap-bar deadlift, Romanian deadlift, or heavy hinge: 3-4 x 5-6.",
+        "Pull-ups or chest-supported rows: 3-4 x 6-10 paired with goblet squat 3 x 8-12.",
+        "Farmer carries: 3 x 40 m."
+      ],
+      "adjustments": [
+        "Shortened for schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Easy Run + Relaxed Strides",
+      "category": "easy_run",
+      "run_km": 6,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Easy run: 6 km conversational.",
+        "Strides: 4 x 15 sec relaxed on flat ground only if knees feel normal.",
+        "Mobility: 8 min calves, quads, glutes, and ankles.",
+        "Fueling: small carb snack before morning running if sleep was poor."
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Lower Unilateral + Posterior Chain",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Warm-up: 7-8 min bike, split squat isometric holds, ankle rocks, and hinge ramp sets.",
+        "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited.",
+        "Bulgarian split squat or step-up: 3-4 x 6-10 per leg.",
+        "Romanian deadlift: 3 x 8 paired with leg curl 3 x 10-15.",
+        "Walking lunges: 2 x 12 steps per leg.",
+        "Calf raises plus Copenhagen plank: 2-3 sets each."
+      ],
+      "adjustments": [
+        "Shortened for schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Calisthenics Density + Zone 2",
+      "category": "gym",
+      "run_km": 4,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
+        "Time cap: 45-60 min; use the minimum effective dose if time or energy is limited.",
+        "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises.",
+        "Easy run: 4 km conversational immediately after or in the morning.",
+        "Carry finisher: suitcase carry 3 x 30 m per side.",
+        "Optional: lateral raises or curls 2 x 15-20 if time remains."
+      ],
+      "adjustments": [
+        "Shortened for schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Recovery + Mobility Capacity",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Recovery: 30-60 min walk or easy bike.",
+        "Mobility: hips, ankles, thoracic spine, calves, and quads for 12-15 min.",
+        "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec.",
+        "Optional: light crawling or plank variations for 5 min.",
+        "Fueling: keep protein at target and do not under-eat on the recovery day."
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Recovery / Maintenance Day",
+      "category": "recovery",
+      "run_km": 3,
+      "macros": {
+        "calories": 3250,
+        "protein_g": 160,
+        "carbs_g": 445,
+        "fat_g": 90
+      },
+      "description": [
+        "Keep training conservative because the private calendar review found a high-risk schedule constraint.",
+        "Main work: 30-60 min walk or easy bike, then 10-12 min mobility.",
+        "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
+        "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals."
+      ],
+      "adjustments": [
+        "Adjusted for high-risk schedule constraints."
       ]
     },
     {
       "date": "2026-06-28",
-      "title": "Easy Longer Aerobic Run",
-      "category": "long_run",
-      "run_km": 8,
+      "title": "Recovery Day After High-Risk Schedule",
+      "category": "recovery",
+      "run_km": 3,
       "macros": {
         "calories": 3250,
         "protein_g": 160,
@@ -684,21 +594,18 @@
         "fat_g": 90
       },
       "description": [
-        "Easy longer run: 8 km at conversational effort, roughly 5:15-5:55/km.",
-        "This is not a race. Keep the final 2 km controlled unless recovery feels excellent.",
-        "Post-run: protein plus a large carb meal within 2 hours.",
-        "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
-        "Fueling: eat carbs the night before and before the run; add electrolytes if warm.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "No heavy lower body or hard running today.",
+        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
+        "Optional: light upper accessories only if energy is clearly good."
       ],
       "adjustments": [
-        "Adjusted for schedule constraints."
+        "Adjusted after high-risk schedule constraints."
       ]
     },
     {
       "date": "2026-06-29",
-      "title": "Upper Strength + Fueling Focus",
-      "category": "gym",
+      "title": "Recovery / Maintenance Day",
+      "category": "maintenance",
       "run_km": 0,
       "macros": {
         "calories": 3250,
@@ -707,25 +614,19 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 5-8 min easy bike or incline walk, band pull-aparts, scap push-ups, and 2-3 bench ramp sets.",
-        "Bench press: 4 x 4-6 at a conservative post-marathon load; stop with 1-2 reps in reserve.",
-        "Incline dumbbell press: 3 x 8-10.",
-        "Seated dumbbell shoulder press: 3 x 6-10.",
-        "Cable fly or pec deck: 2-3 x 12-15.",
-        "Lateral raises: 4 x 12-20.",
-        "Triceps pushdown: 3 x 10-15.",
-        "Overhead triceps extension: 2 x 12-15.",
-        "Fueling: keep carbs high at lunch and include a carb-focused pre-gym meal 2-3 hours before training.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "Keep training conservative because the private calendar review found a high-risk schedule constraint.",
+        "Main work: 30-60 min walk or easy bike, then 10-12 min mobility.",
+        "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
+        "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals."
       ],
       "adjustments": [
-        "Adjusted for schedule constraints."
+        "Adjusted for high-risk schedule constraints."
       ]
     },
     {
       "date": "2026-06-30",
-      "title": "Lower Strength + Knee Capacity",
-      "category": "gym",
+      "title": "Recovery Day After High-Risk Schedule",
+      "category": "recovery",
       "run_km": 0,
       "macros": {
         "calories": 3250,
@@ -734,20 +635,12 @@
         "fat_g": 90
       },
       "description": [
-        "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and light sled or leg extension if available.",
-        "Hack squat: 2-3 x 6-10, smooth depth and no grinding.",
-        "Leg press: 2 x 8-12.",
-        "Romanian deadlift: 2-3 x 6-8.",
-        "Bulgarian split squat: 2-3 x 8-10 per leg, controlled tempo.",
-        "Leg curl: 3 x 10-15.",
-        "Calf raises: 4 x 10-20.",
-        "Tibialis raises: 3 x 15-25.",
-        "Squat skill: goblet squat 3 x 8 plus pause bodyweight squat 2 x 8.",
-        "Fueling: add a salty carb source pre-lift; this is not a low-carb day.",
-        "Keep this session flexible: reduce volume by 25-40% before adding intensity."
+        "No heavy lower body or hard running today.",
+        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
+        "Optional: light upper accessories only if energy is clearly good."
       ],
       "adjustments": [
-        "Adjusted for schedule constraints."
+        "Adjusted after high-risk schedule constraints."
       ]
     }
   ]

@@ -150,6 +150,39 @@ class CalendarInputTests(unittest.TestCase):
         self.assertIn("late_night", analysis.day_conflicts[dt.date(2026, 6, 4)].flags)
         self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 4)].risk_level, "high")
 
+    def test_partial_review_answers_only_apply_to_selected_dates(self):
+        calendars = [
+            (
+                "BEGIN:VCALENDAR\n"
+                "X-WR-CALNAME:Stuff\n"
+                "BEGIN:VEVENT\n"
+                "UID:distortion\n"
+                "SUMMARY:Distortion\n"
+                "DTSTART;VALUE=DATE:20260603\n"
+                "DTEND;VALUE=DATE:20260608\n"
+                "END:VEVENT\n"
+                "END:VCALENDAR\n"
+            )
+        ]
+        initial = analyze_calendar_texts(calendars, "2026-06")
+        review = {
+            initial.review_items[0].review_id: {
+                "attendance": "partial",
+                "dates": ["2026-06-05", "2026-06-06"],
+                "alcohol": True,
+                "alcohol_dates": ["2026-06-05"],
+                "late_night": True,
+                "late_night_dates": ["2026-06-06"],
+            }
+        }
+
+        analysis = analyze_calendar_texts(calendars, "2026-06", review_answers=review)
+
+        self.assertNotIn(dt.date(2026, 6, 3), analysis.day_conflicts)
+        self.assertIn("alcohol", analysis.day_conflicts[dt.date(2026, 6, 5)].flags)
+        self.assertNotIn("late_night", analysis.day_conflicts[dt.date(2026, 6, 5)].flags)
+        self.assertIn("late_night", analysis.day_conflicts[dt.date(2026, 6, 6)].flags)
+
 
 if __name__ == "__main__":
     unittest.main()

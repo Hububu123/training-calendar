@@ -124,21 +124,18 @@ def _sanitize_day_conflicts(
         base_flags = _classify_event(event)
         review_flags = _review_flags(event)
         answer = answers.get(review_id)
-        event_flags = set(base_flags)
+        if review_flags and answer is None:
+            review_items.append(_review_item(event, review_id, review_flags))
 
-        if review_flags:
-            event_flags.update(review_flags)
-            if answer is None:
-                review_items.append(_review_item(event, review_id, review_flags))
-            else:
-                event_flags.update(_flags_from_review_answer(answer, review_flags))
-
-        event_risk = _event_risk(event_flags, answer)
         for day in _covered_dates(event):
             if start_date and day < start_date:
                 continue
             if end_date and day >= end_date:
                 continue
+            event_flags = _event_flags_for_day(base_flags, review_flags, answer, day)
+            if not event_flags:
+                continue
+            event_risk = _event_risk(event_flags, answer)
             flags = flags_by_day.setdefault(day, set())
             flags.update(event_flags)
             if "work" in event_flags:
@@ -236,14 +233,40 @@ def _review_flags(event: ExpandedEvent) -> set[str]:
 
 
 def _flags_from_review_answer(answer: dict, review_flags: set[str]) -> set[str]:
+    return _flags_from_review_answer_for_day(answer, review_flags, None)
+
+
+def _event_flags_for_day(
+    base_flags: set[str],
+    review_flags: set[str],
+    answer: dict | None,
+    day: dt.date,
+) -> set[str]:
+    if not review_flags:
+        return set(base_flags)
+    if answer is None:
+        return set(base_flags) | set(review_flags)
+    answer_flags = _flags_from_review_answer_for_day(answer, review_flags, day)
+    if not answer_flags:
+        return set()
+    return set(base_flags) | set(review_flags) | answer_flags
+
+
+def _flags_from_review_answer_for_day(answer: dict, review_flags: set[str], day: dt.date | None) -> set[str]:
     attendance = str(answer.get("attendance", "full")).casefold()
     if attendance in {"none", "no", "not_attending", "skip"}:
         return set()
+    if day is not None:
+        attendance_dates = _answer_dates(answer, "dates", "attendance_dates")
+        if attendance_dates and day not in attendance_dates:
+            return set()
 
     flags: set[str] = set()
-    if answer.get("alcohol"):
+    alcohol_dates = _answer_dates(answer, "alcohol_dates", "drinking_dates")
+    if _truthy_answer(answer.get("alcohol")) and (day is None or not alcohol_dates or day in alcohol_dates):
         flags.add("alcohol")
-    if answer.get("late_night"):
+    late_night_dates = _answer_dates(answer, "late_night_dates")
+    if _truthy_answer(answer.get("late_night")) and (day is None or not late_night_dates or day in late_night_dates):
         flags.add("late_night")
     if attendance in {"full", "partial"}:
         flags.add("dense_day")
@@ -255,13 +278,15 @@ def _flags_from_review_answer(answer: dict, review_flags: set[str]) -> set[str]:
 
 
 def _event_risk(flags: set[str], answer: dict | None) -> str:
+    if not flags:
+        return "none"
     if flags & {"sickness", "no_training"}:
         return "recovery_only"
     if answer is not None:
         attendance = str(answer.get("attendance", "full")).casefold()
         if attendance in {"none", "no", "not_attending", "skip"}:
             return "light"
-        if answer.get("alcohol") or answer.get("late_night"):
+        if flags & {"alcohol", "late_night"}:
             return "high"
         if "festival" in flags and attendance in {"full", "partial"}:
             return "high"
@@ -326,6 +351,25 @@ def _is_late_night(event: ExpandedEvent) -> bool:
     if event.end.date() > event.start.date() and event.end.time() <= dt.time(6):
         return True
     return event.start.time() >= dt.time(21) or event.end.time() >= dt.time(22)
+
+
+def _answer_dates(answer: dict, *keys: str) -> set[dt.date]:
+    dates: set[dt.date] = set()
+    for key in keys:
+        values = answer.get(key)
+        if not values:
+            continue
+        if isinstance(values, str):
+            values = [values]
+        for value in values:
+            dates.add(dt.date.fromisoformat(str(value)))
+    return dates
+
+
+def _truthy_answer(value: object) -> bool:
+    if isinstance(value, str):
+        return value.casefold() in {"yes", "true", "1", "minimal", "some", "little", "likely", "unsure"}
+    return bool(value)
 
 
 def _covered_dates(event: ExpandedEvent) -> list[dt.date]:
