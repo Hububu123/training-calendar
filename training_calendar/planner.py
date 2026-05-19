@@ -67,7 +67,6 @@ def build_month_plan(month: str, profile: dict, conflicts: dict[dt.date, DayConf
         day = _base_day(current, wave_day, block_index, macros)
         day = _apply_conflicts(day, conflicts.get(current), conflicts.get(current - dt.timedelta(days=1)))
         day = _with_macros(day, _macros_for_day(profile, day))
-        day = _with_footballer_title(day, day_index)
         days.append(day)
         current += dt.timedelta(days=1)
 
@@ -126,54 +125,6 @@ def _with_macros(day: PlanDay, macros: dict[str, int]) -> PlanDay:
         description=day.description,
         adjustments=day.adjustments,
     )
-
-
-def _with_footballer_title(day: PlanDay, day_index: int) -> PlanDay:
-    footballer = ITALIAN_FOOTBALLER_CODENAMES[day_index % len(ITALIAN_FOOTBALLER_CODENAMES)]
-    return PlanDay(
-        date=day.date,
-        title=f"{footballer} - {day.title}",
-        category=day.category,
-        run_km=day.run_km,
-        macros=day.macros,
-        description=day.description,
-        adjustments=day.adjustments,
-    )
-
-
-ITALIAN_FOOTBALLER_CODENAMES = (
-    "Maldini",
-    "Baggio",
-    "Pirlo",
-    "Buffon",
-    "Del Piero",
-    "Totti",
-    "Cannavaro",
-    "Nesta",
-    "Baresi",
-    "Zoff",
-    "Rossi",
-    "Rivera",
-    "Scirea",
-    "Zambrotta",
-    "Gattuso",
-    "Inzaghi",
-    "Vieri",
-    "Mazzola",
-    "Tardelli",
-    "Chiellini",
-    "Bonucci",
-    "Riva",
-    "Facchetti",
-    "Antognoni",
-    "Cabrini",
-    "Bergomi",
-    "Donadoni",
-    "Mancini",
-    "Vialli",
-    "Albertini",
-    "De Rossi",
-)
 
 
 def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, int]) -> PlanDay:

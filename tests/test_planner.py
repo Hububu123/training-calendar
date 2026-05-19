@@ -30,15 +30,14 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("Posterior Chain", plan.days[4].title)
         self.assertNotEqual([day.title for day in plan.days[:7]], [day.title for day in plan.days[7:14]])
 
-    def test_daily_titles_are_unique_italian_footballer_workout_codenames(self):
+    def test_daily_titles_are_plain_workout_names_without_decorative_codenames(self):
         plan = build_month_plan("2026-06", PROFILE, {})
         titles = [day.title for day in plan.days]
 
-        self.assertEqual(len(titles), len(set(titles)))
-        self.assertTrue(titles[0].startswith("Maldini - "))
-        self.assertTrue(titles[1].startswith("Baggio - "))
-        self.assertIn("Upper Strength", titles[0])
-        self.assertIn("Lower Strength", titles[1])
+        self.assertEqual(titles[0], "Upper Strength + Calisthenics Pull")
+        self.assertEqual(titles[1], "Lower Strength + Knee Capacity")
+        self.assertNotIn("Maldini", "\n".join(titles))
+        self.assertNotIn("Baggio", "\n".join(titles))
 
     def test_adds_adaptive_macros_and_low_first_week_running_volume(self):
         plan = build_month_plan("2026-06", PROFILE, {})

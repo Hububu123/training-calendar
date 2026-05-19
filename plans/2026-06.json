@@ -4,7 +4,7 @@
   "days": [
     {
       "date": "2026-06-01",
-      "title": "Maldini - Upper Strength + Calisthenics Pull",
+      "title": "Upper Strength + Calisthenics Pull",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -27,7 +27,7 @@
     },
     {
       "date": "2026-06-02",
-      "title": "Baggio - Lower Strength + Knee Capacity",
+      "title": "Lower Strength + Knee Capacity",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -50,7 +50,7 @@
     },
     {
       "date": "2026-06-03",
-      "title": "Pirlo - Recovery + Easy Zone 2",
+      "title": "Recovery + Easy Zone 2",
       "category": "easy_run",
       "run_km": 5,
       "macros": {
@@ -69,7 +69,7 @@
     },
     {
       "date": "2026-06-04",
-      "title": "Buffon - Recovery / Maintenance Day",
+      "title": "Recovery / Maintenance Day",
       "category": "maintenance",
       "run_km": 0,
       "macros": {
@@ -90,7 +90,7 @@
     },
     {
       "date": "2026-06-05",
-      "title": "Del Piero - Recovery Day After High-Risk Schedule",
+      "title": "Recovery Day After High-Risk Schedule",
       "category": "recovery",
       "run_km": 0,
       "macros": {
@@ -110,7 +110,7 @@
     },
     {
       "date": "2026-06-06",
-      "title": "Totti - Recovery Day After High-Risk Schedule",
+      "title": "Recovery Day After High-Risk Schedule",
       "category": "recovery",
       "run_km": 0,
       "macros": {
@@ -131,7 +131,7 @@
     },
     {
       "date": "2026-06-07",
-      "title": "Cannavaro - Recovery Day After High-Risk Schedule",
+      "title": "Recovery Day After High-Risk Schedule",
       "category": "recovery",
       "run_km": 3,
       "macros": {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-06-08",
-      "title": "Nesta - Full-Body Athletic Strength",
+      "title": "Full-Body Athletic Strength",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -174,7 +174,7 @@
     },
     {
       "date": "2026-06-09",
-      "title": "Baresi - Easy Run + Relaxed Strides",
+      "title": "Easy Run + Relaxed Strides",
       "category": "easy_run",
       "run_km": 6,
       "macros": {
@@ -193,7 +193,7 @@
     },
     {
       "date": "2026-06-10",
-      "title": "Zoff - Lower Unilateral + Posterior Chain",
+      "title": "Lower Unilateral + Posterior Chain",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -216,7 +216,7 @@
     },
     {
       "date": "2026-06-11",
-      "title": "Rossi - Calisthenics Density + Zone 2",
+      "title": "Calisthenics Density + Zone 2",
       "category": "gym",
       "run_km": 4,
       "macros": {
@@ -239,7 +239,7 @@
     },
     {
       "date": "2026-06-12",
-      "title": "Rivera - Recovery + Mobility Capacity",
+      "title": "Recovery + Mobility Capacity",
       "category": "recovery",
       "run_km": 0,
       "macros": {
@@ -259,7 +259,7 @@
     },
     {
       "date": "2026-06-13",
-      "title": "Scirea - Plyometrics + Functional Power",
+      "title": "Plyometrics + Functional Power",
       "category": "sprint",
       "run_km": 3,
       "macros": {
@@ -282,7 +282,7 @@
     },
     {
       "date": "2026-06-14",
-      "title": "Zambrotta - Aerobic Base + Reset",
+      "title": "Aerobic Base + Reset",
       "category": "long_run",
       "run_km": 9,
       "macros": {
@@ -303,7 +303,7 @@
     },
     {
       "date": "2026-06-15",
-      "title": "Gattuso - Upper Strength + Calisthenics Pull",
+      "title": "Upper Strength + Calisthenics Pull",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -326,7 +326,7 @@
     },
     {
       "date": "2026-06-16",
-      "title": "Inzaghi - Lower Strength + Knee Capacity",
+      "title": "Lower Strength + Knee Capacity",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -349,7 +349,7 @@
     },
     {
       "date": "2026-06-17",
-      "title": "Vieri - Recovery + Easy Zone 2",
+      "title": "Recovery + Easy Zone 2",
       "category": "easy_run",
       "run_km": 5,
       "macros": {
@@ -368,7 +368,7 @@
     },
     {
       "date": "2026-06-18",
-      "title": "Mazzola - Upper Calisthenics + Hypertrophy",
+      "title": "Upper Calisthenics + Hypertrophy",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -391,7 +391,7 @@
     },
     {
       "date": "2026-06-19",
-      "title": "Tardelli - Posterior Chain + Functional Carries",
+      "title": "Posterior Chain + Functional Carries",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -414,7 +414,7 @@
     },
     {
       "date": "2026-06-20",
-      "title": "Chiellini - Recovery / Maintenance Day",
+      "title": "Recovery / Maintenance Day",
       "category": "recovery",
       "run_km": 3,
       "macros": {
@@ -435,7 +435,7 @@
     },
     {
       "date": "2026-06-21",
-      "title": "Bonucci - Recovery Day After High-Risk Schedule",
+      "title": "Recovery Day After High-Risk Schedule",
       "category": "recovery",
       "run_km": 3,
       "macros": {
@@ -455,7 +455,7 @@
     },
     {
       "date": "2026-06-22",
-      "title": "Riva - Full-Body Athletic Strength",
+      "title": "Full-Body Athletic Strength",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -478,7 +478,7 @@
     },
     {
       "date": "2026-06-23",
-      "title": "Facchetti - Easy Run + Relaxed Strides",
+      "title": "Easy Run + Relaxed Strides",
       "category": "easy_run",
       "run_km": 6,
       "macros": {
@@ -497,7 +497,7 @@
     },
     {
       "date": "2026-06-24",
-      "title": "Antognoni - Lower Unilateral + Posterior Chain",
+      "title": "Lower Unilateral + Posterior Chain",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -520,7 +520,7 @@
     },
     {
       "date": "2026-06-25",
-      "title": "Cabrini - Calisthenics Density + Zone 2",
+      "title": "Calisthenics Density + Zone 2",
       "category": "gym",
       "run_km": 4,
       "macros": {
@@ -543,7 +543,7 @@
     },
     {
       "date": "2026-06-26",
-      "title": "Bergomi - Recovery + Mobility Capacity",
+      "title": "Recovery + Mobility Capacity",
       "category": "recovery",
       "run_km": 0,
       "macros": {
@@ -563,7 +563,7 @@
     },
     {
       "date": "2026-06-27",
-      "title": "Donadoni - Recovery / Maintenance Day",
+      "title": "Recovery / Maintenance Day",
       "category": "recovery",
       "run_km": 3,
       "macros": {
@@ -584,7 +584,7 @@
     },
     {
       "date": "2026-06-28",
-      "title": "Mancini - Recovery Day After High-Risk Schedule",
+      "title": "Recovery Day After High-Risk Schedule",
       "category": "recovery",
       "run_km": 3,
       "macros": {
@@ -604,7 +604,7 @@
     },
     {
       "date": "2026-06-29",
-      "title": "Vialli - Recovery / Maintenance Day",
+      "title": "Recovery / Maintenance Day",
       "category": "maintenance",
       "run_km": 0,
       "macros": {
@@ -625,7 +625,7 @@
     },
     {
       "date": "2026-06-30",
-      "title": "Albertini - Recovery Day After High-Risk Schedule",
+      "title": "Recovery Day After High-Risk Schedule",
       "category": "recovery",
       "run_km": 0,
       "macros": {

@@ -50,11 +50,31 @@ Use progression rules instead of fixed session-length rules:
 
 Avoid a hard 5K interval block in the first month unless recovery is clearly excellent.
 
+## Evidence Rationale
+
+The split is not meant to be random variety. It should be rebuilt each month from these rules:
+
+- Resistance training is the primary growth signal. Each 14-day wave should train the major movement patterns at least twice, keep heavy work early in sessions, and use enough weekly hard sets to support strength and hypertrophy without turning every day into a maximal session.
+- Hypertrophy and strength are both supported by simple, repeatable resistance training. Advanced methods are optional; consistency, progressive overload, appropriate load, and enough volume matter more than novelty.
+- Concurrent endurance work is useful for health and hybrid fitness, but running stress should not crowd out lower-body strength while strength is the current priority. Keep most runs easy, separate hard running from heavy lower-body work when possible, and avoid hard endurance immediately before strength sessions.
+- Plyometrics and sprinting are useful for power and sprint ability, but the first month should use low contacts, hills, and clean mechanics because knees and marathon recovery are constraints.
+- Recovery gates are part of the program, not a weakness. Alcohol, late nights, sickness, poor sleep, travel, and dense schedules should reduce intensity before they reduce the long-term plan quality.
+- Nutrition should match the day: protein stays high every day, carbohydrates rise on heavy lower, full-body, sprint, and long-run days, and recovery days stay sufficiently fed because under-fueling is a known risk.
+
+Reference base:
+
+- ACSM 2026 resistance training position stand overview: https://acsm.org/resistance-training-guidelines-update-2026/
+- Concurrent training review/meta-analysis: https://link.springer.com/article/10.1007/s40279-021-01426-9
+- Exercise order and interference meta-analysis: https://link.springer.com/article/10.1007/s40279-017-0784-1
+- Plyometric training umbrella review: https://link.springer.com/article/10.1186/s40798-022-00550-8
+- ISSN protein position stand: https://link.springer.com/article/10.1186/s12970-017-0177-8
+- Alcohol and resistance-exercise recovery review: https://www.mdpi.com/2411-5142/4/3/41
+
 ## Calendar Review
 
 Private calendar events are analyzed before generation. Ambiguous high-risk events fail closed and require review before the public feed is changed.
 
-Review candidates include likely alcohol, late-night, festival, birthday, dinner, concert, student dinner, Friday bar, multi-day festival, and similar social events. Examples include `Distortion`, `Sommerfest P+`, `Roskilde Festival`, `studentermiddag`, `fødselsdag`, and `fredagsbar`.
+Review candidates include likely alcohol, late-night, festival, birthday, dinner, concert, student dinner, Friday bar, multi-day festival, and similar social events.
 
 For each candidate, classify:
 

@@ -7,10 +7,10 @@ X-WR-CALNAME:Hubert Training
 X-WR-TIMEZONE:Europe/Copenhagen
 BEGIN:VEVENT
 UID:hubert-training-20260601@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:Maldini - Upper Strength + Calisthenics Pull
+SUMMARY:Upper Strength + Calisthenics Pull
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for s
  chedule constraints.\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\
@@ -28,10 +28,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260602@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:Baggio - Lower Strength + Knee Capacity
+SUMMARY:Lower Strength + Knee Capacity
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodywei
@@ -49,10 +49,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260603@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:Pirlo - Recovery + Easy Zone 2
+SUMMARY:Recovery + Easy Zone 2
 DESCRIPTION:Overview:\nMacros: 3300 kcal\, 165 g protein\, 445 g carbs\, 9
  5 g fat\nCategory: easy_run\nRun volume: 5 km\n\nWarm-Up:\n- 5-10 min eas
  y movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMa
@@ -65,10 +65,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260604@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:Buffon - Recovery / Maintenance Day
+SUMMARY:Recovery / Maintenance Day
 DESCRIPTION:Overview:\nMacros: 3200 kcal\, 165 g protein\, 400 g carbs\, 1
  05 g fat\nCategory: maintenance\nRun volume: 0 km\nAdjustments:\n- Adjust
  ed for high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy movem
@@ -84,10 +84,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260605@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
-SUMMARY:Del Piero - Recovery Day After High-Risk Schedule
+SUMMARY:Recovery Day After High-Risk Schedule
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 0 km\nAdjustments:\n- Adjusted 
  after high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy moveme
@@ -101,10 +101,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260606@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-SUMMARY:Totti - Recovery Day After High-Risk Schedule
+SUMMARY:Recovery Day After High-Risk Schedule
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 0 km\nAdjustments:\n- Sprint mo
  ved away from a high-risk day.\n\nWarm-Up:\n- 5-10 min easy movement\, jo
@@ -119,10 +119,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260607@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-SUMMARY:Cannavaro - Recovery Day After High-Risk Schedule
+SUMMARY:Recovery Day After High-Risk Schedule
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 3 km\nAdjustments:\n- Adjusted 
  after high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy moveme
@@ -137,10 +137,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260608@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
-SUMMARY:Nesta - Full-Body Athletic Strength
+SUMMARY:Full-Body Athletic Strength
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7 min easy cardio\, squat-to-stand\,
@@ -158,10 +158,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260609@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
-SUMMARY:Baresi - Easy Run + Relaxed Strides
+SUMMARY:Easy Run + Relaxed Strides
 DESCRIPTION:Overview:\nMacros: 3300 kcal\, 165 g protein\, 445 g carbs\, 9
  5 g fat\nCategory: easy_run\nRun volume: 6 km\n\nWarm-Up:\n- 5-10 min eas
  y movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMa
@@ -173,10 +173,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260610@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-SUMMARY:Zoff - Lower Unilateral + Posterior Chain
+SUMMARY:Lower Unilateral + Posterior Chain
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, split squat isometric
@@ -193,10 +193,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260611@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
-SUMMARY:Rossi - Calisthenics Density + Zone 2
+SUMMARY:Calisthenics Density + Zone 2
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 4 km\nAdjustments:\n- Adjusted for s
  chedule constraints.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, h
@@ -214,10 +214,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260612@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
-SUMMARY:Rivera - Recovery + Mobility Capacity
+SUMMARY:Recovery + Mobility Capacity
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 0 km\n\nWarm-Up:\n- 5-10 min ea
  sy movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nM
@@ -230,10 +230,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260613@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-SUMMARY:Scirea - Plyometrics + Functional Power
+SUMMARY:Plyometrics + Functional Power
 DESCRIPTION:Overview:\nMacros: 3550 kcal\, 165 g protein\, 520 g carbs\, 1
  00 g fat\nCategory: sprint\nRun volume: 3 km\nAdjustments:\n- Adjusted fo
  r schedule constraints.\n\nWarm-Up:\n- 10 min easy plus skips\, ankling\,
@@ -252,10 +252,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260614@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-SUMMARY:Zambrotta - Aerobic Base + Reset
+SUMMARY:Aerobic Base + Reset
 DESCRIPTION:Overview:\nMacros: 3550 kcal\, 165 g protein\, 520 g carbs\, 1
  00 g fat\nCategory: long_run\nRun volume: 9 km\nAdjustments:\n- Adjusted 
  for schedule constraints.\n\nWarm-Up:\n- 5-10 min easy movement\, joint p
@@ -270,10 +270,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260615@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-SUMMARY:Gattuso - Upper Strength + Calisthenics Pull
+SUMMARY:Upper Strength + Calisthenics Pull
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for sc
  hedule constraints.\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\,
@@ -291,10 +291,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260616@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-SUMMARY:Inzaghi - Lower Strength + Knee Capacity
+SUMMARY:Lower Strength + Knee Capacity
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for s
  chedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweig
@@ -312,10 +312,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260617@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-SUMMARY:Vieri - Recovery + Easy Zone 2
+SUMMARY:Recovery + Easy Zone 2
 DESCRIPTION:Overview:\nMacros: 3300 kcal\, 165 g protein\, 445 g carbs\, 9
  5 g fat\nCategory: easy_run\nRun volume: 5 km\n\nWarm-Up:\n- 5-10 min eas
  y movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMa
@@ -328,10 +328,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260618@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-SUMMARY:Mazzola - Upper Calisthenics + Hypertrophy
+SUMMARY:Upper Calisthenics + Hypertrophy
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for sc
  hedule constraints.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder circles\,
@@ -348,10 +348,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260619@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
-SUMMARY:Tardelli - Posterior Chain + Functional Carries
+SUMMARY:Posterior Chain + Functional Carries
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for s
  chedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, glute bridges\, ankle 
@@ -368,10 +368,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260620@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:Chiellini - Recovery / Maintenance Day
+SUMMARY:Recovery / Maintenance Day
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 3 km\nAdjustments:\n- Adjusted 
  for high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy movement
@@ -388,10 +388,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260621@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:Bonucci - Recovery Day After High-Risk Schedule
+SUMMARY:Recovery Day After High-Risk Schedule
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 3 km\nAdjustments:\n- Adjusted 
  after high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy moveme
@@ -406,10 +406,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260622@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
-SUMMARY:Riva - Full-Body Athletic Strength
+SUMMARY:Full-Body Athletic Strength
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7 min easy cardio\, squat-to-stand\,
@@ -427,10 +427,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260623@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:Facchetti - Easy Run + Relaxed Strides
+SUMMARY:Easy Run + Relaxed Strides
 DESCRIPTION:Overview:\nMacros: 3300 kcal\, 165 g protein\, 445 g carbs\, 9
  5 g fat\nCategory: easy_run\nRun volume: 6 km\n\nWarm-Up:\n- 5-10 min eas
  y movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMa
@@ -442,10 +442,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260624@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:Antognoni - Lower Unilateral + Posterior Chain
+SUMMARY:Lower Unilateral + Posterior Chain
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 7-8 min bike\, split squat isometric
@@ -462,10 +462,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260625@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:Cabrini - Calisthenics Density + Zone 2
+SUMMARY:Calisthenics Density + Zone 2
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 165 g protein\, 505 g carbs\, 1
  00 g fat\nCategory: gym\nRun volume: 4 km\nAdjustments:\n- Shortened for 
  schedule constraints.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, 
@@ -483,10 +483,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260626@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:Bergomi - Recovery + Mobility Capacity
+SUMMARY:Recovery + Mobility Capacity
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 0 km\n\nWarm-Up:\n- 5-10 min ea
  sy movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nM
@@ -499,10 +499,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260627@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:Donadoni - Recovery / Maintenance Day
+SUMMARY:Recovery / Maintenance Day
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 3 km\nAdjustments:\n- Adjusted 
  for high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy movement
@@ -519,10 +519,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260628@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:Mancini - Recovery Day After High-Risk Schedule
+SUMMARY:Recovery Day After High-Risk Schedule
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 3 km\nAdjustments:\n- Adjusted 
  after high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy moveme
@@ -537,10 +537,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260629@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:Vialli - Recovery / Maintenance Day
+SUMMARY:Recovery / Maintenance Day
 DESCRIPTION:Overview:\nMacros: 3200 kcal\, 165 g protein\, 400 g carbs\, 1
  05 g fat\nCategory: maintenance\nRun volume: 0 km\nAdjustments:\n- Adjust
  ed for high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy movem
@@ -556,10 +556,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260630@training-calendar
-DTSTAMP:20260519T200418Z
+DTSTAMP:20260519T201538Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-SUMMARY:Albertini - Recovery Day After High-Risk Schedule
+SUMMARY:Recovery Day After High-Risk Schedule
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nCategory: recovery\nRun volume: 0 km\nAdjustments:\n- Adjusted 
  after high-risk schedule constraints.\n\nWarm-Up:\n- 5-10 min easy moveme
