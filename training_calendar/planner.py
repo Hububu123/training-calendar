@@ -61,8 +61,10 @@ def build_month_plan(month: str, profile: dict, conflicts: dict[dt.date, DayConf
     current = start_date
 
     while current < end_date:
-        week_index = ((current - start_date).days // 7) + 1
-        day = _base_day(current, week_index, macros)
+        day_index = (current - start_date).days
+        wave_day = (day_index % 14) + 1
+        block_index = (day_index // 14) + 1
+        day = _base_day(current, wave_day, block_index, macros)
         day = _apply_conflicts(day, conflicts.get(current), conflicts.get(current - dt.timedelta(days=1)))
         days.append(day)
         current += dt.timedelta(days=1)
@@ -84,137 +86,228 @@ def _daily_macros(profile: dict) -> dict[str, int]:
     }
 
 
-def _base_day(date: dt.date, week_index: int, macros: dict[str, int]) -> PlanDay:
-    weekday = date.weekday()
-    deload = week_index >= 4
+def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, int]) -> PlanDay:
+    deload = block_index >= 3
+    volume = "2-3" if deload else "3-4"
+    strength_sets = "3" if deload else "4"
+    sprint_reps = 4 if deload else 6
 
-    if weekday == 0:
-        return PlanDay(
+    wave: dict[int, PlanDay] = {
+        1: PlanDay(
             date=date,
-            title="Upper Strength + Fueling Focus",
+            title="Upper Strength + Calisthenics Pull",
             category="gym",
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 5-8 min easy bike or incline walk, band pull-aparts, scap push-ups, and 2-3 bench ramp sets.",
-                "Bench press: 4 x 4-6 at a conservative post-marathon load; stop with 1-2 reps in reserve.",
+                "Warm-up: 5-8 min easy bike, band pull-aparts, scap push-ups, dead hangs, and 2-3 bench ramp sets.",
+                f"Bench press: {strength_sets} x 4-6 with 1-2 reps in reserve.",
+                "Pull-ups: 4 x 4-8; add load only if clean.",
                 "Incline dumbbell press: 3 x 8-10.",
-                "Seated dumbbell shoulder press: 3 x 6-10.",
-                "Cable fly or pec deck: 2-3 x 12-15.",
-                "Lateral raises: 4 x 12-20.",
-                "Triceps pushdown: 3 x 10-15.",
-                "Overhead triceps extension: 2 x 12-15.",
-                "Fueling: keep carbs high at lunch and include a carb-focused pre-gym meal 2-3 hours before training.",
+                "Chest-supported row: 3 x 8-12.",
+                "Push-ups or dips: 2-3 x near-technical failure.",
+                "Farmer carries: 4 x 30-40 m, heavy but posture clean.",
+                "Fueling: keep lunch carb-heavy and eat chicken/potatoes, pasta, or rye bread 2-3 hours before lifting.",
             ),
-        )
-    if weekday == 1:
-        return PlanDay(
+        ),
+        2: PlanDay(
             date=date,
             title="Lower Strength + Knee Capacity",
             category="gym",
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and light sled or leg extension if available.",
-                f"Hack squat: {'2-3' if deload else '4'} x 6-10, smooth depth and no grinding.",
-                f"Leg press: {'2' if deload else '3'} x 8-12.",
-                f"Romanian deadlift: {'2-3' if deload else '4'} x 6-8.",
-                "Bulgarian split squat: 2-3 x 8-10 per leg, controlled tempo.",
+                "Warm-up: 8-10 min bike, ankle rocks, hip airplanes, bodyweight squats, and tibialis raises.",
+                f"Hack squat or goblet squat: {strength_sets} x 6-10, smooth depth and no grinding.",
+                f"Romanian deadlift: {strength_sets} x 6-8.",
+                "Split squat or step-up: 3 x 8-10 per leg, controlled knee tracking.",
                 "Leg curl: 3 x 10-15.",
                 "Calf raises: 4 x 10-20.",
                 "Tibialis raises: 3 x 15-25.",
-                "Squat skill: goblet squat 3 x 8 plus pause bodyweight squat 2 x 8.",
-                "Fueling: add a salty carb source pre-lift; this is not a low-carb day.",
+                "Recovery: stop lower-body work if knee discomfort climbs during the session.",
             ),
-        )
-    if weekday == 2:
-        run_km = 4 if deload else (6 if week_index >= 3 else 5)
-        return PlanDay(
+        ),
+        3: PlanDay(
             date=date,
             title="Recovery + Easy Zone 2",
             category="easy_run",
-            run_km=run_km,
+            run_km=5,
             macros=macros,
             description=(
-                f"Easy run: {run_km:g} km at conversational effort, roughly 5:30-6:10/km.",
-                "Keep cadence light and stop if knees feel worse as the run continues.",
-                "Mobility: 8-10 min hips, quads, calves, ankles.",
-                "Fueling: do not run fasted if you feel flat; fruit or bread plus caffeine is enough before an easy morning run.",
+                "Easy run: 5 km at conversational effort; cadence light and relaxed.",
+                "Mobility: 8-10 min hips, quads, calves, and ankles.",
+                "Optional: 20-30 min walk later if knees feel normal.",
+                "Fueling: fruit or rye bread plus caffeine is enough before a short morning run.",
             ),
-        )
-    if weekday == 3:
-        return PlanDay(
+        ),
+        4: PlanDay(
             date=date,
-            title="Upper Hypertrophy + Arms/Delts",
+            title="Upper Calisthenics + Hypertrophy",
             category="gym",
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 5 min easy cardio, shoulder circles, light rows, and two easy pressing ramp sets.",
-                "Weighted pull-ups or bodyweight pull-ups: 4 x 5-8.",
-                "Chest-supported row or barbell row: 4 x 6-10.",
+                "Warm-up: 5 min easy cardio, shoulder circles, light rows, scap pull-ups, and pressing ramp sets.",
+                "Pull-ups: 5 x 4-8 or density sets until 25-35 quality reps.",
+                "Dips or push-ups: 4 x 8-15.",
+                "One-arm dumbbell row or inverted row: 4 x 8-12.",
                 "Incline dumbbell press: 3 x 8-12.",
-                "Lat pulldown: 3 x 8-12.",
-                "Cable row: 3 x 10-12.",
-                "Rear delt fly: 3 x 15-20.",
                 "Lateral raises: 3 x 15-20.",
-                "Curls superset triceps pressdown: 3 x 10-15 each.",
-                "Core: Pallof press 3 x 10-12 per side.",
+                "Hanging leg raises: 3 x 6-12.",
                 "Fueling: dinner should include protein plus a large carb portion after training.",
             ),
-        )
-    if weekday == 4:
-        return PlanDay(
+        ),
+        5: PlanDay(
             date=date,
-            title="Lower Posterior Chain + Squat Skill",
+            title="Posterior Chain + Functional Carries",
             category="gym",
             run_km=0,
             macros=macros,
             description=(
                 "Warm-up: 8 min bike, dynamic hamstrings, glute bridges, ankle mobility, and light hinge ramp sets.",
-                f"Romanian deadlift: {'2-3' if deload else '4'} x 6-8.",
+                f"Romanian deadlift: {strength_sets} x 6-8.",
                 "Hip thrust or glute bridge: 3 x 8-12.",
-                "Front-foot elevated split squat: 3 x 8-10 per leg, knee tracking cleanly.",
-                "Seated or lying leg curl: 3 x 10-15.",
+                "Front-foot elevated split squat: 3 x 8-10 per leg.",
                 "Back extension: 2-3 x 10-15.",
-                "Calf raises: 4 x 10-20.",
-                "Squat skill: goblet squat 3 x 8, slow eccentric and stable foot pressure.",
-                "If social plans or alcohol are likely, train earlier and keep 1-2 reps in reserve.",
+                "Farmer carries: 4 x 30-40 m.",
+                "Pallof press: 3 x 10-12 per side.",
+                "Recovery: keep 1-2 reps in reserve if the evening may run late.",
             ),
-        )
-    if weekday == 5:
-        run_km = 3 if deload else (4 if week_index >= 2 else 3)
-        sprint_reps = 4 if deload else min(8, 5 + week_index)
-        return PlanDay(
+        ),
+        6: PlanDay(
             date=date,
-            title="Controlled Hill Sprints + Mobility",
+            title="Plyometrics + Hill Sprint Technique",
             category="sprint",
-            run_km=run_km,
+            run_km=3,
             macros=macros,
             description=(
-                f"Warm-up jog: {run_km:g} km total including cooldown, all easy.",
-                "Dynamic drills: leg swings, A-skips, ankling, high knees, and 3 relaxed strides.",
+                "Warm-up jog: 10-12 min easy plus leg swings, A-skips, ankling, and 3 relaxed strides.",
+                "Plyometrics: pogos 3 x 20 sec, snap-downs 3 x 5, low broad jumps 3 x 3.",
                 f"Hill sprints: {sprint_reps} x 10-12 sec uphill at powerful but controlled effort; full walk-back recovery.",
                 "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
-                "Accessory option: farmer carries 4 x 30-40 m and ab wheel 3 x 6-10.",
+                "Optional: dead bug 3 x 8 per side and side plank 2 x 30 sec.",
                 "Fueling: have carbs before the session and hydrate with electrolytes if sleep was poor.",
             ),
-        )
-    run_km = 8 if deload else (12 if week_index >= 3 else 10 + max(0, week_index - 1))
-    return PlanDay(
-        date=date,
-        title="Easy Longer Aerobic Run",
-        category="long_run",
-        run_km=run_km,
-        macros=macros,
-        description=(
-            f"Easy longer run: {run_km:g} km at conversational effort, roughly 5:15-5:55/km.",
-            "This is not a race. Keep the final 2 km controlled unless recovery feels excellent.",
-            "Post-run: protein plus a large carb meal within 2 hours.",
-            "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
-            "Fueling: eat carbs the night before and before the run; add electrolytes if warm.",
         ),
-    )
+        7: PlanDay(
+            date=date,
+            title="Easy Longer Aerobic Run",
+            category="long_run",
+            run_km=10 if not deload else 8,
+            macros=macros,
+            description=(
+                "Easy run: 10 km at conversational effort; keep the final 2 km controlled, not fast.",
+                "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
+                "Recovery: protein plus a large carb meal within 2 hours.",
+                "Fueling: eat carbs the night before and before the run; add electrolytes if warm.",
+            ),
+        ),
+        8: PlanDay(
+            date=date,
+            title="Full-Body Athletic Strength",
+            category="gym",
+            run_km=0,
+            macros=macros,
+            description=(
+                "Warm-up: 8 min easy cardio, squat-to-stand, band rows, push-ups, and two hinge ramp sets.",
+                f"Incline press or bench press: {volume} x 6-8.",
+                f"Trap-bar deadlift, Romanian deadlift, or heavy hinge: {volume} x 5-6.",
+                "Pull-ups or chest-supported rows: 4 x 6-10.",
+                "Goblet squat: 3 x 8-12 with clean knee tracking.",
+                "Farmer carries: 3 x 40 m.",
+                "Optional: curls and triceps pressdowns 2 x 12-15 each.",
+                "Fueling: keep this as a full-calorie day even if training starts late.",
+            ),
+        ),
+        9: PlanDay(
+            date=date,
+            title="Easy Run + Relaxed Strides",
+            category="easy_run",
+            run_km=6,
+            macros=macros,
+            description=(
+                "Easy run: 6 km conversational.",
+                "Strides: 4 x 15 sec relaxed on flat ground only if knees feel normal.",
+                "Mobility: 8 min calves, quads, glutes, and ankles.",
+                "Fueling: small carb snack before morning running if sleep was poor.",
+            ),
+        ),
+        10: PlanDay(
+            date=date,
+            title="Lower Unilateral + Posterior Chain",
+            category="gym",
+            run_km=0,
+            macros=macros,
+            description=(
+                "Warm-up: 8-10 min bike, split squat isometric holds, ankle rocks, and light hinge ramp sets.",
+                "Bulgarian split squat or step-up: 4 x 6-10 per leg.",
+                "Romanian deadlift: 3 x 8.",
+                "Leg curl: 3 x 10-15.",
+                "Walking lunges: 2-3 x 12 steps per leg.",
+                "Calf raises: 4 x 12-20.",
+                "Copenhagen plank: 2 x 20-30 sec per side.",
+                "Recovery: keep tempo controlled rather than chasing load.",
+            ),
+        ),
+        11: PlanDay(
+            date=date,
+            title="Calisthenics Density + Zone 2",
+            category="gym",
+            run_km=4,
+            macros=macros,
+            description=(
+                "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
+                "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises.",
+                "Easy run: 4 km conversational immediately after or in the morning.",
+                "Carry finisher: suitcase carry 3 x 30 m per side.",
+                "Optional: lateral raises and curls 2 x 15-20 each.",
+                "Fueling: add carbs around both the run and the gym block.",
+            ),
+        ),
+        12: PlanDay(
+            date=date,
+            title="Recovery + Mobility Capacity",
+            category="recovery",
+            run_km=0,
+            macros=macros,
+            description=(
+                "Recovery: 30-60 min walk or easy bike.",
+                "Mobility: hips, ankles, thoracic spine, calves, and quads for 12-15 min.",
+                "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec.",
+                "Optional: light crawling or plank variations for 5 min.",
+                "Fueling: keep protein at target and do not under-eat on the recovery day.",
+            ),
+        ),
+        13: PlanDay(
+            date=date,
+            title="Plyometrics + Functional Power",
+            category="sprint",
+            run_km=3,
+            macros=macros,
+            description=(
+                "Warm-up jog: 10 min easy plus skips, ankling, hip openers, and 3 relaxed strides.",
+                "Plyometrics: pogos 3 x 20 sec, low broad jumps 4 x 2, and med-ball slams 4 x 5 if available.",
+                "Hill sprint technique: 4-6 x 8-10 sec at fast but controlled effort.",
+                "Functional work: sled push if easy to set up or farmer carries 4 x 30 m.",
+                "Core: crawling 3 x 20 m or dead bug 3 x 8 per side.",
+                "Recovery: stop at the first sign of knee irritation or sloppy contacts.",
+            ),
+        ),
+        14: PlanDay(
+            date=date,
+            title="Aerobic Base + Reset",
+            category="long_run",
+            run_km=9 if not deload else 7,
+            macros=macros,
+            description=(
+                "Easy run: 9 km conversational; shorten to 6 km if sleep or knees are poor.",
+                "Optional: 4 x 20 sec relaxed strides only if the week felt easy.",
+                "Recovery: long mobility reset for calves, quads, hips, and feet.",
+                "Fueling: carbs before and after; keep this aerobic, not competitive.",
+            ),
+        ),
+    }
+    return wave[wave_day]
 
 
 def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_conflict: DayConflicts | None) -> PlanDay:
@@ -226,8 +319,14 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
 
     previous_flags = previous_conflict.flags if previous_conflict else frozenset()
     current_flags = conflict.flags if conflict else frozenset()
+    current_risk = conflict.risk_level if conflict else "none"
+    previous_risk = previous_conflict.risk_level if previous_conflict else "none"
+    high_risk_flags = {"alcohol", "late_night", "festival"}
+    current_high_risk = current_risk in {"high", "recovery_only"} or bool(current_flags & high_risk_flags)
+    previous_high_risk = previous_risk in {"high", "recovery_only"} or bool(previous_flags & high_risk_flags)
+    heavy_lower = any(token in title for token in ("Lower", "Posterior Chain", "Plyometrics"))
 
-    if "alcohol" in previous_flags and category == "sprint":
+    if previous_high_risk and category == "sprint":
         title = "Recovery Day After High-Risk Schedule"
         category = "recovery"
         run_km = 0
@@ -238,6 +337,17 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
             "If energy is good later, add light upper accessories only: rows 2 x 12, lateral raises 2 x 20, curls 2 x 15.",
             "Macro target stays the same; prioritize fluids and carbohydrates early.",
         )
+    elif previous_high_risk and (category == "long_run" or heavy_lower):
+        title = "Recovery Day After High-Risk Schedule"
+        category = "recovery"
+        run_km = min(run_km, 3)
+        adjustments.append("Adjusted after high-risk schedule constraints.")
+        description = (
+            "No heavy lower body or hard running today.",
+            "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
+            "Optional: light upper accessories only if energy is clearly good.",
+        )
+
     if current_flags & {"sickness", "no_training"}:
         title = "Recovery Only"
         category = "recovery"
@@ -247,6 +357,21 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
             "No hard training.",
             "Optional: 20-40 min walk and 8-10 min gentle mobility if symptoms allow.",
             "Keep protein high, hydrate, and use carbs to support recovery.",
+        )
+    elif current_high_risk and category in {"gym", "sprint", "long_run"}:
+        title = "Recovery / Maintenance Day"
+        category = "recovery" if category in {"sprint", "long_run"} else "maintenance"
+        run_km = min(run_km, 3)
+        adjustments.append(
+            conflict.generic_public_reason
+            if conflict and conflict.generic_public_reason
+            else "Adjusted for high-risk schedule constraints."
+        )
+        description = (
+            "Keep training conservative because the private calendar review found a high-risk schedule constraint.",
+            "Main work: 30-60 min walk or easy bike, then 10-12 min mobility.",
+            "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
+            "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals.",
         )
     elif conflict and "work" in current_flags and conflict.work_minutes >= 510 and category == "gym":
         adjustments.append("Shortened for schedule constraints.")
@@ -268,4 +393,3 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
         description=tuple(description),
         adjustments=tuple(adjustments),
     )
-

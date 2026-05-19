@@ -90,7 +90,9 @@ def _event_lines(day: PlanDay, dtstamp: str) -> list[str]:
 
 
 def _event_description(day: PlanDay) -> str:
+    warm_up, main_work, optional, fueling, recovery = _description_sections(day)
     pieces = [
+        "Overview:",
         _macro_line(day),
         f"Category: {day.category}",
         f"Run volume: {day.run_km:g} km",
@@ -98,9 +100,63 @@ def _event_description(day: PlanDay) -> str:
     if day.adjustments:
         pieces.append("Adjustments:")
         pieces.extend(f"- {adjustment}" for adjustment in day.adjustments)
-    pieces.append("Plan:")
-    pieces.extend(f"- {item}" for item in day.description)
+
+    pieces.extend(["", "Warm-Up:"])
+    pieces.extend(f"- {item}" for item in warm_up)
+    pieces.extend(["", "Main Work:"])
+    pieces.extend(f"- {item}" for item in main_work)
+
+    if optional:
+        pieces.extend(["", "Optional:"])
+        pieces.extend(f"- {item}" for item in optional)
+    if day.run_km > 0:
+        pieces.extend(["", "Run:"])
+        pieces.append(f"- Planned running volume: {day.run_km:g} km.")
+    if fueling:
+        pieces.extend(["", "Fueling:"])
+        pieces.extend(f"- {item}" for item in fueling)
+    if recovery:
+        pieces.extend(["", "Recovery:"])
+        pieces.extend(f"- {item}" for item in recovery)
     return "\n".join(pieces)
+
+
+def _description_sections(day: PlanDay) -> tuple[list[str], list[str], list[str], list[str], list[str]]:
+    warm_up: list[str] = []
+    main_work: list[str] = []
+    optional: list[str] = []
+    fueling: list[str] = []
+    recovery: list[str] = []
+
+    for item in day.description:
+        lower = item.casefold()
+        if lower.startswith(("warm-up", "warmup", "warm-up jog")):
+            warm_up.append(_strip_prefix(item))
+        elif lower.startswith("optional"):
+            optional.append(_strip_prefix(item))
+        elif lower.startswith("fueling"):
+            fueling.append(_strip_prefix(item))
+        elif lower.startswith(("recovery", "mobility", "post-run")):
+            recovery.append(_strip_prefix(item))
+        else:
+            main_work.append(item)
+
+    if not warm_up:
+        warm_up.append("5-10 min easy movement, joint prep, and 2-3 gradual ramp sets before loading.")
+    if not main_work:
+        main_work.append("Keep the day easy and complete only the recovery work listed below.")
+    if not fueling:
+        fueling.append("Hit daily macros, keep protein near target, and place carbohydrates before and after training.")
+    if not recovery:
+        recovery.append("Sleep window stays 22:00-06:00; add mobility if joints feel stiff.")
+
+    return warm_up, main_work, optional, fueling, recovery
+
+
+def _strip_prefix(value: str) -> str:
+    if ":" not in value:
+        return value
+    return value.split(":", 1)[1].strip()
 
 
 def _macro_line(day: PlanDay) -> str:
@@ -131,4 +187,3 @@ def _fold_line(line: str, limit: int = 74) -> str:
         parts.append(" " + remaining[: limit - 1])
         remaining = remaining[limit - 1 :]
     return "\r\n".join(parts)
-

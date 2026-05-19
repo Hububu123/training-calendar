@@ -17,17 +17,18 @@ PROFILE = {
 
 
 class PlannerTests(unittest.TestCase):
-    def test_builds_one_growth_biased_plan_day_for_each_day_in_june(self):
+    def test_builds_one_biweekly_athletic_plan_day_for_each_day_in_june(self):
         plan = build_month_plan("2026-06", PROFILE, {})
 
         self.assertEqual(plan.month, "2026-06")
         self.assertEqual(len(plan.days), 30)
         self.assertEqual(plan.days[0].date, dt.date(2026, 6, 1))
         self.assertIn("Upper Strength", plan.days[0].title)
-        self.assertIn("Lower Strength", plan.days[1].title)
+        self.assertIn("Knee Capacity", plan.days[1].title)
         self.assertIn("Recovery", plan.days[2].title)
-        self.assertIn("Upper Hypertrophy", plan.days[3].title)
-        self.assertIn("Lower Posterior", plan.days[4].title)
+        self.assertIn("Calisthenics", plan.days[3].title)
+        self.assertIn("Posterior Chain", plan.days[4].title)
+        self.assertNotEqual([day.title for day in plan.days[:7]], [day.title for day in plan.days[7:14]])
 
     def test_adds_daily_macros_and_low_first_week_running_volume(self):
         plan = build_month_plan("2026-06", PROFILE, {})
@@ -70,7 +71,32 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("Shortened for schedule constraints.", day.adjustments)
         self.assertTrue(any("minimum effective dose" in line for line in day.description))
 
+    def test_high_risk_festival_blocks_become_recovery_or_maintenance(self):
+        conflicts = {
+            dt.date(2026, 6, 27): DayConflicts(
+                date=dt.date(2026, 6, 27),
+                flags=frozenset({"busy", "festival", "alcohol", "late_night"}),
+                risk_level="high",
+            )
+        }
+
+        plan = build_month_plan("2026-06", PROFILE, conflicts)
+        day = plan.by_date(dt.date(2026, 6, 27))
+
+        self.assertIn(day.category, {"recovery", "maintenance"})
+        self.assertIn("Adjusted for high-risk schedule constraints.", day.adjustments)
+        self.assertLessEqual(day.run_km, 3)
+
+    def test_exercise_selection_includes_strength_calisthenics_plyometrics_and_functional_work(self):
+        plan = build_month_plan("2026-06", PROFILE, {})
+        description = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
+
+        self.assertIn("bench", description)
+        self.assertIn("pull-ups", description)
+        self.assertIn("pogos", description)
+        self.assertIn("farmer", description)
+        self.assertIn("easy run", description)
+
 
 if __name__ == "__main__":
     unittest.main()
-

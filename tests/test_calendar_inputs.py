@@ -6,6 +6,7 @@ from pathlib import Path
 
 from training_calendar.calendar_inputs import (
     DayConflicts,
+    analyze_calendar_texts,
     load_calendar_sources,
     scan_calendar_texts,
 )
@@ -82,7 +83,73 @@ class CalendarInputTests(unittest.TestCase):
         self.assertIsInstance(conflicts[dt.date(2026, 6, 5)], DayConflicts)
         self.assertNotIn("Private party title must not leak", repr(conflicts[dt.date(2026, 6, 5)]))
 
+    def test_ambiguous_social_and_festival_events_require_private_review(self):
+        calendars = [
+            (
+                "BEGIN:VCALENDAR\n"
+                "X-WR-CALNAME:Stuff\n"
+                "BEGIN:VEVENT\n"
+                "UID:distortion\n"
+                "SUMMARY:Distortion\n"
+                "DTSTART;VALUE=DATE:20260603\n"
+                "DTEND;VALUE=DATE:20260608\n"
+                "END:VEVENT\n"
+                "BEGIN:VEVENT\n"
+                "UID:sommerfest\n"
+                "SUMMARY:Sommerfest P+\n"
+                "DTSTART;TZID=Europe/Copenhagen:20260604T170000\n"
+                "DTEND;TZID=Europe/Copenhagen:20260605T020000\n"
+                "END:VEVENT\n"
+                "BEGIN:VEVENT\n"
+                "UID:roskilde\n"
+                "SUMMARY:Roskilde Festival\n"
+                "DTSTART;VALUE=DATE:20260627\n"
+                "DTEND;VALUE=DATE:20260705\n"
+                "END:VEVENT\n"
+                "END:VCALENDAR\n"
+            )
+        ]
+
+        analysis = analyze_calendar_texts(calendars, "2026-06")
+
+        self.assertTrue(analysis.review_required)
+        self.assertEqual(len(analysis.review_items), 3)
+        self.assertTrue(all(item.risk_level == "high" for item in analysis.review_items))
+        self.assertIn("festival", analysis.review_items[2].flags)
+        self.assertIn("late_night", analysis.day_conflicts[dt.date(2026, 6, 5)].flags)
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 5)].risk_level, "high")
+        self.assertNotIn("Distortion", repr(analysis.day_conflicts[dt.date(2026, 6, 3)]))
+
+    def test_review_answers_convert_ambiguous_events_into_private_free_conflicts(self):
+        calendars = [
+            (
+                "BEGIN:VCALENDAR\n"
+                "X-WR-CALNAME:Stuff\n"
+                "BEGIN:VEVENT\n"
+                "UID:distortion\n"
+                "SUMMARY:Distortion\n"
+                "DTSTART;VALUE=DATE:20260603\n"
+                "DTEND;VALUE=DATE:20260608\n"
+                "END:VEVENT\n"
+                "END:VCALENDAR\n"
+            )
+        ]
+        initial = analyze_calendar_texts(calendars, "2026-06")
+        review = {
+            initial.review_items[0].review_id: {
+                "alcohol": True,
+                "late_night": True,
+                "attendance": "full"
+            }
+        }
+
+        analysis = analyze_calendar_texts(calendars, "2026-06", review_answers=review)
+
+        self.assertFalse(analysis.review_required)
+        self.assertIn("alcohol", analysis.day_conflicts[dt.date(2026, 6, 3)].flags)
+        self.assertIn("late_night", analysis.day_conflicts[dt.date(2026, 6, 4)].flags)
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 4)].risk_level, "high")
+
 
 if __name__ == "__main__":
     unittest.main()
-

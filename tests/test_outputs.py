@@ -37,6 +37,9 @@ class OutputTests(unittest.TestCase):
         self.assertIn("SUMMARY:Upper Strength", ics)
         self.assertIn("DESCRIPTION:", ics)
         self.assertIn("Macros: 3250 kcal", ics)
+        self.assertIn("Overview:\\n", ics)
+        self.assertIn("\\n\\nWarm-Up:\\n", ics)
+        self.assertIn("\\n\\nMain Work:\\n", ics)
 
     def test_ics_does_not_include_private_calendar_details_from_adjustments(self):
         ics = plan_to_ics(_sample_plan())
