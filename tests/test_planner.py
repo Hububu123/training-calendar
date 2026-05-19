@@ -30,16 +30,34 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("Posterior Chain", plan.days[4].title)
         self.assertNotEqual([day.title for day in plan.days[:7]], [day.title for day in plan.days[7:14]])
 
-    def test_adds_daily_macros_and_low_first_week_running_volume(self):
+    def test_adds_adaptive_macros_and_low_first_week_running_volume(self):
         plan = build_month_plan("2026-06", PROFILE, {})
         first_week = [day for day in plan.days if day.date <= dt.date(2026, 6, 7)]
 
-        self.assertEqual(plan.days[0].macros["calories"], 3250)
-        self.assertEqual(plan.days[0].macros["protein_g"], 160)
-        self.assertEqual(plan.days[0].macros["carbs_g"], 445)
-        self.assertEqual(plan.days[0].macros["fat_g"], 90)
+        self.assertEqual(plan.days[0].macros["protein_g"], 165)
+        self.assertEqual(plan.days[1].macros["calories"], 3500)
+        self.assertEqual(plan.days[1].macros["carbs_g"], 505)
+        self.assertLess(plan.days[2].macros["calories"], plan.days[1].macros["calories"])
+        self.assertLess(plan.days[2].macros["carbs_g"], plan.days[1].macros["carbs_g"])
         self.assertGreaterEqual(sum(day.run_km for day in first_week), 18)
         self.assertLessEqual(sum(day.run_km for day in first_week), 25)
+
+    def test_calendar_adjusted_recovery_days_get_recovery_macros(self):
+        conflicts = {
+            dt.date(2026, 6, 6): DayConflicts(
+                date=dt.date(2026, 6, 6),
+                flags=frozenset({"busy", "festival", "alcohol", "late_night"}),
+                risk_level="high",
+            )
+        }
+
+        plan = build_month_plan("2026-06", PROFILE, conflicts)
+        adjusted = plan.by_date(dt.date(2026, 6, 6))
+
+        self.assertEqual(adjusted.category, "recovery")
+        self.assertEqual(adjusted.macros["protein_g"], 165)
+        self.assertEqual(adjusted.macros["calories"], 3150)
+        self.assertEqual(adjusted.macros["carbs_g"], 385)
 
     def test_moves_sprint_away_from_day_after_alcohol_flag_without_leaking_titles(self):
         conflicts = {
@@ -97,11 +115,13 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("farmer", description)
         self.assertIn("easy run", description)
 
-    def test_workouts_stay_concise_enough_for_efficient_sessions(self):
+    def test_workouts_use_quality_progression_guardrails(self):
         plan = build_month_plan("2026-06", PROFILE, {})
+        description = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
 
         self.assertTrue(all(len(day.description) <= 6 for day in plan.days))
-        self.assertTrue(all(any("45-60 min" in line for line in day.description) for day in plan.days if day.category == "gym"))
+        self.assertIn("progression", description)
+        self.assertIn("add volume only", description)
 
 
 if __name__ == "__main__":

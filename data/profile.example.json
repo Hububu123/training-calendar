@@ -15,8 +15,9 @@
     "recent_marathon": true,
     "marathon_recovery_status": "mostly recovered",
     "first_month_emphasis": "growth-biased hybrid",
+    "bodyweight_gain_target_kg_per_week": [0.2, 0.4],
     "weekly_running_volume_target_km": [20, 25],
-    "gym_session_target_minutes": [45, 60]
+    "gym_session_target_minutes": [50, 75]
   },
   "current_performance": {
     "bench_kg": 90,
@@ -34,10 +35,10 @@
     "underfueling_risk": true
   },
   "nutrition": {
-    "daily_calories": 3250,
-    "protein_g": 160,
-    "carbs_g": 445,
-    "fat_g": 90,
+    "daily_calories": 3350,
+    "protein_g": 165,
+    "carbs_g": 455,
+    "fat_g": 95,
     "foods_preferred": [
       "eggs",
       "rye bread",

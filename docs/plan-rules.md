@@ -66,10 +66,23 @@ Review answers live in `data/event_reviews/YYYY-MM.local.json` and are never com
 
 ## Nutrition
 
-Use one daily macro target and adjust with weekly bodyweight trend:
+Use adaptive lean-gain targets and adjust with weekly bodyweight trend.
 
-- Start around 3250 kcal.
-- Start around 160 g protein.
-- Keep carbohydrates high enough for evening lifting and running.
-- Add calories if weight is flat and performance or recovery is not improving.
+- Target bodyweight gain: 0.2-0.4 kg/week.
+- Keep protein high every day: about 165 g/day.
+- Heavy lower, full-body, sprint, and long-run days get the highest carbohydrates.
+- Upper/moderate gym days stay in a moderate surplus.
+- Easy-run days stay fueled but below heavy days.
+- Recovery and high-risk schedule days are lower, but not low-calorie, because under-fueling is a known risk.
+- Add 150-200 kcal/day if bodyweight is flat for 2 weeks and gym performance or recovery is not improving.
+- Remove 150-200 kcal/day if bodyweight rises faster than 0.4 kg/week for 2 consecutive weeks.
 - Increase food immediately if bodyweight drops below 74 kg.
+
+Default day-type targets:
+
+- Heavy lower/full-body gym: 3500 kcal, 165 g protein, 505 g carbs, 100 g fat.
+- Sprint or long run: 3550 kcal, 165 g protein, 520 g carbs, 100 g fat.
+- Upper/moderate gym: 3350 kcal, 165 g protein, 455 g carbs, 95 g fat.
+- Easy run: 3300 kcal, 165 g protein, 445 g carbs, 95 g fat.
+- Maintenance schedule-adjusted day: 3200 kcal, 165 g protein, 400 g carbs, 105 g fat.
+- Recovery/high-risk day: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat.
