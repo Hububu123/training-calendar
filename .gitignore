@@ -2,6 +2,7 @@ private/
 data/*.local.json
 data/checkins/*.local.json
 data/checkins/*.local.csv
+data/checkins/*.local.xlsx
 data/event_reviews/*.local.json
 .venv/
 __pycache__/

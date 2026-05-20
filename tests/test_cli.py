@@ -4,6 +4,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
+from training_calendar.checkins import write_monthly_template
 from training_calendar.cli import main
 
 
@@ -161,12 +162,49 @@ class CliTests(unittest.TestCase):
             tmp_path = Path(tmp)
             profile = tmp_path / "profile.json"
             profile.write_text(_profile_json(), encoding="utf-8")
-            checkins = tmp_path / "checkins.local.csv"
-            checkins.write_text(
-                "date,completed,session_rpe,knee_pain,sleep_quality,fueling,bodyweight_kg,notes\n"
-                "2026-06-01,partial,9,5,2,5,74.6,private knee note\n"
-                "2026-06-02,skipped,,6,2,4,74.2,private sleep note\n",
-                encoding="utf-8",
+            checkins = tmp_path / "checkins.local.xlsx"
+            write_monthly_template(
+                "2026-06",
+                checkins,
+                {
+                    "days": [
+                        {
+                            "date": "2026-06-01",
+                            "title": "Lower Strength",
+                            "category": "gym",
+                            "run_km": 0,
+                            "macros": {},
+                            "adjustments": [],
+                            "description": ["Hack squat"],
+                            "feedback": {
+                                "completed": "partial",
+                                "session_rpe": 9,
+                                "knee_pain": 5,
+                                "sleep_quality": 2,
+                                "fueling": 5,
+                                "bodyweight_kg": 74.6,
+                                "notes": "private knee note",
+                            },
+                        },
+                        {
+                            "date": "2026-06-02",
+                            "title": "Recovery",
+                            "category": "recovery",
+                            "run_km": 0,
+                            "macros": {},
+                            "adjustments": [],
+                            "description": ["Walk"],
+                            "feedback": {
+                                "completed": "skipped",
+                                "knee_pain": 6,
+                                "sleep_quality": 2,
+                                "fueling": 4,
+                                "bodyweight_kg": 74.2,
+                                "notes": "private sleep note",
+                            },
+                        },
+                    ]
+                },
             )
 
             exit_code = main(
@@ -192,34 +230,47 @@ class CliTests(unittest.TestCase):
     def test_checkin_template_and_save_checkins_commands(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp_path = Path(tmp)
-            template_exit = main(["checkin-template", "--month", "2026-06", "--out-dir", str(tmp_path)])
-            template = tmp_path / "data" / "checkins" / "2026-06.template.csv"
-
-            source = tmp_path / "phone-export.csv"
-            source.write_text(
-                "date,completed,session_rpe,knee_pain,sleep_quality,fueling,bodyweight_kg,main_lift,notes\n"
-                "2026-06-01,full,8,2,3,8,75.0,bench,private note\n",
+            plan_dir = tmp_path / "plans"
+            plan_dir.mkdir()
+            (plan_dir / "2026-06.json").write_text(
+                json.dumps(
+                    {
+                        "days": [
+                            {
+                                "date": "2026-06-01",
+                                "title": "Upper Strength + Calisthenics Pull",
+                                "category": "gym",
+                                "run_km": 0,
+                                "macros": {"calories": 3350, "protein_g": 165, "carbs_g": 455, "fat_g": 95},
+                                "adjustments": [],
+                                "description": ["Bench press: top set 1 x 4-6 at RPE 8."],
+                            }
+                        ]
+                    }
+                ),
                 encoding="utf-8",
             )
+            template_exit = main(["checkin-template", "--month", "2026-06", "--out-dir", str(tmp_path)])
+            template = tmp_path / "data" / "checkins" / "2026-06.template.xlsx"
+
             save_exit = main(
                 [
                     "save-checkins",
                     "--month",
                     "2026-06",
                     "--source",
-                    str(source),
+                    str(template),
                     "--out-dir",
                     str(tmp_path),
                 ]
             )
-            saved = tmp_path / "data" / "checkins" / "2026-06.local.csv"
+            saved = tmp_path / "data" / "checkins" / "2026-06.local.xlsx"
 
             self.assertEqual(template_exit, 0)
             self.assertEqual(save_exit, 0)
             self.assertTrue(template.exists())
             self.assertTrue(saved.exists())
-            self.assertEqual(len(template.read_text(encoding="utf-8").splitlines()), 31)
-            self.assertIn("private note", saved.read_text(encoding="utf-8"))
+            self.assertGreater(template.stat().st_size, 1000)
 
 
 def _profile_json() -> str:

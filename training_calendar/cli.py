@@ -46,7 +46,7 @@ def _build_parser() -> argparse.ArgumentParser:
     generate.add_argument(
         "--checkins",
         default=None,
-        help="Ignored local phone check-in CSV or JSON from the prior month.",
+        help="Ignored local phone check-in Excel workbook or JSON from the prior month.",
     )
 
     analyze = subparsers.add_parser("analyze", help="Analyze private calendars and list review questions.")
@@ -57,13 +57,14 @@ def _build_parser() -> argparse.ArgumentParser:
         help="Ignored local calendar source JSON file. Missing file is allowed.",
     )
 
-    template = subparsers.add_parser("checkin-template", help="Create a blank monthly phone check-in CSV.")
+    template = subparsers.add_parser("checkin-template", help="Create a blank monthly phone check-in Excel workbook.")
     template.add_argument("--month", required=True, help="Month to template, formatted as YYYY-MM.")
     template.add_argument("--out-dir", default=".", help="Repository/output root.")
+    template.add_argument("--plan", default=None, help="Optional generated plan JSON to include workout details.")
 
     save = subparsers.add_parser("save-checkins", help="Save a completed phone check-in export locally.")
     save.add_argument("--month", required=True, help="Feedback month, formatted as YYYY-MM.")
-    save.add_argument("--source", required=True, help="Completed CSV or JSON export to save.")
+    save.add_argument("--source", required=True, help="Completed Excel workbook or JSON export to save.")
     save.add_argument("--out-dir", default=".", help="Repository/output root.")
     return parser
 
@@ -116,8 +117,8 @@ def _generate(args: argparse.Namespace) -> int:
 
 
 def _checkin_template(args: argparse.Namespace) -> int:
-    path = Path(args.out_dir) / "data" / "checkins" / f"{args.month}.template.csv"
-    write_monthly_template(args.month, path)
+    path = Path(args.out_dir) / "data" / "checkins" / f"{args.month}.template.xlsx"
+    write_monthly_template(args.month, path, _load_plan_for_template(args))
     print(f"Wrote monthly check-in template: {path}")
     return 0
 
@@ -137,6 +138,13 @@ def _load_review_answers(path: str | None) -> dict[str, dict] | None:
     if not review_path.exists():
         return None
     return json.loads(review_path.read_text(encoding="utf-8"))
+
+
+def _load_plan_for_template(args: argparse.Namespace) -> dict | None:
+    plan_path = Path(args.plan) if args.plan else Path(args.out_dir) / "plans" / f"{args.month}.json"
+    if not plan_path.exists():
+        return None
+    return json.loads(plan_path.read_text(encoding="utf-8"))
 
 
 def _generate_calendar_sources_path(args: argparse.Namespace) -> Path:
