@@ -17,7 +17,13 @@
     "first_month_emphasis": "growth-biased hybrid",
     "bodyweight_gain_target_kg_per_week": [0.2, 0.4],
     "weekly_running_volume_target_km": [20, 25],
-    "gym_session_target_minutes": [50, 75]
+    "gym_session_target_minutes": [50, 75],
+    "active_commute": {
+      "mode": "bike",
+      "minutes_each_way": 30,
+      "intensity": "calm",
+      "applies_to_work_days": true
+    }
   },
   "current_performance": {
     "bench_kg": 90,

@@ -38,7 +38,7 @@ Each monthly planning run should:
 
 1. Fetch Hubert's published Apple Calendar feeds.
 2. Identify calendar names from `X-WR-CALNAME`.
-3. Use the `Arbejde` calendar as the authoritative source for actual work days and work hours.
+3. Use the configured work calendar as the authoritative source for actual work days and work hours.
 4. Scan all calendars for training-interfering events such as sickness, alcohol/parties, travel, exams, social events, and no-training blocks.
 5. Ask Hubert for subjective check-in data:
    - training completion
@@ -61,12 +61,7 @@ The system should read Hubert's published Apple Calendar feeds, converting `webc
 
 Raw calendar feed URLs are private configuration and must not be committed to a public GitHub Pages repository. They should live in a local ignored file or in the monthly thread automation, not in generated public artifacts or public docs.
 
-Expected calendar names:
-
-- `Ferie`
-- `Stuff`
-- `Arbejde`
-- `Skole`
+Expected calendar names are private input details. Do not copy them into generated public artifacts.
 
 ## Privacy Rules
 
@@ -188,7 +183,7 @@ Food preferences and constraints:
 
 Meal timing should fit the real day:
 
-- work usually appears in `Arbejde`; do not assume fixed work hours unless present in the calendar
+- work usually appears in the configured work calendar; do not assume fixed work hours unless present in the calendar
 - weekday training is usually best around 18:00 when timed events are needed, but public training calendar events should be all-day
 - morning runs may be used if short and easy
 - evening gym should be supported by an afternoon or pre-gym meal with reliable carbohydrate

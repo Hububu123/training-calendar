@@ -142,11 +142,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
-                "Progression: double progression; add load only after all sets reach the top of the range with 1-2 reps in reserve.",
-                f"Bench press: top set 1 x 4-6, then {max(2, int(strength_sets) - 1)} back-off sets x 5-7.",
-                "Pull-ups: 4 x 4-8 paired with chest-supported row 4 x 8-12.",
-                "Incline dumbbell press: 3 x 8-12 paired with dips or push-ups 2-3 x clean reps.",
-                "Core finisher: farmer carries 4 x 30-40 m plus dead bug 2 x 8 per side.",
+                "Progression: double progression; add load only after all sets reach the top of the range at RPE 8 or lower, about 2 RIR.",
+                f"Bench press: top set 1 x 4-6 at RPE 8, then {max(2, int(strength_sets) - 1)} back-off sets x 5-7 at RPE 7-8.",
+                "Pull-ups: 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.",
+                "Incline dumbbell press: 3 x 8-12 at RPE 8 paired with dips or push-ups 2-3 x clean reps, stop at 1-2 RIR.",
+                "Core finisher: farmer carries 4 x 30-40 m at RPE 7 plus dead bug 2 x 8 per side.",
             ),
         ),
         2: PlanDay(
@@ -157,11 +157,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and tibialis raises.",
-                "Progression: double progression; add load only when knee tracking stays clean and discomfort stays 0-2/10.",
-                f"Hack squat or goblet squat: top set 1 x 6-8, then {max(2, int(strength_sets) - 1)} back-off sets x 8-10.",
-                f"Romanian deadlift: {strength_sets} x 6-8 with controlled eccentrics.",
-                "Split squat or step-up: 3 x 8-10 per leg paired with leg curl 3 x 10-15.",
-                "Core finisher: calf raises plus tibialis raises 4 x 12-20 each, then side plank 2 x 30 sec.",
+                "Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 8.",
+                f"Hack squat or goblet squat: top set 1 x 6-8 at RPE 8, then {max(2, int(strength_sets) - 1)} back-off sets x 8-10 at RPE 7-8.",
+                f"Romanian deadlift: {strength_sets} x 6-8 at RPE 7-8 with controlled eccentrics.",
+                "Split squat or step-up: 3 x 8-10 per leg at RPE 7 paired with leg curl 3 x 10-15 at RPE 8.",
+                "Core finisher: calf raises plus tibialis raises 4 x 12-20 each at RPE 7, then side plank 2 x 30 sec.",
             ),
         ),
         3: PlanDay(
@@ -171,7 +171,7 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=5,
             macros=macros,
             description=(
-                "Easy run: 5 km at conversational effort; cadence light and relaxed.",
+                "Easy run RPE 3-4: 5 km at conversational effort; cadence light and relaxed.",
                 "Mobility: 8-10 min hips, quads, calves, and ankles.",
                 "Optional: 20-30 min walk later if knees feel normal.",
                 "Fueling: fruit or rye bread plus caffeine is enough before a short morning run.",
@@ -185,26 +185,25 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 5 min easy cardio, shoulder circles, light rows, and scap pull-ups.",
-                "Progression: double progression; beat total quality reps before adding load or a set.",
-                "Pull-ups: 5 x 4-8 or 20-30 total quality reps.",
-                "Dips or push-ups: 3 x 8-15.",
-                "One-arm dumbbell row or inverted row: 3 x 8-12 paired with incline dumbbell press 2-3 x 8-12.",
-                "Core finisher: lateral raises plus hanging leg raises 2-3 sets each.",
+                "Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 8-9.",
+                "Pull-ups: 5 x 4-8 or 20-30 total quality reps at RPE 8.",
+                "Dips or push-ups: 3 x 8-15 at RPE 8-9, stop before shoulder position changes.",
+                "One-arm dumbbell row or inverted row: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.",
+                "Core finisher: lateral raises plus hanging leg raises 2-3 sets each at RPE 8.",
             ),
         ),
         5: PlanDay(
             date=date,
-            title="Posterior Chain + Functional Carries",
-            category="gym",
+            title="Recovery + Knee Capacity",
+            category="recovery",
             run_km=0,
             macros=macros,
             description=(
-                "Warm-up: 7-8 min bike, glute bridges, ankle mobility, and light hinge ramp sets.",
-                "Progression: double progression; add load only when hinge speed and hamstring control stay crisp.",
-                f"Romanian deadlift: top set 1 x 5-7, then {max(2, int(strength_sets) - 1)} back-off sets x 6-8.",
-                "Hip thrust or glute bridge: 3 x 8-12 paired with front-foot elevated split squat 2-3 x 8-10.",
-                "Farmer carries: 3 x 30-40 m.",
-                "Core finisher: Pallof press or side plank 3 sets.",
+                "Recovery RPE 2-3: 30-45 min walk or easy bike; keep legs fresh for the next sprint exposure.",
+                "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
+                "Mobility: hips, ankles, quads, calves, and glutes for 10-12 min.",
+                "Core: Pallof press or side plank 2-3 easy sets.",
+                "Fueling: keep protein fixed and include carbs at lunch and dinner.",
             ),
         ),
         6: PlanDay(
@@ -215,9 +214,9 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up jog: 10-12 min easy plus leg swings, A-skips, ankling, and 3 relaxed strides.",
-                "Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day.",
-                "Plyometrics: pogos 3 x 20 sec, snap-downs 3 x 5, low broad jumps 3 x 3.",
-                f"Hill sprints: {sprint_reps} x 10-12 sec uphill at powerful but controlled effort; full walk-back recovery.",
+                "Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day; sprint RPE 7-8, never max.",
+                "Plyometrics: pogos 3 x 20 sec, snap-downs 3 x 5, low broad jumps 3 x 3 at crisp RPE 6-7.",
+                f"Hill sprints: {sprint_reps} x 10-12 sec uphill at sprint RPE 7-8; full walk-back recovery.",
                 "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
                 "Optional: dead bug 3 x 8 per side and side plank 2 x 30 sec.",
             ),
@@ -229,7 +228,7 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=10 if not deload else 8,
             macros=macros,
             description=(
-                "Easy run: 10 km at conversational effort; keep the final 2 km controlled, not fast.",
+                "Easy run RPE 3-4: 10 km at conversational effort; keep the final 2 km controlled, not fast.",
                 "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
                 "Recovery: protein plus a large carb meal within 2 hours.",
                 "Fueling: eat carbs the night before and before the run; add electrolytes if warm.",
@@ -243,11 +242,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 7 min easy cardio, squat-to-stand, band rows, push-ups, and hinge ramp sets.",
-                "Progression: double progression; add load only when presses, hinges, and pulls are all stable.",
-                f"Incline press or bench press: top set 1 x 6-8, then {volume} back-off sets x 8-10.",
-                f"Trap-bar deadlift, Romanian deadlift, or heavy hinge: {volume} x 5-6.",
-                "Pull-ups or chest-supported rows: 4 x 6-10 paired with goblet squat 3 x 8-12.",
-                "Core finisher: farmer carries 3 x 40 m plus dead bug 2 x 8 per side.",
+                "Progression: double progression; add load only when presses, hinges, and pulls are all stable at RPE 8 or lower.",
+                f"Incline press or bench press: top set 1 x 6-8 at RPE 8, then {volume} back-off sets x 8-10 at RPE 7-8.",
+                f"Trap-bar deadlift, Romanian deadlift, or heavy hinge: {volume} x 5-6 at RPE 7-8, leave 2-3 RIR.",
+                "Pull-ups or chest-supported rows: 4 x 6-10 at RPE 8 paired with goblet squat 3 x 8-12 at RPE 7.",
+                "Core finisher: farmer carries 3 x 40 m at RPE 7 plus dead bug 2 x 8 per side.",
             ),
         ),
         9: PlanDay(
@@ -257,8 +256,8 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=6,
             macros=macros,
             description=(
-                "Easy run: 6 km conversational.",
-                "Strides: 4 x 15 sec relaxed on flat ground only if knees feel normal.",
+                "Easy run RPE 3-4: 6 km conversational.",
+                "Strides: 4 x 15 sec relaxed at RPE 6 on flat ground only if knees feel normal.",
                 "Mobility: 8 min calves, quads, glutes, and ankles.",
                 "Fueling: small carb snack before morning running if sleep was poor.",
             ),
@@ -271,11 +270,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 7-8 min bike, split squat isometric holds, ankle rocks, and hinge ramp sets.",
-                "Progression: double progression; add load only when tempo and knee control stay stable.",
-                "Bulgarian split squat or step-up: 3-4 x 6-10 per leg.",
-                "Romanian deadlift: 3 x 8 paired with leg curl 3 x 10-15.",
-                "Walking lunges: 2-3 x 12 steps per leg.",
-                "Core finisher: calf raises plus Copenhagen plank 2-3 sets each.",
+                "Progression: double progression; add load only when tempo and knee control stay stable at RPE 8 or lower.",
+                "Bulgarian split squat or step-up: 3-4 x 6-10 per leg at RPE 7-8.",
+                "Romanian deadlift: 3 x 8 at RPE 7-8 paired with leg curl 3 x 10-15 at RPE 8.",
+                "Walking lunges: 2-3 x 12 steps per leg at RPE 7.",
+                "Core finisher: calf raises plus Copenhagen plank 2-3 sets each at RPE 7.",
             ),
         ),
         11: PlanDay(
@@ -286,11 +285,11 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
-                "Progression: double progression by adding clean reps before adding time or load.",
-                "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises.",
-                "Easy run: 4 km conversational immediately after or in the morning.",
-                "Carry finisher: suitcase carry 3 x 30 m per side.",
-                "Optional: lateral raises or curls 2 x 15-20 if time remains.",
+                "Progression: double progression by adding clean reps before adding time or load; cap the density block at RPE 8.",
+                "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises at 2 RIR.",
+                "Easy run RPE 3-4: 4 km conversational immediately after or in the morning.",
+                "Carry finisher: suitcase carry 3 x 30 m per side at RPE 7.",
+                "Optional: lateral raises or curls 2 x 15-20 at RPE 8 if time remains.",
             ),
         ),
         12: PlanDay(
@@ -300,9 +299,9 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=0,
             macros=macros,
             description=(
-                "Recovery: 30-60 min walk or easy bike.",
+                "Recovery RPE 2-3: 30-60 min walk or easy bike.",
                 "Mobility: hips, ankles, thoracic spine, calves, and quads for 12-15 min.",
-                "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec.",
+                "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec at RPE 6-7.",
                 "Optional: light crawling or plank variations for 5 min.",
                 "Fueling: keep protein at target and do not under-eat on the recovery day.",
             ),
@@ -315,10 +314,10 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             macros=macros,
             description=(
                 "Warm-up jog: 10 min easy plus skips, ankling, hip openers, and 3 relaxed strides.",
-                "Progression: add power volume only when jumps stay crisp and knees stay quiet the next day.",
-                "Plyometrics: pogos 3 x 20 sec, low broad jumps 4 x 2, and med-ball slams 4 x 5 if available.",
-                "Hill sprint technique: 4-6 x 8-10 sec at fast but controlled effort.",
-                "Functional work: sled push if easy to set up or farmer carries 4 x 30 m.",
+                "Progression: add power volume only when jumps stay crisp and knees stay quiet the next day; sprint RPE 7-8.",
+                "Plyometrics: pogos 3 x 20 sec, low broad jumps 4 x 2, and med-ball slams 4 x 5 at crisp RPE 6-7 if available.",
+                "Hill sprint technique: 4-6 x 8-10 sec at sprint RPE 7-8.",
+                "Functional work: sled push if easy to set up or farmer carries 4 x 30 m at RPE 7.",
                 "Core: crawling 3 x 20 m or dead bug 3 x 8 per side.",
             ),
         ),
@@ -329,8 +328,8 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
             run_km=9 if not deload else 7,
             macros=macros,
             description=(
-                "Easy run: 9 km conversational; shorten to 6 km if sleep or knees are poor.",
-                "Optional: 4 x 20 sec relaxed strides only if the week felt easy.",
+                "Easy run RPE 3-4: 9 km conversational; shorten to 6 km if sleep or knees are poor.",
+                "Optional: 4 x 20 sec relaxed strides at RPE 6 only if the week felt easy.",
                 "Recovery: long mobility reset for calves, quads, hips, and feet.",
                 "Fueling: carbs before and after; keep this aerobic, not competitive.",
             ),
@@ -432,6 +431,10 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
         else:
             description.append("Keep this session flexible: reduce volume by 25-40% before adding intensity.")
 
+    if conflict and "work" in current_flags:
+        adjustments.append("Light active commute counted.")
+        description = _add_active_commute_note(description)
+
     if adjustments:
         # Preserve insertion order while preventing repeated generic notes.
         adjustments = list(dict.fromkeys(adjustments))
@@ -445,3 +448,23 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
         description=tuple(description),
         adjustments=tuple(adjustments),
     )
+
+
+def _add_active_commute_note(description: list[str]) -> list[str]:
+    note = "Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE."
+    if any("active commute" in line.casefold() for line in description):
+        return description
+
+    for prefix in ("Progression:", "Recovery:", "Easy run", "Main work:"):
+        for index, line in enumerate(description):
+            if line.startswith(prefix):
+                updated = list(description)
+                updated[index] = f"{line} {note}"
+                return updated
+
+    if len(description) < 6:
+        return [*description, note]
+
+    updated = list(description)
+    updated[-1] = f"{updated[-1]} {note}"
+    return updated

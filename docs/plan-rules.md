@@ -36,6 +36,8 @@ Programming priorities:
 - functional work: farmer carries, suitcase carries, sled if easy to set up, lunges, hinges, trunk anti-rotation
 - every 14-day wave must include heavy compounds for press, squat/knee-dominant work, hinge/deadlift pattern, and vertical/horizontal pull
 - core work must appear repeatedly through carries, anti-rotation, side plank/Copenhagen plank, hanging leg raises, crawling, or dead bugs
+- hard lower-body, posterior-chain, sprint, and plyometric exposures should not be stacked on adjacent days unless calendar constraints force a conservative replacement
+- calm bike commuting on scheduled work days counts as low-intensity aerobic load and should slightly bias the day away from extra junk volume
 - low initial running volume around 20-25 km per week after the recent marathon
 - training placed around calendar risk rather than forced into fixed weekdays
 
@@ -44,7 +46,12 @@ Use progression rules instead of fixed session-length rules:
 - Main lifts use top set plus back-off sets where useful.
 - Hypertrophy and calisthenics work use double progression: add reps first, then load or a set.
 - Add volume only when performance improves without joint irritation, sleep/recovery is adequate, and reps stay technically clean.
-- Keep 1-2 reps in reserve on most work while strength is still rebuilding after the marathon.
+- Heavy top sets should usually land around RPE 8, about 2 RIR.
+- Back-off compound sets should usually stay around RPE 7-8, about 2-3 RIR.
+- Hypertrophy and calisthenics sets can reach RPE 8-9, but only controlled accessories should approach 1 RIR.
+- Knee capacity work should stay around RPE 6-7 with discomfort around 0-2/10.
+- Sprint and plyometric work should stay around RPE 7-8 with crisp mechanics, not maximal effort.
+- Easy aerobic work should stay around RPE 3-4; recovery work should stay around RPE 2-3.
 - For knee-dominant work, progression requires stable tracking and discomfort staying around 0-2/10.
 - For sprint/plyometric work, add contacts or sprint reps only when mechanics stay crisp and knees are quiet the next day.
 

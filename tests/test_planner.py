@@ -27,7 +27,7 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("Knee Capacity", plan.days[1].title)
         self.assertIn("Recovery", plan.days[2].title)
         self.assertIn("Calisthenics", plan.days[3].title)
-        self.assertIn("Posterior Chain", plan.days[4].title)
+        self.assertIn("Knee Capacity", plan.days[4].title)
         self.assertNotEqual([day.title for day in plan.days[:7]], [day.title for day in plan.days[7:14]])
 
     def test_daily_titles_are_plain_workout_names_without_decorative_codenames(self):
@@ -133,6 +133,45 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("double progression", description)
         self.assertIn("top set", description)
         self.assertIn("back-off", description)
+
+    def test_workouts_prescribe_perceived_difficulty_with_rpe_and_rir(self):
+        plan = build_month_plan("2026-06", PROFILE, {})
+        first_wave = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
+
+        self.assertIn("rpe 8", first_wave)
+        self.assertIn("2 rir", first_wave)
+        self.assertIn("rpe 7-8", first_wave)
+        self.assertIn("easy run rpe 3-4", first_wave)
+        self.assertIn("sprint rpe 7-8", first_wave)
+
+    def test_hard_lower_body_work_is_spaced_away_from_sprint_days(self):
+        plan = build_month_plan("2026-06", PROFILE, {})
+        first_wave_titles = [day.title for day in plan.days[:14]]
+
+        self.assertEqual(first_wave_titles[4], "Recovery + Knee Capacity")
+        for index, day in enumerate(plan.days[:14]):
+            if day.category == "sprint":
+                previous_description = "\n".join(plan.days[index - 1].description).casefold()
+                self.assertNotIn("romanian deadlift", previous_description)
+                self.assertNotIn("split squat", previous_description)
+                self.assertNotIn("walking lunges", previous_description)
+
+    def test_work_days_count_calm_bike_commute_as_light_aerobic_load(self):
+        conflicts = {
+            dt.date(2026, 6, 2): DayConflicts(
+                date=dt.date(2026, 6, 2),
+                flags=frozenset({"busy", "work"}),
+                work_minutes=480,
+            )
+        }
+
+        plan = build_month_plan("2026-06", PROFILE, conflicts)
+        day = plan.by_date(dt.date(2026, 6, 2))
+        public_text = "\n".join(day.description).casefold()
+
+        self.assertIn("Light active commute counted.", day.adjustments)
+        self.assertIn("30 min calm cycling each way", public_text)
+        self.assertNotIn("arbejde", public_text)
 
     def test_each_wave_keeps_heavy_compounds_and_core_work(self):
         plan = build_month_plan("2026-06", PROFILE, {})
