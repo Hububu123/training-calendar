@@ -1,11 +1,28 @@
 from __future__ import annotations
 
 import csv
+import datetime as dt
 import json
+import shutil
 from dataclasses import dataclass
 from pathlib import Path
 from statistics import mean
 from typing import Any
+
+from training_calendar.calendar_inputs import month_bounds
+
+
+CHECKIN_FIELDS = (
+    "date",
+    "completed",
+    "session_rpe",
+    "knee_pain",
+    "sleep_quality",
+    "fueling",
+    "bodyweight_kg",
+    "main_lift",
+    "notes",
+)
 
 
 @dataclass(frozen=True)
@@ -38,6 +55,28 @@ def load_checkin_summary(path: str | Path | None) -> CheckinSummary:
     else:
         rows = _read_json_rows(checkin_path)
     return summarize_checkins(rows)
+
+
+def write_monthly_template(month: str, path: str | Path) -> Path:
+    output_path = Path(path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    start_date, end_date = month_bounds(month)
+    with output_path.open("w", newline="", encoding="utf-8") as handle:
+        writer = csv.DictWriter(handle, fieldnames=CHECKIN_FIELDS)
+        writer.writeheader()
+        current = start_date
+        while current < end_date:
+            writer.writerow({"date": current.isoformat()})
+            current += dt.timedelta(days=1)
+    return output_path
+
+
+def save_completed_checkins(month: str, source: str | Path, out_dir: str | Path = ".") -> Path:
+    source_path = Path(source)
+    destination = Path(out_dir) / "data" / "checkins" / f"{month}.local{source_path.suffix or '.csv'}"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(source_path, destination)
+    return destination
 
 
 def summarize_checkins(rows: list[dict[str, Any]]) -> CheckinSummary:

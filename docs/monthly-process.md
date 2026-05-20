@@ -14,6 +14,7 @@ On the 1st at 08:00 Europe/Copenhagen time, the monthly check-in thread should:
 8. Ask only for missing subjective check-in data: bodyweight trend, training completion, fatigue, knees, sleep, lifting progress, running progress, sprint tolerance, and fueling adherence.
 9. Generate the next month with `generate --month YYYY-MM --review data/event_reviews/YYYY-MM.local.json --checkins data/checkins/PREVIOUS-MONTH.local.csv`.
 10. Regenerate `plans/YYYY-MM.json`, `plans/YYYY-MM.md`, and `public/training-calendar.ics`.
+11. Create the new month's blank phone feedback template with `checkin-template --month YYYY-MM --out-dir .`.
 
 The public calendar feed is a training artifact, not a copy of private calendar data.
 

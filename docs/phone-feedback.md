@@ -16,7 +16,28 @@ Use a separate phone form for workout feedback. Do not use notes on the subscrib
 
 ## Monthly Use
 
-Export the form or spreadsheet as CSV and save it locally as:
+Create a fresh blank monthly template with:
+
+```bash
+python3 -m training_calendar.cli checkin-template --month YYYY-MM --out-dir .
+```
+
+This writes:
+
+`data/checkins/YYYY-MM.template.csv`
+
+You can use the columns from that file in a phone form, Apple Numbers sheet, Google Sheet, or any CSV editor.
+
+When you provide a completed phone export, save it locally with:
+
+```bash
+python3 -m training_calendar.cli save-checkins \
+  --month YYYY-MM \
+  --source /path/to/phone-export.csv \
+  --out-dir .
+```
+
+This writes:
 
 `data/checkins/YYYY-MM.local.csv`
 

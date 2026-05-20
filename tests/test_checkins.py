@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from training_calendar.checkins import CheckinSummary, load_checkin_summary
+from training_calendar.checkins import CheckinSummary, load_checkin_summary, save_completed_checkins, write_monthly_template
 
 
 class CheckinTests(unittest.TestCase):
@@ -61,6 +61,34 @@ class CheckinTests(unittest.TestCase):
 
         self.assertEqual(summary.entries, 0)
         self.assertFalse(summary.recovery_warning)
+
+    def test_writes_new_monthly_template_with_one_row_per_day(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "2026-06.template.csv"
+
+            write_monthly_template("2026-06", path)
+
+            lines = path.read_text(encoding="utf-8").splitlines()
+            self.assertEqual(len(lines), 31)
+            self.assertTrue(lines[0].startswith("date,completed,session_rpe"))
+            self.assertTrue(lines[1].startswith("2026-06-01,"))
+            self.assertTrue(lines[-1].startswith("2026-06-30,"))
+
+    def test_saves_completed_checkins_to_ignored_local_month_file(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "phone-export.csv"
+            source.write_text(
+                "date,completed,session_rpe,knee_pain,sleep_quality,fueling,bodyweight_kg,main_lift,notes\n"
+                "2026-06-01,full,8,2,3,8,75.0,bench,private note\n",
+                encoding="utf-8",
+            )
+
+            saved = save_completed_checkins("2026-06", source, root)
+
+            self.assertEqual(saved, root / "data" / "checkins" / "2026-06.local.csv")
+            self.assertTrue(saved.exists())
+            self.assertIn("private note", saved.read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":

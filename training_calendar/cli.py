@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 from training_calendar.calendar_inputs import analyze_month, load_calendar_sources
-from training_calendar.checkins import load_checkin_summary
+from training_calendar.checkins import load_checkin_summary, save_completed_checkins, write_monthly_template
 from training_calendar.outputs import write_calendar_ics, write_plan_json, write_plan_markdown
 from training_calendar.planner import build_month_plan, load_profile
 
@@ -17,6 +17,10 @@ def main(argv: list[str] | None = None) -> int:
         return _analyze(args)
     if args.command == "generate":
         return _generate(args)
+    if args.command == "checkin-template":
+        return _checkin_template(args)
+    if args.command == "save-checkins":
+        return _save_checkins(args)
     parser.print_help()
     return 2
 
@@ -52,6 +56,15 @@ def _build_parser() -> argparse.ArgumentParser:
         default="data/calendar_sources.local.json",
         help="Ignored local calendar source JSON file. Missing file is allowed.",
     )
+
+    template = subparsers.add_parser("checkin-template", help="Create a blank monthly phone check-in CSV.")
+    template.add_argument("--month", required=True, help="Month to template, formatted as YYYY-MM.")
+    template.add_argument("--out-dir", default=".", help="Repository/output root.")
+
+    save = subparsers.add_parser("save-checkins", help="Save a completed phone check-in export locally.")
+    save.add_argument("--month", required=True, help="Feedback month, formatted as YYYY-MM.")
+    save.add_argument("--source", required=True, help="Completed CSV or JSON export to save.")
+    save.add_argument("--out-dir", default=".", help="Repository/output root.")
     return parser
 
 
@@ -99,6 +112,21 @@ def _generate(args: argparse.Namespace) -> int:
         print("No private calendar source file found; generated baseline plan without calendar adjustments.")
     if checkins.has_feedback:
         print(f"Applied {checkins.entries} prior-month workout check-ins.")
+    return 0
+
+
+def _checkin_template(args: argparse.Namespace) -> int:
+    path = Path(args.out_dir) / "data" / "checkins" / f"{args.month}.template.csv"
+    write_monthly_template(args.month, path)
+    print(f"Wrote monthly check-in template: {path}")
+    return 0
+
+
+def _save_checkins(args: argparse.Namespace) -> int:
+    path = save_completed_checkins(args.month, args.source, args.out_dir)
+    summary = load_checkin_summary(path)
+    print(f"Saved completed check-ins: {path}")
+    print(f"Loaded {summary.entries} check-in rows.")
     return 0
 
 

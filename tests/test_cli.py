@@ -189,6 +189,38 @@ class CliTests(unittest.TestCase):
             self.assertNotIn("private knee note", ics)
             self.assertNotIn("private sleep note", ics)
 
+    def test_checkin_template_and_save_checkins_commands(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            template_exit = main(["checkin-template", "--month", "2026-06", "--out-dir", str(tmp_path)])
+            template = tmp_path / "data" / "checkins" / "2026-06.template.csv"
+
+            source = tmp_path / "phone-export.csv"
+            source.write_text(
+                "date,completed,session_rpe,knee_pain,sleep_quality,fueling,bodyweight_kg,main_lift,notes\n"
+                "2026-06-01,full,8,2,3,8,75.0,bench,private note\n",
+                encoding="utf-8",
+            )
+            save_exit = main(
+                [
+                    "save-checkins",
+                    "--month",
+                    "2026-06",
+                    "--source",
+                    str(source),
+                    "--out-dir",
+                    str(tmp_path),
+                ]
+            )
+            saved = tmp_path / "data" / "checkins" / "2026-06.local.csv"
+
+            self.assertEqual(template_exit, 0)
+            self.assertEqual(save_exit, 0)
+            self.assertTrue(template.exists())
+            self.assertTrue(saved.exists())
+            self.assertEqual(len(template.read_text(encoding="utf-8").splitlines()), 31)
+            self.assertIn("private note", saved.read_text(encoding="utf-8"))
+
 
 def _profile_json() -> str:
     return json.dumps(
