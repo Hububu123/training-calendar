@@ -105,16 +105,16 @@ The system should keep stable event UIDs so Apple Calendar updates existing subs
 
 Recommended project files:
 
-- `data/profile.yaml`: athlete profile, goals, preferences, current performance, and constraints
-- `data/calendar_sources.local.yaml`: private ignored calendar feed URLs and labels
-- `data/checkins/YYYY-MM.yaml`: monthly subjective check-in answers
-- `plans/YYYY-MM.yaml`: structured monthly plan used as the source of truth
+- `data/profile.example.json`: athlete profile, goals, preferences, current performance, and constraints
+- `data/calendar_sources.local.json`: private ignored calendar feed URLs and labels
+- `data/checkins/YYYY-MM.local.csv`: monthly phone feedback export
+- `plans/YYYY-MM.json`: structured monthly plan used as the source of truth
 - `plans/YYYY-MM.md`: human-readable monthly plan summary
 - `public/training-calendar.ics`: generated public subscribable calendar feed
 - `docs/monthly-process.md`: monthly workflow instructions
 - `docs/plan-rules.md`: training, nutrition, calendar conflict, and privacy rules
 
-The calendar feed should be generated from `plans/YYYY-MM.yaml`, not hand-written directly.
+The calendar feed should be generated from `plans/YYYY-MM.json`, not hand-written directly.
 
 ## Training Logic
 

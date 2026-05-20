@@ -156,6 +156,39 @@ class CliTests(unittest.TestCase):
             self.assertIn("Recovery", ics)
             self.assertNotIn("Distortion", ics)
 
+    def test_generate_uses_private_phone_checkins_without_leaking_notes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            profile = tmp_path / "profile.json"
+            profile.write_text(_profile_json(), encoding="utf-8")
+            checkins = tmp_path / "checkins.local.csv"
+            checkins.write_text(
+                "date,completed,session_rpe,knee_pain,sleep_quality,fueling,bodyweight_kg,notes\n"
+                "2026-06-01,partial,9,5,2,5,74.6,private knee note\n"
+                "2026-06-02,skipped,,6,2,4,74.2,private sleep note\n",
+                encoding="utf-8",
+            )
+
+            exit_code = main(
+                [
+                    "generate",
+                    "--month",
+                    "2026-07",
+                    "--profile",
+                    str(profile),
+                    "--checkins",
+                    str(checkins),
+                    "--out-dir",
+                    str(tmp_path),
+                ]
+            )
+
+            self.assertEqual(exit_code, 0)
+            ics = (tmp_path / "public" / "training-calendar.ics").read_text(encoding="utf-8").replace("\n ", "")
+            self.assertIn("Reduced for prior-month recovery feedback.", ics)
+            self.assertNotIn("private knee note", ics)
+            self.assertNotIn("private sleep note", ics)
+
 
 def _profile_json() -> str:
     return json.dumps(

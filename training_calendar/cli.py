@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 
 from training_calendar.calendar_inputs import analyze_month, load_calendar_sources
+from training_calendar.checkins import load_checkin_summary
 from training_calendar.outputs import write_calendar_ics, write_plan_json, write_plan_markdown
 from training_calendar.planner import build_month_plan, load_profile
 
@@ -37,6 +38,11 @@ def _build_parser() -> argparse.ArgumentParser:
         "--review",
         default=None,
         help="Ignored local event review JSON for private classifications.",
+    )
+    generate.add_argument(
+        "--checkins",
+        default=None,
+        help="Ignored local phone check-in CSV or JSON from the prior month.",
     )
 
     analyze = subparsers.add_parser("analyze", help="Analyze private calendars and list review questions.")
@@ -81,7 +87,8 @@ def _generate(args: argparse.Namespace) -> int:
         conflicts = analysis.day_conflicts
     else:
         conflicts = {}
-    plan = build_month_plan(args.month, profile, conflicts)
+    checkins = load_checkin_summary(args.checkins)
+    plan = build_month_plan(args.month, profile, conflicts, checkins)
 
     write_plan_json(plan, out_dir / "plans" / f"{args.month}.json")
     write_plan_markdown(plan, out_dir / "plans" / f"{args.month}.md")
@@ -90,6 +97,8 @@ def _generate(args: argparse.Namespace) -> int:
     print(f"Generated {len(plan.days)} all-day training events for {args.month}.")
     if not sources:
         print("No private calendar source file found; generated baseline plan without calendar adjustments.")
+    if checkins.has_feedback:
+        print(f"Applied {checkins.entries} prior-month workout check-ins.")
     return 0
 
 

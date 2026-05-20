@@ -101,6 +101,9 @@ Review answers live in `data/event_reviews/YYYY-MM.local.json` and are never com
 - Knee soreness: reduce impact and knee-dominant loading.
 - Poor sleep or high fatigue: reduce volume and intensity.
 - Under-fueling: reduce intensity first and add pre-training carbohydrates.
+- Prior-month phone feedback is used only as aggregate training consequence, never as copied notes.
+- If prior-month completion is poor, average session RPE is very high, sleep is poor, or knee pain is elevated, reduce the next block's first sprint exposure and cap heavy lower/full-body work more conservatively.
+- If prior-month fueling is poor or bodyweight drops, add carbohydrates and a small calorie increase on gym, sprint, and long-run days.
 
 ## Nutrition
 

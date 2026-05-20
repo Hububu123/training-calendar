@@ -6,6 +6,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from training_calendar.calendar_inputs import DayConflicts, month_bounds
+from training_calendar.checkins import CheckinSummary
 
 
 @dataclass(frozen=True)
@@ -54,7 +55,12 @@ def load_profile(path: str | Path) -> dict:
     return json.loads(Path(path).read_text(encoding="utf-8"))
 
 
-def build_month_plan(month: str, profile: dict, conflicts: dict[dt.date, DayConflicts]) -> MonthPlan:
+def build_month_plan(
+    month: str,
+    profile: dict,
+    conflicts: dict[dt.date, DayConflicts],
+    feedback: CheckinSummary | None = None,
+) -> MonthPlan:
     start_date, end_date = month_bounds(month)
     macros = _daily_macros(profile)
     days: list[PlanDay] = []
@@ -65,8 +71,9 @@ def build_month_plan(month: str, profile: dict, conflicts: dict[dt.date, DayConf
         wave_day = (day_index % 14) + 1
         block_index = (day_index // 14) + 1
         day = _base_day(current, wave_day, block_index, macros)
+        day = _apply_feedback(day, wave_day, feedback)
         day = _apply_conflicts(day, conflicts.get(current), conflicts.get(current - dt.timedelta(days=1)))
-        day = _with_macros(day, _macros_for_day(profile, day))
+        day = _with_macros(day, _macros_for_day(profile, day, feedback))
         days.append(day)
         current += dt.timedelta(days=1)
 
@@ -87,7 +94,7 @@ def _daily_macros(profile: dict) -> dict[str, int]:
     }
 
 
-def _macros_for_day(profile: dict, day: PlanDay) -> dict[str, int]:
+def _macros_for_day(profile: dict, day: PlanDay, feedback: CheckinSummary | None = None) -> dict[str, int]:
     nutrition = profile.get("nutrition", {})
     protein = int(nutrition.get("protein_g", 165))
     if protein < 165:
@@ -106,6 +113,10 @@ def _macros_for_day(profile: dict, day: PlanDay) -> dict[str, int]:
         calories, carbs, fat = 3500, 505, 100
     else:
         calories, carbs, fat = 3350, 455, 95
+
+    if feedback and feedback.underfueling_warning and day.category in {"gym", "sprint", "long_run"}:
+        calories += 150
+        carbs += 35
 
     return {
         "calories": calories,
@@ -336,6 +347,81 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
         ),
     }
     return wave[wave_day]
+
+
+def _apply_feedback(day: PlanDay, wave_day: int, feedback: CheckinSummary | None) -> PlanDay:
+    if not feedback or not feedback.has_feedback:
+        return day
+
+    title = day.title
+    category = day.category
+    run_km = day.run_km
+    description = list(day.description)
+    adjustments = list(day.adjustments)
+
+    if feedback.recovery_warning and wave_day == 6 and category == "sprint":
+        title = "Recovery + Sprint Preparation"
+        category = "recovery"
+        run_km = 0
+        description = [
+            "Recovery RPE 2-3: 30-45 min walk or easy bike; skip sprinting this exposure.",
+            "Sprint preparation: A-skips, ankling, and 3 relaxed buildups only if knees feel quiet.",
+            "Mobility: hips, calves, quads, and ankles for 10-12 min.",
+            "Fueling feedback: add carbohydrates before and after training until bodyweight and performance stabilize.",
+        ]
+    elif feedback.knee_warning and category in {"sprint", "long_run"}:
+        title = "Recovery + Knee Capacity"
+        category = "recovery"
+        run_km = min(run_km, 3)
+        description = [
+            "Recovery RPE 2-3: replace impact with walking or easy bike.",
+            "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec at RPE 6-7.",
+            "Mobility: hips, ankles, quads, calves, and glutes for 10-12 min.",
+            "Fueling feedback: add carbohydrates before and after training until bodyweight and performance stabilize.",
+        ]
+    elif feedback.recovery_warning and category == "gym" and any(
+        token in title for token in ("Lower", "Full-Body", "Posterior")
+    ):
+        description = _reduce_progression_for_feedback(description)
+
+    if feedback.underfueling_warning and "Fueling feedback" not in "\n".join(description):
+        description = _add_feedback_fueling_note(description)
+
+    adjustments.extend(feedback.public_adjustments)
+    adjustments = list(dict.fromkeys(adjustments))
+
+    return PlanDay(
+        date=day.date,
+        title=title,
+        category=category,
+        run_km=run_km,
+        macros=day.macros,
+        description=tuple(description),
+        adjustments=tuple(adjustments),
+    )
+
+
+def _reduce_progression_for_feedback(description: list[str]) -> list[str]:
+    return [
+        f"{line} Prior-month recovery feedback: reduce one back-off set and cap all compounds at RPE 7-8."
+        if line.startswith("Progression:")
+        else line
+        for line in description
+    ]
+
+
+def _add_feedback_fueling_note(description: list[str]) -> list[str]:
+    note = "Fueling feedback: add carbohydrates before and after training until bodyweight and performance stabilize."
+    for index, line in enumerate(description):
+        if line.startswith("Fueling:"):
+            updated = list(description)
+            updated[index] = f"{line} {note}"
+            return updated
+    if len(description) < 6:
+        return [*description, note]
+    updated = list(description)
+    updated[-1] = f"{updated[-1]} {note}"
+    return updated
 
 
 def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_conflict: DayConflicts | None) -> PlanDay:

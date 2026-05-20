@@ -29,6 +29,7 @@ Add `.gitignore` entries for private local files and generated caches:
 private/
 data/*.local.json
 data/checkins/*.local.json
+data/checkins/*.local.csv
 .venv/
 __pycache__/
 *.pyc

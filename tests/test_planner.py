@@ -2,6 +2,7 @@ import datetime as dt
 import unittest
 
 from training_calendar.calendar_inputs import DayConflicts
+from training_calendar.checkins import CheckinSummary
 from training_calendar.planner import build_month_plan
 
 
@@ -184,6 +185,31 @@ class PlannerTests(unittest.TestCase):
             for token in ("pallof", "side plank", "hanging", "dead bug", "copenhagen", "anti-rotation")
         )
         self.assertGreaterEqual(core_mentions, 4)
+
+    def test_prior_month_feedback_reduces_sprint_and_lower_stress_without_leaking_notes(self):
+        feedback = CheckinSummary(
+            entries=12,
+            completion_rate=0.55,
+            average_session_rpe=8.7,
+            average_knee_pain=4.2,
+            average_sleep_quality=2.2,
+            average_fueling=5.4,
+            bodyweight_delta_kg=-0.8,
+            recovery_warning=True,
+            knee_warning=True,
+            underfueling_warning=True,
+            public_adjustments=("Reduced for prior-month recovery feedback.",),
+        )
+
+        plan = build_month_plan("2026-07", PROFILE, {}, feedback)
+        first_sprint = next(day for day in plan.days if day.category == "sprint" or "Sprint" in day.title)
+        public_text = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
+
+        self.assertEqual(first_sprint.category, "recovery")
+        self.assertIn("Reduced for prior-month recovery feedback.", first_sprint.adjustments)
+        self.assertIn("fueling feedback", public_text)
+        self.assertNotIn("private", public_text)
+        self.assertGreaterEqual(plan.days[0].macros["calories"], 3500)
 
 
 if __name__ == "__main__":
