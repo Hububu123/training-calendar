@@ -107,7 +107,7 @@ Recommended project files:
 
 - `data/profile.example.json`: athlete profile, goals, preferences, current performance, and constraints
 - `data/calendar_sources.local.json`: private ignored calendar feed URLs and labels
-- `data/checkins/YYYY-MM.local.xlsx`: monthly phone feedback workbook
+- `data/checkins/YYYY-MM.local.xlsx`: monthly phone feedback workbook with the simple columns `Workout / Run`, `Workout Plan`, `Completed`, and `Notes`
 - `plans/YYYY-MM.json`: structured monthly plan used as the source of truth
 - `plans/YYYY-MM.md`: human-readable monthly plan summary
 - `public/training-calendar.ics`: generated public subscribable calendar feed

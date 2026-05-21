@@ -57,7 +57,7 @@ def _build_parser() -> argparse.ArgumentParser:
         help="Ignored local calendar source JSON file. Missing file is allowed.",
     )
 
-    template = subparsers.add_parser("checkin-template", help="Create a blank monthly phone check-in Excel workbook.")
+    template = subparsers.add_parser("checkin-template", help="Create a monthly workout feedback Excel workbook.")
     template.add_argument("--month", required=True, help="Month to template, formatted as YYYY-MM.")
     template.add_argument("--out-dir", default=".", help="Repository/output root.")
     template.add_argument("--plan", default=None, help="Optional generated plan JSON to include workout details.")

@@ -11,7 +11,7 @@ On the 1st at 08:00 Europe/Copenhagen time, the monthly check-in thread should:
 5. Ask Hubert to classify each review candidate as alcohol/no alcohol, late night/no late night, and full/partial/no attendance.
 6. Store those answers in `data/event_reviews/YYYY-MM.local.json`; this file stays ignored.
 7. Load prior-month workout feedback from `data/checkins/PREVIOUS-MONTH.local.xlsx` when available.
-8. Ask only for missing subjective check-in data: bodyweight trend, training completion, fatigue, knees, sleep, lifting progress, running progress, sprint tolerance, and fueling adherence.
+8. Review the simple `Completed` and `Notes` columns; ask only for missing context that cannot be inferred from those notes, such as bodyweight trend, fatigue, knees, sleep, lifting progress, running progress, sprint tolerance, and fueling adherence.
 9. Generate the next month with `generate --month YYYY-MM --review data/event_reviews/YYYY-MM.local.json --checkins data/checkins/PREVIOUS-MONTH.local.xlsx`.
 10. Regenerate `plans/YYYY-MM.json`, `plans/YYYY-MM.md`, and `public/training-calendar.ics`.
 11. Create the new month's blank phone feedback template with `checkin-template --month YYYY-MM --out-dir .`.

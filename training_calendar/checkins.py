@@ -28,32 +28,15 @@ CHECKIN_FIELDS = (
 )
 
 TEMPLATE_HEADERS = (
-    "Date",
-    "Workout",
-    "Category",
-    "Run km",
-    "Macros",
-    "Adjustments",
-    "Exercises / Plan",
+    "Workout / Run",
+    "Workout Plan",
     "Completed",
-    "Session RPE",
-    "Knee Pain",
-    "Sleep Quality",
-    "Fueling",
-    "Bodyweight kg",
-    "Main Lift",
     "Notes",
 )
 
 XLSX_CHECKIN_HEADER_MAP = {
-    "date": "date",
+    "workout / run": "_workout_run",
     "completed": "completed",
-    "session rpe": "session_rpe",
-    "knee pain": "knee_pain",
-    "sleep quality": "sleep_quality",
-    "fueling": "fueling",
-    "bodyweight kg": "bodyweight_kg",
-    "main lift": "main_lift",
     "notes": "notes",
 }
 
@@ -203,6 +186,8 @@ def _read_xlsx_rows(path: Path) -> list[dict[str, Any]]:
             key = XLSX_CHECKIN_HEADER_MAP.get(headers[index])
             if key:
                 row[key] = value
+        workout_run = row.pop("_workout_run", "")
+        row["date"] = _date_from_workout_run(workout_run)
         rows.append(row)
     return rows
 
@@ -216,20 +201,9 @@ def _template_rows(start_date: dt.date, end_date: dt.date, plan: dict[str, Any])
         feedback = day.get("feedback", {}) if isinstance(day.get("feedback"), dict) else {}
         rows.append(
             [
-                current.isoformat(),
-                day.get("title", ""),
-                day.get("category", ""),
-                day.get("run_km", ""),
-                _macros_text(day.get("macros", {})),
-                "\n".join(day.get("adjustments", [])),
-                "\n".join(day.get("description", [])),
+                _workout_run_text(current, day),
+                _workout_plan_text(day),
                 feedback.get("completed", ""),
-                feedback.get("session_rpe", ""),
-                feedback.get("knee_pain", ""),
-                feedback.get("sleep_quality", ""),
-                feedback.get("fueling", ""),
-                feedback.get("bodyweight_kg", ""),
-                feedback.get("main_lift", ""),
                 feedback.get("notes", ""),
             ]
         )
@@ -256,7 +230,7 @@ def _sheet_xml(rows: list[list[Any]]) -> str:
         height = 30 if row_index == 1 else _row_height(row)
         cells = []
         for col_index, value in enumerate(row, start=1):
-            style = 1 if row_index == 1 else 2 if col_index in {7, 15} else 0
+            style = 1 if row_index == 1 else 2 if col_index in {2, 4} else 0
             cells.append(_cell_xml(row_index, col_index, value, style))
         row_xml.append(f'<row r="{row_index}" ht="{height}" customHeight="1">{"".join(cells)}</row>')
     dimension = f"A1:{_column_name(len(TEMPLATE_HEADERS))}{len(rows)}"
@@ -267,13 +241,10 @@ def _sheet_xml(rows: list[list[Any]]) -> str:
         f'<dimension ref="{dimension}"/>'
         "<sheetViews><sheetView workbookViewId=\"0\"><pane ySplit=\"1\" topLeftCell=\"A2\" activePane=\"bottomLeft\" state=\"frozen\"/></sheetView></sheetViews>"
         "<cols>"
-        '<col min="1" max="1" width="12" customWidth="1"/>'
-        '<col min="2" max="2" width="28" customWidth="1"/>'
-        '<col min="3" max="4" width="11" customWidth="1"/>'
-        '<col min="5" max="6" width="28" customWidth="1"/>'
-        '<col min="7" max="7" width="84" customWidth="1"/>'
-        '<col min="8" max="14" width="14" customWidth="1"/>'
-        '<col min="15" max="15" width="42" customWidth="1"/>'
+        '<col min="1" max="1" width="34" customWidth="1"/>'
+        '<col min="2" max="2" width="96" customWidth="1"/>'
+        '<col min="3" max="3" width="14" customWidth="1"/>'
+        '<col min="4" max="4" width="44" customWidth="1"/>'
         "</cols>"
         f"<sheetData>{''.join(row_xml)}</sheetData>"
         f'<autoFilter ref="A1:{_column_name(len(TEMPLATE_HEADERS))}{len(rows)}"/>'
@@ -283,10 +254,9 @@ def _sheet_xml(rows: list[list[Any]]) -> str:
 
 def _row_height(row: list[Any]) -> int:
     width_by_column = {
-        5: 34,
-        6: 34,
-        7: 82,
-        15: 42,
+        1: 34,
+        2: 94,
+        4: 44,
     }
     estimated_lines = 1
     for index, value in enumerate(row, start=1):
@@ -450,8 +420,42 @@ def _value(value: Any) -> str:
     return "" if value is None else str(value).strip()
 
 
+def _workout_run_text(date_value: dt.date, day: dict[str, Any]) -> str:
+    title = _value(day.get("title")) or "No planned workout"
+    run_km = _value(day.get("run_km"))
+    run_suffix = ""
+    try:
+        if run_km and float(run_km) > 0:
+            run_suffix = f" ({run_km} km run)"
+    except ValueError:
+        pass
+    return f"{date_value.isoformat()} - {title}{run_suffix}"
+
+
+def _workout_plan_text(day: dict[str, Any]) -> str:
+    lines: list[str] = []
+    macros = _macros_text(day.get("macros", {}))
+    if macros:
+        lines.append(f"Macros: {macros}")
+    adjustments = [text for text in day.get("adjustments", []) if _value(text)]
+    if adjustments:
+        lines.append("Adjusted: " + " ".join(_value(text) for text in adjustments))
+    lines.extend(_value(text) for text in day.get("description", []) if _value(text))
+    return "\n".join(lines)
+
+
+def _date_from_workout_run(value: Any) -> str:
+    text = _value(value)
+    candidate = text[:10]
+    try:
+        dt.date.fromisoformat(candidate)
+    except ValueError:
+        return ""
+    return candidate
+
+
 def _has_feedback(row: dict[str, Any]) -> bool:
-    return any(_value(row.get(field)) for field in CHECKIN_FIELDS if field != "date")
+    return any(_value(row.get(field)) for field in CHECKIN_FIELDS if field not in {"date", "notes"})
 
 
 def _macros_text(macros: Any) -> str:

@@ -92,12 +92,17 @@ class CheckinTests(unittest.TestCase):
 
             with zipfile.ZipFile(path) as workbook:
                 sheet = workbook.read("xl/worksheets/sheet1.xml").decode("utf-8")
+                values = _sheet_values(workbook)
                 self.assertIn("Workout Feedback", workbook.read("xl/workbook.xml").decode("utf-8"))
-                self.assertIn("Upper Strength + Calisthenics Pull", sheet)
-                self.assertIn("Bench press", sheet)
-                self.assertIn("Completed", sheet)
-                self.assertIn("2026-06-30", sheet)
-                self.assertIn('<col min="7" max="7" width="84"', sheet)
+                self.assertEqual(values[0], ["Workout / Run", "Workout Plan", "Completed", "Notes"])
+                self.assertIn("2026-06-01", values[1][0])
+                self.assertIn("Upper Strength + Calisthenics Pull", values[1][0])
+                self.assertIn("3350 kcal", values[1][1])
+                self.assertIn("Bench press", values[1][1])
+                self.assertIn("2026-06-30", values[-1][0])
+                self.assertNotIn("Session RPE", values[0])
+                self.assertNotIn("Knee Pain", values[0])
+                self.assertIn('<col min="2" max="2" width="96"', sheet)
                 self.assertIn('wrapText="1"', workbook.read("xl/styles.xml").decode("utf-8"))
                 root = ElementTree.fromstring(sheet)
                 row = root.find('.//{http://schemas.openxmlformats.org/spreadsheetml/2006/main}row[@r="2"]')
@@ -123,12 +128,6 @@ class CheckinTests(unittest.TestCase):
                             "description": ["Bench press"],
                             "feedback": {
                                 "completed": "full",
-                                "session_rpe": 8,
-                                "knee_pain": 2,
-                                "sleep_quality": 3,
-                                "fueling": 8,
-                                "bodyweight_kg": 75.0,
-                                "main_lift": "bench",
                                 "notes": "private note",
                             },
                         }
@@ -142,6 +141,41 @@ class CheckinTests(unittest.TestCase):
             self.assertTrue(saved.exists())
             summary = load_checkin_summary(saved)
             self.assertEqual(summary.entries, 1)
+
+    def test_xlsx_notes_without_completion_do_not_count_as_skipped_workouts(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "notes-only.xlsx"
+            write_monthly_template(
+                "2026-06",
+                path,
+                {
+                    "days": [
+                        {
+                            "date": "2026-06-01",
+                            "title": "Upper Strength",
+                            "description": ["Bench press"],
+                            "feedback": {"notes": "knee felt a little off"},
+                        }
+                    ]
+                },
+            )
+
+            summary = load_checkin_summary(path)
+
+            self.assertEqual(summary.entries, 0)
+            self.assertFalse(summary.recovery_warning)
+
+
+def _sheet_values(workbook: zipfile.ZipFile) -> list[list[str]]:
+    namespace = {"x": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
+    root = ElementTree.fromstring(workbook.read("xl/worksheets/sheet1.xml"))
+    values: list[list[str]] = []
+    for row in root.findall(".//x:sheetData/x:row", namespace):
+        row_values = []
+        for cell in row.findall("x:c", namespace):
+            row_values.append("".join(text.text or "" for text in cell.findall(".//x:t", namespace)))
+        values.append(row_values)
+    return values
 
 
 if __name__ == "__main__":
