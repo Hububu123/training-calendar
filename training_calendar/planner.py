@@ -455,7 +455,7 @@ def _back_friendly_description(description: tuple[str, ...], strict: bool) -> li
                 )
             else:
                 updated.append(
-                    "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; no deadlifts or hyperextensions; start lightly."
+                    "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; skip loaded hinges and back-extension work; start lightly."
                 )
         elif "farmer carries" in lower and strict:
             replaced_loading = True
@@ -466,7 +466,7 @@ def _back_friendly_description(description: tuple[str, ...], strict: bool) -> li
             updated.append(f"{line} Keep carries light and skip them if the low back feels loaded.")
         elif line.startswith("Progression:") and strict:
             updated.append(
-                f"{line} Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise."
+                f"{_cap_strict_low_back_rpe(line)} Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise."
             )
         elif line.startswith("Progression:"):
             updated.append(
@@ -478,16 +478,33 @@ def _back_friendly_description(description: tuple[str, ...], strict: bool) -> li
                 .replace("low broad jumps 4 x 2", "snap-downs 2 x 5")
             )
         else:
-            updated.append(line)
+            updated.append(_cap_strict_low_back_rpe(line) if strict else line)
 
     note = (
         "Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
         if strict
-        else "Low-back ramp: no deadlifts or hyperextensions; start lightly and keep supported posterior-chain work pain-free."
+        else "Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
     )
     if replaced_loading or any(line.startswith("Progression:") for line in description):
         return _append_or_merge_note(updated, note)
     return updated
+
+
+def _cap_strict_low_back_rpe(line: str) -> str:
+    lower = line.casefold()
+    if "hack squat or goblet squat" in lower:
+        return "Hack squat, leg press, or supported split squat: 3 x 6-10 at RPE 6-7; stop if symptoms rise."
+    if "bulgarian split squat or step-up" in lower:
+        return "Supported split squat or step-up: 2-3 x 6-10 per leg at RPE 6-7; stop if symptoms rise."
+    if "split squat or step-up" in lower and "leg curl" in lower:
+        return "Supported split squat or step-up: 2-3 x 8-10 per leg at RPE 6-7 paired with leg curl 2-3 x 10-15 at RPE 6-7."
+    if "walking lunges" in lower:
+        return "Reverse lunges holding support: 2 x 8-10 per leg at RPE 6-7."
+
+    capped = line
+    for source in ("RPE 8-9", "RPE 7-8", "RPE 8", "RPE 9"):
+        capped = capped.replace(source, "RPE 6-7")
+    return capped
 
 
 def _append_or_merge_note(description: list[str], note: str) -> list[str]:

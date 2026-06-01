@@ -233,13 +233,22 @@ class PlannerTests(unittest.TestCase):
 
         plan = build_month_plan("2026-06", profile, {})
         first_week_text = "\n".join(line for day in plan.days[:7] for line in day.description).casefold()
+        first_lower_day_text = "\n".join(plan.days[1].description).casefold()
         second_week_text = "\n".join(line for day in plan.days[7:14] for line in day.description).casefold()
 
         self.assertNotIn("romanian deadlift", first_week_text)
         self.assertNotIn("trap-bar deadlift", first_week_text)
+        self.assertNotIn("deadlift", first_week_text)
+        self.assertNotIn("rdl", first_week_text)
         self.assertNotIn("hyperextension", first_week_text)
         self.assertIn("temporary low-back recovery constraint", first_week_text)
-        self.assertIn("no deadlifts or hyperextensions", second_week_text)
+        self.assertNotIn("rpe 8", first_lower_day_text)
+        self.assertNotIn("rpe 7-8", first_lower_day_text)
+        self.assertIn("rpe 6-7", first_lower_day_text)
+        self.assertNotIn("deadlift", second_week_text)
+        self.assertNotIn("rdl", second_week_text)
+        self.assertNotIn("hyperextension", second_week_text)
+        self.assertIn("skip loaded hinges and back-extension work", second_week_text)
         self.assertIn("start lightly", second_week_text)
 
     def test_prior_month_feedback_reduces_sprint_and_lower_stress_without_leaking_notes(self):
