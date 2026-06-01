@@ -21,8 +21,7 @@ python3 -m training_calendar.cli analyze --month 2026-06 \
   --calendar-sources data/calendar_sources.local.json
 ```
 
-If the analysis prints private review questions, answer them in an ignored file such as
-`data/event_reviews/2026-06.local.json`, then generate with `--review`.
+If the analysis prints private review questions, rate every listed non-work event for recovery risk from `0` to `10` in an ignored file such as `data/event_reviews/2026-06.local.json`, then generate with `--review`.
 
 ```bash
 python3 -m training_calendar.cli generate --month 2026-06 \
@@ -33,4 +32,4 @@ python3 -m training_calendar.cli generate --month 2026-06 \
 ```
 
 `data/calendar_sources.local.json` is ignored by Git and contains private Apple Calendar feed URLs.
-`data/event_reviews/*.local.json` is also ignored by Git and contains private event classifications.
+`data/event_reviews/*.local.json` is also ignored by Git and contains private event recovery-risk ratings and classifications.

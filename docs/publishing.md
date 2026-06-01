@@ -26,12 +26,13 @@ https://hububu123.github.io/training-calendar/training-calendar.ics
      --calendar-sources data/calendar_sources.local.json
    ```
 
-3. If review questions are listed, create `data/event_reviews/YYYY-MM.local.json` with the private classifications:
+3. If review questions are listed, create `data/event_reviews/YYYY-MM.local.json` with the private classifications. Every non-work event needs a `recovery_risk` score from `0` to `10`:
 
    ```json
    {
      "events": {
        "review-id-from-analyze": {
+         "recovery_risk": 8,
          "alcohol": true,
          "late_night": true,
          "attendance": "full"
@@ -55,7 +56,7 @@ https://hububu123.github.io/training-calendar/training-calendar.ics
 
 GitHub Pages will redeploy the public calendar feed after the push.
 
-Generation exits without changing the public feed when unresolved high-risk review candidates exist.
+Generation exits without changing the public feed when any non-work event is missing a recovery-risk rating.
 
 ## Privacy
 

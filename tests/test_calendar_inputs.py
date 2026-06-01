@@ -115,10 +115,77 @@ class CalendarInputTests(unittest.TestCase):
         self.assertTrue(analysis.review_required)
         self.assertEqual(len(analysis.review_items), 3)
         self.assertTrue(all(item.risk_level == "high" for item in analysis.review_items))
+        self.assertTrue(all("0-10" in item.question for item in analysis.review_items))
         self.assertIn("festival", analysis.review_items[2].flags)
         self.assertIn("late_night", analysis.day_conflicts[dt.date(2026, 6, 5)].flags)
         self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 5)].risk_level, "high")
         self.assertNotIn("Distortion", repr(analysis.day_conflicts[dt.date(2026, 6, 3)]))
+
+    def test_every_non_work_event_requires_recovery_risk_score(self):
+        calendars = [
+            (
+                "BEGIN:VCALENDAR\n"
+                "X-WR-CALNAME:Stuff\n"
+                "BEGIN:VEVENT\n"
+                "UID:coffee\n"
+                "SUMMARY:Coffee with friend\n"
+                "DTSTART;TZID=Europe/Copenhagen:20260612T150000\n"
+                "DTEND;TZID=Europe/Copenhagen:20260612T160000\n"
+                "END:VEVENT\n"
+                "END:VCALENDAR\n"
+            ),
+            (
+                "BEGIN:VCALENDAR\n"
+                "X-WR-CALNAME:Arbejde\n"
+                "BEGIN:VEVENT\n"
+                "UID:work\n"
+                "SUMMARY:Arbejde\n"
+                "DTSTART;TZID=Europe/Copenhagen:20260612T073000\n"
+                "DTEND;TZID=Europe/Copenhagen:20260612T153000\n"
+                "END:VEVENT\n"
+                "END:VCALENDAR\n"
+            ),
+        ]
+
+        analysis = analyze_calendar_texts(calendars, "2026-06")
+
+        self.assertTrue(analysis.review_required)
+        self.assertEqual(len(analysis.review_items), 1)
+        self.assertEqual(analysis.review_items[0].summary, "Coffee with friend")
+        self.assertIn("0-10", analysis.review_items[0].question)
+
+    def test_recovery_risk_scores_resolve_reviews_and_map_to_training_risk(self):
+        calendars = [
+            (
+                "BEGIN:VCALENDAR\n"
+                "X-WR-CALNAME:Stuff\n"
+                "BEGIN:VEVENT\n"
+                "UID:coffee\n"
+                "SUMMARY:Coffee with friend\n"
+                "DTSTART;TZID=Europe/Copenhagen:20260612T150000\n"
+                "DTEND;TZID=Europe/Copenhagen:20260612T160000\n"
+                "END:VEVENT\n"
+                "BEGIN:VEVENT\n"
+                "UID:late\n"
+                "SUMMARY:Long dinner\n"
+                "DTSTART;TZID=Europe/Copenhagen:20260613T190000\n"
+                "DTEND;TZID=Europe/Copenhagen:20260614T010000\n"
+                "END:VEVENT\n"
+                "END:VCALENDAR\n"
+            )
+        ]
+        initial = analyze_calendar_texts(calendars, "2026-06")
+        review = {
+            initial.review_items[0].review_id: {"recovery_risk": 0, "attendance": "full"},
+            initial.review_items[1].review_id: {"recovery_risk": 8, "attendance": "full"},
+        }
+
+        analysis = analyze_calendar_texts(calendars, "2026-06", review_answers=review)
+
+        self.assertFalse(analysis.review_required)
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 12)].risk_level, "none")
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 13)].risk_level, "high")
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 13)].recovery_risk_score, 8)
 
     def test_review_answers_convert_ambiguous_events_into_private_free_conflicts(self):
         calendars = [
@@ -137,6 +204,7 @@ class CalendarInputTests(unittest.TestCase):
         initial = analyze_calendar_texts(calendars, "2026-06")
         review = {
             initial.review_items[0].review_id: {
+                "recovery_risk": 8,
                 "alcohol": True,
                 "late_night": True,
                 "attendance": "full"
@@ -167,6 +235,7 @@ class CalendarInputTests(unittest.TestCase):
         initial = analyze_calendar_texts(calendars, "2026-06")
         review = {
             initial.review_items[0].review_id: {
+                "recovery_risk": 8,
                 "attendance": "partial",
                 "dates": ["2026-06-05", "2026-06-06"],
                 "alcohol": True,

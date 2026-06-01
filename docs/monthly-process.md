@@ -7,8 +7,8 @@ On the 1st at 08:00 Europe/Copenhagen time, the monthly check-in thread should:
 1. Fetch the private Apple Calendar feeds from ignored local config or the thread automation.
 2. Use the configured work calendar as the source of actual work days and hours.
 3. Run `analyze --month YYYY-MM` before generation.
-4. Privately list ambiguous social, festival, late-night, travel, sickness, exam, dense-day, and alcohol-risk events that may constrain training.
-5. Ask Hubert to classify each review candidate as alcohol/no alcohol, late night/no late night, and full/partial/no attendance.
+4. Privately list every non-work event from the other calendars, not only obviously risky events.
+5. Ask Hubert to rate each event's recovery risk from `0` to `10`, where `0` means no recovery impact and `10` means a full recovery day is needed. Also ask for alcohol/no alcohol, late night/no late night, and full/partial/no attendance when relevant.
 6. Store those answers in `data/event_reviews/YYYY-MM.local.json`; this file stays ignored.
 7. Load prior-month workout feedback from `data/checkins/PREVIOUS-MONTH.local.xlsx` when available.
 8. Review the simple `Completed` and `Notes` columns; ask only for missing context that cannot be inferred from those notes, such as bodyweight trend, fatigue, knees, sleep, lifting progress, running progress, sprint tolerance, and fueling adherence.
@@ -20,7 +20,7 @@ The public calendar feed is a training artifact, not a copy of private calendar 
 
 The subscribed Apple Calendar is output-only. Workout feedback should come from the monthly Excel workbook described in `docs/phone-feedback.md`.
 
-If review answers are missing for high-risk candidates, generation must stop and the public `.ics` must remain unchanged.
+If any non-work calendar event is missing a recovery-risk rating, generation must stop and the public `.ics` must remain unchanged.
 
 ## Updating Apple Calendar
 

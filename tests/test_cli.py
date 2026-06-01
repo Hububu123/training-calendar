@@ -42,6 +42,26 @@ class CliTests(unittest.TestCase):
             )
             sources = tmp_path / "sources.local.json"
             sources.write_text(json.dumps({"calendars": [{"name": "Stuff", "url": calendar.as_uri()}]}), encoding="utf-8")
+            with patch("builtins.print") as printed:
+                main(["analyze", "--month", "2026-06", "--calendar-sources", str(sources)])
+            first_line = next(call.args[0] for call in printed.call_args_list if call.args and str(call.args[0]).startswith("- "))
+            review_id = first_line.split()[1].rstrip(":")
+            review = tmp_path / "review.local.json"
+            review.write_text(
+                json.dumps(
+                    {
+                        "events": {
+                            review_id: {
+                                "recovery_risk": 8,
+                                "alcohol": True,
+                                "late_night": True,
+                                "attendance": "full",
+                            }
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
 
             exit_code = main(
                 [
@@ -52,6 +72,8 @@ class CliTests(unittest.TestCase):
                     str(profile),
                     "--calendar-sources",
                     str(sources),
+                    "--review",
+                    str(review),
                     "--out-dir",
                     str(tmp_path),
                 ]
@@ -132,7 +154,18 @@ class CliTests(unittest.TestCase):
             review_id = first_line.split()[1].rstrip(":")
             review = tmp_path / "review.local.json"
             review.write_text(
-                json.dumps({"events": {review_id: {"alcohol": True, "late_night": True, "attendance": "full"}}}),
+                json.dumps(
+                    {
+                        "events": {
+                            review_id: {
+                                "recovery_risk": 8,
+                                "alcohol": True,
+                                "late_night": True,
+                                "attendance": "full",
+                            }
+                        }
+                    }
+                ),
                 encoding="utf-8",
             )
 

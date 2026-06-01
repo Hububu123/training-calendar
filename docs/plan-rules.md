@@ -79,12 +79,13 @@ Reference base:
 
 ## Calendar Review
 
-Private calendar events are analyzed before generation. Ambiguous high-risk events fail closed and require review before the public feed is changed.
+Private calendar events are analyzed before generation. Every non-work event from the other calendars fails closed until Hubert rates its recovery impact from `0` to `10`.
 
-Review candidates include likely alcohol, late-night, festival, birthday, dinner, concert, student dinner, Friday bar, multi-day festival, and similar social events.
+Review candidates include all non-work events, including low-risk appointments, plus likely alcohol, late-night, festival, birthday, dinner, concert, student dinner, Friday bar, multi-day festival, and similar social events.
 
 For each candidate, classify:
 
+- recovery risk from `0` to `10`, where `0` means no recovery impact and `10` means a full recovery day is needed
 - alcohol or no alcohol
 - late night or no late night
 - full attendance, partial attendance, or no attendance

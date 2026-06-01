@@ -77,12 +77,12 @@ def _analyze(args: argparse.Namespace) -> int:
 
     analysis = analyze_month(sources, args.month)
     if not analysis.review_required:
-        print(f"No ambiguous high-risk calendar events found for {args.month}.")
+        print(f"No unrated private calendar events found for {args.month}.")
         return 0
 
     print(f"Private review required before generating {args.month}:")
     for item in analysis.review_items:
-        flags = ", ".join(sorted(item.flags))
+        flags = ", ".join(_display_flags(item.flags)) or "recovery risk"
         print(f"- {item.review_id}: {item.question} Flags: {flags}.")
     return 1
 
@@ -151,6 +151,10 @@ def _generate_calendar_sources_path(args: argparse.Namespace) -> Path:
     if args.calendar_sources:
         return Path(args.calendar_sources)
     return Path(args.out_dir) / "data" / "calendar_sources.local.json"
+
+
+def _display_flags(flags: frozenset[str]) -> list[str]:
+    return [flag for flag in sorted(flags) if flag != "recovery_risk_required"]
 
 
 if __name__ == "__main__":

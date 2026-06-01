@@ -39,7 +39,7 @@ Each monthly planning run should:
 1. Fetch Hubert's published Apple Calendar feeds.
 2. Identify calendar names from `X-WR-CALNAME`.
 3. Use the configured work calendar as the authoritative source for actual work days and work hours.
-4. Scan all calendars for training-interfering events such as sickness, alcohol/parties, travel, exams, social events, and no-training blocks.
+4. Scan all calendars for work plus every non-work event that needs a private 0-10 recovery-risk rating before planning.
 5. Ask Hubert for subjective check-in data:
    - training completion
    - bodyweight trend

@@ -23,6 +23,7 @@ class DayConflicts:
     work_minutes: int = 0
     risk_level: str = "light"
     generic_public_reason: str = ""
+    recovery_risk_score: int = 0
 
 
 @dataclass(frozen=True)
@@ -116,6 +117,7 @@ def _sanitize_day_conflicts(
     flags_by_day: dict[dt.date, set[str]] = {}
     work_minutes_by_day: dict[dt.date, int] = {}
     risk_by_day: dict[dt.date, str] = {}
+    risk_score_by_day: dict[dt.date, int] = {}
     public_reason_by_day: dict[dt.date, str] = {}
     review_items: list[ReviewItem] = []
 
@@ -124,7 +126,7 @@ def _sanitize_day_conflicts(
         base_flags = _classify_event(event)
         review_flags = _review_flags(event)
         answer = answers.get(review_id)
-        if review_flags and answer is None:
+        if review_flags and (answer is None or not _answer_has_recovery_risk(answer)):
             review_items.append(_review_item(event, review_id, review_flags))
 
         for day in _covered_dates(event):
@@ -141,6 +143,7 @@ def _sanitize_day_conflicts(
             if "work" in event_flags:
                 work_minutes_by_day[day] = work_minutes_by_day.get(day, 0) + _minutes_on_day(event, day)
             risk_by_day[day] = _max_risk(risk_by_day.get(day, "none"), event_risk)
+            risk_score_by_day[day] = max(risk_score_by_day.get(day, 0), _recovery_risk_score(answer))
             if event_risk in {"moderate", "high", "recovery_only"}:
                 public_reason_by_day[day] = _generic_public_reason(event_flags, event_risk)
 
@@ -151,6 +154,7 @@ def _sanitize_day_conflicts(
             work_minutes=work_minutes_by_day.get(day, 0),
             risk_level=risk_by_day.get(day, "light"),
             generic_public_reason=public_reason_by_day.get(day, ""),
+            recovery_risk_score=risk_score_by_day.get(day, 0),
         )
         for day, flags in sorted(flags_by_day.items())
     }
@@ -201,6 +205,8 @@ def _review_flags(event: ExpandedEvent) -> set[str]:
     haystack = f"{event.calendar_name} {event.summary}".casefold()
     base_flags = _classify_event(event)
     flags: set[str] = set()
+    if "work" not in base_flags:
+        flags.add("recovery_risk_required")
     festival_tokens = ("distortion", "roskilde", "festival")
     travel_tokens = ("travel", "trip", "flight", "fly", "rejse", "ferie", "vacation")
     social_tokens = (
@@ -282,6 +288,9 @@ def _event_risk(flags: set[str], answer: dict | None) -> str:
         return "none"
     if flags & {"sickness", "no_training"}:
         return "recovery_only"
+    score = _recovery_risk_score(answer)
+    if answer is not None and _answer_has_recovery_risk(answer):
+        return _risk_level_from_score(score)
     if answer is not None:
         attendance = str(answer.get("attendance", "full")).casefold()
         if attendance in {"none", "no", "not_attending", "skip"}:
@@ -291,7 +300,7 @@ def _event_risk(flags: set[str], answer: dict | None) -> str:
         if "festival" in flags and attendance in {"full", "partial"}:
             return "high"
         if "dense_day" in flags:
-            return "moderate"
+            return _max_risk("moderate", _risk_level_from_score(score))
         return "light"
     if flags & {"alcohol", "late_night", "festival", "alcohol_possible"}:
         return "high"
@@ -316,9 +325,10 @@ def _review_item(event: ExpandedEvent, review_id: str, flags: set[str]) -> Revie
     start_date = dates[0] if dates else event.start.date()
     end_date = dates[-1] if dates else event.end.date()
     question = (
-        f"Classify '{event.summary}' on {start_date.isoformat()}"
+        f"Rate '{event.summary}' on {start_date.isoformat()}"
         f"{'' if start_date == end_date else f' to {end_date.isoformat()}'}: "
-        "alcohol/no alcohol, late night/no late night, full/partial/no attendance."
+        "recovery risk 0-10, where 0 means no recovery impact and 10 means full recovery day. "
+        "Also note alcohol/no alcohol, late night/no late night, and full/partial/no attendance when relevant."
     )
     return ReviewItem(
         review_id=review_id,
@@ -327,7 +337,7 @@ def _review_item(event: ExpandedEvent, review_id: str, flags: set[str]) -> Revie
         start_date=start_date,
         end_date=end_date,
         flags=frozenset(sorted(flags)),
-        risk_level="high",
+        risk_level="high" if flags & {"alcohol_possible", "festival", "late_night"} else "light",
         question=question,
     )
 
@@ -370,6 +380,37 @@ def _truthy_answer(value: object) -> bool:
     if isinstance(value, str):
         return value.casefold() in {"yes", "true", "1", "minimal", "some", "little", "likely", "unsure"}
     return bool(value)
+
+
+def _answer_has_recovery_risk(answer: dict | None) -> bool:
+    if not answer:
+        return False
+    return any(key in answer for key in ("recovery_risk", "risk", "risk_score", "recovery_risk_score"))
+
+
+def _recovery_risk_score(answer: dict | None) -> int:
+    if not answer:
+        return 0
+    for key in ("recovery_risk", "risk", "risk_score", "recovery_risk_score"):
+        if key not in answer:
+            continue
+        try:
+            return max(0, min(10, round(float(answer[key]))))
+        except (TypeError, ValueError):
+            return 0
+    return 0
+
+
+def _risk_level_from_score(score: int) -> str:
+    if score <= 0:
+        return "none"
+    if score <= 3:
+        return "light"
+    if score <= 6:
+        return "moderate"
+    if score <= 8:
+        return "high"
+    return "recovery_only"
 
 
 def _covered_dates(event: ExpandedEvent) -> list[dt.date]:
