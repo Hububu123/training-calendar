@@ -43,6 +43,7 @@ Programming priorities:
 - calm bike commuting on scheduled work days counts as low-intensity aerobic load and should slightly bias the day away from extra junk volume
 - low initial running volume around 20-25 km per week after the recent marathon
 - training placed around calendar risk rather than forced into fixed weekdays
+- explicit local schedule overrides can replace generated sessions for unavailable days, festival walking/no-workout blocks, or required morning sessions
 
 Use progression rules instead of fixed session-length rules:
 

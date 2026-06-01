@@ -74,6 +74,7 @@ def build_month_plan(
         day = _apply_feedback(day, wave_day, feedback)
         day = _apply_conflicts(day, conflicts.get(current), conflicts.get(current - dt.timedelta(days=1)))
         day = _apply_temporary_lumbar_constraint(day, profile)
+        day = _apply_schedule_override(day, profile)
         day = _with_macros(day, _macros_for_day(profile, day, feedback))
         days.append(day)
         current += dt.timedelta(days=1)
@@ -106,6 +107,8 @@ def _macros_for_day(profile: dict, day: PlanDay, feedback: CheckinSummary | None
         calories, carbs, fat = 3150, 385, 105
     elif day.category == "maintenance":
         calories, carbs, fat = 3200, 400, 105
+    elif day.category == "festival":
+        calories, carbs, fat = 3400, 500, 80
     elif day.category in {"sprint", "long_run"}:
         calories, carbs, fat = 3550, 520, 100
     elif day.category == "easy_run":
@@ -137,6 +140,58 @@ def _with_macros(day: PlanDay, macros: dict[str, int]) -> PlanDay:
         description=day.description,
         adjustments=day.adjustments,
     )
+
+
+def _apply_schedule_override(day: PlanDay, profile: dict) -> PlanDay:
+    override = _schedule_override_for_date(day.date, profile)
+    if not override:
+        return day
+
+    description = override.get("description", day.description)
+    if isinstance(description, str):
+        description = [description]
+    adjustments = override.get("adjustments", day.adjustments)
+    if isinstance(adjustments, str):
+        adjustments = [adjustments]
+
+    return PlanDay(
+        date=day.date,
+        title=str(override.get("title", day.title)),
+        category=str(override.get("category", day.category)),
+        run_km=float(override.get("run_km", day.run_km)),
+        macros=day.macros,
+        description=tuple(str(item) for item in description),
+        adjustments=tuple(dict.fromkeys(str(item) for item in adjustments)),
+    )
+
+
+def _schedule_override_for_date(date: dt.date, profile: dict) -> dict | None:
+    overrides = profile.get("schedule_overrides", [])
+    if isinstance(overrides, dict):
+        dated = overrides.get(date.isoformat())
+        return dated if isinstance(dated, dict) else None
+    if not isinstance(overrides, list):
+        return None
+
+    for override in overrides:
+        if not isinstance(override, dict):
+            continue
+        if str(override.get("date", "")) == date.isoformat():
+            return override
+        start = _optional_date(override.get("start_date"))
+        end = _optional_date(override.get("end_date"))
+        if start and end and start <= date <= end:
+            return override
+    return None
+
+
+def _optional_date(value: object) -> dt.date | None:
+    if not value:
+        return None
+    try:
+        return dt.date.fromisoformat(str(value))
+    except ValueError:
+        return None
 
 
 def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, int]) -> PlanDay:

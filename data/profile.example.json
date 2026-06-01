@@ -36,6 +36,7 @@
       "applies_to_work_days": true
     }
   },
+  "schedule_overrides": [],
   "current_performance": {
     "bench_kg": 90,
     "leg_press_kg": 180,

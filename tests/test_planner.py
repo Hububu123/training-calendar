@@ -149,6 +149,99 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("Adjusted for moderate recovery constraint.", day.adjustments)
         self.assertIn("reduce volume", public_text)
 
+    def test_profile_schedule_override_replaces_unavailable_day_with_no_workout(self):
+        profile = {
+            **PROFILE,
+            "schedule_overrides": [
+                {
+                    "date": "2026-06-04",
+                    "title": "Unavailable / No Workout",
+                    "category": "recovery",
+                    "run_km": 0,
+                    "description": [
+                        "No scheduled workout today because the day is unavailable.",
+                        "Keep the plan simple: normal walking only, basic mobility if convenient, and enough food to avoid under-fueling.",
+                    ],
+                    "adjustments": ["No scheduled workout."],
+                }
+            ],
+        }
+
+        plan = build_month_plan("2026-06", profile, {})
+        day = plan.by_date(dt.date(2026, 6, 4))
+        public_text = "\n".join(day.description).casefold()
+
+        self.assertEqual(day.title, "Unavailable / No Workout")
+        self.assertEqual(day.category, "recovery")
+        self.assertEqual(day.run_km, 0)
+        self.assertIn("No scheduled workout.", day.adjustments)
+        self.assertNotIn("pull-ups", public_text)
+        self.assertNotIn("dips", public_text)
+
+    def test_profile_range_override_replaces_festival_days_with_walking_no_training(self):
+        profile = {
+            **PROFILE,
+            "schedule_overrides": [
+                {
+                    "start_date": "2026-06-27",
+                    "end_date": "2026-07-03",
+                    "title": "Festival Walking + No Workout",
+                    "category": "festival",
+                    "run_km": 0,
+                    "description": [
+                        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
+                        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
+                        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
+                    ],
+                    "adjustments": ["No scheduled workout; high walking load counted."],
+                }
+            ],
+        }
+
+        plan = build_month_plan("2026-06", profile, {})
+        for date in (dt.date(2026, 6, 27), dt.date(2026, 6, 28), dt.date(2026, 6, 29), dt.date(2026, 6, 30)):
+            day = plan.by_date(date)
+            public_text = "\n".join(day.description).casefold()
+            self.assertEqual(day.title, "Festival Walking + No Workout")
+            self.assertEqual(day.category, "festival")
+            self.assertEqual(day.run_km, 0)
+            self.assertIn("20,000+ steps", "\n".join(day.description))
+            self.assertNotIn("main work", public_text)
+            self.assertNotIn("sprint", public_text.replace("no gym, running, sprinting", ""))
+
+    def test_profile_schedule_override_sets_early_easier_morning_workout(self):
+        profile = {
+            **PROFILE,
+            "schedule_overrides": [
+                {
+                    "date": "2026-06-20",
+                    "title": "Early Easier Morning Strength",
+                    "category": "gym",
+                    "run_km": 0,
+                    "description": [
+                        "Timing: early morning session before the day gets busy.",
+                        "Warm-up: 5 min easy bike plus shoulder, hip, and ankle prep.",
+                        "Main work: bench press 3 x 5 at RPE 6-7, chest-supported row 3 x 8-10 at RPE 7, and leg press or goblet squat 2 x 8 at RPE 6.",
+                        "Accessories: lateral raises 2 x 15, curls 2 x 12, and Pallof press 2 x 10 per side.",
+                        "Stop while fresh; this is an easier session, not a progression test.",
+                    ],
+                    "adjustments": ["Moved to an early easier morning workout."],
+                }
+            ],
+        }
+
+        plan = build_month_plan("2026-06", profile, {})
+        day = plan.by_date(dt.date(2026, 6, 20))
+        public_text = "\n".join(day.description).casefold()
+
+        self.assertEqual(day.title, "Early Easier Morning Strength")
+        self.assertEqual(day.category, "gym")
+        self.assertEqual(day.run_km, 0)
+        self.assertIn("early morning", public_text)
+        self.assertIn("rpe 6-7", public_text)
+        self.assertNotIn("sprint", public_text)
+        self.assertNotIn("plyometrics", public_text)
+
     def test_exercise_selection_includes_strength_calisthenics_plyometrics_and_functional_work(self):
         plan = build_month_plan("2026-06", PROFILE, {})
         description = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()

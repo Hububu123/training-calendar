@@ -76,27 +76,24 @@
     },
     {
       "date": "2026-06-04",
-      "title": "Upper Calisthenics + Hypertrophy",
-      "category": "gym",
-      "run_km": 0,
+      "title": "Unavailable / No Workout",
+      "category": "recovery",
+      "run_km": 0.0,
       "macros": {
-        "calories": 3350,
+        "calories": 3150,
         "protein_g": 165,
-        "carbs_g": 455,
-        "fat_g": 95
+        "carbs_g": 385,
+        "fat_g": 105
       },
       "description": [
-        "Warm-up: 5 min easy cardio, shoulder circles, light rows, and scap pull-ups.",
-        "Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 6-7. Moderate recovery constraint: reduce volume by 25-40%, cap hard sets at RPE 7, and leave the gym/run fresher than planned. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise.",
-        "Pull-ups: 5 x 4-8 or 20-30 total quality reps at RPE 6-7.",
-        "Dips or push-ups: 3 x 8-15 at RPE 6-7, stop before shoulder position changes.",
-        "One-arm dumbbell row or inverted row: 3 x 8-12 at RPE 6-7 paired with incline dumbbell press 2-3 x 8-12 at RPE 6-7.",
-        "Core finisher: lateral raises plus hanging leg raises 2-3 sets each at RPE 6-7. Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
+        "Warm-up: none; this is a no-workout day.",
+        "No scheduled workout today because the day is unavailable.",
+        "Keep the plan simple: normal walking only, basic mobility if convenient, and enough food to avoid under-fueling.",
+        "Fueling: normal meals, protein target, and no intentional calorie restriction.",
+        "Recovery priority: sleep, hydration, and an easy protein target."
       ],
       "adjustments": [
-        "Adjusted for moderate recovery constraint.",
-        "Light active commute counted.",
-        "Adjusted for temporary low-back recovery constraint."
+        "No scheduled workout."
       ]
     },
     {
@@ -450,26 +447,25 @@
     },
     {
       "date": "2026-06-20",
-      "title": "Plyometrics + Hill Sprint Technique",
-      "category": "sprint",
-      "run_km": 3,
+      "title": "Early Easier Morning Strength",
+      "category": "gym",
+      "run_km": 0.0,
       "macros": {
-        "calories": 3550,
+        "calories": 3350,
         "protein_g": 165,
-        "carbs_g": 520,
-        "fat_g": 100
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Warm-up jog: 10-12 min easy plus leg swings, A-skips, ankling, and 3 relaxed strides.",
-        "Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day; sprint RPE 7-8, never max. Moderate recovery constraint: reduce volume by 25-40%, cap hard sets at RPE 7, and leave the gym/run fresher than planned. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Plyometrics: pogos 3 x 20 sec, snap-downs 3 x 5, low broad jumps 3 x 3 at crisp RPE 6-7.",
-        "Hill sprints: 6 x 10-12 sec uphill at sprint RPE 7-8; full walk-back recovery.",
-        "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
-        "Optional: dead bug 3 x 8 per side and side plank 2 x 30 sec. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Timing: early morning session before the day gets busy.",
+        "Warm-up: 5 min easy bike plus shoulder, hip, and ankle prep.",
+        "Main work: bench press 3 x 5 at RPE 6-7, chest-supported row 3 x 8-10 at RPE 7, and leg press or goblet squat 2 x 8 at RPE 6.",
+        "Accessories: lateral raises 2 x 15, curls 2 x 12, and Pallof press 2 x 10 per side.",
+        "Fueling: eat a small carb-focused breakfast or snack before training, then a normal protein-rich meal after.",
+        "Stop while fresh; this is an easier session, not a progression test."
       ],
       "adjustments": [
-        "Adjusted for moderate recovery constraint.",
-        "Back-friendly loading ramp."
+        "Moved to an early easier morning workout."
       ]
     },
     {
@@ -616,88 +612,94 @@
     },
     {
       "date": "2026-06-27",
-      "title": "Recovery / Maintenance Day",
-      "category": "recovery",
-      "run_km": 3,
+      "title": "Festival Walking + No Workout",
+      "category": "festival",
+      "run_km": 0.0,
       "macros": {
-        "calories": 3150,
+        "calories": 3400,
         "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "carbs_g": 500,
+        "fat_g": 80
       },
       "description": [
-        "Keep training conservative because the private calendar review found a high-risk schedule constraint.",
-        "Main work: 30-60 min walk or easy bike, then 10-12 min mobility.",
-        "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
-        "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals."
+        "Warm-up: none; festival walking is the day's physical load.",
+        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
+        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
+        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
+        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
+        "Do not try to make up missed sessions during the festival block."
       ],
       "adjustments": [
-        "Adjusted for high-risk schedule constraints.",
-        "Back-friendly loading ramp."
+        "No scheduled workout; high walking load counted."
       ]
     },
     {
       "date": "2026-06-28",
-      "title": "Recovery Day After High-Risk Schedule",
-      "category": "recovery",
-      "run_km": 3,
+      "title": "Festival Walking + No Workout",
+      "category": "festival",
+      "run_km": 0.0,
       "macros": {
-        "calories": 3150,
+        "calories": 3400,
         "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "carbs_g": 500,
+        "fat_g": 80
       },
       "description": [
-        "No heavy lower body or hard running today.",
-        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
-        "Optional: light upper accessories only if energy is clearly good."
+        "Warm-up: none; festival walking is the day's physical load.",
+        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
+        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
+        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
+        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
+        "Do not try to make up missed sessions during the festival block."
       ],
       "adjustments": [
-        "Adjusted after high-risk schedule constraints.",
-        "Back-friendly loading ramp."
+        "No scheduled workout; high walking load counted."
       ]
     },
     {
       "date": "2026-06-29",
-      "title": "Recovery / Maintenance Day",
-      "category": "maintenance",
-      "run_km": 0,
+      "title": "Festival Walking + No Workout",
+      "category": "festival",
+      "run_km": 0.0,
       "macros": {
-        "calories": 3200,
+        "calories": 3400,
         "protein_g": 165,
-        "carbs_g": 400,
-        "fat_g": 105
+        "carbs_g": 500,
+        "fat_g": 80
       },
       "description": [
-        "Keep training conservative because the private calendar review found a high-risk schedule constraint.",
-        "Main work: 30-60 min walk or easy bike, then 10-12 min mobility.",
-        "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
-        "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals."
+        "Warm-up: none; festival walking is the day's physical load.",
+        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
+        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
+        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
+        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
+        "Do not try to make up missed sessions during the festival block."
       ],
       "adjustments": [
-        "Adjusted for high-risk schedule constraints.",
-        "Back-friendly loading ramp."
+        "No scheduled workout; high walking load counted."
       ]
     },
     {
       "date": "2026-06-30",
-      "title": "Recovery Day After High-Risk Schedule",
-      "category": "recovery",
-      "run_km": 0,
+      "title": "Festival Walking + No Workout",
+      "category": "festival",
+      "run_km": 0.0,
       "macros": {
-        "calories": 3150,
+        "calories": 3400,
         "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "carbs_g": 500,
+        "fat_g": 80
       },
       "description": [
-        "No heavy lower body or hard running today.",
-        "Recovery: 30-60 min walk, 10 min mobility, hydration, sodium, and easy meals with carbs.",
-        "Optional: light upper accessories only if energy is clearly good."
+        "Warm-up: none; festival walking is the day's physical load.",
+        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
+        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
+        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
+        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
+        "Do not try to make up missed sessions during the festival block."
       ],
       "adjustments": [
-        "Adjusted after high-risk schedule constraints.",
-        "Back-friendly loading ramp."
+        "No scheduled workout; high walking load counted."
       ]
     }
   ]

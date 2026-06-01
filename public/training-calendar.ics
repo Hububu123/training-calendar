@@ -7,9 +7,9 @@ X-WR-CALNAME:Hubert Training
 X-WR-TIMEZONE:Europe/Copenhagen
 BEGIN:VEVENT
 UID:hubert-training-20260601@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -37,9 +37,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260602@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:Lower Strength + Knee Capacity
@@ -68,9 +68,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260603@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Recovery + Easy Zone 2
@@ -89,40 +89,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260604@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:Upper Calisthenics + Hypertrophy
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
- 5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for mo
- derate recovery constraint.\n- Light active commute counted.\n- Adjusted 
- for temporary low-back recovery constraint.\n\nWarm-Up:\n- 5 min easy car
- dio\, shoulder circles\, light rows\, and scap pull-ups.\n\nMain Work:\n-
-  Progression: double progression\; beat total quality reps before adding 
- load or a set\, keeping most work at RPE 6-7. Moderate recovery constrain
- t: reduce volume by 25-40%\, cap hard sets at RPE 7\, and leave the gym/r
- un fresher than planned. Light active commute: 30 min calm cycling each w
- ay counts as easy aerobic load\; keep hard sets at the prescribed RPE. Te
- mporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop
-  if symptoms rise.\n- Pull-ups: 5 x 4-8 or 20-30 total quality reps at RP
- E 6-7.\n- Dips or push-ups: 3 x 8-15 at RPE 6-7\, stop before shoulder po
- sition changes.\n- One-arm dumbbell row or inverted row: 3 x 8-12 at RPE 
- 6-7 paired with incline dumbbell press 2-3 x 8-12 at RPE 6-7.\n- Core fin
- isher: lateral raises plus hanging leg raises 2-3 sets each at RPE 6-7. T
- emporary low-back recovery constraint: avoid loaded hinging and heavy bra
- cing\; use machines or supported positions where possible.\n\nFueling:\n-
-  Hit daily macros\, keep protein near target\, and place carbohydrates be
- fore and after training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
-  add mobility if joints feel stiff.
+SUMMARY:Unavailable / No Workout
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nCategory: recovery\nRun volume: 0 km\nAdjustments:\n- No schedu
+ led workout.\n\nWarm-Up:\n- none\; this is a no-workout day.\n\nMain Work
+ :\n- No scheduled workout today because the day is unavailable.\n- Keep t
+ he plan simple: normal walking only\, basic mobility if convenient\, and 
+ enough food to avoid under-fueling.\n\nFueling:\n- normal meals\, protein
+  target\, and no intentional calorie restriction.\n\nRecovery:\n- sleep\,
+  hydration\, and an easy protein target.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260605@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Accessory Strength + Knee/Core Capacity
@@ -149,9 +136,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260606@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Plyometrics + Hill Sprint Technique
@@ -176,9 +163,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260607@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:Easy Longer Aerobic Run
@@ -196,9 +183,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260608@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
 SUMMARY:Full-Body Athletic Strength
@@ -227,9 +214,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260609@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Easy Run + Relaxed Strides
@@ -247,9 +234,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260610@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Lower Unilateral + Posterior Chain
@@ -276,9 +263,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260611@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Calisthenics Density + Zone 2
@@ -303,9 +290,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260612@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Recovery + Mobility Capacity
@@ -322,9 +309,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260613@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Plyometrics + Functional Power
@@ -350,9 +337,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260614@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:Aerobic Base + Reset
@@ -370,9 +357,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260615@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -400,9 +387,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260616@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Lower Strength + Knee Capacity
@@ -429,9 +416,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260617@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Recovery + Easy Zone 2
@@ -448,9 +435,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260618@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Upper Calisthenics + Hypertrophy
@@ -475,9 +462,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260619@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Accessory Strength + Knee/Core Capacity
@@ -504,38 +491,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260620@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:Plyometrics + Hill Sprint Technique
-DESCRIPTION:Overview:\nMacros: 3550 kcal\, 165 g protein\, 520 g carbs\, 1
- 00 g fat\nCategory: sprint\nRun volume: 3 km\nAdjustments:\n- Adjusted fo
- r moderate recovery constraint.\n- Back-friendly loading ramp.\n\nWarm-Up
- :\n- 10-12 min easy plus leg swings\, A-skips\, ankling\, and 3 relaxed s
- trides.\n\nMain Work:\n- Progression: add sprint reps only when contacts 
- stay snappy and knees stay quiet the next day\; sprint RPE 7-8\, never ma
- x. Moderate recovery constraint: reduce volume by 25-40%\, cap hard sets 
- at RPE 7\, and leave the gym/run fresher than planned. Low-back ramp: sta
- rt lightly and add load only when the next morning is symptom-free.\n- Pl
- yometrics: pogos 3 x 20 sec\, snap-downs 3 x 5\, low broad jumps 3 x 3 at
-  crisp RPE 6-7.\n- Hill sprints: 6 x 10-12 sec uphill at sprint RPE 7-8\;
-  full walk-back recovery.\n- Stop the sprint set if mechanics get sloppy 
- or knees feel sharp.\n\nOptional:\n- dead bug 3 x 8 per side and side pla
- nk 2 x 30 sec. Low-back ramp: skip loaded hinges and back-extension work\
- ; start lightly and keep supported posterior-chain work pain-free.\n\nRun
- :\n- Planned running volume: 3 km.\n\nFueling:\n- Hit daily macros\, keep
-  protein near target\, and place carbohydrates before and after training.
- \n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints 
- feel stiff.
+SUMMARY:Early Easier Morning Strength
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+ 5 g fat\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Moved to an ear
+ ly easier morning workout.\n\nWarm-Up:\n- 5 min easy bike plus shoulder\,
+  hip\, and ankle prep.\n\nMain Work:\n- Timing: early morning session bef
+ ore the day gets busy.\n- Main work: bench press 3 x 5 at RPE 6-7\, chest
+ -supported row 3 x 8-10 at RPE 7\, and leg press or goblet squat 2 x 8 at
+  RPE 6.\n- Accessories: lateral raises 2 x 15\, curls 2 x 12\, and Pallof
+  press 2 x 10 per side.\n- Stop while fresh\; this is an easier session\,
+  not a progression test.\n\nFueling:\n- eat a small carb-focused breakfas
+ t or snack before training\, then a normal protein-rich meal after.\n\nRe
+ covery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel s
+ tiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260621@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Easy Longer Aerobic Run
@@ -552,9 +532,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260622@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Full-Body Athletic Strength
@@ -583,9 +563,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260623@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Easy Run + Relaxed Strides
@@ -603,9 +583,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260624@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Lower Unilateral + Posterior Chain
@@ -632,9 +612,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260625@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Calisthenics Density + Zone 2
@@ -661,9 +641,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260626@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Recovery + Mobility Capacity
@@ -682,84 +662,82 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260627@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:Recovery / Maintenance Day
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nCategory: recovery\nRun volume: 3 km\nAdjustments:\n- Adjusted 
- for high-risk schedule constraints.\n- Back-friendly loading ramp.\n\nWar
- m-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets 
- before loading.\n\nMain Work:\n- Keep training conservative because the p
- rivate calendar review found a high-risk schedule constraint.\n- Main wor
- k: 30-60 min walk or easy bike\, then 10-12 min mobility.\n\nOptional:\n-
-  light pump circuit only if sleep\, hydration\, and joints feel normal.\n
- \nRun:\n- Planned running volume: 3 km.\n\nFueling:\n- Hit daily macros\,
-  keep protein near target\, and place carbohydrates before and after trai
- ning.\n\nRecovery:\n- protein target stays fixed\; prioritize fluids\, so
- dium\, and carbohydrate-dense meals.
+SUMMARY:Festival Walking + No Workout
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 500 g carbs\, 8
+ 0 g fat\nCategory: festival\nRun volume: 0 km\nAdjustments:\n- No schedul
+ ed workout\; high walking load counted.\n\nWarm-Up:\n- none\; festival wa
+ lking is the day's physical load.\n\nMain Work:\n- No gym\, running\, spr
+ inting\, plyometrics\, or calisthenics session today.\n- Expected load: 2
+ 0\,000+ steps from festival walking\; count that as the training stress.\
+ n- Do not try to make up missed sessions during the festival block.\n\nFu
+ eling:\n- prioritize fluids\, sodium\, protein when practical\, and carbo
+ hydrate-dense meals.\n\nRecovery:\n- hydrate early\, add sodium\, get pro
+ tein when practical\, and use carbohydrate-dense meals.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260628@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:Recovery Day After High-Risk Schedule
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nCategory: recovery\nRun volume: 3 km\nAdjustments:\n- Adjusted 
- after high-risk schedule constraints.\n- Back-friendly loading ramp.\n\nW
- arm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp set
- s before loading.\n\nMain Work:\n- No heavy lower body or hard running to
- day.\n\nOptional:\n- light upper accessories only if energy is clearly go
- od.\n\nRun:\n- Planned running volume: 3 km.\n\nFueling:\n- Hit daily mac
- ros\, keep protein near target\, and place carbohydrates before and after
-  training.\n\nRecovery:\n- 30-60 min walk\, 10 min mobility\, hydration\,
-  sodium\, and easy meals with carbs.
+SUMMARY:Festival Walking + No Workout
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 500 g carbs\, 8
+ 0 g fat\nCategory: festival\nRun volume: 0 km\nAdjustments:\n- No schedul
+ ed workout\; high walking load counted.\n\nWarm-Up:\n- none\; festival wa
+ lking is the day's physical load.\n\nMain Work:\n- No gym\, running\, spr
+ inting\, plyometrics\, or calisthenics session today.\n- Expected load: 2
+ 0\,000+ steps from festival walking\; count that as the training stress.\
+ n- Do not try to make up missed sessions during the festival block.\n\nFu
+ eling:\n- prioritize fluids\, sodium\, protein when practical\, and carbo
+ hydrate-dense meals.\n\nRecovery:\n- hydrate early\, add sodium\, get pro
+ tein when practical\, and use carbohydrate-dense meals.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260629@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:Recovery / Maintenance Day
-DESCRIPTION:Overview:\nMacros: 3200 kcal\, 165 g protein\, 400 g carbs\, 1
- 05 g fat\nCategory: maintenance\nRun volume: 0 km\nAdjustments:\n- Adjust
- ed for high-risk schedule constraints.\n- Back-friendly loading ramp.\n\n
- Warm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp se
- ts before loading.\n\nMain Work:\n- Keep training conservative because th
- e private calendar review found a high-risk schedule constraint.\n- Main 
- work: 30-60 min walk or easy bike\, then 10-12 min mobility.\n\nOptional:
- \n- light pump circuit only if sleep\, hydration\, and joints feel normal
- .\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
- carbohydrates before and after training.\n\nRecovery:\n- protein target s
- tays fixed\; prioritize fluids\, sodium\, and carbohydrate-dense meals.
+SUMMARY:Festival Walking + No Workout
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 500 g carbs\, 8
+ 0 g fat\nCategory: festival\nRun volume: 0 km\nAdjustments:\n- No schedul
+ ed workout\; high walking load counted.\n\nWarm-Up:\n- none\; festival wa
+ lking is the day's physical load.\n\nMain Work:\n- No gym\, running\, spr
+ inting\, plyometrics\, or calisthenics session today.\n- Expected load: 2
+ 0\,000+ steps from festival walking\; count that as the training stress.\
+ n- Do not try to make up missed sessions during the festival block.\n\nFu
+ eling:\n- prioritize fluids\, sodium\, protein when practical\, and carbo
+ hydrate-dense meals.\n\nRecovery:\n- hydrate early\, add sodium\, get pro
+ tein when practical\, and use carbohydrate-dense meals.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260630@training-calendar
-DTSTAMP:20260601T150849Z
-LAST-MODIFIED:20260601T150849Z
-SEQUENCE:1780326529
+DTSTAMP:20260601T152316Z
+LAST-MODIFIED:20260601T152316Z
+SEQUENCE:1780327396
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-SUMMARY:Recovery Day After High-Risk Schedule
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nCategory: recovery\nRun volume: 0 km\nAdjustments:\n- Adjusted 
- after high-risk schedule constraints.\n- Back-friendly loading ramp.\n\nW
- arm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp set
- s before loading.\n\nMain Work:\n- No heavy lower body or hard running to
- day.\n\nOptional:\n- light upper accessories only if energy is clearly go
- od.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and plac
- e carbohydrates before and after training.\n\nRecovery:\n- 30-60 min walk
- \, 10 min mobility\, hydration\, sodium\, and easy meals with carbs.
+SUMMARY:Festival Walking + No Workout
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 500 g carbs\, 8
+ 0 g fat\nCategory: festival\nRun volume: 0 km\nAdjustments:\n- No schedul
+ ed workout\; high walking load counted.\n\nWarm-Up:\n- none\; festival wa
+ lking is the day's physical load.\n\nMain Work:\n- No gym\, running\, spr
+ inting\, plyometrics\, or calisthenics session today.\n- Expected load: 2
+ 0\,000+ steps from festival walking\; count that as the training stress.\
+ n- Do not try to make up missed sessions during the festival block.\n\nFu
+ eling:\n- prioritize fluids\, sodium\, protein when practical\, and carbo
+ hydrate-dense meals.\n\nRecovery:\n- hydrate early\, add sodium\, get pro
+ tein when practical\, and use carbohydrate-dense meals.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
