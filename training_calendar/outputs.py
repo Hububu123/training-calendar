@@ -50,7 +50,9 @@ def write_plan_markdown(plan: MonthPlan, path: str | Path) -> None:
 
 
 def plan_to_ics(plan: MonthPlan) -> str:
-    now = dt.datetime.now(dt.UTC).strftime("%Y%m%dT%H%M%SZ")
+    now = dt.datetime.now(dt.UTC)
+    dtstamp = now.strftime("%Y%m%dT%H%M%SZ")
+    sequence = int(now.timestamp())
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -61,7 +63,7 @@ def plan_to_ics(plan: MonthPlan) -> str:
         "X-WR-TIMEZONE:Europe/Copenhagen",
     ]
     for day in plan.days:
-        lines.extend(_event_lines(day, now))
+        lines.extend(_event_lines(day, dtstamp, sequence))
     lines.append("END:VCALENDAR")
     return "\r\n".join(_fold_line(line) for line in lines) + "\r\n"
 
@@ -72,7 +74,7 @@ def write_calendar_ics(plan: MonthPlan, path: str | Path) -> None:
     output_path.write_text(plan_to_ics(plan), encoding="utf-8")
 
 
-def _event_lines(day: PlanDay, dtstamp: str) -> list[str]:
+def _event_lines(day: PlanDay, dtstamp: str, sequence: int) -> list[str]:
     next_day = day.date + dt.timedelta(days=1)
     description = _event_description(day)
     compact_date = day.date.strftime("%Y%m%d")
@@ -80,6 +82,8 @@ def _event_lines(day: PlanDay, dtstamp: str) -> list[str]:
         "BEGIN:VEVENT",
         f"UID:hubert-training-{compact_date}@training-calendar",
         f"DTSTAMP:{dtstamp}",
+        f"LAST-MODIFIED:{dtstamp}",
+        f"SEQUENCE:{sequence}",
         f"DTSTART;VALUE=DATE:{compact_date}",
         f"DTEND;VALUE=DATE:{next_day.strftime('%Y%m%d')}",
         f"SUMMARY:{_escape_text(day.title)}",

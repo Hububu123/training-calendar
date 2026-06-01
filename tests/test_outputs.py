@@ -32,6 +32,8 @@ class OutputTests(unittest.TestCase):
 
         self.assertIn("BEGIN:VCALENDAR", ics)
         self.assertIn("UID:hubert-training-20260601@training-calendar", ics)
+        self.assertIn("LAST-MODIFIED:", ics)
+        self.assertRegex(ics, r"SEQUENCE:\d+")
         self.assertIn("DTSTART;VALUE=DATE:20260601", ics)
         self.assertIn("DTEND;VALUE=DATE:20260602", ics)
         self.assertIn("SUMMARY:Upper Strength", ics)
