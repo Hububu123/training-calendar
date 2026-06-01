@@ -27,3 +27,12 @@ If any non-work calendar event is missing a recovery-risk rating, generation mus
 Apple Calendar should subscribe to the GitHub Pages URL for `public/training-calendar.ics`.
 
 After each monthly generation, GitHub Pages serves the updated feed. Apple Calendar refresh timing is controlled by Apple Calendar subscription settings.
+
+## Weekly Mini-Check-In
+
+Every Sunday, run a short review before the coming week:
+
+- ask whether drinking, late nights, skipped sessions, new calendar events, injuries, sleep, fueling, or motivation should change the plan
+- if new calendar events appeared, ask for a `0` to `10` recovery-risk rating before modifying training
+- if injuries changed, update ignored local inputs before regenerating
+- keep public outputs privacy-safe and rerun tests plus privacy scans before pushing any updated plan

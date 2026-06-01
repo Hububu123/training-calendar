@@ -41,6 +41,8 @@ https://hububu123.github.io/training-calendar/training-calendar.ics
    }
    ```
 
+   For multi-day events with different recovery needs by day, use `recovery_risk_by_date`.
+
 4. Regenerate the next month:
 
    ```bash

@@ -187,6 +187,38 @@ class CalendarInputTests(unittest.TestCase):
         self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 13)].risk_level, "high")
         self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 13)].recovery_risk_score, 8)
 
+    def test_recovery_risk_can_be_scored_per_date_for_multiday_events(self):
+        calendars = [
+            (
+                "BEGIN:VCALENDAR\n"
+                "X-WR-CALNAME:Stuff\n"
+                "BEGIN:VEVENT\n"
+                "UID:birthday\n"
+                "SUMMARY:Birthday weekend\n"
+                "DTSTART;VALUE=DATE:20260620\n"
+                "DTEND;VALUE=DATE:20260622\n"
+                "END:VEVENT\n"
+                "END:VCALENDAR\n"
+            )
+        ]
+        initial = analyze_calendar_texts(calendars, "2026-06")
+        review = {
+            initial.review_items[0].review_id: {
+                "attendance": "full",
+                "recovery_risk_by_date": {
+                    "2026-06-20": 4,
+                    "2026-06-21": 0,
+                },
+            }
+        }
+
+        analysis = analyze_calendar_texts(calendars, "2026-06", review_answers=review)
+
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 20)].risk_level, "moderate")
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 20)].recovery_risk_score, 4)
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 21)].risk_level, "none")
+        self.assertEqual(analysis.day_conflicts[dt.date(2026, 6, 21)].recovery_risk_score, 0)
+
     def test_review_answers_convert_ambiguous_events_into_private_free_conflicts(self):
         calendars = [
             (

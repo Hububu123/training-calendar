@@ -137,13 +137,13 @@ def _sanitize_day_conflicts(
             event_flags = _event_flags_for_day(base_flags, review_flags, answer, day)
             if not event_flags:
                 continue
-            event_risk = _event_risk(event_flags, answer)
+            event_risk = _event_risk(event_flags, answer, day)
             flags = flags_by_day.setdefault(day, set())
             flags.update(event_flags)
             if "work" in event_flags:
                 work_minutes_by_day[day] = work_minutes_by_day.get(day, 0) + _minutes_on_day(event, day)
             risk_by_day[day] = _max_risk(risk_by_day.get(day, "none"), event_risk)
-            risk_score_by_day[day] = max(risk_score_by_day.get(day, 0), _recovery_risk_score(answer))
+            risk_score_by_day[day] = max(risk_score_by_day.get(day, 0), _recovery_risk_score(answer, day))
             if event_risk in {"moderate", "high", "recovery_only"}:
                 public_reason_by_day[day] = _generic_public_reason(event_flags, event_risk)
 
@@ -283,12 +283,12 @@ def _flags_from_review_answer_for_day(answer: dict, review_flags: set[str], day:
     return flags
 
 
-def _event_risk(flags: set[str], answer: dict | None) -> str:
+def _event_risk(flags: set[str], answer: dict | None, day: dt.date | None = None) -> str:
     if not flags:
         return "none"
     if flags & {"sickness", "no_training"}:
         return "recovery_only"
-    score = _recovery_risk_score(answer)
+    score = _recovery_risk_score(answer, day)
     if answer is not None and _answer_has_recovery_risk(answer):
         return _risk_level_from_score(score)
     if answer is not None:
@@ -385,20 +385,41 @@ def _truthy_answer(value: object) -> bool:
 def _answer_has_recovery_risk(answer: dict | None) -> bool:
     if not answer:
         return False
-    return any(key in answer for key in ("recovery_risk", "risk", "risk_score", "recovery_risk_score"))
+    return any(
+        key in answer
+        for key in (
+            "recovery_risk",
+            "risk",
+            "risk_score",
+            "recovery_risk_score",
+            "recovery_risk_by_date",
+            "risk_by_date",
+        )
+    )
 
 
-def _recovery_risk_score(answer: dict | None) -> int:
+def _recovery_risk_score(answer: dict | None, day: dt.date | None = None) -> int:
     if not answer:
         return 0
+    for key in ("recovery_risk_by_date", "risk_by_date"):
+        by_date = answer.get(key)
+        if not isinstance(by_date, dict):
+            continue
+        if day is not None:
+            return _clamped_risk_score(by_date.get(day.isoformat(), 0))
+        return max((_clamped_risk_score(value) for value in by_date.values()), default=0)
     for key in ("recovery_risk", "risk", "risk_score", "recovery_risk_score"):
         if key not in answer:
             continue
-        try:
-            return max(0, min(10, round(float(answer[key]))))
-        except (TypeError, ValueError):
-            return 0
+        return _clamped_risk_score(answer[key])
     return 0
+
+
+def _clamped_risk_score(value: object) -> int:
+    try:
+        return max(0, min(10, round(float(value))))
+    except (TypeError, ValueError):
+        return 0
 
 
 def _risk_level_from_score(score: int) -> str:

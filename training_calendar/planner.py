@@ -73,6 +73,7 @@ def build_month_plan(
         day = _base_day(current, wave_day, block_index, macros)
         day = _apply_feedback(day, wave_day, feedback)
         day = _apply_conflicts(day, conflicts.get(current), conflicts.get(current - dt.timedelta(days=1)))
+        day = _apply_temporary_lumbar_constraint(day, profile)
         day = _with_macros(day, _macros_for_day(profile, day, feedback))
         days.append(day)
         current += dt.timedelta(days=1)
@@ -401,6 +402,102 @@ def _apply_feedback(day: PlanDay, wave_day: int, feedback: CheckinSummary | None
     )
 
 
+def _apply_temporary_lumbar_constraint(day: PlanDay, profile: dict) -> PlanDay:
+    constraint = _temporary_lumbar_constraint(profile)
+    if not constraint:
+        return day
+    start_date, strict_until = constraint
+    if day.date < start_date:
+        return day
+
+    strict = day.date < strict_until
+    description = _back_friendly_description(day.description, strict)
+    adjustments = list(day.adjustments)
+    adjustments.append(
+        "Adjusted for temporary low-back recovery constraint."
+        if strict
+        else "Back-friendly loading ramp."
+    )
+    return PlanDay(
+        date=day.date,
+        title=day.title,
+        category=day.category,
+        run_km=day.run_km,
+        macros=day.macros,
+        description=tuple(description),
+        adjustments=tuple(dict.fromkeys(adjustments)),
+    )
+
+
+def _temporary_lumbar_constraint(profile: dict) -> tuple[dt.date, dt.date] | None:
+    constraints = profile.get("constraints", {})
+    raw = constraints.get("temporary_lumbar_strain") or constraints.get("temporary_low_back_constraint")
+    if not isinstance(raw, dict):
+        return None
+    try:
+        start_date = dt.date.fromisoformat(str(raw["start_date"]))
+        strict_until = dt.date.fromisoformat(str(raw.get("strict_until", start_date + dt.timedelta(days=17))))
+    except (KeyError, ValueError):
+        return None
+    return start_date, strict_until
+
+
+def _back_friendly_description(description: tuple[str, ...], strict: bool) -> list[str]:
+    updated: list[str] = []
+    replaced_loading = False
+    for line in description:
+        lower = line.casefold()
+        if any(token in lower for token in ("romanian deadlift", "trap-bar deadlift", "heavy hinge")):
+            replaced_loading = True
+            if strict:
+                updated.append(
+                    "Back-friendly posterior chain: seated or lying leg curl 3 x 10-15 at RPE 6-7, plus bodyweight glute bridge 2 x 12 if symptom-free."
+                )
+            else:
+                updated.append(
+                    "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; no deadlifts or hyperextensions; start lightly."
+                )
+        elif "farmer carries" in lower and strict:
+            replaced_loading = True
+            updated.append(
+                "Core finisher: Pallof press 3 x 10 per side plus dead bug 2 x 8 per side; keep the trunk quiet and pain-free."
+            )
+        elif "farmer carries" in lower:
+            updated.append(f"{line} Keep carries light and skip them if the low back feels loaded.")
+        elif line.startswith("Progression:") and strict:
+            updated.append(
+                f"{line} Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise."
+            )
+        elif line.startswith("Progression:"):
+            updated.append(
+                f"{line} Low-back ramp: start lightly and add load only when the next morning is symptom-free."
+            )
+        elif "broad jumps" in lower and strict:
+            updated.append(
+                line.replace("low broad jumps 3 x 3", "snap-downs 2 x 5")
+                .replace("low broad jumps 4 x 2", "snap-downs 2 x 5")
+            )
+        else:
+            updated.append(line)
+
+    note = (
+        "Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
+        if strict
+        else "Low-back ramp: no deadlifts or hyperextensions; start lightly and keep supported posterior-chain work pain-free."
+    )
+    if replaced_loading or any(line.startswith("Progression:") for line in description):
+        return _append_or_merge_note(updated, note)
+    return updated
+
+
+def _append_or_merge_note(description: list[str], note: str) -> list[str]:
+    if len(description) < 6:
+        return [*description, note]
+    merged = list(description)
+    merged[-1] = f"{merged[-1]} {note}"
+    return merged
+
+
 def _reduce_progression_for_feedback(description: list[str]) -> list[str]:
     return [
         f"{line} Prior-month recovery feedback: reduce one back-off set and cap all compounds at RPE 7-8."
@@ -434,10 +531,8 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
     previous_flags = previous_conflict.flags if previous_conflict else frozenset()
     current_flags = conflict.flags if conflict else frozenset()
     current_risk = conflict.risk_level if conflict else "none"
-    previous_risk = previous_conflict.risk_level if previous_conflict else "none"
-    high_risk_flags = {"alcohol", "late_night", "festival"}
-    current_high_risk = current_risk in {"high", "recovery_only"} or bool(current_flags & high_risk_flags)
-    previous_high_risk = previous_risk in {"high", "recovery_only"} or bool(previous_flags & high_risk_flags)
+    current_high_risk = _is_high_risk_conflict(conflict)
+    previous_high_risk = _is_high_risk_conflict(previous_conflict)
     heavy_lower = any(token in title for token in ("Lower", "Posterior Chain", "Plyometrics"))
 
     if previous_high_risk and category == "sprint":
@@ -487,6 +582,10 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
             "Optional: light pump circuit only if sleep, hydration, and joints feel normal.",
             "Recovery: protein target stays fixed; prioritize fluids, sodium, and carbohydrate-dense meals.",
         )
+    elif current_risk == "moderate" and category in {"gym", "sprint", "long_run"}:
+        adjustments.append("Adjusted for moderate recovery constraint.")
+        run_km = min(run_km, 4)
+        description = _add_moderate_recovery_note(description)
     elif conflict and "work" in current_flags and conflict.work_minutes >= 510 and category == "gym":
         adjustments.append("Shortened for schedule constraints.")
         if any(line.startswith("Progression:") for line in description):
@@ -534,6 +633,29 @@ def _apply_conflicts(day: PlanDay, conflict: DayConflicts | None, previous_confl
         description=tuple(description),
         adjustments=tuple(adjustments),
     )
+
+
+def _add_moderate_recovery_note(description: list[str]) -> list[str]:
+    note = "Moderate recovery constraint: reduce volume by 25-40%, cap hard sets at RPE 7, and leave the gym/run fresher than planned."
+    for prefix in ("Progression:", "Easy run", "Warm-up jog"):
+        for index, line in enumerate(description):
+            if line.startswith(prefix):
+                updated = list(description)
+                updated[index] = f"{line} {note}"
+                return updated
+    if len(description) < 6:
+        return [*description, note]
+    updated = list(description)
+    updated[-1] = f"{updated[-1]} {note}"
+    return updated
+
+
+def _is_high_risk_conflict(conflict: DayConflicts | None) -> bool:
+    if not conflict:
+        return False
+    if conflict.recovery_risk_score:
+        return conflict.risk_level in {"high", "recovery_only"}
+    return conflict.risk_level in {"high", "recovery_only"} or bool(conflict.flags & {"alcohol", "late_night", "festival"})
 
 
 def _add_active_commute_note(description: list[str]) -> list[str]:

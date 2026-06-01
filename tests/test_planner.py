@@ -115,6 +115,40 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("Adjusted for high-risk schedule constraints.", day.adjustments)
         self.assertLessEqual(day.run_km, 3)
 
+    def test_low_recovery_risk_score_overrides_generic_social_flags(self):
+        conflicts = {
+            dt.date(2026, 6, 6): DayConflicts(
+                date=dt.date(2026, 6, 6),
+                flags=frozenset({"busy", "festival"}),
+                risk_level="light",
+                recovery_risk_score=2,
+            )
+        }
+
+        plan = build_month_plan("2026-06", PROFILE, conflicts)
+        day = plan.by_date(dt.date(2026, 6, 6))
+
+        self.assertEqual(day.category, "sprint")
+        self.assertNotIn("Adjusted for high-risk schedule constraints.", day.adjustments)
+
+    def test_moderate_recovery_risk_reduces_volume_without_canceling_training(self):
+        conflicts = {
+            dt.date(2026, 6, 4): DayConflicts(
+                date=dt.date(2026, 6, 4),
+                flags=frozenset({"busy"}),
+                risk_level="moderate",
+                recovery_risk_score=4,
+            )
+        }
+
+        plan = build_month_plan("2026-06", PROFILE, conflicts)
+        day = plan.by_date(dt.date(2026, 6, 4))
+        public_text = "\n".join(day.description).casefold()
+
+        self.assertEqual(day.category, "gym")
+        self.assertIn("Adjusted for moderate recovery constraint.", day.adjustments)
+        self.assertIn("reduce volume", public_text)
+
     def test_exercise_selection_includes_strength_calisthenics_plyometrics_and_functional_work(self):
         plan = build_month_plan("2026-06", PROFILE, {})
         description = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
@@ -178,13 +212,35 @@ class PlannerTests(unittest.TestCase):
         plan = build_month_plan("2026-06", PROFILE, {})
         first_wave = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
 
-        for compound in ("bench", "squat", "deadlift", "pull-ups"):
+        for compound in ("bench", "squat", "pull-ups", "split squat"):
             self.assertIn(compound, first_wave)
         core_mentions = sum(
             token in first_wave
             for token in ("pallof", "side plank", "hanging", "dead bug", "copenhagen", "anti-rotation")
         )
         self.assertGreaterEqual(core_mentions, 4)
+
+    def test_lumbar_strain_removes_hard_lower_back_loading_and_ramps_lightly(self):
+        profile = {
+            **PROFILE,
+            "constraints": {
+                "temporary_lumbar_strain": {
+                    "start_date": "2026-05-22",
+                    "strict_until": "2026-06-08",
+                }
+            },
+        }
+
+        plan = build_month_plan("2026-06", profile, {})
+        first_week_text = "\n".join(line for day in plan.days[:7] for line in day.description).casefold()
+        second_week_text = "\n".join(line for day in plan.days[7:14] for line in day.description).casefold()
+
+        self.assertNotIn("romanian deadlift", first_week_text)
+        self.assertNotIn("trap-bar deadlift", first_week_text)
+        self.assertNotIn("hyperextension", first_week_text)
+        self.assertIn("temporary low-back recovery constraint", first_week_text)
+        self.assertIn("no deadlifts or hyperextensions", second_week_text)
+        self.assertIn("start lightly", second_week_text)
 
     def test_prior_month_feedback_reduces_sprint_and_lower_stress_without_leaking_notes(self):
         feedback = CheckinSummary(

@@ -86,6 +86,7 @@ Review candidates include all non-work events, including low-risk appointments, 
 For each candidate, classify:
 
 - recovery risk from `0` to `10`, where `0` means no recovery impact and `10` means a full recovery day is needed
+- `recovery_risk_by_date` for multi-day events when the risk differs by day
 - alcohol or no alcohol
 - late night or no late night
 - full attendance, partial attendance, or no attendance
@@ -100,6 +101,7 @@ Review answers live in `data/event_reviews/YYYY-MM.local.json` and are never com
 - Sickness: rest, walking, mobility, and recovery only.
 - Travel, exams, or work-heavy days: shorten, simplify, or move training.
 - Knee soreness: reduce impact and knee-dominant loading.
+- Temporary back or lumbar constraints: remove hard loaded hinging, deadlifts, and hyperextensions until cleared; restart posterior-chain loading with supported, light alternatives.
 - Poor sleep or high fatigue: reduce volume and intensity.
 - Under-fueling: reduce intensity first and add pre-training carbohydrates.
 - Prior-month phone feedback is used only as aggregate training consequence, never as copied notes.
