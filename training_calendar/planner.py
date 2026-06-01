@@ -206,16 +206,17 @@ def _base_day(date: dt.date, wave_day: int, block_index: int, macros: dict[str, 
         ),
         5: PlanDay(
             date=date,
-            title="Recovery + Knee Capacity",
-            category="recovery",
+            title="Accessory Strength + Knee/Core Capacity",
+            category="gym",
             run_km=0,
             macros=macros,
             description=(
-                "Recovery RPE 2-3: 30-45 min walk or easy bike; keep legs fresh for the next sprint exposure.",
-                "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
-                "Mobility: hips, ankles, quads, calves, and glutes for 10-12 min.",
-                "Core: Pallof press or side plank 2-3 easy sets.",
-                "Fueling: keep protein fixed and include carbs at lunch and dinner.",
+                "Warm-up: 5-7 min easy bike, shoulder prep, ankle rocks, and light calf raises.",
+                "Progression: gym priority exposure without recovery debt; keep all work at RPE 6-7, leave 3 RIR, and finish fresher than a normal strength day.",
+                "Chest-supported row or cable row: 3 x 10-12 at RPE 7 paired with machine shoulder press or lateral raises 3 x 10-15 at RPE 7.",
+                "Knee capacity: seated or lying leg curl 2-3 x 12-15, tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
+                "Arms and upper pump: curls plus triceps pressdowns or push-ups 2 x 10-15 at RPE 7-8.",
+                "Core: Pallof press or side plank 2-3 easy sets, then 8-10 min hips, ankles, quads, and calves.",
             ),
         ),
         6: PlanDay(
@@ -433,6 +434,8 @@ def _temporary_lumbar_constraint(profile: dict) -> tuple[dt.date, dt.date] | Non
     constraints = profile.get("constraints", {})
     raw = constraints.get("temporary_lumbar_strain") or constraints.get("temporary_low_back_constraint")
     if not isinstance(raw, dict):
+        raw = _structured_lumbar_injury(profile)
+    if not isinstance(raw, dict):
         return None
     try:
         start_date = dt.date.fromisoformat(str(raw["start_date"]))
@@ -440,6 +443,21 @@ def _temporary_lumbar_constraint(profile: dict) -> tuple[dt.date, dt.date] | Non
     except (KeyError, ValueError):
         return None
     return start_date, strict_until
+
+
+def _structured_lumbar_injury(profile: dict) -> dict | None:
+    injury_tracking = profile.get("injury_tracking", {})
+    active = injury_tracking.get("active", []) if isinstance(injury_tracking, dict) else []
+    if not isinstance(active, list):
+        return None
+
+    for injury in active:
+        if not isinstance(injury, dict):
+            continue
+        text = " ".join(str(injury.get(key, "")) for key in ("area", "type", "name", "notes")).casefold()
+        if any(token in text for token in ("lumbar", "low back", "lower back", "back strain")):
+            return injury
+    return None
 
 
 def _back_friendly_description(description: tuple[str, ...], strict: bool) -> list[str]:
@@ -473,10 +491,7 @@ def _back_friendly_description(description: tuple[str, ...], strict: bool) -> li
                 f"{line} Low-back ramp: start lightly and add load only when the next morning is symptom-free."
             )
         elif "broad jumps" in lower and strict:
-            updated.append(
-                line.replace("low broad jumps 3 x 3", "snap-downs 2 x 5")
-                .replace("low broad jumps 4 x 2", "snap-downs 2 x 5")
-            )
+            updated.append(_strict_low_back_plyometrics(line))
         else:
             updated.append(_cap_strict_low_back_rpe(line) if strict else line)
 
@@ -488,6 +503,13 @@ def _back_friendly_description(description: tuple[str, ...], strict: bool) -> li
     if replaced_loading or any(line.startswith("Progression:") for line in description):
         return _append_or_merge_note(updated, note)
     return updated
+
+
+def _strict_low_back_plyometrics(line: str) -> str:
+    lower = line.casefold()
+    if "med-ball slams" in lower:
+        return "Plyometrics: pogos 3 x 20 sec, snap-downs 2 x 5, and crisp skips 3 x 15 m at RPE 6-7."
+    return "Plyometrics: pogos 3 x 20 sec and snap-downs 3 x 5 at crisp RPE 6-7."
 
 
 def _cap_strict_low_back_rpe(line: str) -> str:

@@ -28,7 +28,7 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("Knee Capacity", plan.days[1].title)
         self.assertIn("Recovery", plan.days[2].title)
         self.assertIn("Calisthenics", plan.days[3].title)
-        self.assertIn("Knee Capacity", plan.days[4].title)
+        self.assertIn("Accessory Strength", plan.days[4].title)
         self.assertNotEqual([day.title for day in plan.days[:7]], [day.title for day in plan.days[7:14]])
 
     def test_daily_titles_are_plain_workout_names_without_decorative_codenames(self):
@@ -159,6 +159,17 @@ class PlannerTests(unittest.TestCase):
         self.assertIn("farmer", description)
         self.assertIn("easy run", description)
 
+    def test_default_wave_prioritizes_seven_gym_exposures_per_14_days(self):
+        plan = build_month_plan("2026-06", PROFILE, {})
+        first_wave = plan.days[:14]
+        second_wave = plan.days[14:28]
+
+        self.assertEqual(sum(day.category == "gym" for day in first_wave), 7)
+        self.assertEqual(sum(day.category == "gym" for day in second_wave), 7)
+        self.assertEqual(first_wave[4].category, "gym")
+        self.assertIn("Accessory Strength", first_wave[4].title)
+        self.assertTrue(any("gym priority" in line.casefold() for line in first_wave[4].description))
+
     def test_workouts_use_quality_progression_guardrails(self):
         plan = build_month_plan("2026-06", PROFILE, {})
         description = "\n".join(line for day in plan.days[:14] for line in day.description).casefold()
@@ -183,7 +194,7 @@ class PlannerTests(unittest.TestCase):
         plan = build_month_plan("2026-06", PROFILE, {})
         first_wave_titles = [day.title for day in plan.days[:14]]
 
-        self.assertEqual(first_wave_titles[4], "Recovery + Knee Capacity")
+        self.assertEqual(first_wave_titles[4], "Accessory Strength + Knee/Core Capacity")
         for index, day in enumerate(plan.days[:14]):
             if day.category == "sprint":
                 previous_description = "\n".join(plan.days[index - 1].description).casefold()
@@ -245,11 +256,35 @@ class PlannerTests(unittest.TestCase):
         self.assertNotIn("rpe 8", first_lower_day_text)
         self.assertNotIn("rpe 7-8", first_lower_day_text)
         self.assertIn("rpe 6-7", first_lower_day_text)
+        self.assertNotIn("snap-downs 3 x 5, snap-downs", first_week_text)
         self.assertNotIn("deadlift", second_week_text)
         self.assertNotIn("rdl", second_week_text)
         self.assertNotIn("hyperextension", second_week_text)
         self.assertIn("skip loaded hinges and back-extension work", second_week_text)
         self.assertIn("start lightly", second_week_text)
+
+    def test_structured_lumbar_injury_records_apply_to_training(self):
+        profile = {
+            **PROFILE,
+            "injury_tracking": {
+                "active": [
+                    {
+                        "area": "lumbar",
+                        "type": "strain",
+                        "start_date": "2026-05-22",
+                        "strict_until": "2026-06-08",
+                        "retrain_after": "2026-06-08",
+                    }
+                ]
+            },
+        }
+
+        plan = build_month_plan("2026-06", profile, {})
+        first_week_text = "\n".join(line for day in plan.days[:7] for line in day.description).casefold()
+
+        self.assertNotIn("deadlift", first_week_text)
+        self.assertNotIn("rdl", first_week_text)
+        self.assertIn("temporary low-back recovery constraint", first_week_text)
 
     def test_prior_month_feedback_reduces_sprint_and_lower_stress_without_leaking_notes(self):
         feedback = CheckinSummary(

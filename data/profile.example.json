@@ -15,6 +15,17 @@
     "recent_marathon": true,
     "marathon_recovery_status": "mostly recovered",
     "first_month_emphasis": "growth-biased hybrid",
+    "priority_hierarchy": {
+      "primary": "gym strength and hypertrophy",
+      "target_gym_sessions_per_14_days": 7,
+      "secondary_modalities": [
+        "plyometrics",
+        "sprint technique",
+        "distance running",
+        "calisthenics"
+      ],
+      "rule": "secondary modalities support athleticism but should not displace strength progression unless calendar, sleep, or injury risk requires it"
+    },
     "bodyweight_gain_target_kg_per_week": [0.2, 0.4],
     "weekly_running_volume_target_km": [20, 25],
     "gym_session_target_minutes": [50, 75],
@@ -39,6 +50,19 @@
     "knees_need_progressive_strength": true,
     "sleep_can_be_poor": true,
     "underfueling_risk": true
+  },
+  "injury_tracking": {
+    "active": [],
+    "history": [],
+    "monthly_questions": [
+      "new injuries or pain areas",
+      "pain severity 0-10",
+      "movements that aggravate symptoms",
+      "movements that feel safe",
+      "date symptoms started",
+      "date to start retraining if symptoms are stable",
+      "next-morning response after training"
+    ]
   },
   "nutrition": {
     "daily_calories": 3350,

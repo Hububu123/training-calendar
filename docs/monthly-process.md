@@ -12,9 +12,11 @@ On the 1st at 08:00 Europe/Copenhagen time, the monthly check-in thread should:
 6. Store those answers in `data/event_reviews/YYYY-MM.local.json`; this file stays ignored.
 7. Load prior-month workout feedback from `data/checkins/PREVIOUS-MONTH.local.xlsx` when available.
 8. Review the simple `Completed` and `Notes` columns; ask only for missing context that cannot be inferred from those notes, such as bodyweight trend, fatigue, knees, sleep, lifting progress, running progress, sprint tolerance, and fueling adherence.
-9. Generate the next month with `generate --month YYYY-MM --review data/event_reviews/YYYY-MM.local.json --checkins data/checkins/PREVIOUS-MONTH.local.xlsx`.
-10. Regenerate `plans/YYYY-MM.json`, `plans/YYYY-MM.md`, and `public/training-calendar.ics`.
-11. Create the new month's blank phone feedback template with `checkin-template --month YYYY-MM --out-dir .`.
+9. Ask about injuries every month and update the ignored local profile with structured details: area, type, start date, severity, aggravating movements, safe movements, strict constraint dates, retraining date, and next-morning response.
+10. Preserve the priority rule: aim for 7 gym/strength exposures per 14 days when safe, with plyometrics, sprinting, distance running, and calisthenics supporting that priority rather than replacing it.
+11. Generate the next month with `generate --month YYYY-MM --review data/event_reviews/YYYY-MM.local.json --checkins data/checkins/PREVIOUS-MONTH.local.xlsx`.
+12. Regenerate `plans/YYYY-MM.json`, `plans/YYYY-MM.md`, and `public/training-calendar.ics`.
+13. Create the new month's blank phone feedback template with `checkin-template --month YYYY-MM --out-dir .`.
 
 The public calendar feed is a training artifact, not a copy of private calendar data.
 

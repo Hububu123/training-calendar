@@ -28,12 +28,15 @@ The default block is a 14-day athletic hybrid wave instead of a repeated weekly 
 Wave A biases strength rebuild, knee capacity, easy aerobic base, and one controlled sprint/plyometric exposure.
 Wave B biases hypertrophy, calisthenics density, posterior-chain strength, functional work, and a second athletic exposure when recovery and calendar constraints allow.
 
+Strength and hypertrophy are the primary priority. The default target is `7` gym/strength exposures per 14-day wave when calendar and injury constraints allow it. Plyometrics, sprinting, distance running, and calisthenics are all important, but they should support the strength/growth plan rather than displace it.
+
 Programming priorities:
 
 - simple anchor lifts: bench or incline press, pull-ups/rows, Romanian deadlift, split squat, hack squat, goblet squat, or step-up
 - conservative calisthenics: pull-ups, dips, push-ups, inverted rows, hanging leg raises, crawling, and plank variations
 - low-dose plyometrics: pogos, snap-downs, skips, low broad jumps, and hill sprint technique
 - functional work: farmer carries, suitcase carries, sled if easy to set up, lunges, hinges, trunk anti-rotation
+- seven gym/strength exposures per 14-day wave, with one lower-fatigue accessory/prehab gym day so added frequency does not become recovery debt
 - every 14-day wave must include heavy compounds for press, squat/knee-dominant work, hinge/deadlift pattern, and vertical/horizontal pull
 - core work must appear repeatedly through carries, anti-rotation, side plank/Copenhagen plank, hanging leg raises, crawling, or dead bugs
 - hard lower-body, posterior-chain, sprint, and plyometric exposures should not be stacked on adjacent days unless calendar constraints force a conservative replacement
@@ -61,7 +64,7 @@ Avoid a hard 5K interval block in the first month unless recovery is clearly exc
 
 The split is not meant to be random variety. It should be rebuilt each month from these rules:
 
-- Resistance training is the primary growth signal. Each 14-day wave should train the major movement patterns at least twice, keep heavy work early in sessions, and use enough weekly hard sets to support strength and hypertrophy without turning every day into a maximal session.
+- Resistance training is the primary growth signal. Each 14-day wave should target 7 gym exposures, train the major movement patterns at least twice, keep heavy work early in sessions, and use enough weekly hard sets to support strength and hypertrophy without turning every day into a maximal session.
 - Hypertrophy and strength are both supported by simple, repeatable resistance training. Advanced methods are optional; consistency, progressive overload, appropriate load, and enough volume matter more than novelty.
 - Concurrent endurance work is useful for health and hybrid fitness, but running stress should not crowd out lower-body strength while strength is the current priority. Keep most runs easy, separate hard running from heavy lower-body work when possible, and avoid hard endurance immediately before strength sessions.
 - Plyometrics and sprinting are useful for power and sprint ability, but the first month should use low contacts, hills, and clean mechanics because knees and marathon recovery are constraints.
@@ -102,6 +105,7 @@ Review answers live in `data/event_reviews/YYYY-MM.local.json` and are never com
 - Travel, exams, or work-heavy days: shorten, simplify, or move training.
 - Knee soreness: reduce impact and knee-dominant loading.
 - Temporary back or lumbar constraints: remove hard loaded hinging, deadlifts, and hyperextensions until cleared; restart posterior-chain loading with supported, light alternatives.
+- Injury tracking should be structured in the ignored local profile with area, type, start date, severity, aggravating movements, safe movements, strict constraint dates, retraining date, and next-morning response. The public feed may only use generic training consequences.
 - Poor sleep or high fatigue: reduce volume and intensity.
 - Under-fueling: reduce intensity first and add pre-training carbohydrates.
 - Prior-month phone feedback is used only as aggregate training consequence, never as copied notes.

@@ -101,21 +101,22 @@
     },
     {
       "date": "2026-06-05",
-      "title": "Recovery + Knee Capacity",
-      "category": "recovery",
+      "title": "Accessory Strength + Knee/Core Capacity",
+      "category": "gym",
       "run_km": 0,
       "macros": {
-        "calories": 3150,
+        "calories": 3350,
         "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Recovery RPE 2-3: 30-45 min walk or easy bike; keep legs fresh for the next sprint exposure.",
-        "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
-        "Mobility: hips, ankles, quads, calves, and glutes for 10-12 min.",
-        "Core: Pallof press or side plank 2-3 easy sets.",
-        "Fueling: keep protein fixed and include carbs at lunch and dinner."
+        "Warm-up: 5-7 min easy bike, shoulder prep, ankle rocks, and light calf raises.",
+        "Progression: gym priority exposure without recovery debt; keep all work at RPE 6-7, leave 3 RIR, and finish fresher than a normal strength day. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise.",
+        "Chest-supported row or cable row: 3 x 10-12 at RPE 7 paired with machine shoulder press or lateral raises 3 x 10-15 at RPE 7.",
+        "Knee capacity: seated or lying leg curl 2-3 x 12-15, tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
+        "Arms and upper pump: curls plus triceps pressdowns or push-ups 2 x 10-15 at RPE 6-7.",
+        "Core: Pallof press or side plank 2-3 easy sets, then 8-10 min hips, ankles, quads, and calves. Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
       ],
       "adjustments": [
         "Adjusted for temporary low-back recovery constraint."
@@ -135,7 +136,7 @@
       "description": [
         "Warm-up jog: 10-12 min easy plus leg swings, A-skips, ankling, and 3 relaxed strides.",
         "Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day; sprint RPE 6-7, never max. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise.",
-        "Plyometrics: pogos 3 x 20 sec, snap-downs 3 x 5, snap-downs 2 x 5 at crisp RPE 6-7.",
+        "Plyometrics: pogos 3 x 20 sec and snap-downs 3 x 5 at crisp RPE 6-7.",
         "Hill sprints: 6 x 10-12 sec uphill at sprint RPE 6-7; full walk-back recovery.",
         "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
         "Optional: dead bug 3 x 8 per side and side plank 2 x 30 sec. Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
@@ -425,23 +426,25 @@
     },
     {
       "date": "2026-06-19",
-      "title": "Recovery + Knee Capacity",
-      "category": "recovery",
+      "title": "Accessory Strength + Knee/Core Capacity",
+      "category": "gym",
       "run_km": 0,
       "macros": {
-        "calories": 3150,
+        "calories": 3350,
         "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Recovery RPE 2-3: 30-45 min walk or easy bike; keep legs fresh for the next sprint exposure.",
-        "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
-        "Mobility: hips, ankles, quads, calves, and glutes for 10-12 min.",
-        "Core: Pallof press or side plank 2-3 easy sets.",
-        "Fueling: keep protein fixed and include carbs at lunch and dinner."
+        "Warm-up: 5-7 min easy bike, shoulder prep, ankle rocks, and light calf raises.",
+        "Progression: gym priority exposure without recovery debt; keep all work at RPE 6-7, leave 3 RIR, and finish fresher than a normal strength day. Reduce volume by 25-40% before adding intensity. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
+        "Chest-supported row or cable row: 3 x 10-12 at RPE 7 paired with machine shoulder press or lateral raises 3 x 10-15 at RPE 7.",
+        "Knee capacity: seated or lying leg curl 2-3 x 12-15, tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
+        "Arms and upper pump: curls plus triceps pressdowns or push-ups 2 x 10-15 at RPE 7-8.",
+        "Core: Pallof press or side plank 2-3 easy sets, then 8-10 min hips, ankles, quads, and calves. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
       ],
       "adjustments": [
+        "Adjusted for schedule constraints.",
         "Back-friendly loading ramp."
       ]
     },
