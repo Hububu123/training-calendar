@@ -1,0 +1,485 @@
+# Training Plan: 2026-06-08..2026-07-05
+
+Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness. Size remains primary; secondary running targets: sub-19:00 5K on 2026-08-22; 1:35 half marathon on 2026-11-22.
+
+## 2026-06-08 - Upper Strength + Calisthenics Pull
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.
+- Progression: double progression; add load only after all sets reach the top of the range at RPE 8 or lower, about 2 RIR. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Bench press: top set 1 x 4-6 at RPE 8, then 3 back-off sets x 5-7 at RPE 7-8.
+- Pull-ups: 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.
+- Overhead press or Arnold press: 3 x 6-10 at RPE 8 paired with incline dumbbell press or dumbbell press 2 x 8-10 at RPE 8.
+- Shoulder and arm finisher: lateral raises 3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m, preacher curls or hammer curls 2 x 10-15, and reverse curls 2 x 12-15.
+
+## 2026-06-09 - Lower Strength + Knee Capacity
+
+Category: gym
+Run volume: 0 km
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and short-foot activation.
+- Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 8. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Hack squat or goblet squat: top set 1 x 6-8 at RPE 8, then 3 back-off sets x 8-10 at RPE 7-8.
+- Romanian deadlift: 4 x 6-8 at RPE 7-8 with controlled eccentrics.
+- Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.
+- Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.
+
+## 2026-06-10 - Easy Bike Aerobic Substitute
+
+Category: easy_run
+Run volume: 0 km
+Macros: 3400 kcal, 165 g protein, 485 g carbs, 95 g fat
+Macro timing: 30-60 g carbs 60-120 min before the bike session, then 25-35 g protein plus carbs after.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Bike aerobic RPE 3-4: 25-40 min conversational; keep cadence smooth and pressure through the whole foot.
+- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.
+- Fueling: keep carbs before and after so size gain remains the main training priority.
+
+## 2026-06-11 - Upper Calisthenics + Shoulder Hypertrophy
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5 min easy cardio, shoulder prep, light cable rows, and scap pull-ups.
+- Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 8-9. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Pull-ups: 5 x 4-8 or 20-30 total quality reps at RPE 8.
+- Dips or push-ups: 3 x 8-15 at RPE 8-9 paired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 8.
+- Shoulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-15, lateral raises 3 x 15-20, and rear delt fly 2 x 15-20.
+- Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 8.
+
+## 2026-06-12 - Legs + Delts Accessory
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5-6 min easy bike, ankle rocks, band pull-aparts, and one ramp set for each pairing.
+- Progression: keep this short and low-fatigue; stop 1-2 reps before failure and leave fresher than you arrived. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Leg extension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x 10-15 at RPE 8.
+- Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.
+- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8; if time is tight, complete the first 3 exercises and leave.
+- Chest/back/core top-up: push-ups 2 x clean reps, dips 2 x 6-10, cable row 2 x 10-12, face pulls 2 x 12-15, Pallof press 3 x 10 per side, plank variations 2 x 30-45 sec, kettlebell side bend 2 x 10-12, around the head kettlebell 2 x 8 each way, and weighted sit-ups 2 x 8-12.
+
+## 2026-06-13 - Bike Intervals + Power Prep
+
+Category: sprint
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.
+- Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.
+- Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and sole-to-sole isometrics.
+- Stop if inner-ankle or arch discomfort climbs above 2-3/10 or is worse the next morning.
+
+## 2026-06-14 - Long Bike Aerobic Substitute
+
+Category: long_run
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.
+- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.
+- Fueling: keep carbs before and after so size gain remains the main training priority.
+
+## 2026-06-15 - Full-Body Athletic Strength
+
+Category: gym
+Run volume: 0 km
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 7 min easy cardio, squat-to-stand, band pull-aparts, push-ups, and hinge ramp sets.
+- Progression: double progression; add load only when presses, hinges, and pulls are all stable at RPE 8 or lower. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Incline press, shoulder press, or bench press: top set 1 x 6-8 at RPE 8, then 3-4 back-off sets x 8-10 at RPE 7-8.
+- Trap-bar deadlift or Romanian deadlift: 3-4 x 5-6 at RPE 7-8, leave 2-3 RIR.
+- Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.
+- Shoulder, trap, and quad finisher: lateral raises 2-3 x 15-20, dumbbell trap raise 2 x 12-15, leg extension 2 x 12-15, then weighted sit-ups 2 x 8-12.
+
+## 2026-06-16 - Easy Bike Aerobic Substitute
+
+Category: easy_run
+Run volume: 0 km
+Macros: 3400 kcal, 165 g protein, 485 g carbs, 95 g fat
+Macro timing: 30-60 g carbs 60-120 min before the bike session, then 25-35 g protein plus carbs after.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Bike aerobic RPE 3-4: 25-40 min conversational; keep cadence smooth and pressure through the whole foot.
+- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.
+- Fueling: keep carbs before and after so size gain remains the main training priority.
+
+## 2026-06-17 - Lower Hypertrophy + Posterior Chain
+
+Category: gym
+Run volume: 0 km
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 7-8 min bike, hip exercises with an elastic band, ankle rocks, and hinge ramp sets.
+- Progression: double progression; add load only when tempo and knee control stay stable at RPE 8 or lower. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.
+- Romanian deadlift: 3 x 8 at RPE 7-8 paired with leg press or hack squat 3 x 10-15 at RPE 8.
+- Reverse Nordic curls: 2 x 6-10 at RPE 7 paired with leg extension 2 x 15-20 at RPE 8.
+- Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.
+
+## 2026-06-18 - Upper Hypertrophy + Shoulders / Upper Back
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5 min easy cardio, shoulder prep, light rows, and thoracic mobility.
+- Progression: double progression; add reps before load and keep the whole session capped around RPE 8. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Chest-supported row, cable row, Pendlay row, or barbell row: 4 x 8-12 at RPE 8 paired with dumbbell or machine shoulder press 3 x 8-10 at RPE 8.
+- Lat pull-down or pull-ups: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.
+- Shoulder and upper back finisher: lateral raises 3 x 15-20, rear delt fly or reverse pec-deck 3 x 15-20, face pulls 2 x 12-15, and dumbbell rotator cuff work.
+- Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free.
+
+## 2026-06-19 - Core + Chest/Back Strength Capacity
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5 min easy bike, shoulder prep, thoracic mobility, hip openers, and two light press/row ramp sets.
+- Progression: this is the eighth strength day in the 14-day wave; cap work at RPE 7-8, use supersets, and trim accessories before anchor work if recovery dips. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Chest volume: bench press 3 x 6-8, incline dumbbell press 3 x 8-10, dumbbell press 2 x 8-10, pec-deck 2 x 12-15, dips 2 x 6-10, and push-ups 2 x clean reps.
+- Back volume: lat pulldown or pull-ups 3 x 8-12, cable row or chest-supported row 3 x 8-12, face pulls 2 x 12-15, and rear delt fly or reverse pec-deck 2 x 15-20.
+- Leg maintenance: hip thrust or glute bridge 3 x 8-12, leg extension 2 x 12-15, and seated or lying hamstring curl 2 x 10-15 at RPE 7.
+- Core volume: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, hanging leg raises 2-3 sets, weighted sit-ups 2 x 8-12, and kettlebell side bend or around the head kettlebell 2 x 10.
+
+## 2026-06-20 - Bike Intervals + Power Prep
+
+Category: sprint
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.
+- Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.
+- Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and sole-to-sole isometrics.
+- Stop if inner-ankle or arch discomfort climbs above 2-3/10 or is worse the next morning.
+
+## 2026-06-21 - Long Bike Aerobic Substitute
+
+Category: long_run
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.
+- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.
+- Fueling: keep carbs before and after so size gain remains the main training priority.
+
+## 2026-06-22 - Upper Strength + Calisthenics Pull
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.
+- Progression: double progression; add load only after all sets reach the top of the range at RPE 8 or lower, about 2 RIR. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Bench press: top set 1 x 4-6 at RPE 8, then 3 back-off sets x 5-7 at RPE 7-8.
+- Pull-ups: 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.
+- Overhead press or Arnold press: 3 x 6-10 at RPE 8 paired with incline dumbbell press or dumbbell press 2 x 8-10 at RPE 8.
+- Shoulder and arm finisher: lateral raises 3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m, preacher curls or hammer curls 2 x 10-15, and reverse curls 2 x 12-15.
+
+## 2026-06-23 - Lower Strength + Knee Capacity
+
+Category: gym
+Run volume: 0 km
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and short-foot activation.
+- Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 8. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Hack squat or goblet squat: top set 1 x 6-8 at RPE 8, then 3 back-off sets x 8-10 at RPE 7-8.
+- Romanian deadlift: 4 x 6-8 at RPE 7-8 with controlled eccentrics.
+- Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.
+- Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.
+
+## 2026-06-24 - Easy Bike Aerobic Substitute
+
+Category: easy_run
+Run volume: 0 km
+Macros: 3400 kcal, 165 g protein, 485 g carbs, 95 g fat
+Macro timing: 30-60 g carbs 60-120 min before the bike session, then 25-35 g protein plus carbs after.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Bike aerobic RPE 3-4: 25-40 min conversational; keep cadence smooth and pressure through the whole foot.
+- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.
+- Fueling: keep carbs before and after so size gain remains the main training priority.
+
+## 2026-06-25 - Upper Calisthenics + Shoulder Hypertrophy
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5 min easy cardio, shoulder prep, light cable rows, and scap pull-ups.
+- Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 8-9. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Pull-ups: 5 x 4-8 or 20-30 total quality reps at RPE 8.
+- Dips or push-ups: 3 x 8-15 at RPE 8-9 paired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 8.
+- Shoulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-15, lateral raises 3 x 15-20, and rear delt fly 2 x 15-20.
+- Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 8.
+
+## 2026-06-26 - Legs + Delts Accessory
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5-6 min easy bike, ankle rocks, band pull-aparts, and one ramp set for each pairing.
+- Progression: keep this short and low-fatigue; stop 1-2 reps before failure and leave fresher than you arrived. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Leg extension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x 10-15 at RPE 8.
+- Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.
+- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8; if time is tight, complete the first 3 exercises and leave.
+- Chest/back/core top-up: push-ups 2 x clean reps, dips 2 x 6-10, cable row 2 x 10-12, face pulls 2 x 12-15, Pallof press 3 x 10 per side, plank variations 2 x 30-45 sec, kettlebell side bend 2 x 10-12, around the head kettlebell 2 x 8 each way, and weighted sit-ups 2 x 8-12.
+
+## 2026-06-27 - Plyometrics + Hill Sprint Technique
+
+Category: sprint
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Impact substitute: use easy bike or bike intervals today; skip running, hills, jumps, and strides until symptoms settle.
+- Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day; sprint RPE 7-8, never max.
+- Stop the sprint set if mechanics get sloppy or knees feel sharp.
+- Optional: weighted sit-ups 2 x 8-12 and side plank 2 x 30 sec per side.
+
+## 2026-06-28 - Easy Longer Aerobic Run
+
+Category: long_run
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free.
+- Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.
+- Recovery: protein plus a large carb meal within 2 hours.
+- Fueling: eat carbs the night before and before the run; add electrolytes if warm.
+
+## 2026-06-29 - Full-Body Athletic Strength
+
+Category: gym
+Run volume: 0 km
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Warm-up: 7 min easy cardio, squat-to-stand, band pull-aparts, push-ups, and hinge ramp sets.
+- Progression: double progression; add load only when presses, hinges, and pulls are all stable at RPE 8 or lower.
+- Incline press, shoulder press, or bench press: top set 1 x 6-8 at RPE 8, then 3-4 back-off sets x 8-10 at RPE 7-8.
+- Trap-bar deadlift or Romanian deadlift: 3-4 x 5-6 at RPE 7-8, leave 2-3 RIR.
+- Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.
+- Shoulder, trap, and quad finisher: lateral raises 2-3 x 15-20, dumbbell trap raise 2 x 12-15, leg extension 2 x 12-15, then weighted sit-ups 2 x 8-12.
+
+## 2026-06-30 - Easy Run + Relaxed Strides
+
+Category: easy_run
+Run volume: 0 km
+Macros: 3400 kcal, 165 g protein, 485 g carbs, 95 g fat
+Macro timing: 30-60 g carbs 60-120 min before running, then 25-35 g protein plus carbs after.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free.
+- Strides: 4 x 15 sec relaxed at RPE 6 on flat ground only if knees feel normal.
+- Mobility: 8 min calves, quads, glutes, and ankles.
+- Fueling: small carb snack before morning running if sleep was poor.
+
+## 2026-07-01 - Lower Hypertrophy + Posterior Chain
+
+Category: gym
+Run volume: 0 km
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Warm-up: 7-8 min bike, hip exercises with an elastic band, ankle rocks, and hinge ramp sets.
+- Progression: double progression; add load only when tempo and knee control stay stable at RPE 8 or lower.
+- Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.
+- Romanian deadlift: 3 x 8 at RPE 7-8 paired with leg press or hack squat 3 x 10-15 at RPE 8.
+- Reverse Nordic curls: 2 x 6-10 at RPE 7 paired with leg extension 2 x 15-20 at RPE 8.
+- Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.
+
+## 2026-07-02 - Upper Hypertrophy + Shoulders / Upper Back
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Warm-up: 5 min easy cardio, shoulder prep, light rows, and thoracic mobility.
+- Progression: double progression; add reps before load and keep the whole session capped around RPE 8.
+- Chest-supported row, cable row, Pendlay row, or barbell row: 4 x 8-12 at RPE 8 paired with dumbbell or machine shoulder press 3 x 8-10 at RPE 8.
+- Lat pull-down or pull-ups: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.
+- Shoulder and upper back finisher: lateral raises 3 x 15-20, rear delt fly or reverse pec-deck 3 x 15-20, face pulls 2 x 12-15, and dumbbell rotator cuff work.
+- Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free.
+
+## 2026-07-03 - Core + Chest/Back Strength Capacity
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Warm-up: 5 min easy bike, shoulder prep, thoracic mobility, hip openers, and two light press/row ramp sets.
+- Progression: this is the eighth strength day in the 14-day wave; cap work at RPE 7-8, use supersets, and trim accessories before anchor work if recovery dips.
+- Chest volume: bench press 3 x 6-8, incline dumbbell press 3 x 8-10, dumbbell press 2 x 8-10, pec-deck 2 x 12-15, dips 2 x 6-10, and push-ups 2 x clean reps.
+- Back volume: lat pulldown or pull-ups 3 x 8-12, cable row or chest-supported row 3 x 8-12, face pulls 2 x 12-15, and rear delt fly or reverse pec-deck 2 x 15-20.
+- Leg maintenance: hip thrust or glute bridge 3 x 8-12, leg extension 2 x 12-15, and seated or lying hamstring curl 2 x 10-15 at RPE 7.
+- Core volume: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, hanging leg raises 2-3 sets, weighted sit-ups 2 x 8-12, and kettlebell side bend or around the head kettlebell 2 x 10.
+
+## 2026-07-04 - Plyometrics + Functional Power
+
+Category: sprint
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Impact substitute: use easy bike or bike intervals today; skip running, hills, jumps, and strides until symptoms settle.
+- Progression: add power volume only when jumps stay crisp and knees stay quiet the next day; sprint RPE 7-8.
+- Functional work: sled push if easy to set up or farmer carries 4 x 30 m at RPE 7.
+- Core: side plank 2 x 30 sec per side or Pallof press 3 x 10 per side.
+
+## 2026-07-05 - Aerobic Base + Reset
+
+Category: long_run
+Run volume: 0 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Adjustments:
+- Return-to-impact loading ramp.
+
+Plan:
+- Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free.
+- Impact substitute: use easy bike or bike intervals today; skip running, hills, jumps, and strides until symptoms settle.
+- Recovery: long mobility reset for calves, quads, hips, and feet.
+- Fueling: carbs before and after; keep this aerobic, not competitive.
