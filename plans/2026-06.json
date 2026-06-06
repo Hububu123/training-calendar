@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "goal": "Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness.",
+  "goal": "Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness. Size remains primary; secondary running targets: sub-19:00 5K on 2026-08-22; 1:35 half marathon on 2026-11-22.",
   "days": [
     {
       "date": "2026-06-01",
@@ -9,158 +9,218 @@
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 165,
+        "protein_g": 175,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
         "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise.",
-        "Bench press: top set 1 x 4-6 at RPE 6-7, then 3 back-off sets x 5-7 at RPE 6-7.",
-        "Pull-ups: 4 x 4-8 at RPE 6-7 paired with chest-supported row 4 x 8-12 at RPE 6-7.",
-        "Incline dumbbell press: 3 x 8-12 at RPE 6-7 paired with dips or push-ups 2-3 x clean reps, stop at 1-2 RIR.",
-        "Core finisher: Pallof press 3 x 10 per side plus dead bug 2 x 8 per side; keep the trunk quiet and pain-free. Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
+        "Progression: double progression; add load only after all sets reach the top of the range at RPE 8 or lower, about 2 RIR.",
+        "Bench press: top set 1 x 4-6 at RPE 8, then 3 back-off sets x 5-7 at RPE 7-8.",
+        "Pull-ups: 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.",
+        "Overhead press or Arnold press: 3 x 6-10 at RPE 8 paired with incline dumbbell press or dumbbell press 2 x 8-10 at RPE 8.",
+        "Shoulder and arm finisher: lateral raises 3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m, preacher curls or hammer curls 2 x 10-15, and reverse curls 2 x 12-15."
       ],
-      "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Adjusted for temporary low-back recovery constraint."
-      ]
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pull-ups",
+          "planned_kg": ""
+        },
+        {
+          "name": "Overhead press",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
     },
     {
       "date": "2026-06-02",
+      "title": "Recovery + Easy Zone 2",
+      "category": "easy_run",
+      "run_km": 5,
+      "macros": {
+        "calories": 3400,
+        "protein_g": 165,
+        "carbs_g": 485,
+        "fat_g": 95
+      },
+      "description": [
+        "Easy run RPE 3-4: 5 km at conversational effort; cadence light and relaxed.",
+        "Mobility: 8-10 min hips, quads, calves, and ankles.",
+        "Optional: 20-30 min walk later if knees feel normal.",
+        "Fueling: fruit or rye bread plus caffeine is enough before a short morning run."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Adjusted for schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-03",
       "title": "Lower Strength + Knee Capacity",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3500,
-        "protein_g": 165,
+        "protein_g": 180,
         "carbs_g": 505,
         "fat_g": 100
       },
       "description": [
-        "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and tibialis raises.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise.",
-        "Hack squat, leg press, or supported split squat: 3 x 6-10 at RPE 6-7; stop if symptoms rise.",
-        "Back-friendly posterior chain: seated or lying leg curl 3 x 10-15 at RPE 6-7, plus bodyweight glute bridge 2 x 12 if symptom-free.",
-        "Supported split squat or step-up: 2-3 x 8-10 per leg at RPE 6-7 paired with leg curl 2-3 x 10-15 at RPE 6-7.",
-        "Core finisher: calf raises plus tibialis raises 4 x 12-20 each at RPE 7, then side plank 2 x 30 sec. Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
+        "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and short-foot activation.",
+        "Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 8.",
+        "Hack squat or goblet squat: top set 1 x 6-8 at RPE 8, then 3 back-off sets x 8-10 at RPE 7-8.",
+        "Romanian deadlift: 4 x 6-8 at RPE 7-8 with controlled eccentrics.",
+        "Leg extension: 3 x 12-15 at RPE 8 paired with front-foot elevated split squat 2-3 x 8-10 per leg at RPE 7.",
+        "Core finisher: seated calf raise plus tibialis raises 4 x 12-20 each at RPE 7, then side plank 2 x 30 sec."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Hack squat",
+          "planned_kg": ""
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Leg extension",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Adjusted for temporary low-back recovery constraint."
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "title": "Recovery + Easy Zone 2",
-      "category": "easy_run",
-      "run_km": 5,
-      "macros": {
-        "calories": 3300,
-        "protein_g": 165,
-        "carbs_g": 445,
-        "fat_g": 95
-      },
-      "description": [
-        "Easy run RPE 3-4: 5 km at conversational effort; cadence light and relaxed. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE.",
-        "Mobility: 8-10 min hips, quads, calves, and ankles.",
-        "Optional: 20-30 min walk later if knees feel normal.",
-        "Fueling: fruit or rye bread plus caffeine is enough before a short morning run."
-      ],
-      "adjustments": [
-        "Light active commute counted.",
-        "Adjusted for temporary low-back recovery constraint."
+        "Adjusted for schedule constraints."
       ]
     },
     {
       "date": "2026-06-04",
-      "title": "Unavailable / No Workout",
-      "category": "recovery",
-      "run_km": 0.0,
-      "macros": {
-        "calories": 3150,
-        "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
-      },
-      "description": [
-        "Warm-up: none; this is a no-workout day.",
-        "No scheduled workout today because the day is unavailable.",
-        "Keep the plan simple: normal walking only, basic mobility if convenient, and enough food to avoid under-fueling.",
-        "Fueling: normal meals, protein target, and no intentional calorie restriction.",
-        "Recovery priority: sleep, hydration, and an easy protein target."
-      ],
-      "adjustments": [
-        "No scheduled workout."
-      ]
-    },
-    {
-      "date": "2026-06-05",
-      "title": "Accessory Strength + Knee/Core Capacity",
+      "title": "Upper Calisthenics + Shoulder Hypertrophy",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 165,
+        "protein_g": 175,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
-        "Warm-up: 5-7 min easy bike, shoulder prep, ankle rocks, and light calf raises.",
-        "Progression: gym priority exposure without recovery debt; keep all work at RPE 6-7, leave 3 RIR, and finish fresher than a normal strength day. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise.",
-        "Chest-supported row or cable row: 3 x 10-12 at RPE 7 paired with machine shoulder press or lateral raises 3 x 10-15 at RPE 7.",
-        "Knee capacity: seated or lying leg curl 2-3 x 12-15, tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
-        "Arms and upper pump: curls plus triceps pressdowns or push-ups 2 x 10-15 at RPE 6-7.",
-        "Core: Pallof press or side plank 2-3 easy sets, then 8-10 min hips, ankles, quads, and calves. Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
+        "Warm-up: 5 min easy cardio, shoulder prep, light cable rows, and scap pull-ups.",
+        "Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 8-9.",
+        "Pull-ups: 5 x 4-8 or 20-30 total quality reps at RPE 8.",
+        "Dips or push-ups: 3 x 8-15 at RPE 8-9 paired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 8.",
+        "Shoulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-15, lateral raises 3 x 15-20, and rear delt fly 2 x 15-20.",
+        "Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 8."
       ],
-      "adjustments": [
-        "Adjusted for temporary low-back recovery constraint."
-      ]
+      "exercise_targets": [
+        {
+          "name": "Pull-ups",
+          "planned_kg": ""
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Lateral raises",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
     },
     {
-      "date": "2026-06-06",
+      "date": "2026-06-05",
       "title": "Plyometrics + Hill Sprint Technique",
       "category": "sprint",
       "run_km": 3,
       "macros": {
-        "calories": 3550,
-        "protein_g": 165,
-        "carbs_g": 520,
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
         "fat_g": 100
       },
       "description": [
         "Warm-up jog: 10-12 min easy plus leg swings, A-skips, ankling, and 3 relaxed strides.",
-        "Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day; sprint RPE 6-7, never max. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise.",
-        "Plyometrics: pogos 3 x 20 sec and snap-downs 3 x 5 at crisp RPE 6-7.",
-        "Hill sprints: 6 x 10-12 sec uphill at sprint RPE 6-7; full walk-back recovery.",
+        "Progression: add sprint reps only when contacts stay snappy and knees stay quiet the next day; sprint RPE 7-8, never max.",
+        "Plyometrics: pogos 3 x 20 sec, snap-downs 3 x 5, low broad jumps 3 x 3 at crisp RPE 6-7.",
+        "Hill sprints: 6 x 10-12 sec uphill at sprint RPE 7-8; full walk-back recovery.",
         "Stop the sprint set if mechanics get sloppy or knees feel sharp.",
-        "Optional: dead bug 3 x 8 per side and side plank 2 x 30 sec. Temporary low-back recovery constraint: avoid loaded hinging and heavy bracing; use machines or supported positions where possible."
+        "Optional: weighted sit-ups 2 x 8-12 and side plank 2 x 30 sec per side."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Adjusted for schedule constraints."
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Legs + Delts Accessory",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Warm-up: 5-6 min easy bike, ankle rocks, band pull-aparts, and one ramp set for each pairing.",
+        "Progression: keep this short and low-fatigue; stop 1-2 reps before failure and leave fresher than you arrived. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Leg extension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x 10-15 at RPE 8.",
+        "Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.",
+        "Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8; if time is tight, complete the first 3 exercises and leave.",
+        "Chest/back/core top-up: push-ups 2 x clean reps, dips 2 x 6-10, cable row 2 x 10-12, face pulls 2 x 12-15, Pallof press 3 x 10 per side, plank variations 2 x 30-45 sec, kettlebell side bend 2 x 10-12, around the head kettlebell 2 x 8 each way, and weighted sit-ups 2 x 8-12."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Leg extension",
+          "planned_kg": ""
+        },
+        {
+          "name": "Hamstring curl",
+          "planned_kg": ""
+        },
+        {
+          "name": "Lateral raises",
+          "planned_kg": ""
+        },
+        {
+          "name": "Cable row",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Adjusted for temporary low-back recovery constraint."
+        "Adjusted for schedule constraints.",
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-07",
-      "title": "Easy Longer Aerobic Run",
+      "title": "Long Bike Aerobic Substitute",
       "category": "long_run",
-      "run_km": 10,
+      "run_km": 0,
       "macros": {
-        "calories": 3550,
-        "protein_g": 165,
-        "carbs_g": 520,
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
         "fat_g": 100
       },
       "description": [
-        "Easy run RPE 3-4: 10 km at conversational effort; keep the final 2 km controlled, not fast.",
-        "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
-        "Recovery: protein plus a large carb meal within 2 hours.",
-        "Fueling: eat carbs the night before and before the run; add electrolytes if warm."
+        "Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.",
+        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.",
+        "Fueling: keep carbs before and after so size gain remains the main training priority."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Adjusted for temporary low-back recovery constraint."
+        "Adjusted for recovery constraint."
       ]
     },
     {
@@ -170,161 +230,216 @@
       "run_km": 0,
       "macros": {
         "calories": 3500,
-        "protein_g": 165,
+        "protein_g": 180,
         "carbs_g": 505,
         "fat_g": 100
       },
       "description": [
-        "Warm-up: 7 min easy cardio, squat-to-stand, band rows, push-ups, and hinge ramp sets.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Incline press or bench press: top set 1 x 6-8 at RPE 8, then 3-4 back-off sets x 8-10 at RPE 7-8.",
-        "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; skip loaded hinges and back-extension work; start lightly.",
-        "Pull-ups or chest-supported rows: 4 x 6-10 at RPE 8 paired with goblet squat 3 x 8-12 at RPE 7.",
-        "Core finisher: farmer carries 3 x 40 m at RPE 7 plus dead bug 2 x 8 per side. Keep carries light and skip them if the low back feels loaded. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Warm-up: 7 min easy cardio, squat-to-stand, band pull-aparts, push-ups, and hinge ramp sets.",
+        "Progression: double progression; add load only when presses, hinges, and pulls are all stable at RPE 8 or lower. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Incline press, shoulder press, or bench press: top set 1 x 6-8 at RPE 8, then 3-4 back-off sets x 8-10 at RPE 7-8.",
+        "Trap-bar deadlift or Romanian deadlift: 3-4 x 5-6 at RPE 7-8, leave 2-3 RIR.",
+        "Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.",
+        "Shoulder, trap, and quad finisher: lateral raises 2-3 x 15-20, dumbbell trap raise 2 x 12-15, leg extension 2 x 12-15, then weighted sit-ups 2 x 8-12."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Incline press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Trap-bar deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Front-foot elevated split squat",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-09",
-      "title": "Easy Run + Relaxed Strides",
+      "title": "Easy Bike Aerobic Substitute",
       "category": "easy_run",
-      "run_km": 6,
+      "run_km": 0,
       "macros": {
-        "calories": 3300,
+        "calories": 3400,
         "protein_g": 165,
-        "carbs_g": 445,
+        "carbs_g": 485,
         "fat_g": 95
       },
       "description": [
-        "Easy run RPE 3-4: 6 km conversational. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE.",
-        "Strides: 4 x 15 sec relaxed at RPE 6 on flat ground only if knees feel normal.",
-        "Mobility: 8 min calves, quads, glutes, and ankles.",
-        "Fueling: small carb snack before morning running if sleep was poor."
+        "Bike aerobic RPE 3-4: 25-40 min conversational; keep cadence smooth and pressure through the whole foot.",
+        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.",
+        "Fueling: keep carbs before and after so size gain remains the main training priority."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-10",
-      "title": "Lower Unilateral + Posterior Chain",
+      "title": "Lower Hypertrophy + Posterior Chain",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3500,
-        "protein_g": 165,
+        "protein_g": 180,
         "carbs_g": 505,
         "fat_g": 100
       },
       "description": [
-        "Warm-up: 7-8 min bike, split squat isometric holds, ankle rocks, and hinge ramp sets.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Bulgarian split squat or step-up: 3-4 x 6-10 per leg at RPE 7-8.",
-        "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; skip loaded hinges and back-extension work; start lightly.",
-        "Walking lunges: 2-3 x 12 steps per leg at RPE 7.",
-        "Core finisher: calf raises plus Copenhagen plank 2-3 sets each at RPE 7. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Warm-up: 7-8 min bike, hip exercises with an elastic band, ankle rocks, and hinge ramp sets.",
+        "Progression: double progression; add load only when tempo and knee control stay stable at RPE 8 or lower. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.",
+        "Romanian deadlift: 3 x 8 at RPE 7-8 paired with leg press or hack squat 3 x 10-15 at RPE 8.",
+        "Reverse Nordic curls: 2 x 6-10 at RPE 7 paired with leg extension 2 x 15-20 at RPE 8.",
+        "Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bulgarian split squat",
+          "planned_kg": ""
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Leg press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-11",
-      "title": "Calisthenics Density + Zone 2",
+      "title": "Upper Hypertrophy + Shoulders / Upper Back",
       "category": "gym",
-      "run_km": 4,
+      "run_km": 0,
       "macros": {
-        "calories": 3500,
-        "protein_g": 165,
-        "carbs_g": 505,
-        "fat_g": 100
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
-        "Progression: double progression by adding clean reps before adding time or load; cap the density block at RPE 8. Reduce volume by 25-40% before adding intensity. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises at 2 RIR.",
-        "Easy run RPE 3-4: 4 km conversational immediately after or in the morning.",
-        "Carry finisher: suitcase carry 3 x 30 m per side at RPE 7.",
-        "Optional: lateral raises or curls 2 x 15-20 at RPE 8 if time remains. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Warm-up: 5 min easy cardio, shoulder prep, light rows, and thoracic mobility.",
+        "Progression: double progression; add reps before load and keep the whole session capped around RPE 8. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Chest-supported row, cable row, Pendlay row, or barbell row: 4 x 8-12 at RPE 8 paired with dumbbell or machine shoulder press 3 x 8-10 at RPE 8.",
+        "Lat pull-down or pull-ups: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.",
+        "Shoulder and upper back finisher: lateral raises 3 x 15-20, rear delt fly or reverse pec-deck 3 x 15-20, face pulls 2 x 12-15, and dumbbell rotator cuff work.",
+        "Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Chest-supported row",
+          "planned_kg": ""
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Adjusted for schedule constraints.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-12",
-      "title": "Recovery + Mobility Capacity",
-      "category": "recovery",
+      "title": "Core + Chest/Back Strength Capacity",
+      "category": "gym",
       "run_km": 0,
       "macros": {
-        "calories": 3150,
-        "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Recovery RPE 2-3: 30-60 min walk or easy bike.",
-        "Mobility: hips, ankles, thoracic spine, calves, and quads for 12-15 min.",
-        "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec at RPE 6-7.",
-        "Optional: light crawling or plank variations for 5 min.",
-        "Fueling: keep protein at target and do not under-eat on the recovery day."
+        "Warm-up: 5 min easy bike, shoulder prep, thoracic mobility, hip openers, and two light press/row ramp sets.",
+        "Progression: this is the eighth strength day in the 14-day wave; cap work at RPE 7-8, use supersets, and trim accessories before anchor work if recovery dips. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Chest volume: bench press 3 x 6-8, incline dumbbell press 3 x 8-10, dumbbell press 2 x 8-10, pec-deck 2 x 12-15, dips 2 x 6-10, and push-ups 2 x clean reps.",
+        "Back volume: lat pulldown or pull-ups 3 x 8-12, cable row or chest-supported row 3 x 8-12, face pulls 2 x 12-15, and rear delt fly or reverse pec-deck 2 x 15-20.",
+        "Leg maintenance: hip thrust or glute bridge 3 x 8-12, leg extension 2 x 12-15, and seated or lying hamstring curl 2 x 10-15 at RPE 7.",
+        "Core volume: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, hanging leg raises 2-3 sets, weighted sit-ups 2 x 8-12, and kettlebell side bend or around the head kettlebell 2 x 10."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Lat pulldown",
+          "planned_kg": ""
+        },
+        {
+          "name": "Hip thrust",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-13",
-      "title": "Plyometrics + Functional Power",
+      "title": "Bike Intervals + Power Prep",
       "category": "sprint",
-      "run_km": 3,
+      "run_km": 0,
       "macros": {
-        "calories": 3550,
-        "protein_g": 165,
-        "carbs_g": 520,
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
         "fat_g": 100
       },
       "description": [
-        "Warm-up jog: 10 min easy plus skips, ankling, hip openers, and 3 relaxed strides.",
-        "Progression: add power volume only when jumps stay crisp and knees stay quiet the next day; sprint RPE 7-8. Reduce volume by 25-40% before adding intensity. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Plyometrics: pogos 3 x 20 sec, low broad jumps 4 x 2, and med-ball slams 4 x 5 at crisp RPE 6-7 if available.",
-        "Hill sprint technique: 4-6 x 8-10 sec at sprint RPE 7-8.",
-        "Functional work: sled push if easy to set up or farmer carries 4 x 30 m at RPE 7. Keep carries light and skip them if the low back feels loaded.",
-        "Core: crawling 3 x 20 m or dead bug 3 x 8 per side. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.",
+        "Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.",
+        "Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and sole-to-sole isometrics.",
+        "Stop if inner-ankle or arch discomfort climbs above 2-3/10 or is worse the next morning."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Adjusted for schedule constraints.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-14",
-      "title": "Aerobic Base + Reset",
+      "title": "Long Bike Aerobic Substitute",
       "category": "long_run",
-      "run_km": 9,
+      "run_km": 0,
       "macros": {
-        "calories": 3550,
-        "protein_g": 165,
-        "carbs_g": 520,
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
         "fat_g": 100
       },
       "description": [
-        "Easy run RPE 3-4: 9 km conversational; shorten to 6 km if sleep or knees are poor.",
-        "Optional: 4 x 20 sec relaxed strides at RPE 6 only if the week felt easy.",
-        "Recovery: long mobility reset for calves, quads, hips, and feet. Reduce volume by 25-40% before adding intensity.",
-        "Fueling: carbs before and after; keep this aerobic, not competitive."
+        "Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.",
+        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.",
+        "Fueling: keep carbs before and after so size gain remains the main training priority."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Adjusted for schedule constraints.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
@@ -334,22 +449,34 @@
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 165,
+        "protein_g": 175,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
         "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
+        "Progression: double progression; add load only after all sets reach the top of the range at RPE 8 or lower, about 2 RIR. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
         "Bench press: top set 1 x 4-6 at RPE 8, then 3 back-off sets x 5-7 at RPE 7-8.",
         "Pull-ups: 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.",
-        "Incline dumbbell press: 3 x 8-12 at RPE 8 paired with dips or push-ups 2-3 x clean reps, stop at 1-2 RIR.",
-        "Core finisher: farmer carries 4 x 30-40 m at RPE 7 plus dead bug 2 x 8 per side. Keep carries light and skip them if the low back feels loaded. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Overhead press or Arnold press: 3 x 6-10 at RPE 8 paired with incline dumbbell press or dumbbell press 2 x 8-10 at RPE 8.",
+        "Shoulder and arm finisher: lateral raises 3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m, preacher curls or hammer curls 2 x 10-15, and reverse curls 2 x 12-15."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pull-ups",
+          "planned_kg": ""
+        },
+        {
+          "name": "Overhead press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
@@ -359,134 +486,183 @@
       "run_km": 0,
       "macros": {
         "calories": 3500,
-        "protein_g": 165,
+        "protein_g": 180,
         "carbs_g": 505,
         "fat_g": 100
       },
       "description": [
-        "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and tibialis raises.",
-        "Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 8. Reduce volume by 25-40% before adding intensity. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
+        "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and short-foot activation.",
+        "Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 8. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
         "Hack squat or goblet squat: top set 1 x 6-8 at RPE 8, then 3 back-off sets x 8-10 at RPE 7-8.",
-        "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; skip loaded hinges and back-extension work; start lightly.",
-        "Split squat or step-up: 3 x 8-10 per leg at RPE 7 paired with leg curl 3 x 10-15 at RPE 8.",
-        "Core finisher: calf raises plus tibialis raises 4 x 12-20 each at RPE 7, then side plank 2 x 30 sec. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Romanian deadlift: 4 x 6-8 at RPE 7-8 with controlled eccentrics.",
+        "Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.",
+        "Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Hack squat",
+          "planned_kg": ""
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Leg extension",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Adjusted for schedule constraints.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-17",
-      "title": "Recovery + Easy Zone 2",
+      "title": "Easy Bike Aerobic Substitute",
       "category": "easy_run",
-      "run_km": 5,
+      "run_km": 0,
       "macros": {
-        "calories": 3300,
+        "calories": 3400,
         "protein_g": 165,
-        "carbs_g": 445,
+        "carbs_g": 485,
         "fat_g": 95
       },
       "description": [
-        "Easy run RPE 3-4: 5 km at conversational effort; cadence light and relaxed.",
-        "Mobility: 8-10 min hips, quads, calves, and ankles.",
-        "Optional: 20-30 min walk later if knees feel normal.",
-        "Fueling: fruit or rye bread plus caffeine is enough before a short morning run."
+        "Bike aerobic RPE 3-4: 25-40 min conversational; keep cadence smooth and pressure through the whole foot.",
+        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.",
+        "Fueling: keep carbs before and after so size gain remains the main training priority."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-18",
-      "title": "Upper Calisthenics + Hypertrophy",
+      "title": "Upper Calisthenics + Shoulder Hypertrophy",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 165,
+        "protein_g": 175,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
-        "Warm-up: 5 min easy cardio, shoulder circles, light rows, and scap pull-ups.",
-        "Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 8-9. Reduce volume by 25-40% before adding intensity. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
+        "Warm-up: 5 min easy cardio, shoulder prep, light cable rows, and scap pull-ups.",
+        "Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 8-9. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
         "Pull-ups: 5 x 4-8 or 20-30 total quality reps at RPE 8.",
-        "Dips or push-ups: 3 x 8-15 at RPE 8-9, stop before shoulder position changes.",
-        "One-arm dumbbell row or inverted row: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.",
-        "Core finisher: lateral raises plus hanging leg raises 2-3 sets each at RPE 8. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Dips or push-ups: 3 x 8-15 at RPE 8-9 paired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 8.",
+        "Shoulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-15, lateral raises 3 x 15-20, and rear delt fly 2 x 15-20.",
+        "Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 8."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Pull-ups",
+          "planned_kg": ""
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Lateral raises",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Adjusted for schedule constraints.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-19",
-      "title": "Accessory Strength + Knee/Core Capacity",
+      "title": "Legs + Delts Accessory",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 165,
+        "protein_g": 175,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
-        "Warm-up: 5-7 min easy bike, shoulder prep, ankle rocks, and light calf raises.",
-        "Progression: gym priority exposure without recovery debt; keep all work at RPE 6-7, leave 3 RIR, and finish fresher than a normal strength day. Reduce volume by 25-40% before adding intensity. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Chest-supported row or cable row: 3 x 10-12 at RPE 7 paired with machine shoulder press or lateral raises 3 x 10-15 at RPE 7.",
-        "Knee capacity: seated or lying leg curl 2-3 x 12-15, tibialis raises 2 x 20, slow calf raises 2 x 15, and wall sit 2 x 30-45 sec at RPE 6-7.",
-        "Arms and upper pump: curls plus triceps pressdowns or push-ups 2 x 10-15 at RPE 7-8.",
-        "Core: Pallof press or side plank 2-3 easy sets, then 8-10 min hips, ankles, quads, and calves. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Warm-up: 5-6 min easy bike, ankle rocks, band pull-aparts, and one ramp set for each pairing.",
+        "Progression: keep this short and low-fatigue; stop 1-2 reps before failure and leave fresher than you arrived. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Leg extension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x 10-15 at RPE 8.",
+        "Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds.",
+        "Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8; if time is tight, complete the first 3 exercises and leave.",
+        "Chest/back/core top-up: push-ups 2 x clean reps, dips 2 x 6-10, cable row 2 x 10-12, face pulls 2 x 12-15, Pallof press 3 x 10 per side, plank variations 2 x 30-45 sec, kettlebell side bend 2 x 10-12, around the head kettlebell 2 x 8 each way, and weighted sit-ups 2 x 8-12."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Leg extension",
+          "planned_kg": ""
+        },
+        {
+          "name": "Hamstring curl",
+          "planned_kg": ""
+        },
+        {
+          "name": "Lateral raises",
+          "planned_kg": ""
+        },
+        {
+          "name": "Cable row",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Adjusted for schedule constraints.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-20",
-      "title": "Early Easier Morning Strength",
-      "category": "gym",
-      "run_km": 0.0,
+      "title": "Bike Intervals + Power Prep",
+      "category": "sprint",
+      "run_km": 0,
       "macros": {
-        "calories": 3350,
-        "protein_g": 165,
-        "carbs_g": 455,
-        "fat_g": 95
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
       },
       "description": [
-        "Timing: early morning session before the day gets busy.",
-        "Warm-up: 5 min easy bike plus shoulder, hip, and ankle prep.",
-        "Main work: bench press 3 x 5 at RPE 6-7, chest-supported row 3 x 8-10 at RPE 7, and leg press or goblet squat 2 x 8 at RPE 6.",
-        "Accessories: lateral raises 2 x 15, curls 2 x 12, and Pallof press 2 x 10 per side.",
-        "Fueling: eat a small carb-focused breakfast or snack before training, then a normal protein-rich meal after.",
-        "Stop while fresh; this is an easier session, not a progression test."
+        "Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.",
+        "Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.",
+        "Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and sole-to-sole isometrics.",
+        "Stop if inner-ankle or arch discomfort climbs above 2-3/10 or is worse the next morning."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Moved to an early easier morning workout."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-21",
-      "title": "Easy Longer Aerobic Run",
+      "title": "Long Bike Aerobic Substitute",
       "category": "long_run",
-      "run_km": 10,
+      "run_km": 0,
       "macros": {
-        "calories": 3550,
-        "protein_g": 165,
-        "carbs_g": 520,
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
         "fat_g": 100
       },
       "description": [
-        "Easy run RPE 3-4: 10 km at conversational effort; keep the final 2 km controlled, not fast.",
-        "Mobility: calves, quads, hip flexors, and gentle knee-friendly range work.",
-        "Recovery: protein plus a large carb meal within 2 hours.",
-        "Fueling: eat carbs the night before and before the run; add electrolytes if warm."
+        "Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.",
+        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.",
+        "Fueling: keep carbs before and after so size gain remains the main training priority."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
@@ -496,210 +672,289 @@
       "run_km": 0,
       "macros": {
         "calories": 3500,
-        "protein_g": 165,
+        "protein_g": 180,
         "carbs_g": 505,
         "fat_g": 100
       },
       "description": [
-        "Warm-up: 7 min easy cardio, squat-to-stand, band rows, push-ups, and hinge ramp sets.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Incline press or bench press: top set 1 x 6-8 at RPE 8, then 3-4 back-off sets x 8-10 at RPE 7-8.",
-        "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; skip loaded hinges and back-extension work; start lightly.",
-        "Pull-ups or chest-supported rows: 4 x 6-10 at RPE 8 paired with goblet squat 3 x 8-12 at RPE 7.",
-        "Core finisher: farmer carries 3 x 40 m at RPE 7 plus dead bug 2 x 8 per side. Keep carries light and skip them if the low back feels loaded. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Warm-up: 7 min easy cardio, squat-to-stand, band pull-aparts, push-ups, and hinge ramp sets.",
+        "Progression: double progression; add load only when presses, hinges, and pulls are all stable at RPE 8 or lower. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Incline press, shoulder press, or bench press: top set 1 x 6-8 at RPE 8, then 3-4 back-off sets x 8-10 at RPE 7-8.",
+        "Trap-bar deadlift or Romanian deadlift: 3-4 x 5-6 at RPE 7-8, leave 2-3 RIR.",
+        "Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.",
+        "Shoulder, trap, and quad finisher: lateral raises 2-3 x 15-20, dumbbell trap raise 2 x 12-15, leg extension 2 x 12-15, then weighted sit-ups 2 x 8-12."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Incline press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Trap-bar deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Front-foot elevated split squat",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-23",
-      "title": "Easy Run + Relaxed Strides",
+      "title": "Easy Bike Aerobic Substitute",
       "category": "easy_run",
-      "run_km": 6,
+      "run_km": 0,
       "macros": {
-        "calories": 3300,
+        "calories": 3400,
         "protein_g": 165,
-        "carbs_g": 445,
+        "carbs_g": 485,
         "fat_g": 95
       },
       "description": [
-        "Easy run RPE 3-4: 6 km conversational. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE.",
-        "Strides: 4 x 15 sec relaxed at RPE 6 on flat ground only if knees feel normal.",
-        "Mobility: 8 min calves, quads, glutes, and ankles.",
-        "Fueling: small carb snack before morning running if sleep was poor."
+        "Bike aerobic RPE 3-4: 25-40 min conversational; keep cadence smooth and pressure through the whole foot.",
+        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, and double-leg heel raise isometric holds.",
+        "Fueling: keep carbs before and after so size gain remains the main training priority."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-24",
-      "title": "Lower Unilateral + Posterior Chain",
+      "title": "Lower Hypertrophy + Posterior Chain",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3500,
-        "protein_g": 165,
+        "protein_g": 180,
         "carbs_g": 505,
         "fat_g": 100
       },
       "description": [
-        "Warm-up: 7-8 min bike, split squat isometric holds, ankle rocks, and hinge ramp sets.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Bulgarian split squat or step-up: 3-4 x 6-10 per leg at RPE 7-8.",
-        "Back-friendly posterior chain: hip thrust, glute bridge, or leg curl 3 x 8-12 at RPE 6-7; skip loaded hinges and back-extension work; start lightly.",
-        "Walking lunges: 2-3 x 12 steps per leg at RPE 7.",
-        "Core finisher: calf raises plus Copenhagen plank 2-3 sets each at RPE 7. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Warm-up: 7-8 min bike, hip exercises with an elastic band, ankle rocks, and hinge ramp sets.",
+        "Progression: double progression; add load only when tempo and knee control stay stable at RPE 8 or lower. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.",
+        "Romanian deadlift: 3 x 8 at RPE 7-8 paired with leg press or hack squat 3 x 10-15 at RPE 8.",
+        "Reverse Nordic curls: 2 x 6-10 at RPE 7 paired with leg extension 2 x 15-20 at RPE 8.",
+        "Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bulgarian split squat",
+          "planned_kg": ""
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Leg press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-25",
-      "title": "Calisthenics Density + Zone 2",
+      "title": "Upper Hypertrophy + Shoulders / Upper Back",
       "category": "gym",
-      "run_km": 4,
+      "run_km": 0,
       "macros": {
-        "calories": 3500,
-        "protein_g": 165,
-        "carbs_g": 505,
-        "fat_g": 100
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Warm-up: 5 min easy cardio, shoulder prep, hip mobility, and crawling patterns.",
-        "Progression: use the minimum effective dose today; complete the first 3 main lifts and add accessories only if energy is good. Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE. Low-back ramp: start lightly and add load only when the next morning is symptom-free.",
-        "Density block: 20 min alternating pull-ups, push-ups, inverted rows, and hanging knee raises at 2 RIR.",
-        "Easy run RPE 3-4: 4 km conversational immediately after or in the morning.",
-        "Carry finisher: suitcase carry 3 x 30 m per side at RPE 7.",
-        "Optional: lateral raises or curls 2 x 15-20 at RPE 8 if time remains. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Warm-up: 5 min easy cardio, shoulder prep, light rows, and thoracic mobility.",
+        "Progression: double progression; add reps before load and keep the whole session capped around RPE 8. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Chest-supported row, cable row, Pendlay row, or barbell row: 4 x 8-12 at RPE 8 paired with dumbbell or machine shoulder press 3 x 8-10 at RPE 8.",
+        "Lat pull-down or pull-ups: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.",
+        "Shoulder and upper back finisher: lateral raises 3 x 15-20, rear delt fly or reverse pec-deck 3 x 15-20, face pulls 2 x 12-15, and dumbbell rotator cuff work.",
+        "Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Chest-supported row",
+          "planned_kg": ""
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Shortened for schedule constraints.",
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-26",
-      "title": "Recovery + Mobility Capacity",
-      "category": "recovery",
+      "title": "Core + Chest/Back Strength Capacity",
+      "category": "gym",
       "run_km": 0,
       "macros": {
-        "calories": 3150,
-        "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Recovery RPE 2-3: 30-60 min walk or easy bike.",
-        "Mobility: hips, ankles, thoracic spine, calves, and quads for 12-15 min.",
-        "Knee capacity: tibialis raises 2 x 20, slow calf raises 2 x 15, wall sit 2 x 30-45 sec at RPE 6-7.",
-        "Optional: light crawling or plank variations for 5 min.",
-        "Fueling: keep protein at target and do not under-eat on the recovery day.",
-        "Light active commute: 30 min calm cycling each way counts as easy aerobic load; keep hard sets at the prescribed RPE."
+        "Warm-up: 5 min easy bike, shoulder prep, thoracic mobility, hip openers, and two light press/row ramp sets.",
+        "Progression: this is the eighth strength day in the 14-day wave; cap work at RPE 7-8, use supersets, and trim accessories before anchor work if recovery dips. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.",
+        "Chest volume: bench press 3 x 6-8, incline dumbbell press 3 x 8-10, dumbbell press 2 x 8-10, pec-deck 2 x 12-15, dips 2 x 6-10, and push-ups 2 x clean reps.",
+        "Back volume: lat pulldown or pull-ups 3 x 8-12, cable row or chest-supported row 3 x 8-12, face pulls 2 x 12-15, and rear delt fly or reverse pec-deck 2 x 15-20.",
+        "Leg maintenance: hip thrust or glute bridge 3 x 8-12, leg extension 2 x 12-15, and seated or lying hamstring curl 2 x 10-15 at RPE 7.",
+        "Core volume: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, hanging leg raises 2-3 sets, weighted sit-ups 2 x 8-12, and kettlebell side bend or around the head kettlebell 2 x 10."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Lat pulldown",
+          "planned_kg": ""
+        },
+        {
+          "name": "Hip thrust",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "Light active commute counted.",
-        "Back-friendly loading ramp."
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-27",
-      "title": "Festival Walking + No Workout",
-      "category": "festival",
-      "run_km": 0.0,
+      "title": "Plyometrics + Functional Power",
+      "category": "sprint",
+      "run_km": 3,
       "macros": {
-        "calories": 3400,
-        "protein_g": 165,
-        "carbs_g": 500,
-        "fat_g": 80
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
       },
       "description": [
-        "Warm-up: none; festival walking is the day's physical load.",
-        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
-        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
-        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
-        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
-        "Do not try to make up missed sessions during the festival block."
+        "Impact substitute: use easy bike or bike intervals today; skip running, hills, jumps, and strides until symptoms settle.",
+        "Progression: add power volume only when jumps stay crisp and knees stay quiet the next day; sprint RPE 7-8.",
+        "Functional work: sled push if easy to set up or farmer carries 4 x 30 m at RPE 7.",
+        "Core: side plank 2 x 30 sec per side or Pallof press 3 x 10 per side."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "No scheduled workout; high walking load counted."
+        "Return-to-impact loading ramp."
       ]
     },
     {
       "date": "2026-06-28",
-      "title": "Festival Walking + No Workout",
-      "category": "festival",
-      "run_km": 0.0,
+      "title": "Aerobic Base + Reset",
+      "category": "long_run",
+      "run_km": 9,
       "macros": {
-        "calories": 3400,
-        "protein_g": 165,
-        "carbs_g": 500,
-        "fat_g": 80
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
       },
       "description": [
-        "Warm-up: none; festival walking is the day's physical load.",
-        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
-        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
-        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
-        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
-        "Do not try to make up missed sessions during the festival block."
+        "Bike substitute: 20-35 min easy bike or walk 20-30 min on flat ground if symptom-free.",
+        "Impact substitute: use easy bike or bike intervals today; skip running, hills, jumps, and strides until symptoms settle.",
+        "Recovery: long mobility reset for calves, quads, hips, and feet.",
+        "Fueling: carbs before and after; keep this aerobic, not competitive."
       ],
+      "exercise_targets": [],
       "adjustments": [
-        "No scheduled workout; high walking load counted."
+        "Return-to-impact loading ramp."
       ]
     },
     {
       "date": "2026-06-29",
-      "title": "Festival Walking + No Workout",
-      "category": "festival",
-      "run_km": 0.0,
+      "title": "Upper Strength + Calisthenics Pull",
+      "category": "gym",
+      "run_km": 0,
       "macros": {
-        "calories": 3400,
-        "protein_g": 165,
-        "carbs_g": 500,
-        "fat_g": 80
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Warm-up: none; festival walking is the day's physical load.",
-        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
-        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
-        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
-        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
-        "Do not try to make up missed sessions during the festival block."
+        "Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.",
+        "Progression: double progression; add load only after all sets reach the top of the range at RPE 8 or lower, about 2 RIR.",
+        "Bench press: top set 1 x 4-6 at RPE 8, then 2 back-off sets x 5-7 at RPE 7-8.",
+        "Pull-ups: 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.",
+        "Overhead press or Arnold press: 3 x 6-10 at RPE 8 paired with incline dumbbell press or dumbbell press 2 x 8-10 at RPE 8.",
+        "Shoulder and arm finisher: lateral raises 3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m, preacher curls or hammer curls 2 x 10-15, and reverse curls 2 x 12-15."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pull-ups",
+          "planned_kg": ""
+        },
+        {
+          "name": "Overhead press",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "No scheduled workout; high walking load counted."
+        "Return-to-impact loading ramp."
       ]
     },
     {
       "date": "2026-06-30",
-      "title": "Festival Walking + No Workout",
-      "category": "festival",
-      "run_km": 0.0,
+      "title": "Lower Strength + Knee Capacity",
+      "category": "gym",
+      "run_km": 0,
       "macros": {
-        "calories": 3400,
-        "protein_g": 165,
-        "carbs_g": 500,
-        "fat_g": 80
+        "calories": 3500,
+        "protein_g": 180,
+        "carbs_g": 505,
+        "fat_g": 100
       },
       "description": [
-        "Warm-up: none; festival walking is the day's physical load.",
-        "No gym, running, sprinting, plyometrics, or calisthenics session today.",
-        "Expected load: 20,000+ steps from festival walking; count that as the training stress.",
-        "Fueling: prioritize fluids, sodium, protein when practical, and carbohydrate-dense meals.",
-        "Recovery priority: hydrate early, add sodium, get protein when practical, and use carbohydrate-dense meals.",
-        "Do not try to make up missed sessions during the festival block."
+        "Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and short-foot activation.",
+        "Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 8.",
+        "Hack squat or goblet squat: top set 1 x 6-8 at RPE 8, then 2 back-off sets x 8-10 at RPE 7-8.",
+        "Romanian deadlift: 3 x 6-8 at RPE 7-8 with controlled eccentrics.",
+        "Leg press or hack squat: 3 x 8-12 at RPE 7-8 with stable foot pressure and no symptom increase.",
+        "Lower-leg rehab: foot-intrinsic activation, short-foot / arch lifts, gentle inversion isometrics, sole-to-sole isometrics, and double-leg heel raise isometric holds."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Hack squat",
+          "planned_kg": ""
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Leg extension",
+          "planned_kg": ""
+        }
       ],
       "adjustments": [
-        "No scheduled workout; high walking load counted."
+        "Return-to-impact loading ramp."
       ]
     }
   ]
