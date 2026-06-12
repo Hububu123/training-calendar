@@ -1,6 +1,116 @@
-# Training Plan: 2026-06-15..2026-07-12
+# Training Plan: 2026-06-08..2026-07-12
 
 Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness. Size remains primary; secondary running targets: sub-19:00 5K on 2026-08-22; 1:35 half marathon on 2026-11-22.
+
+## 2026-06-08 - Upper Strength + Calisthenics Pull
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for temporary low-back recovery constraint.
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5-7 min easy bike, band pull-aparts, scap push-ups, and 2 bench ramp sets.
+- Progression: double progression; add load only after all sets reach the top of the range at RPE 6-7 or lower, about 2 RIR. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Bench press: top set 1 x 4-6 at RPE 6-7, then 3 back-off sets x 5-7 at RPE 6-7.
+- Pull-ups: 4 x 4-8 at RPE 6-7 paired with chest-supported row 4 x 8-12 at RPE 6-7.
+- Overhead press or Arnold press: 3 x 6-10 at RPE 6-7 paired with incline dumbbell press or dumbbell press 2 x 8-10 at RPE 6-7.
+- Shoulder, arm, and core finisher: lateral raises 3 x 12-20, preacher curls or hammer curls 2 x 10-15, reverse curls 2 x 12-15, Pallof press 3 x 10 per side, and side plank 2 x 30 sec per side. Temporary low-back recovery constraint: avoid loaded hinging and max-brace loading; use machines or supported positions where possible.
+
+## 2026-06-09 - Lower Strength + Knee Capacity
+
+Category: gym
+Run volume: 0 km
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+
+Adjustments:
+- Adjusted for temporary low-back recovery constraint.
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 7-8 min bike, ankle rocks, bodyweight squats, and short-foot activation.
+- Progression: double progression; add load only when knee tracking stays clean, discomfort stays 0-2/10, and top sets stay near RPE 6-7. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Controlled hack squat or goblet squat: 3 x 6-10 at RPE 6-7; stop if symptoms rise.
+- Back-friendly posterior chain: seated or lying leg curl 3 x 10-15 at RPE 6-7, plus bodyweight glute bridge 2 x 12 if symptom-free.
+- Leg extension: 3 x 12-15 at RPE 6-7 paired with front-foot elevated split squat 2-3 x 8-10 per leg at RPE 7.
+- Ankle tendon rehab: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.
+
+## 2026-06-10 - Easy Bike Aerobic Substitute
+
+Category: easy_run
+Run volume: 0 km
+Macros: 3400 kcal, 165 g protein, 485 g carbs, 95 g fat
+Macro timing: 30-60 g carbs 60-120 min before the bike session, then 25-35 g protein plus carbs after.
+
+Adjustments:
+- Adjusted for temporary low-back recovery constraint.
+- Adjusted for recovery constraint.
+
+Plan:
+- Bike aerobic RPE 3-4: 25-40 min conversational; keep cadence smooth and pressure through the whole foot.
+- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.
+- Fueling: keep carbs before and after so size gain remains the main training priority.
+
+## 2026-06-11 - Upper Calisthenics + Shoulder Hypertrophy
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for temporary low-back recovery constraint.
+- Adjusted for recovery constraint.
+
+Plan:
+- Warm-up: 5 min easy cardio, shoulder prep, light cable rows, and scap pull-ups.
+- Progression: double progression; beat total quality reps before adding load or a set, keeping most work at RPE 6-7. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoid impact, fast push-off, and exercises that worsen next-morning symptoms.
+- Pull-ups: 5 x 4-8 or 20-30 total quality reps at RPE 6-7.
+- Dips or push-ups: 3 x 8-15 at RPE 6-7 paired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 6-7.
+- Shoulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 6-7 plus pec-deck 2 x 10-15, lateral raises 3 x 15-20, and rear delt fly 2 x 15-20.
+- Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 6-7. Temporary low-back recovery constraint: avoid loaded hinging and max-brace loading; use machines or supported positions where possible.
+
+## 2026-06-13 - Upper + Core Recovery Strength
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraints.
+
+Plan:
+- Warm-up: 5-7 min easy bike, shoulder prep, band pull-aparts, scap push-ups, and two light press/row ramp sets.
+- Progression: keep this upper/core-only and conservative; cap loaded work at RPE 6-7, stop if recovery signals worsen, and leave 2-3 RIR.
+- Upper push/pull: bench press or incline dumbbell press 3 x 6-10 at RPE 6-7 paired with chest-supported row or cable row 3 x 8-12 at RPE 6-7.
+- Shoulders and back: lateral raises 3 x 12-20, rear delt fly or reverse pec-deck 3 x 12-20, face pulls 2 x 12-15, and dumbbell rotator cuff work.
+- Arms: tricep pulldown 2 x 10-15 plus preacher curls or hammer curls 2 x 10-15 and reverse curls 2 x 12-15.
+- Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and weighted sit-ups 2 x 8-12 if recovery stays quiet.
+
+## 2026-06-14 - Core + Upper Pump
+
+Category: gym
+Run volume: 0 km
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
+Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+
+Adjustments:
+- Adjusted for recovery constraints.
+
+Plan:
+- Warm-up: 5-7 min easy bike, shoulder prep, thoracic mobility, band pull-aparts, and easy core bracing.
+- Progression: keep this upper/core-only and low-fatigue; RPE 6-7, no lower-body loading, no running, and stop if recovery signals worsen.
+- Upper pump: incline press or dumbbell press 3 x 8-12 at RPE 6-7 paired with lat pulldown or cable row 3 x 8-12 at RPE 6-7.
+- Shoulders and upper back: lateral raises 3 x 15-20, rear delt fly or reverse pec-deck 3 x 15-20, face pulls 2 x 12-15, and rotator cuff work.
+- Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and around the head kettlebell 2 x 8 each way if recovery stays quiet.
+- Arms: tricep pulldown 2 x 10-15, preacher curls 2 x 10-15, and hammer curls or reverse curls 2 x 12-15.
 
 ## 2026-06-15 - Full-Body Athletic Strength
 
