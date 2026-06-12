@@ -6,10 +6,212 @@ METHOD:PUBLISH
 X-WR-CALNAME:Hubert Training
 X-WR-TIMEZONE:Europe/Copenhagen
 BEGIN:VEVENT
+UID:hubert-training-20260601@training-calendar
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Upper Strength + Calisthenics Pull
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
+ constraint.\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\, scap pu
+ sh-ups\, and 2 bench ramp sets.\n\nMain Work:\n- Progression: double prog
+ ression\; add load only after all sets reach the top of the range at RPE 
+ 6-7 or lower\, about 2 RIR. Temporary low-back recovery constraint: cap l
+ oaded work at RPE 6-7 and stop if symptoms rise.\n- Bench press: top set 
+ 1 x 4-6 at RPE 6-7\, then 3 back-off sets x 5-7 at RPE 6-7.\n- Pull-ups: 
+ 4 x 4-8 at RPE 6-7 paired with chest-supported row 4 x 8-12 at RPE 6-7.\n
+ - Overhead press or Arnold press: 3 x 6-10 at RPE 6-7 paired with incline
+  dumbbell press or dumbbell press 2 x 8-10 at RPE 6-7.\n- Shoulder\, arm\
+ , and core finisher: lateral raises 3 x 12-20\, preacher curls or hammer 
+ curls 2 x 10-15\, reverse curls 2 x 12-15\, Pallof press 3 x 10 per side\
+ , and side plank 2 x 30 sec per side. Temporary low-back recovery constra
+ int: avoid loaded hinging and max-brace loading\; use machines or support
+ ed positions where possible.\n\nFueling:\n- Hit daily macros\, keep prote
+ in near target\, and place carbohydrates before and after training.\n\nRe
+ covery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel s
+ tiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260602@training-calendar
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Recovery + Easy Zone 2
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
+ 35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 5 km\nAdj
+ ustments:\n- Adjusted for schedule constraints.\n- Adjusted for temporary
+  low-back recovery constraint.\n\nWarm-Up:\n- 5-10 min easy movement\, jo
+ int prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- Eas
+ y run RPE 3-4: 5 km at conversational effort\; cadence light and relaxed.
+ \n\nOptional:\n- 20-30 min walk later if knees feel normal.\n\nRun:\n- Pl
+ anned running volume: 5 km.\n\nFueling:\n- fruit or rye bread plus caffei
+ ne is enough before a short morning run.\n\nRecovery:\n- 8-10 min hips\, 
+ quads\, calves\, and ankles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260603@training-calendar
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for sched
+ ule constraints.\n- Adjusted for temporary low-back recovery constraint.\
+ n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweight squats\, and short
+ -foot activation.\n\nMain Work:\n- Progression: double progression\; add 
+ load only when knee tracking stays clean\, discomfort stays 0-2/10\, and 
+ top sets stay near RPE 6-7. Temporary low-back recovery constraint: cap l
+ oaded work at RPE 6-7 and stop if symptoms rise.\n- Controlled hack squat
+  or goblet squat: 3 x 6-10 at RPE 6-7\; stop if symptoms rise.\n- Back-fr
+ iendly posterior chain: seated or lying leg curl 3 x 10-15 at RPE 6-7\, p
+ lus bodyweight glute bridge 2 x 12 if symptom-free.\n- Leg extension: 3 x
+  12-15 at RPE 6-7 paired with front-foot elevated split squat 2-3 x 8-10 
+ per leg at RPE 7.\n- Core finisher: seated calf raise plus tibialis raise
+ s 4 x 12-20 each at RPE 7\, then side plank 2 x 30 sec. Temporary low-bac
+ k recovery constraint: avoid loaded hinging and max-brace loading\; use m
+ achines or supported positions where possible.\n\nFueling:\n- Hit daily m
+ acros\, keep protein near target\, and place carbohydrates before and aft
+ er training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobilit
+ y if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260604@training-calendar
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
+ constraint.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, light cabl
+ e rows\, and scap pull-ups.\n\nMain Work:\n- Progression: double progress
+ ion\; beat total quality reps before adding load or a set\, keeping most 
+ work at RPE 6-7. Temporary low-back recovery constraint: cap loaded work 
+ at RPE 6-7 and stop if symptoms rise.\n- Pull-ups: 5 x 4-8 or 20-30 total
+  quality reps at RPE 6-7.\n- Dips or push-ups: 3 x 8-15 at RPE 6-7 paired
+  with one-arm dumbbell row or cable row 3 x 8-12 at RPE 6-7.\n- Shoulder 
+ and chest block: incline dumbbell press 2-3 x 8-12 at RPE 6-7 plus pec-de
+ ck 2 x 10-15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-20.\n-
+  Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises
+  2-3 sets at RPE 6-7. Temporary low-back recovery constraint: avoid loade
+ d hinging and max-brace loading\; use machines or supported positions whe
+ re possible.\n\nFueling:\n- Hit daily macros\, keep protein near target\,
+  and place carbohydrates before and after training.\n\nRecovery:\n- Sleep
+  window stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260605@training-calendar
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Plyometrics + Hill Sprint Technique
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
+ 25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
+ gory: sprint\nRun volume: 3 km\nAdjustments:\n- Adjusted for schedule con
+ straints.\n- Adjusted for temporary low-back recovery constraint.\n\nWarm
+ -Up:\n- 10-12 min easy plus leg swings\, A-skips\, ankling\, and 3 relaxe
+ d strides.\n\nMain Work:\n- Progression: add sprint reps only when contac
+ ts stay snappy and knees stay quiet the next day\; sprint RPE 6-7\, never
+  max. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 
+ and stop if symptoms rise.\n- Plyometrics: pogos 3 x 20 sec and snap-down
+ s 3 x 5 at crisp RPE 6-7.\n- Hill sprints: 6 x 10-12 sec uphill at sprint
+  RPE 6-7\; full walk-back recovery.\n- Stop the sprint set if mechanics g
+ et sloppy or knees feel sharp.\n\nOptional:\n- weighted sit-ups 2 x 8-12 
+ and side plank 2 x 30 sec per side. Temporary low-back recovery constrain
+ t: avoid loaded hinging and max-brace loading\; use machines or supported
+  positions where possible.\n\nRun:\n- Planned running volume: 3 km.\n\nFu
+ eling:\n- Hit daily macros\, keep protein near target\, and place carbohy
+ drates before and after training.\n\nRecovery:\n- Sleep window stays 22:0
+ 0-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260606@training-calendar
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Legs + Delts Accessory
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Adjusted for schedule constraints.\n- Adj
+ usted for temporary low-back recovery constraint.\n- Adjusted for recover
+ y constraint.\n\nWarm-Up:\n- 5-6 min easy bike\, ankle rocks\, band pull-
+ aparts\, and one ramp set for each pairing.\n\nMain Work:\n- Progression:
+  keep this short and low-fatigue\; stop 1-2 reps before failure and leave
+  fresher than you arrived. Temporary low-back recovery constraint: cap lo
+ aded work at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoi
+ d impact\, fast push-off\, and exercises that worsen next-morning symptom
+ s.\n- Leg extension: 3 x 12-18 at RPE 6-7 paired with seated or lying ham
+ string curl 3 x 10-15 at RPE 6-7.\n- Ankle tendon rehab: foot-intrinsic a
+ ctivation\, short-foot / arch lifts\, isometric inversion and eversion\, 
+ sole-to-sole isometrics\, and banded eversion or inversion within 0-2/10 
+ symptoms.\n- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 6-7\; 
+ if time is tight\, complete the first 3 exercises and leave.\n- Chest/bac
+ k/core top-up: push-ups 2 x clean reps\, dips 2 x 6-10\, cable row 2 x 10
+ -12\, face pulls 2 x 12-15\, Pallof press 3 x 10 per side\, plank variati
+ ons 2 x 30-45 sec\, kettlebell side bend 2 x 10-12\, around the head kett
+ lebell 2 x 8 each way\, and weighted sit-ups 2 x 8-12. Temporary low-back
+  recovery constraint: avoid loaded hinging and max-brace loading\; use ma
+ chines or supported positions where possible.\n\nFueling:\n- Hit daily ma
+ cros\, keep protein near target\, and place carbohydrates before and afte
+ r training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility
+  if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260607@training-calendar
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Long Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Adjusted for t
+ emporary low-back recovery constraint.\n- Adjusted for recovery constrain
+ t.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual r
+ amp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60 min
+  conversational\; keep cadence smooth and pressure through the whole foot
+ .\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\, iso
+ metric inversion and eversion\, sole-to-sole isometrics\, and banded ever
+ sion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walkin
+ g stays short and flat\; skip fast walking\, hills\, and long sloped surf
+ aces.\n\nFueling:\n- keep carbs before and after so size gain remains the
+  main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
+  add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hubert-training-20260608@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -39,9 +241,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260609@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Lower Strength + Knee Capacity
@@ -70,9 +272,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260610@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Easy Bike Aerobic Substitute
@@ -94,9 +296,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260611@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -125,9 +327,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260613@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Upper + Core Recovery Strength
@@ -154,9 +356,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260614@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:Core + Upper Pump
@@ -182,9 +384,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260615@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Full-Body Athletic Strength
@@ -216,9 +418,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260616@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Easy Bike Aerobic Substitute
@@ -240,9 +442,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260617@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Lower Hypertrophy + Posterior Chain
@@ -270,9 +472,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260618@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Easy Bike Aerobic Substitute
@@ -294,9 +496,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260619@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Core + Chest/Back Strength Capacity
@@ -331,9 +533,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260620@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Bike Intervals + Ankle Rehab
@@ -358,9 +560,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260621@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Long Bike Aerobic Substitute
@@ -383,9 +585,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260622@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -415,9 +617,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260623@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Lower Strength + Knee Capacity
@@ -446,9 +648,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260624@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Easy Bike Aerobic Substitute
@@ -470,9 +672,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260625@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -501,9 +703,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260626@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Legs + Delts Accessory
@@ -536,9 +738,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260627@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Bike Intervals + Ankle Rehab
@@ -563,9 +765,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260628@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Long Bike Aerobic Substitute
@@ -588,9 +790,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260629@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:Full-Body Athletic Strength
@@ -621,9 +823,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260630@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Easy Bike Aerobic Substitute
@@ -645,9 +847,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260701@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Lower Hypertrophy + Posterior Chain
@@ -676,9 +878,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260702@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Easy Bike Aerobic Substitute
@@ -700,9 +902,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260703@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Core + Chest/Back Strength Capacity
@@ -737,9 +939,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260704@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:Bike Intervals + Ankle Rehab
@@ -764,9 +966,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260705@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:Long Bike Aerobic Substitute
@@ -789,9 +991,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260706@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -821,9 +1023,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260707@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Lower Strength + Knee Capacity
@@ -852,9 +1054,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260708@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Easy Bike Aerobic Substitute
@@ -876,9 +1078,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260709@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -906,9 +1108,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260710@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Legs + Delts Accessory
@@ -940,9 +1142,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260711@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:Bike Intervals + Ankle Rehab
@@ -967,9 +1169,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260712@training-calendar
-DTSTAMP:20260612T143107Z
-LAST-MODIFIED:20260612T143107Z
-SEQUENCE:1781274667
+DTSTAMP:20260612T143432Z
+LAST-MODIFIED:20260612T143432Z
+SEQUENCE:1781274872
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:Long Bike Aerobic Substitute
