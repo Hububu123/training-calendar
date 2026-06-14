@@ -222,7 +222,7 @@ Plan:
 - Arms: tricep pulldown 2 x 10-15 plus preacher curls or hammer curls 2 x 10-15 and reverse curls 2 x 12-15.
 - Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and weighted sit-ups 2 x 8-12 if recovery stays quiet.
 
-## 2026-06-14 - Core + Upper Pump
+## 2026-06-14 - Core + Push/Arms Continuity
 
 Category: gym
 Run volume: 0 km
@@ -231,14 +231,16 @@ Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a pr
 
 Adjustments:
 - Adjusted for recovery constraints.
+- Adjusted for exercise-continuity balancing.
 
 Plan:
-- Warm-up: 5-7 min easy bike, shoulder prep, thoracic mobility, band pull-aparts, and easy core bracing.
-- Progression: keep this upper/core-only and low-fatigue; RPE 6-7, no lower-body loading, no running, and stop if recovery signals worsen.
-- Upper pump: incline press or dumbbell press 3 x 8-12 at RPE 6-7 paired with lat pulldown or cable row 3 x 8-12 at RPE 6-7.
-- Shoulders and upper back: lateral raises 3 x 15-20, rear delt fly or reverse pec-deck 3 x 15-20, face pulls 2 x 12-15, and rotator cuff work.
-- Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and around the head kettlebell 2 x 8 each way if recovery stays quiet.
-- Arms: tricep pulldown 2 x 10-15, preacher curls 2 x 10-15, and hammer curls or reverse curls 2 x 12-15.
+- Warm-up: 5-7 min easy bike, shoulder prep, band pull-aparts, scap push-ups, and easy core bracing.
+- Progression: continuity adjustment after recent upper sessions; keep RPE 6-7, no lower-body loading, and leave 2-3 RIR.
+- Push anchor: bench press, incline press, or Dumbell Press 3 x 6-10 at RPE 6-7.
+- Shoulders: lateral raises 3 x 12-20 plus dumbbell rotator cuff work 2 x 12-15.
+- Arms: Tricep Pulldown 3 x 10-15 paired with Preacher Curls or Hammer Curls 2 x 10-15 and reverse curls 2 x 12-15.
+- Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and weighted sit-ups 2 x 8-12 if recovery stays quiet.
+- Pull maintenance: face pulls 2 x 12-15 only; save rows and pulldowns for the next back-focused exposure.
 
 ## 2026-06-15 - Full-Body Athletic Strength
 
