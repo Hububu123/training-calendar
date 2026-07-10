@@ -1,5 +1,5 @@
 {
-  "month": "2026-06-01..2026-07-12",
+  "month": "2026-06-01..2026-08-09",
   "goal": "Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness. Size remains primary; secondary running targets: sub-19:00 5K on 2026-08-22; 1:35 half marathon on 2026-11-22.",
   "days": [
     {
@@ -371,166 +371,49 @@
     },
     {
       "date": "2026-06-13",
-      "title": "Upper + Core Recovery Strength",
-      "category": "gym",
-      "run_km": 0.0,
+      "title": "Bike Intervals + Ankle Rehab",
+      "category": "sprint",
+      "run_km": 0,
       "macros": {
-        "calories": 3350,
-        "protein_g": 175,
-        "carbs_g": 455,
-        "fat_g": 95
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
       },
       "description": [
-        "Warm-up: 5-7 min easy bike, shoulder prep, band pull-aparts, scap push-ups, and two light press/row ramp sets.",
-        "Progression: keep this upper/core-only and conservative; cap loaded work at RPE 6-7, stop if recovery signals worsen, and leave 2-3 RIR.",
-        "Upper push/pull: bench press or incline dumbbell press 3 x 6-10 at RPE 6-7 paired with chest-supported row or cable row 3 x 8-12 at RPE 6-7.",
-        "Shoulders and back: lateral raises 3 x 12-20, rear delt fly or reverse pec-deck 3 x 12-20, face pulls 2 x 12-15, and dumbbell rotator cuff work.",
-        "Arms: tricep pulldown 2 x 10-15 plus preacher curls or hammer curls 2 x 10-15 and reverse curls 2 x 12-15.",
-        "Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and weighted sit-ups 2 x 8-12 if recovery stays quiet."
+        "Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.",
+        "Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.",
+        "Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.",
+        "Pain rule: progress only when symptoms stay 0-2/10 and the next morning is not worse."
       ],
-      "exercise_targets": [
-        {
-          "name": "Bench press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Incline dumbbell press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Chest-supported row",
-          "planned_kg": ""
-        },
-        {
-          "name": "Cable row",
-          "planned_kg": ""
-        },
-        {
-          "name": "Lateral raises",
-          "planned_kg": ""
-        },
-        {
-          "name": "Rear delt fly",
-          "planned_kg": ""
-        },
-        {
-          "name": "Face pulls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Rotator Cuff exercises with bumbells",
-          "planned_kg": ""
-        },
-        {
-          "name": "Tricep Pulldown",
-          "planned_kg": ""
-        },
-        {
-          "name": "Preacher Curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Hammer Curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Reverse curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pallof press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Side plank",
-          "planned_kg": ""
-        },
-        {
-          "name": "Plank variations",
-          "planned_kg": ""
-        },
-        {
-          "name": "Weighted Sit-ups",
-          "planned_kg": ""
-        }
-      ],
+      "exercise_targets": [],
       "adjustments": [
-        "Adjusted for recovery constraints."
+        "Adjusted for temporary low-back recovery constraint.",
+        "Adjusted for recovery constraint."
       ]
     },
     {
       "date": "2026-06-14",
-      "title": "Core + Push/Arms Continuity",
-      "category": "gym",
-      "run_km": 0.0,
+      "title": "Long Bike Aerobic Substitute",
+      "category": "long_run",
+      "run_km": 0,
       "macros": {
-        "calories": 3350,
-        "protein_g": 175,
-        "carbs_g": 455,
-        "fat_g": 95
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
       },
       "description": [
-        "Warm-up: 5-7 min easy bike, shoulder prep, band pull-aparts, scap push-ups, and easy core bracing.",
-        "Progression: continuity adjustment after recent upper sessions; keep RPE 6-7, no lower-body loading, and leave 2-3 RIR.",
-        "Push anchor: bench press, incline press, or Dumbell Press 3 x 6-10 at RPE 6-7.",
-        "Shoulders: lateral raises 3 x 12-20 plus dumbbell rotator cuff work 2 x 12-15.",
-        "Arms: Tricep Pulldown 3 x 10-15 paired with Preacher Curls or Hammer Curls 2 x 10-15 and reverse curls 2 x 12-15.",
-        "Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and weighted sit-ups 2 x 8-12 if recovery stays quiet.",
-        "Pull maintenance: face pulls 2 x 12-15 only; save rows and pulldowns for the next back-focused exposure."
+        "Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.",
+        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
+        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.",
+        "Fueling: keep carbs before and after so size gain remains the main training priority."
       ],
-      "exercise_targets": [
-        {
-          "name": "Bench press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Dumbell Press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Lateral raises",
-          "planned_kg": ""
-        },
-        {
-          "name": "Rotator Cuff exercises with bumbells",
-          "planned_kg": ""
-        },
-        {
-          "name": "Tricep Pulldown",
-          "planned_kg": ""
-        },
-        {
-          "name": "Preacher Curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Hammer Curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Reverse curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pallof press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Side plank",
-          "planned_kg": ""
-        },
-        {
-          "name": "Plank variations",
-          "planned_kg": ""
-        },
-        {
-          "name": "Weighted Sit-ups",
-          "planned_kg": ""
-        }
-      ],
+      "exercise_targets": [],
       "adjustments": [
-        "Adjusted for recovery constraints.",
-        "Adjusted for exercise-continuity balancing."
+        "Adjusted for temporary low-back recovery constraint.",
+        "Adjusted for recovery constraint."
       ]
     },
     {
@@ -1350,95 +1233,725 @@
     },
     {
       "date": "2026-07-10",
-      "title": "Legs + Delts Accessory",
-      "category": "gym",
+      "title": "Training Standby",
+      "category": "standby",
       "run_km": 0,
       "macros": {
-        "calories": 3350,
-        "protein_g": 175,
-        "carbs_g": 455,
-        "fat_g": 95
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
       },
       "description": [
-        "Warm-up: 5-6 min easy bike, ankle rocks, band pull-aparts, and one ramp set for each pairing.",
-        "Progression: keep this short and low-fatigue; stop 1-2 reps before failure and leave fresher than you arrived. Low-back ramp: start lightly and add load only when the next morning is symptom-free. Return-to-impact ramp: progress only when symptoms stay 0-2/10 and the next morning is not worse.",
-        "Leg extension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x 10-15 at RPE 8.",
-        "Ankle tendon rehab: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.",
-        "Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8; if time is tight, complete the first 3 exercises and leave.",
-        "Chest/back/core top-up: push-ups 2 x clean reps, dips 2 x 6-10, cable row 2 x 10-12, face pulls 2 x 12-15, Pallof press 3 x 10 per side, plank variations 2 x 30-45 sec, kettlebell side bend 2 x 10-12, around the head kettlebell 2 x 8 each way, and weighted sit-ups 2 x 8-12. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free."
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
       ],
-      "exercise_targets": [
-        {
-          "name": "Leg extension",
-          "planned_kg": ""
-        },
-        {
-          "name": "Hamstring curl",
-          "planned_kg": ""
-        },
-        {
-          "name": "Lateral raises",
-          "planned_kg": ""
-        },
-        {
-          "name": "Cable row",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pallof press",
-          "planned_kg": ""
-        }
-      ],
+      "exercise_targets": [],
       "adjustments": [
         "Back-friendly loading ramp.",
-        "Return-to-impact loading ramp."
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
       ]
     },
     {
       "date": "2026-07-11",
-      "title": "Bike Intervals + Ankle Rehab",
-      "category": "sprint",
+      "title": "Training Standby",
+      "category": "standby",
       "run_km": 0,
       "macros": {
-        "calories": 3600,
-        "protein_g": 170,
-        "carbs_g": 550,
-        "fat_g": 100
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
       },
       "description": [
-        "Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.",
-        "Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.",
-        "Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.",
-        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.",
-        "Pain rule: progress only when symptoms stay 0-2/10 and the next morning is not worse."
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
       ],
       "exercise_targets": [],
       "adjustments": [
         "Back-friendly loading ramp.",
-        "Return-to-impact loading ramp."
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
       ]
     },
     {
       "date": "2026-07-12",
-      "title": "Long Bike Aerobic Substitute",
-      "category": "long_run",
+      "title": "Training Standby",
+      "category": "standby",
       "run_km": 0,
       "macros": {
-        "calories": 3600,
-        "protein_g": 170,
-        "carbs_g": 550,
-        "fat_g": 100
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
       },
       "description": [
-        "Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.",
-        "Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.",
-        "Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.",
-        "Fueling: keep carbs before and after so size gain remains the main training priority."
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
       ],
       "exercise_targets": [],
       "adjustments": [
         "Back-friendly loading ramp.",
-        "Return-to-impact loading ramp."
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Return-to-impact loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "title": "Training Standby",
+      "category": "standby",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Standby: no planned workout or loaded conditioning today.",
+        "Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.",
+        "Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.",
+        "Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority."
+      ],
+      "exercise_targets": [],
+      "adjustments": [
+        "Back-friendly loading ramp.",
+        "Adjusted for recovery standby."
       ]
     }
   ]

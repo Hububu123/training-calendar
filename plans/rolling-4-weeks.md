@@ -1,4 +1,4 @@
-# Training Plan: 2026-06-01..2026-07-12
+# Training Plan: 2026-06-01..2026-08-09
 
 Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness. Size remains primary; secondary running targets: sub-19:00 5K on 2026-08-22; 1:35 half marathon on 2026-11-22.
 
@@ -204,43 +204,40 @@ Plan:
 - Shoulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 6-7 plus pec-deck 2 x 10-15, lateral raises 3 x 15-20, and rear delt fly 2 x 15-20.
 - Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 6-7. Temporary low-back recovery constraint: avoid loaded hinging and max-brace loading; use machines or supported positions where possible.
 
-## 2026-06-13 - Upper + Core Recovery Strength
+## 2026-06-13 - Bike Intervals + Ankle Rehab
 
-Category: gym
+Category: sprint
 Run volume: 0 km
-Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
-Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
 
 Adjustments:
-- Adjusted for recovery constraints.
+- Adjusted for temporary low-back recovery constraint.
+- Adjusted for recovery constraint.
 
 Plan:
-- Warm-up: 5-7 min easy bike, shoulder prep, band pull-aparts, scap push-ups, and two light press/row ramp sets.
-- Progression: keep this upper/core-only and conservative; cap loaded work at RPE 6-7, stop if recovery signals worsen, and leave 2-3 RIR.
-- Upper push/pull: bench press or incline dumbbell press 3 x 6-10 at RPE 6-7 paired with chest-supported row or cable row 3 x 8-12 at RPE 6-7.
-- Shoulders and back: lateral raises 3 x 12-20, rear delt fly or reverse pec-deck 3 x 12-20, face pulls 2 x 12-15, and dumbbell rotator cuff work.
-- Arms: tricep pulldown 2 x 10-15 plus preacher curls or hammer curls 2 x 10-15 and reverse curls 2 x 12-15.
-- Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and weighted sit-ups 2 x 8-12 if recovery stays quiet.
+- Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.
+- Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.
+- Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.
+- Pain rule: progress only when symptoms stay 0-2/10 and the next morning is not worse.
 
-## 2026-06-14 - Core + Push/Arms Continuity
+## 2026-06-14 - Long Bike Aerobic Substitute
 
-Category: gym
+Category: long_run
 Run volume: 0 km
-Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
-Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
 
 Adjustments:
-- Adjusted for recovery constraints.
-- Adjusted for exercise-continuity balancing.
+- Adjusted for temporary low-back recovery constraint.
+- Adjusted for recovery constraint.
 
 Plan:
-- Warm-up: 5-7 min easy bike, shoulder prep, band pull-aparts, scap push-ups, and easy core bracing.
-- Progression: continuity adjustment after recent upper sessions; keep RPE 6-7, no lower-body loading, and leave 2-3 RIR.
-- Push anchor: bench press, incline press, or Dumbell Press 3 x 6-10 at RPE 6-7.
-- Shoulders: lateral raises 3 x 12-20 plus dumbbell rotator cuff work 2 x 12-15.
-- Arms: Tricep Pulldown 3 x 10-15 paired with Preacher Curls or Hammer Curls 2 x 10-15 and reverse curls 2 x 12-15.
-- Core: Pallof press 3 x 10 per side, side plank 2 x 30 sec per side, plank variations 2 x 30-45 sec, and weighted sit-ups 2 x 8-12 if recovery stays quiet.
-- Pull maintenance: face pulls 2 x 12-15 only; save rows and pulldowns for the next back-focused exposure.
+- Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.
+- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
+- Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.
+- Fueling: keep carbs before and after so size gain remains the main training priority.
 
 ## 2026-06-15 - Full-Body Athletic Strength
 
@@ -696,56 +693,539 @@ Plan:
 - Shoulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-15, lateral raises 3 x 15-20, and rear delt fly 2 x 15-20.
 - Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 8. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free.
 
-## 2026-07-10 - Legs + Delts Accessory
+## 2026-07-10 - Training Standby
 
-Category: gym
+Category: standby
 Run volume: 0 km
-Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
-Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
 
 Adjustments:
 - Back-friendly loading ramp.
 - Return-to-impact loading ramp.
+- Adjusted for recovery standby.
 
 Plan:
-- Warm-up: 5-6 min easy bike, ankle rocks, band pull-aparts, and one ramp set for each pairing.
-- Progression: keep this short and low-fatigue; stop 1-2 reps before failure and leave fresher than you arrived. Low-back ramp: start lightly and add load only when the next morning is symptom-free. Return-to-impact ramp: progress only when symptoms stay 0-2/10 and the next morning is not worse.
-- Leg extension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x 10-15 at RPE 8.
-- Ankle tendon rehab: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.
-- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8; if time is tight, complete the first 3 exercises and leave.
-- Chest/back/core top-up: push-ups 2 x clean reps, dips 2 x 6-10, cable row 2 x 10-12, face pulls 2 x 12-15, Pallof press 3 x 10 per side, plank variations 2 x 30-45 sec, kettlebell side bend 2 x 10-12, around the head kettlebell 2 x 8 each way, and weighted sit-ups 2 x 8-12. Low-back ramp: skip loaded hinges and back-extension work; start lightly and keep supported posterior-chain work pain-free.
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
 
-## 2026-07-11 - Bike Intervals + Ankle Rehab
+## 2026-07-11 - Training Standby
 
-Category: sprint
+Category: standby
 Run volume: 0 km
-Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
-Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
 
 Adjustments:
 - Back-friendly loading ramp.
 - Return-to-impact loading ramp.
+- Adjusted for recovery standby.
 
 Plan:
-- Easy bike warm-up: 10 min plus hip exercises with an elastic band, shoulder prep, and light mobility.
-- Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin; no running, hills, jumps, or strides.
-- Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.
-- Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.
-- Pain rule: progress only when symptoms stay 0-2/10 and the next morning is not worse.
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
 
-## 2026-07-12 - Long Bike Aerobic Substitute
+## 2026-07-12 - Training Standby
 
-Category: long_run
+Category: standby
 Run volume: 0 km
-Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
-Macro timing: 80-110 g carbs in the 2-3 hours before the bike session, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
 
 Adjustments:
 - Back-friendly loading ramp.
 - Return-to-impact loading ramp.
+- Adjusted for recovery standby.
 
 Plan:
-- Bike aerobic RPE 3-4: 45-60 min conversational; keep cadence smooth and pressure through the whole foot.
-- Optional walking stays short and flat; skip fast walking, hills, and long sloped surfaces.
-- Foot prep: foot-intrinsic activation, short-foot / arch lifts, isometric inversion and eversion, sole-to-sole isometrics, and banded eversion or inversion within 0-2/10 symptoms.
-- Fueling: keep carbs before and after so size gain remains the main training priority.
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-13 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Return-to-impact loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-14 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Return-to-impact loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-15 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Return-to-impact loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-16 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Return-to-impact loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-17 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Return-to-impact loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-18 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Return-to-impact loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-19 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Return-to-impact loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-20 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-21 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-22 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-23 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-24 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-25 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-26 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-27 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-28 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-29 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-30 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-07-31 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-01 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-02 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-03 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-04 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-05 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-06 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-07 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-08 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.
+
+## 2026-08-09 - Training Standby
+
+Category: standby
+Run volume: 0 km
+Macros: 3150 kcal, 165 g protein, 385 g carbs, 105 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
+
+Adjustments:
+- Back-friendly loading ramp.
+- Adjusted for recovery standby.
+
+Plan:
+- Standby: no planned workout or loaded conditioning today.
+- Recovery focus: easy daily movement and gentle mobility only if they stay comfortable and do not change normal movement.
+- Return rule: keep this placeholder until standby is explicitly cleared, then resume through the return-to-training ramp instead of jumping back to prior workload.
+- Nutrition: keep protein consistent, match carbohydrates to reduced activity, hydrate normally, and keep sleep the priority.

@@ -7,9 +7,9 @@ X-WR-CALNAME:Hubert Training
 X-WR-TIMEZONE:Europe/Copenhagen
 BEGIN:VEVENT
 UID:hubert-training-20260601@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -38,9 +38,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260602@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:Recovery + Easy Zone 2
@@ -59,9 +59,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260603@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Lower Strength + Knee Capacity
@@ -90,9 +90,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260604@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -119,9 +119,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260605@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Plyometrics + Hill Sprint Technique
@@ -148,9 +148,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260606@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Legs + Delts Accessory
@@ -184,9 +184,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260607@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:Long Bike Aerobic Substitute
@@ -209,9 +209,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260608@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -241,9 +241,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260609@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Lower Strength + Knee Capacity
@@ -272,9 +272,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260610@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Easy Bike Aerobic Substitute
@@ -296,9 +296,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260611@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -327,67 +327,61 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260613@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-SUMMARY:Upper + Core Recovery Strength
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for recovery constraints.\n\nWar
- m-Up:\n- 5-7 min easy bike\, shoulder prep\, band pull-aparts\, scap push
- -ups\, and two light press/row ramp sets.\n\nMain Work:\n- Progression: k
- eep this upper/core-only and conservative\; cap loaded work at RPE 6-7\, 
- stop if recovery signals worsen\, and leave 2-3 RIR.\n- Upper push/pull: 
- bench press or incline dumbbell press 3 x 6-10 at RPE 6-7 paired with che
- st-supported row or cable row 3 x 8-12 at RPE 6-7.\n- Shoulders and back:
-  lateral raises 3 x 12-20\, rear delt fly or reverse pec-deck 3 x 12-20\,
-  face pulls 2 x 12-15\, and dumbbell rotator cuff work.\n- Arms: tricep p
- ulldown 2 x 10-15 plus preacher curls or hammer curls 2 x 10-15 and rever
- se curls 2 x 12-15.\n- Core: Pallof press 3 x 10 per side\, side plank 2 
- x 30 sec per side\, plank variations 2 x 30-45 sec\, and weighted sit-ups
-  2 x 8-12 if recovery stays quiet.\n\nFueling:\n- Hit daily macros\, keep
-  protein near target\, and place carbohydrates before and after training.
- \n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints 
- feel stiff.
+SUMMARY:Bike Intervals + Ankle Rehab
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Adjusted for tem
+ porary low-back recovery constraint.\n- Adjusted for recovery constraint.
+ \n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ram
+ p sets before loading.\n\nMain Work:\n- Easy bike warm-up: 10 min plus hi
+ p exercises with an elastic band\, shoulder prep\, and light mobility.\n-
+  Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin\; no run
+ ning\, hills\, jumps\, or strides.\n- Power substitute: med-ball slams 4 
+ x 5 plus Pallof press 3 x 10 per side.\n- Foot prep: foot-intrinsic activ
+ ation\, short-foot / arch lifts\, isometric inversion and eversion\, sole
+ -to-sole isometrics\, and banded eversion or inversion within 0-2/10 symp
+ toms.\n- Pain rule: progress only when symptoms stay 0-2/10 and the next 
+ morning is not worse.\n\nFueling:\n- Hit daily macros\, keep protein near
+  target\, and place carbohydrates before and after training.\n\nRecovery:
+ \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260614@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-SUMMARY:Core + Push/Arms Continuity
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for recovery constraints.\n- Adj
- usted for exercise-continuity balancing.\n\nWarm-Up:\n- 5-7 min easy bike
- \, shoulder prep\, band pull-aparts\, scap push-ups\, and easy core braci
- ng.\n\nMain Work:\n- Progression: continuity adjustment after recent uppe
- r sessions\; keep RPE 6-7\, no lower-body loading\, and leave 2-3 RIR.\n-
-  Push anchor: bench press\, incline press\, or Dumbell Press 3 x 6-10 at 
- RPE 6-7.\n- Shoulders: lateral raises 3 x 12-20 plus dumbbell rotator cuf
- f work 2 x 12-15.\n- Arms: Tricep Pulldown 3 x 10-15 paired with Preacher
-  Curls or Hammer Curls 2 x 10-15 and reverse curls 2 x 12-15.\n- Core: Pa
- llof press 3 x 10 per side\, side plank 2 x 30 sec per side\, plank varia
- tions 2 x 30-45 sec\, and weighted sit-ups 2 x 8-12 if recovery stays qui
- et.\n- Pull maintenance: face pulls 2 x 12-15 only\; save rows and pulldo
- wns for the next back-focused exposure.\n\nFueling:\n- Hit daily macros\,
-  keep protein near target\, and place carbohydrates before and after trai
- ning.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if jo
- ints feel stiff.
+SUMMARY:Long Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Adjusted for t
+ emporary low-back recovery constraint.\n- Adjusted for recovery constrain
+ t.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual r
+ amp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60 min
+  conversational\; keep cadence smooth and pressure through the whole foot
+ .\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\, iso
+ metric inversion and eversion\, sole-to-sole isometrics\, and banded ever
+ sion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walkin
+ g stays short and flat\; skip fast walking\, hills\, and long sloped surf
+ aces.\n\nFueling:\n- keep carbs before and after so size gain remains the
+  main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
+  add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260615@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Full-Body Athletic Strength
@@ -419,9 +413,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260616@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Easy Bike Aerobic Substitute
@@ -443,9 +437,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260617@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Lower Hypertrophy + Posterior Chain
@@ -473,9 +467,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260618@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Easy Bike Aerobic Substitute
@@ -497,9 +491,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260619@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Core + Chest/Back Strength Capacity
@@ -534,9 +528,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260620@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Bike Intervals + Ankle Rehab
@@ -561,9 +555,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260621@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Long Bike Aerobic Substitute
@@ -586,9 +580,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260622@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -618,9 +612,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260623@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Lower Strength + Knee Capacity
@@ -649,9 +643,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260624@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Easy Bike Aerobic Substitute
@@ -673,9 +667,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260625@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -704,9 +698,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260626@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Legs + Delts Accessory
@@ -739,9 +733,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260627@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Bike Intervals + Ankle Rehab
@@ -766,9 +760,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260628@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Long Bike Aerobic Substitute
@@ -791,9 +785,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260629@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:Full-Body Athletic Strength
@@ -824,9 +818,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260630@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Easy Bike Aerobic Substitute
@@ -848,9 +842,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260701@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Lower Hypertrophy + Posterior Chain
@@ -879,9 +873,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260702@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Easy Bike Aerobic Substitute
@@ -903,9 +897,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260703@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Core + Chest/Back Strength Capacity
@@ -940,9 +934,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260704@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:Bike Intervals + Ankle Rehab
@@ -967,9 +961,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260705@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:Long Bike Aerobic Substitute
@@ -992,9 +986,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260706@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -1024,9 +1018,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260707@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Lower Strength + Knee Capacity
@@ -1055,9 +1049,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260708@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Easy Bike Aerobic Substitute
@@ -1079,9 +1073,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260709@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -1109,88 +1103,756 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260710@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:Legs + Delts Accessory
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Back-friendly loading ramp.\n- Return-to-
- impact loading ramp.\n\nWarm-Up:\n- 5-6 min easy bike\, ankle rocks\, ban
- d pull-aparts\, and one ramp set for each pairing.\n\nMain Work:\n- Progr
- ession: keep this short and low-fatigue\; stop 1-2 reps before failure an
- d leave fresher than you arrived. Low-back ramp: start lightly and add lo
- ad only when the next morning is symptom-free. Return-to-impact ramp: pro
- gress only when symptoms stay 0-2/10 and the next morning is not worse.\n
- - Leg extension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring
-  curl 3 x 10-15 at RPE 8.\n- Ankle tendon rehab: foot-intrinsic activatio
- n\, short-foot / arch lifts\, isometric inversion and eversion\, sole-to-
- sole isometrics\, and banded eversion or inversion within 0-2/10 symptoms
- .\n- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8\; if time is
-  tight\, complete the first 3 exercises and leave.\n- Chest/back/core top
- -up: push-ups 2 x clean reps\, dips 2 x 6-10\, cable row 2 x 10-12\, face
-  pulls 2 x 12-15\, Pallof press 3 x 10 per side\, plank variations 2 x 30
- -45 sec\, kettlebell side bend 2 x 10-12\, around the head kettlebell 2 x
-  8 each way\, and weighted sit-ups 2 x 8-12. Low-back ramp: skip loaded h
- inges and back-extension work\; start lightly and keep supported posterio
- r-chain work pain-free.\n\nFueling:\n- Hit daily macros\, keep protein ne
- ar target\, and place carbohydrates before and after training.\n\nRecover
- y:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260711@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:Bike Intervals + Ankle Rehab
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Back-friendly lo
- ading ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min eas
- y movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMa
- in Work:\n- Easy bike warm-up: 10 min plus hip exercises with an elastic 
- band\, shoulder prep\, and light mobility.\n- Bike intervals: 6 x 45 sec 
- hard at RPE 7-8 with 2 min easy spin\; no running\, hills\, jumps\, or st
- rides.\n- Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10
-  per side.\n- Foot prep: foot-intrinsic activation\, short-foot / arch li
- fts\, isometric inversion and eversion\, sole-to-sole isometrics\, and ba
- nded eversion or inversion within 0-2/10 symptoms.\n- Pain rule: progress
-  only when symptoms stay 0-2/10 and the next morning is not worse.\n\nFue
- ling:\n- Hit daily macros\, keep protein near target\, and place carbohyd
- rates before and after training.\n\nRecovery:\n- Sleep window stays 22:00
- -06:00\; add mobility if joints feel stiff.
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260712@training-calendar
-DTSTAMP:20260614T101055Z
-LAST-MODIFIED:20260614T101055Z
-SEQUENCE:1781431855
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:Long Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Back-friendly 
- loading ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min e
- asy movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n
- Main Work:\n- Bike aerobic RPE 3-4: 45-60 min conversational\; keep caden
- ce smooth and pressure through the whole foot.\n- Foot prep: foot-intrins
- ic activation\, short-foot / arch lifts\, isometric inversion and eversio
- n\, sole-to-sole isometrics\, and banded eversion or inversion within 0-2
- /10 symptoms.\n\nOptional:\n- Optional walking stays short and flat\; ski
- p fast walking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep ca
- rbs before and after so size gain remains the main training priority.\n\n
- Recovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel
-  stiff.
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260713@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260714@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260715@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260716@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260717@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260718@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260719@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
+  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
+ andby: no planned workout or loaded conditioning today.\n- Return rule: k
+ eep this placeholder until standby is explicitly cleared\, then resume th
+ rough the return-to-training ramp instead of jumping back to prior worklo
+ ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
+ d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
+ n- Hit daily macros\, keep protein near target\, and place carbohydrates 
+ before and after training.\n\nRecovery:\n- easy daily movement and gentle
+  mobility only if they stay comfortable and do not change normal movement
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260720@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260721@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260722@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260723@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260724@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260725@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260726@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260727@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260728@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260729@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260730@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260731@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260801@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260802@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260803@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260804@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260805@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260806@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260807@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260808@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260809@training-calendar
+DTSTAMP:20260710T163200Z
+LAST-MODIFIED:20260710T163200Z
+SEQUENCE:1783701120
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Training Standby
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
+ ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
+ nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
+ ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
+ d conditioning today.\n- Return rule: keep this placeholder until standby
+  is explicitly cleared\, then resume through the return-to-training ramp 
+ instead of jumping back to prior workload.\n- Nutrition: keep protein con
+ sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
+ d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\nReco
+ very:\n- easy daily movement and gentle mobility only if they stay comfor
+ table and do not change normal movement.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
