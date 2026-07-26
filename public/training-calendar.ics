@@ -6,1853 +6,841 @@ METHOD:PUBLISH
 X-WR-CALNAME:Hubert Training
 X-WR-TIMEZONE:Europe/Copenhagen
 BEGIN:VEVENT
-UID:hubert-training-20260601@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:Upper Strength + Calisthenics Pull
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\, scap pu
- sh-ups\, and 2 bench ramp sets.\n\nMain Work:\n- Progression: double prog
- ression\; add load only after all sets reach the top of the range at RPE 
- 6-7 or lower\, about 2 RIR. Temporary low-back recovery constraint: cap l
- oaded work at RPE 6-7 and stop if symptoms rise.\n- Bench press: top set 
- 1 x 4-6 at RPE 6-7\, then 3 back-off sets x 5-7 at RPE 6-7.\n- Pull-ups: 
- 4 x 4-8 at RPE 6-7 paired with chest-supported row 4 x 8-12 at RPE 6-7.\n
- - Overhead press or Arnold press: 3 x 6-10 at RPE 6-7 paired with incline
-  dumbbell press or dumbbell press 2 x 8-10 at RPE 6-7.\n- Shoulder\, arm\
- , and core finisher: lateral raises 3 x 12-20\, preacher curls or hammer 
- curls 2 x 10-15\, reverse curls 2 x 12-15\, Pallof press 3 x 10 per side\
- , and side plank 2 x 30 sec per side. Temporary low-back recovery constra
- int: avoid loaded hinging and max-brace loading\; use machines or support
- ed positions where possible.\n\nFueling:\n- Hit daily macros\, keep prote
- in near target\, and place carbohydrates before and after training.\n\nRe
- covery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel s
- tiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260602@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:Recovery + Easy Zone 2
-DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
- 35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 5 km\nAdj
- ustments:\n- Adjusted for schedule constraints.\n- Adjusted for temporary
-  low-back recovery constraint.\n\nWarm-Up:\n- 5-10 min easy movement\, jo
- int prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- Eas
- y run RPE 3-4: 5 km at conversational effort\; cadence light and relaxed.
- \n\nOptional:\n- 20-30 min walk later if knees feel normal.\n\nRun:\n- Pl
- anned running volume: 5 km.\n\nFueling:\n- fruit or rye bread plus caffei
- ne is enough before a short morning run.\n\nRecovery:\n- 8-10 min hips\, 
- quads\, calves\, and ankles.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260603@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:Lower Strength + Knee Capacity
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for sched
- ule constraints.\n- Adjusted for temporary low-back recovery constraint.\
- n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweight squats\, and short
- -foot activation.\n\nMain Work:\n- Progression: double progression\; add 
- load only when knee tracking stays clean\, discomfort stays 0-2/10\, and 
- top sets stay near RPE 6-7. Temporary low-back recovery constraint: cap l
- oaded work at RPE 6-7 and stop if symptoms rise.\n- Controlled hack squat
-  or goblet squat: 3 x 6-10 at RPE 6-7\; stop if symptoms rise.\n- Back-fr
- iendly posterior chain: seated or lying leg curl 3 x 10-15 at RPE 6-7\, p
- lus bodyweight glute bridge 2 x 12 if symptom-free.\n- Leg extension: 3 x
-  12-15 at RPE 6-7 paired with front-foot elevated split squat 2-3 x 8-10 
- per leg at RPE 7.\n- Core finisher: seated calf raise plus tibialis raise
- s 4 x 12-20 each at RPE 7\, then side plank 2 x 30 sec. Temporary low-bac
- k recovery constraint: avoid loaded hinging and max-brace loading\; use m
- achines or supported positions where possible.\n\nFueling:\n- Hit daily m
- acros\, keep protein near target\, and place carbohydrates before and aft
- er training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobilit
- y if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260604@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, light cabl
- e rows\, and scap pull-ups.\n\nMain Work:\n- Progression: double progress
- ion\; beat total quality reps before adding load or a set\, keeping most 
- work at RPE 6-7. Temporary low-back recovery constraint: cap loaded work 
- at RPE 6-7 and stop if symptoms rise.\n- Pull-ups: 5 x 4-8 or 20-30 total
-  quality reps at RPE 6-7.\n- Dips or push-ups: 3 x 8-15 at RPE 6-7 paired
-  with one-arm dumbbell row or cable row 3 x 8-12 at RPE 6-7.\n- Shoulder 
- and chest block: incline dumbbell press 2-3 x 8-12 at RPE 6-7 plus pec-de
- ck 2 x 10-15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-20.\n-
-  Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises
-  2-3 sets at RPE 6-7. Temporary low-back recovery constraint: avoid loade
- d hinging and max-brace loading\; use machines or supported positions whe
- re possible.\n\nFueling:\n- Hit daily macros\, keep protein near target\,
-  and place carbohydrates before and after training.\n\nRecovery:\n- Sleep
-  window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260605@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Plyometrics + Hill Sprint Technique
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
- 25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
- gory: sprint\nRun volume: 3 km\nAdjustments:\n- Adjusted for schedule con
- straints.\n- Adjusted for temporary low-back recovery constraint.\n\nWarm
- -Up:\n- 10-12 min easy plus leg swings\, A-skips\, ankling\, and 3 relaxe
- d strides.\n\nMain Work:\n- Progression: add sprint reps only when contac
- ts stay snappy and knees stay quiet the next day\; sprint RPE 6-7\, never
-  max. Temporary low-back recovery constraint: cap loaded work at RPE 6-7 
- and stop if symptoms rise.\n- Plyometrics: pogos 3 x 20 sec and snap-down
- s 3 x 5 at crisp RPE 6-7.\n- Hill sprints: 6 x 10-12 sec uphill at sprint
-  RPE 6-7\; full walk-back recovery.\n- Stop the sprint set if mechanics g
- et sloppy or knees feel sharp.\n\nOptional:\n- weighted sit-ups 2 x 8-12 
- and side plank 2 x 30 sec per side. Temporary low-back recovery constrain
- t: avoid loaded hinging and max-brace loading\; use machines or supported
-  positions where possible.\n\nRun:\n- Planned running volume: 3 km.\n\nFu
- eling:\n- Hit daily macros\, keep protein near target\, and place carbohy
- drates before and after training.\n\nRecovery:\n- Sleep window stays 22:0
- 0-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260606@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Legs + Delts Accessory
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for schedule constraints.\n- Adj
- usted for temporary low-back recovery constraint.\n- Adjusted for recover
- y constraint.\n\nWarm-Up:\n- 5-6 min easy bike\, ankle rocks\, band pull-
- aparts\, and one ramp set for each pairing.\n\nMain Work:\n- Progression:
-  keep this short and low-fatigue\; stop 1-2 reps before failure and leave
-  fresher than you arrived. Temporary low-back recovery constraint: cap lo
- aded work at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoi
- d impact\, fast push-off\, and exercises that worsen next-morning symptom
- s.\n- Leg extension: 3 x 12-18 at RPE 6-7 paired with seated or lying ham
- string curl 3 x 10-15 at RPE 6-7.\n- Ankle tendon rehab: foot-intrinsic a
- ctivation\, short-foot / arch lifts\, isometric inversion and eversion\, 
- sole-to-sole isometrics\, and banded eversion or inversion within 0-2/10 
- symptoms.\n- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 6-7\; 
- if time is tight\, complete the first 3 exercises and leave.\n- Chest/bac
- k/core top-up: push-ups 2 x clean reps\, dips 2 x 6-10\, cable row 2 x 10
- -12\, face pulls 2 x 12-15\, Pallof press 3 x 10 per side\, plank variati
- ons 2 x 30-45 sec\, kettlebell side bend 2 x 10-12\, around the head kett
- lebell 2 x 8 each way\, and weighted sit-ups 2 x 8-12. Temporary low-back
-  recovery constraint: avoid loaded hinging and max-brace loading\; use ma
- chines or supported positions where possible.\n\nFueling:\n- Hit daily ma
- cros\, keep protein near target\, and place carbohydrates before and afte
- r training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility
-  if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260607@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Long Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Adjusted for t
- emporary low-back recovery constraint.\n- Adjusted for recovery constrain
- t.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual r
- amp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60 min
-  conversational\; keep cadence smooth and pressure through the whole foot
- .\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\, iso
- metric inversion and eversion\, sole-to-sole isometrics\, and banded ever
- sion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walkin
- g stays short and flat\; skip fast walking\, hills\, and long sloped surf
- aces.\n\nFueling:\n- keep carbs before and after so size gain remains the
-  main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
-  add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260608@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
-SUMMARY:Upper Strength + Calisthenics Pull
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5-7 min e
- asy bike\, band pull-aparts\, scap push-ups\, and 2 bench ramp sets.\n\nM
- ain Work:\n- Progression: double progression\; add load only after all se
- ts reach the top of the range at RPE 6-7 or lower\, about 2 RIR. Temporar
- y low-back recovery constraint: cap loaded work at RPE 6-7 and stop if sy
- mptoms rise. Recovery constraint: avoid impact\, fast push-off\, and exer
- cises that worsen next-morning symptoms.\n- Bench press: top set 1 x 4-6 
- at RPE 6-7\, then 3 back-off sets x 5-7 at RPE 6-7.\n- Pull-ups: 4 x 4-8 
- at RPE 6-7 paired with chest-supported row 4 x 8-12 at RPE 6-7.\n- Overhe
- ad press or Arnold press: 3 x 6-10 at RPE 6-7 paired with incline dumbbel
- l press or dumbbell press 2 x 8-10 at RPE 6-7.\n- Shoulder\, arm\, and co
- re finisher: lateral raises 3 x 12-20\, preacher curls or hammer curls 2 
- x 10-15\, reverse curls 2 x 12-15\, Pallof press 3 x 10 per side\, and si
- de plank 2 x 30 sec per side. Temporary low-back recovery constraint: avo
- id loaded hinging and max-brace loading\; use machines or supported posit
- ions where possible.\n\nFueling:\n- Hit daily macros\, keep protein near 
- target\, and place carbohydrates before and after training.\n\nRecovery:\
- n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260609@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-SUMMARY:Lower Strength + Knee Capacity
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for tempo
- rary low-back recovery constraint.\n- Adjusted for recovery constraint.\n
- \nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweight squats\, and short-
- foot activation.\n\nMain Work:\n- Progression: double progression\; add l
- oad only when knee tracking stays clean\, discomfort stays 0-2/10\, and t
- op sets stay near RPE 6-7. Temporary low-back recovery constraint: cap lo
- aded work at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoi
- d impact\, fast push-off\, and exercises that worsen next-morning symptom
- s.\n- Controlled hack squat or goblet squat: 3 x 6-10 at RPE 6-7\; stop i
- f symptoms rise.\n- Back-friendly posterior chain: seated or lying leg cu
- rl 3 x 10-15 at RPE 6-7\, plus bodyweight glute bridge 2 x 12 if symptom-
- free.\n- Leg extension: 3 x 12-15 at RPE 6-7 paired with front-foot eleva
- ted split squat 2-3 x 8-10 per leg at RPE 7.\n- Ankle tendon rehab: foot-
- intrinsic activation\, short-foot / arch lifts\, isometric inversion and 
- eversion\, sole-to-sole isometrics\, and banded eversion or inversion wit
- hin 0-2/10 symptoms.\n\nFueling:\n- Hit daily macros\, keep protein near 
- target\, and place carbohydrates before and after training.\n\nRecovery:\
- n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260610@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Easy Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
-  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
- 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery constraint
- .\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5-10 min easy movem
- ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work
- :\n- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cadence smooth
-  and pressure through the whole foot.\n- Foot prep: foot-intrinsic activa
- tion\, short-foot / arch lifts\, isometric inversion and eversion\, sole-
- to-sole isometrics\, and banded eversion or inversion within 0-2/10 sympt
- oms.\n\nOptional:\n- Optional walking stays short and flat\; skip fast wa
- lking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep carbs befor
- e and after so size gain remains the main training priority.\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260611@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5 min eas
- y cardio\, shoulder prep\, light cable rows\, and scap pull-ups.\n\nMain 
- Work:\n- Progression: double progression\; beat total quality reps before
-  adding load or a set\, keeping most work at RPE 6-7. Temporary low-back 
- recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise
- . Recovery constraint: avoid impact\, fast push-off\, and exercises that 
- worsen next-morning symptoms.\n- Pull-ups: 5 x 4-8 or 20-30 total quality
-  reps at RPE 6-7.\n- Dips or push-ups: 3 x 8-15 at RPE 6-7 paired with on
- e-arm dumbbell row or cable row 3 x 8-12 at RPE 6-7.\n- Shoulder and ches
- t block: incline dumbbell press 2-3 x 8-12 at RPE 6-7 plus pec-deck 2 x 1
- 0-15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-20.\n- Arm and
-  core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 set
- s at RPE 6-7. Temporary low-back recovery constraint: avoid loaded hingin
- g and max-brace loading\; use machines or supported positions where possi
- ble.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pla
- ce carbohydrates before and after training.\n\nRecovery:\n- Sleep window 
- stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260613@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:Bike Intervals + Ankle Rehab
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Adjusted for tem
- porary low-back recovery constraint.\n- Adjusted for recovery constraint.
- \n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ram
- p sets before loading.\n\nMain Work:\n- Easy bike warm-up: 10 min plus hi
- p exercises with an elastic band\, shoulder prep\, and light mobility.\n-
-  Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin\; no run
- ning\, hills\, jumps\, or strides.\n- Power substitute: med-ball slams 4 
- x 5 plus Pallof press 3 x 10 per side.\n- Foot prep: foot-intrinsic activ
- ation\, short-foot / arch lifts\, isometric inversion and eversion\, sole
- -to-sole isometrics\, and banded eversion or inversion within 0-2/10 symp
- toms.\n- Pain rule: progress only when symptoms stay 0-2/10 and the next 
- morning is not worse.\n\nFueling:\n- Hit daily macros\, keep protein near
-  target\, and place carbohydrates before and after training.\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260614@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-SUMMARY:Long Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Adjusted for t
- emporary low-back recovery constraint.\n- Adjusted for recovery constrain
- t.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual r
- amp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60 min
-  conversational\; keep cadence smooth and pressure through the whole foot
- .\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\, iso
- metric inversion and eversion\, sole-to-sole isometrics\, and banded ever
- sion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walkin
- g stays short and flat\; skip fast walking\, hills\, and long sloped surf
- aces.\n\nFueling:\n- keep carbs before and after so size gain remains the
-  main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
-  add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260615@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260616
-SUMMARY:Full-Body Athletic Strength
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for tempo
- rary low-back recovery constraint.\n- Adjusted for recovery constraint.\n
- \nWarm-Up:\n- 7 min easy cardio\, squat-to-stand\, band pull-aparts\, pus
- h-ups\, and hinge ramp sets.\n\nMain Work:\n- Progression: double progres
- sion\; add load only when presses\, hinges\, and pulls are all stable at 
- RPE 6-7 or lower. Temporary low-back recovery constraint: cap loaded work
-  at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoid impact\
- , fast push-off\, and exercises that worsen next-morning symptoms.\n- Inc
- line press\, shoulder press\, or bench press: top set 1 x 6-8 at RPE 6-7\
- , then 3-4 back-off sets x 8-10 at RPE 6-7.\n- Back-friendly posterior ch
- ain: seated or lying leg curl 3 x 10-15 at RPE 6-7\, plus bodyweight glut
- e bridge 2 x 12 if symptom-free.\n- Pull-ups or chest-supported rows: 4 x
-  6-10 at RPE 6-7 paired with front-foot elevated split squat or hack squa
- t 3 x 8-10 per leg at RPE 6-7.\n- Shoulder\, trap\, and quad finisher: la
- teral raises 2-3 x 15-20\, dumbbell trap raise 2 x 12-15\, leg extension 
- 2 x 12-15\, then weighted sit-ups 2 x 8-12. Temporary low-back recovery c
- onstraint: avoid loaded hinging and max-brace loading\; use machines or s
- upported positions where possible.\n\nFueling:\n- Hit daily macros\, keep
-  protein near target\, and place carbohydrates before and after training.
- \n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints 
- feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260616@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-SUMMARY:Easy Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
-  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
- 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery constraint
- .\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5-10 min easy movem
- ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work
- :\n- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cadence smooth
-  and pressure through the whole foot.\n- Foot prep: foot-intrinsic activa
- tion\, short-foot / arch lifts\, isometric inversion and eversion\, sole-
- to-sole isometrics\, and banded eversion or inversion within 0-2/10 sympt
- oms.\n\nOptional:\n- Optional walking stays short and flat\; skip fast wa
- lking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep carbs befor
- e and after so size gain remains the main training priority.\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260617@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-SUMMARY:Lower Hypertrophy + Posterior Chain
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for tempo
- rary low-back recovery constraint.\n- Adjusted for recovery constraint.\n
- \nWarm-Up:\n- 7-8 min bike\, split squat isometric holds\, ankle rocks\, 
- and hinge ramp sets.\n\nMain Work:\n- Progression: double progression\; a
- dd load only when tempo and knee control stay stable at RPE 6-7 or lower.
-  Temporary low-back recovery constraint: cap loaded work at RPE 6-7 and s
- top if symptoms rise. Recovery constraint: avoid impact\, fast push-off\,
-  and exercises that worsen next-morning symptoms.\n- Bulgarian split squa
- t or front-foot elevated split squat: 4 x 8-10 per leg at RPE 6-7.\n- Bac
- k-friendly posterior chain: seated or lying leg curl 3 x 10-15 at RPE 6-7
- \, plus bodyweight glute bridge 2 x 12 if symptom-free.\n- Leg extension 
- or reverse Nordic curls: 2 x 8-12 at RPE 6-7.\n- Ankle tendon rehab: foot
- -intrinsic activation\, short-foot / arch lifts\, isometric inversion and
-  eversion\, sole-to-sole isometrics\, and banded eversion or inversion wi
- thin 0-2/10 symptoms.\n\nFueling:\n- Hit daily macros\, keep protein near
-  target\, and place carbohydrates before and after training.\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260618@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:Easy Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
-  then 25-35 g protein plus carbs after.\nCategory: gym\nRun volume: 0 km\
- nAdjustments:\n- Adjusted for temporary low-back recovery constraint.\n- 
- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5-10 min easy movement\,
-  joint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- 
- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cadence smooth and 
- pressure through the whole foot.\n- Foot prep: foot-intrinsic activation\
- , short-foot / arch lifts\, isometric inversion and eversion\, sole-to-so
- le isometrics\, and banded eversion or inversion within 0-2/10 symptoms.\
- n\nOptional:\n- Optional walking stays short and flat\; skip fast walking
- \, hills\, and long sloped surfaces.\n\nFueling:\n- keep carbs before and
-  after so size gain remains the main training priority.\n\nRecovery:\n- S
- leep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260619@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-SUMMARY:Core + Chest/Back Strength Capacity
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5 min eas
- y bike\, shoulder prep\, thoracic mobility\, hip openers\, and two light 
- press/row ramp sets.\n\nMain Work:\n- Progression: this is the eighth str
- ength day in the 14-day wave\; cap work at RPE 6-7\, use supersets\, and 
- trim accessories before anchor work if recovery dips. Temporary low-back 
- recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise
- . Recovery constraint: avoid impact\, fast push-off\, and exercises that 
- worsen next-morning symptoms.\n- Chest volume: bench press 3 x 6-8\, incl
- ine dumbbell press 3 x 8-10\, dumbbell press 2 x 8-10\, pec-deck 2 x 12-1
- 5\, dips 2 x 6-10\, and push-ups 2 x clean reps.\n- Back volume: lat pull
- down or pull-ups 3 x 8-12\, cable row or chest-supported row 3 x 8-12\, f
- ace pulls 2 x 12-15\, and rear delt fly or reverse pec-deck 2 x 15-20.\n-
-  Leg maintenance: hip thrust or glute bridge 3 x 8-12\, leg extension 2 x
-  12-15\, and seated or lying hamstring curl 2 x 10-15 at RPE 7.\n- Core v
- olume: Pallof press 3 x 10 per side\, side plank 2 x 30 sec per side\, pl
- ank variations 2 x 30-45 sec\, hanging leg raises 2-3 sets\, weighted sit
- -ups 2 x 8-12\, and kettlebell side bend or around the head kettlebell 2 
- x 10. Arm top-up: tricep pulldown 2 x 10-15\, preacher curls 2 x 10-15\, 
- and reverse curls 2 x 12-15. Temporary low-back recovery constraint: avoi
- d loaded hinging and max-brace loading\; use machines or supported positi
- ons where possible.\n\nFueling:\n- Hit daily macros\, keep protein near t
- arget\, and place carbohydrates before and after training.\n\nRecovery:\n
- - Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260620@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-SUMMARY:Bike Intervals + Ankle Rehab
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Adjusted for tem
- porary low-back recovery constraint.\n- Adjusted for recovery constraint.
- \n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ram
- p sets before loading.\n\nMain Work:\n- Easy bike warm-up: 10 min plus hi
- p exercises with an elastic band\, shoulder prep\, and light mobility.\n-
-  Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin\; no run
- ning\, hills\, jumps\, or strides.\n- Power substitute: med-ball slams 4 
- x 5 plus Pallof press 3 x 10 per side.\n- Foot prep: foot-intrinsic activ
- ation\, short-foot / arch lifts\, isometric inversion and eversion\, sole
- -to-sole isometrics\, and banded eversion or inversion within 0-2/10 symp
- toms.\n- Pain rule: progress only when symptoms stay 0-2/10 and the next 
- morning is not worse.\n\nFueling:\n- Hit daily macros\, keep protein near
-  target\, and place carbohydrates before and after training.\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260621@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-SUMMARY:Long Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Adjusted for t
- emporary low-back recovery constraint.\n- Adjusted for recovery constrain
- t.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual r
- amp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60 min
-  conversational\; keep cadence smooth and pressure through the whole foot
- .\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\, iso
- metric inversion and eversion\, sole-to-sole isometrics\, and banded ever
- sion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walkin
- g stays short and flat\; skip fast walking\, hills\, and long sloped surf
- aces.\n\nFueling:\n- keep carbs before and after so size gain remains the
-  main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
-  add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260622@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-SUMMARY:Upper Strength + Calisthenics Pull
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5-7 min e
- asy bike\, band pull-aparts\, scap push-ups\, and 2 bench ramp sets.\n\nM
- ain Work:\n- Progression: double progression\; add load only after all se
- ts reach the top of the range at RPE 6-7 or lower\, about 2 RIR. Temporar
- y low-back recovery constraint: cap loaded work at RPE 6-7 and stop if sy
- mptoms rise. Recovery constraint: avoid impact\, fast push-off\, and exer
- cises that worsen next-morning symptoms.\n- Bench press: top set 1 x 4-6 
- at RPE 6-7\, then 3 back-off sets x 5-7 at RPE 6-7.\n- Pull-ups: 4 x 4-8 
- at RPE 6-7 paired with chest-supported row 4 x 8-12 at RPE 6-7.\n- Overhe
- ad press or Arnold press: 3 x 6-10 at RPE 6-7 paired with incline dumbbel
- l press or dumbbell press 2 x 8-10 at RPE 6-7.\n- Shoulder\, arm\, and co
- re finisher: lateral raises 3 x 12-20\, preacher curls or hammer curls 2 
- x 10-15\, reverse curls 2 x 12-15\, Pallof press 3 x 10 per side\, and si
- de plank 2 x 30 sec per side. Temporary low-back recovery constraint: avo
- id loaded hinging and max-brace loading\; use machines or supported posit
- ions where possible.\n\nFueling:\n- Hit daily macros\, keep protein near 
- target\, and place carbohydrates before and after training.\n\nRecovery:\
- n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260623@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-SUMMARY:Lower Strength + Knee Capacity
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Adjusted for tempo
- rary low-back recovery constraint.\n- Adjusted for recovery constraint.\n
- \nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweight squats\, and short-
- foot activation.\n\nMain Work:\n- Progression: double progression\; add l
- oad only when knee tracking stays clean\, discomfort stays 0-2/10\, and t
- op sets stay near RPE 6-7. Temporary low-back recovery constraint: cap lo
- aded work at RPE 6-7 and stop if symptoms rise. Recovery constraint: avoi
- d impact\, fast push-off\, and exercises that worsen next-morning symptom
- s.\n- Controlled hack squat or goblet squat: 3 x 6-10 at RPE 6-7\; stop i
- f symptoms rise.\n- Back-friendly posterior chain: seated or lying leg cu
- rl 3 x 10-15 at RPE 6-7\, plus bodyweight glute bridge 2 x 12 if symptom-
- free.\n- Leg extension: 3 x 12-15 at RPE 6-7 paired with front-foot eleva
- ted split squat 2-3 x 8-10 per leg at RPE 7.\n- Ankle tendon rehab: foot-
- intrinsic activation\, short-foot / arch lifts\, isometric inversion and 
- eversion\, sole-to-sole isometrics\, and banded eversion or inversion wit
- hin 0-2/10 symptoms.\n\nFueling:\n- Hit daily macros\, keep protein near 
- target\, and place carbohydrates before and after training.\n\nRecovery:\
- n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260624@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-SUMMARY:Easy Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
-  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
- 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery constraint
- .\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5-10 min easy movem
- ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work
- :\n- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cadence smooth
-  and pressure through the whole foot.\n- Foot prep: foot-intrinsic activa
- tion\, short-foot / arch lifts\, isometric inversion and eversion\, sole-
- to-sole isometrics\, and banded eversion or inversion within 0-2/10 sympt
- oms.\n\nOptional:\n- Optional walking stays short and flat\; skip fast wa
- lking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep carbs befor
- e and after so size gain remains the main training priority.\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260625@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5 min eas
- y cardio\, shoulder prep\, light cable rows\, and scap pull-ups.\n\nMain 
- Work:\n- Progression: double progression\; beat total quality reps before
-  adding load or a set\, keeping most work at RPE 6-7. Temporary low-back 
- recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms rise
- . Recovery constraint: avoid impact\, fast push-off\, and exercises that 
- worsen next-morning symptoms.\n- Pull-ups: 5 x 4-8 or 20-30 total quality
-  reps at RPE 6-7.\n- Dips or push-ups: 3 x 8-15 at RPE 6-7 paired with on
- e-arm dumbbell row or cable row 3 x 8-12 at RPE 6-7.\n- Shoulder and ches
- t block: incline dumbbell press 2-3 x 8-12 at RPE 6-7 plus pec-deck 2 x 1
- 0-15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-20.\n- Arm and
-  core finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 set
- s at RPE 6-7. Temporary low-back recovery constraint: avoid loaded hingin
- g and max-brace loading\; use machines or supported positions where possi
- ble.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pla
- ce carbohydrates before and after training.\n\nRecovery:\n- Sleep window 
- stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260626@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Legs + Delts Accessory
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Adjusted for temporary low-back recovery 
- constraint.\n- Adjusted for recovery constraint.\n\nWarm-Up:\n- 5-6 min e
- asy bike\, ankle rocks\, band pull-aparts\, and one ramp set for each pai
- ring.\n\nMain Work:\n- Progression: keep this short and low-fatigue\; sto
- p 1-2 reps before failure and leave fresher than you arrived. Temporary l
- ow-back recovery constraint: cap loaded work at RPE 6-7 and stop if sympt
- oms rise. Recovery constraint: avoid impact\, fast push-off\, and exercis
- es that worsen next-morning symptoms.\n- Leg extension: 3 x 12-18 at RPE 
- 6-7 paired with seated or lying hamstring curl 3 x 10-15 at RPE 6-7.\n- A
- nkle tendon rehab: foot-intrinsic activation\, short-foot / arch lifts\, 
- isometric inversion and eversion\, sole-to-sole isometrics\, and banded e
- version or inversion within 0-2/10 symptoms.\n- Rear delt fly or reverse 
- pec-deck: 2-3 x 15-20 at RPE 6-7\; if time is tight\, complete the first 
- 3 exercises and leave.\n- Chest/back/core top-up: push-ups 2 x clean reps
- \, dips 2 x 6-10\, cable row 2 x 10-12\, face pulls 2 x 12-15\, Pallof pr
- ess 3 x 10 per side\, plank variations 2 x 30-45 sec\, kettlebell side be
- nd 2 x 10-12\, around the head kettlebell 2 x 8 each way\, and weighted s
- it-ups 2 x 8-12. Temporary low-back recovery constraint: avoid loaded hin
- ging and max-brace loading\; use machines or supported positions where po
- ssible.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and 
- place carbohydrates before and after training.\n\nRecovery:\n- Sleep wind
- ow stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260627@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Bike Intervals + Ankle Rehab
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Adjusted for tem
- porary low-back recovery constraint.\n- Adjusted for recovery constraint.
- \n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ram
- p sets before loading.\n\nMain Work:\n- Easy bike warm-up: 10 min plus hi
- p exercises with an elastic band\, shoulder prep\, and light mobility.\n-
-  Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin\; no run
- ning\, hills\, jumps\, or strides.\n- Power substitute: med-ball slams 4 
- x 5 plus Pallof press 3 x 10 per side.\n- Foot prep: foot-intrinsic activ
- ation\, short-foot / arch lifts\, isometric inversion and eversion\, sole
- -to-sole isometrics\, and banded eversion or inversion within 0-2/10 symp
- toms.\n- Pain rule: progress only when symptoms stay 0-2/10 and the next 
- morning is not worse.\n\nFueling:\n- Hit daily macros\, keep protein near
-  target\, and place carbohydrates before and after training.\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260628@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:Long Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Adjusted for t
- emporary low-back recovery constraint.\n- Adjusted for recovery constrain
- t.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual r
- amp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60 min
-  conversational\; keep cadence smooth and pressure through the whole foot
- .\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\, iso
- metric inversion and eversion\, sole-to-sole isometrics\, and banded ever
- sion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walkin
- g stays short and flat\; skip fast walking\, hills\, and long sloped surf
- aces.\n\nFueling:\n- keep carbs before and after so size gain remains the
-  main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
-  add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260629@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-SUMMARY:Full-Body Athletic Strength
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Back-friendly load
- ing ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 7 min easy car
- dio\, squat-to-stand\, band pull-aparts\, push-ups\, and hinge ramp sets.
- \n\nMain Work:\n- Progression: double progression\; add load only when pr
- esses\, hinges\, and pulls are all stable at RPE 8 or lower. Low-back ram
- p: start lightly and add load only when the next morning is symptom-free.
-  Return-to-impact ramp: progress only when symptoms stay 0-2/10 and the n
- ext morning is not worse.\n- Incline press\, shoulder press\, or bench pr
- ess: top set 1 x 6-8 at RPE 8\, then 3-4 back-off sets x 8-10 at RPE 7-8.
- \n- Back-friendly posterior chain: hip thrust\, glute bridge\, or leg cur
- l 3 x 8-12 at RPE 6-7\; skip loaded hinges and back-extension work\; star
- t lightly.\n- Pull-ups or chest-supported rows: 4 x 6-10 at RPE 8 paired 
- with front-foot elevated split squat or hack squat 3 x 8-10 per leg at RP
- E 8.\n- Shoulder\, trap\, and quad finisher: lateral raises 2-3 x 15-20\,
-  dumbbell trap raise 2 x 12-15\, leg extension 2 x 12-15\, then weighted 
- sit-ups 2 x 8-12. Low-back ramp: skip loaded hinges and back-extension wo
- rk\; start lightly and keep supported posterior-chain work pain-free.\n\n
- Fueling:\n- Hit daily macros\, keep protein near target\, and place carbo
- hydrates before and after training.\n\nRecovery:\n- Sleep window stays 22
- :00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260630@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-SUMMARY:Easy Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
-  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
- 0 km\nAdjustments:\n- Back-friendly loading ramp.\n- Return-to-impact loa
- ding ramp.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 g
- radual ramp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 2
- 5-40 min conversational\; keep cadence smooth and pressure through the wh
- ole foot.\n- Foot prep: foot-intrinsic activation\, short-foot / arch lif
- ts\, isometric inversion and eversion\, sole-to-sole isometrics\, and ban
- ded eversion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optiona
- l walking stays short and flat\; skip fast walking\, hills\, and long slo
- ped surfaces.\n\nFueling:\n- keep carbs before and after so size gain rem
- ains the main training priority.\n\nRecovery:\n- Sleep window stays 22:00
- -06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260701@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260702
-SUMMARY:Lower Hypertrophy + Posterior Chain
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Back-friendly load
- ing ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 7-8 min bike\,
-  split squat isometric holds\, ankle rocks\, and hinge ramp sets.\n\nMain
-  Work:\n- Progression: double progression\; add load only when tempo and 
- knee control stay stable at RPE 8 or lower. Low-back ramp: start lightly 
- and add load only when the next morning is symptom-free. Return-to-impact
-  ramp: progress only when symptoms stay 0-2/10 and the next morning is no
- t worse.\n- Bulgarian split squat or front-foot elevated split squat: 4 x
-  8-10 per leg at RPE 7-8.\n- Back-friendly posterior chain: hip thrust\, 
- glute bridge\, or leg curl 3 x 8-12 at RPE 6-7\; skip loaded hinges and b
- ack-extension work\; start lightly.\n- Reverse Nordic curls: 2 x 6-10 at 
- RPE 7 paired with leg extension 2 x 15-20 at RPE 8.\n- Ankle tendon rehab
- : foot-intrinsic activation\, short-foot / arch lifts\, isometric inversi
- on and eversion\, sole-to-sole isometrics\, and banded eversion or invers
- ion within 0-2/10 symptoms.\n\nFueling:\n- Hit daily macros\, keep protei
- n near target\, and place carbohydrates before and after training.\n\nRec
- overy:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel st
- iff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260702@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-SUMMARY:Easy Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
-  then 25-35 g protein plus carbs after.\nCategory: gym\nRun volume: 0 km\
- nAdjustments:\n- Back-friendly loading ramp.\n- Return-to-impact loading 
- ramp.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradua
- l ramp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 25-40 
- min conversational\; keep cadence smooth and pressure through the whole f
- oot.\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\, 
- isometric inversion and eversion\, sole-to-sole isometrics\, and banded e
- version or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional wal
- king stays short and flat\; skip fast walking\, hills\, and long sloped s
- urfaces.\n\nFueling:\n- keep carbs before and after so size gain remains 
- the main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:0
- 0\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260703@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-SUMMARY:Core + Chest/Back Strength Capacity
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Back-friendly loading ramp.\n- Return-to-
- impact loading ramp.\n\nWarm-Up:\n- 5 min easy bike\, shoulder prep\, tho
- racic mobility\, hip openers\, and two light press/row ramp sets.\n\nMain
-  Work:\n- Progression: this is the eighth strength day in the 14-day wave
- \; cap work at RPE 7-8\, use supersets\, and trim accessories before anch
- or work if recovery dips. Low-back ramp: start lightly and add load only 
- when the next morning is symptom-free. Return-to-impact ramp: progress on
- ly when symptoms stay 0-2/10 and the next morning is not worse.\n- Chest 
- volume: bench press 3 x 6-8\, incline dumbbell press 3 x 8-10\, dumbbell 
- press 2 x 8-10\, pec-deck 2 x 12-15\, dips 2 x 6-10\, and push-ups 2 x cl
- ean reps.\n- Back volume: lat pulldown or pull-ups 3 x 8-12\, cable row o
- r chest-supported row 3 x 8-12\, face pulls 2 x 12-15\, and rear delt fly
-  or reverse pec-deck 2 x 15-20.\n- Leg maintenance: hip thrust or glute b
- ridge 3 x 8-12\, leg extension 2 x 12-15\, and seated or lying hamstring 
- curl 2 x 10-15 at RPE 7.\n- Core volume: Pallof press 3 x 10 per side\, s
- ide plank 2 x 30 sec per side\, plank variations 2 x 30-45 sec\, hanging 
- leg raises 2-3 sets\, weighted sit-ups 2 x 8-12\, and kettlebell side ben
- d or around the head kettlebell 2 x 10. Arm top-up: tricep pulldown 2 x 1
- 0-15\, preacher curls 2 x 10-15\, and reverse curls 2 x 12-15. Low-back r
- amp: skip loaded hinges and back-extension work\; start lightly and keep 
- supported posterior-chain work pain-free.\n\nFueling:\n- Hit daily macros
- \, keep protein near target\, and place carbohydrates before and after tr
- aining.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if 
- joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260704@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:Bike Intervals + Ankle Rehab
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Back-friendly lo
- ading ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min eas
- y movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMa
- in Work:\n- Easy bike warm-up: 10 min plus hip exercises with an elastic 
- band\, shoulder prep\, and light mobility.\n- Bike intervals: 6 x 45 sec 
- hard at RPE 7-8 with 2 min easy spin\; no running\, hills\, jumps\, or st
- rides.\n- Power substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10
-  per side.\n- Foot prep: foot-intrinsic activation\, short-foot / arch li
- fts\, isometric inversion and eversion\, sole-to-sole isometrics\, and ba
- nded eversion or inversion within 0-2/10 symptoms.\n- Pain rule: progress
-  only when symptoms stay 0-2/10 and the next morning is not worse.\n\nFue
- ling:\n- Hit daily macros\, keep protein near target\, and place carbohyd
- rates before and after training.\n\nRecovery:\n- Sleep window stays 22:00
- -06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260705@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-SUMMARY:Long Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
- ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
- rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Back-friendly 
- loading ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min e
- asy movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n
- Main Work:\n- Bike aerobic RPE 3-4: 45-60 min conversational\; keep caden
- ce smooth and pressure through the whole foot.\n- Foot prep: foot-intrins
- ic activation\, short-foot / arch lifts\, isometric inversion and eversio
- n\, sole-to-sole isometrics\, and banded eversion or inversion within 0-2
- /10 symptoms.\n\nOptional:\n- Optional walking stays short and flat\; ski
- p fast walking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep ca
- rbs before and after so size gain remains the main training priority.\n\n
- Recovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel
-  stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260706@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-SUMMARY:Upper Strength + Calisthenics Pull
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Back-friendly loading ramp.\n- Return-to-
- impact loading ramp.\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\
- , scap push-ups\, and 2 bench ramp sets.\n\nMain Work:\n- Progression: do
- uble progression\; add load only after all sets reach the top of the rang
- e at RPE 8 or lower\, about 2 RIR. Low-back ramp: start lightly and add l
- oad only when the next morning is symptom-free. Return-to-impact ramp: pr
- ogress only when symptoms stay 0-2/10 and the next morning is not worse.\
- n- Bench press: top set 1 x 4-6 at RPE 8\, then 2 back-off sets x 5-7 at 
- RPE 7-8.\n- Pull-ups: 4 x 4-8 at RPE 8 paired with chest-supported row 4 
- x 8-12 at RPE 8.\n- Overhead press or Arnold press: 3 x 6-10 at RPE 8 pai
- red with incline dumbbell press or dumbbell press 2 x 8-10 at RPE 8.\n- S
- houlder\, arm\, and core finisher: lateral raises 3 x 12-20\, preacher cu
- rls or hammer curls 2 x 10-15\, reverse curls 2 x 12-15\, Pallof press 3 
- x 10 per side\, and side plank 2 x 30 sec per side. Low-back ramp: skip l
- oaded hinges and back-extension work\; start lightly and keep supported p
- osterior-chain work pain-free.\n\nFueling:\n- Hit daily macros\, keep pro
- tein near target\, and place carbohydrates before and after training.\n\n
- Recovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel
-  stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260707@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-SUMMARY:Lower Strength + Knee Capacity
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Back-friendly load
- ing ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 7-8 min bike\,
-  ankle rocks\, bodyweight squats\, and short-foot activation.\n\nMain Wor
- k:\n- Progression: double progression\; add load only when knee tracking 
- stays clean\, discomfort stays 0-2/10\, and top sets stay near RPE 8. Low
- -back ramp: start lightly and add load only when the next morning is symp
- tom-free. Return-to-impact ramp: progress only when symptoms stay 0-2/10 
- and the next morning is not worse.\n- Hack squat or goblet squat: top set
-  1 x 6-8 at RPE 8\, then 2 back-off sets x 8-10 at RPE 7-8.\n- Back-frien
- dly posterior chain: hip thrust\, glute bridge\, or leg curl 3 x 8-12 at 
- RPE 6-7\; skip loaded hinges and back-extension work\; start lightly.\n- 
- Leg extension: 3 x 12-15 at RPE 8 paired with front-foot elevated split s
- quat 2-3 x 8-10 per leg at RPE 7.\n- Ankle tendon rehab: foot-intrinsic a
- ctivation\, short-foot / arch lifts\, isometric inversion and eversion\, 
- sole-to-sole isometrics\, and banded eversion or inversion within 0-2/10 
- symptoms.\n\nFueling:\n- Hit daily macros\, keep protein near target\, an
- d place carbohydrates before and after training.\n\nRecovery:\n- Sleep wi
- ndow stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260708@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260709
-SUMMARY:Easy Bike Aerobic Substitute
-DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
-  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
- 0 km\nAdjustments:\n- Back-friendly loading ramp.\n- Return-to-impact loa
- ding ramp.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 g
- radual ramp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 2
- 5-40 min conversational\; keep cadence smooth and pressure through the wh
- ole foot.\n- Foot prep: foot-intrinsic activation\, short-foot / arch lif
- ts\, isometric inversion and eversion\, sole-to-sole isometrics\, and ban
- ded eversion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optiona
- l walking stays short and flat\; skip fast walking\, hills\, and long slo
- ped surfaces.\n\nFueling:\n- keep carbs before and after so size gain rem
- ains the main training priority.\n\nRecovery:\n- Sleep window stays 22:00
- -06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260709@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\nAdjustments:\n- Back-friendly loading ramp.\n- Return-to-
- impact loading ramp.\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, l
- ight cable rows\, and scap pull-ups.\n\nMain Work:\n- Progression: double
-  progression\; beat total quality reps before adding load or a set\, keep
- ing most work at RPE 8-9. Low-back ramp: start lightly and add load only 
- when the next morning is symptom-free. Return-to-impact ramp: progress on
- ly when symptoms stay 0-2/10 and the next morning is not worse.\n- Pull-u
- ps: 5 x 4-8 or 20-30 total quality reps at RPE 8.\n- Dips or push-ups: 3 
- x 8-15 at RPE 8-9 paired with one-arm dumbbell row or cable row 3 x 8-12 
- at RPE 8.\n- Shoulder and chest block: incline dumbbell press 2-3 x 8-12 
- at RPE 8 plus pec-deck 2 x 10-15\, lateral raises 3 x 15-20\, and rear de
- lt fly 2 x 15-20.\n- Arm and core finisher: tricep pulldown 2 x 10-15 plu
- s hanging leg raises 2-3 sets at RPE 8. Low-back ramp: skip loaded hinges
-  and back-extension work\; start lightly and keep supported posterior-cha
- in work pain-free.\n\nFueling:\n- Hit daily macros\, keep protein near ta
- rget\, and place carbohydrates before and after training.\n\nRecovery:\n-
-  Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260710@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260711@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260712@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260713@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260714@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260715@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260716@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260717@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260718@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260719@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Return-to-impact loading ramp.\n-
-  Adjusted for recovery standby.\n\nWarm-Up:\n- 5-10 min easy movement\, j
- oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- St
- andby: no planned workout or loaded conditioning today.\n- Return rule: k
- eep this placeholder until standby is explicitly cleared\, then resume th
- rough the return-to-training ramp instead of jumping back to prior worklo
- ad.\n- Nutrition: keep protein consistent\, match carbohydrates to reduce
- d activity\, hydrate normally\, and keep sleep the priority.\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\nRecovery:\n- easy daily movement and gentle
-  mobility only if they stay comfortable and do not change normal movement
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260720@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260721@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260722@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260723@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260724@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260725@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hubert-training-20260726@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:5K Time Trial + Very Light Pull
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
+ 35 g protein plus carbs after.\nCategory: time_trial\nRun volume: 5 km\nA
+ djustments:\n- Adjusted for recovery constraint.\n- Temporary 50% working
+ -load cap.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 g
+ radual ramp sets before loading.\n\nMain Work:\n- 5K time trial: full rac
+ e effort after a progressive warm-up.\n- Very light supported pull: chest
+ -supported row\, neutral-grip pulldown\, rear-delt work\, and easy curls\
+ ; use no more than 50% of normal working load.\n- Skip unsupported rows\,
+  loaded hinging\, back extensions\, explosive push-off work\, and trainin
+ g to failure.\n- Stop if symptoms change normal movement\; reassess recov
+ ery this evening and the next morning.\n\nRun:\n- Planned running volume:
+  5 km.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and p
+ lace carbohydrates before and after training.\n\nRecovery:\n- easy cooldo
+ wn\, carbohydrates\, protein\, fluids\, and an early night.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260727@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Full-Body Athletic Strength
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Temporary 50% work
+ ing-load cap.\n\nWarm-Up:\n- 7 min easy cardio\, squat-to-stand\, band pu
+ ll-aparts\, push-ups\, and hinge ramp sets.\n\nMain Work:\n- Progression:
+  double progression\; add load only when presses\, hinges\, and pulls are
+  all stable at RPE 6-7 or lower. Prior-month recovery feedback: reduce on
+ e back-off set and cap all compounds at RPE 6-7. Lower-body feedback: tri
+ m one lower-body set\, stay 1-3 RIR\, and swap to the safest machine or u
+ nilateral pattern if joints or back flare. Prior-month recovery feedback:
+  reduce one back-off set and cap all compounds at RPE 6-7. Temporary low-
+ back recovery constraint: cap loaded work at RPE 6-7 and stop if symptoms
+  rise. Return-to-impact ramp: progress only when symptoms stay 0-2/10 and
+  the next morning is not worse.\n- Incline press\, shoulder press\, or be
+ nch press: top set 1 x 6-8 at RPE 6-7\, then 2-3 back-off sets x 8-10 at 
+ RPE 6-7.\n- Back-friendly posterior chain: seated or lying leg curl 3 x 1
+ 0-15 at RPE 6-7\, plus bodyweight glute bridge 2 x 12 if symptom-free.\n-
+  Pull-ups or chest-supported rows: 4 x 6-10 at RPE 6-7 paired with front-
+ foot elevated split squat or hack squat 3 x 8-10 per leg at RPE 6-7.\n- S
+ houlder\, trap\, and quad finisher: lateral raises 2-3 x 15-20\, dumbbell
+  trap raise 2 x 12-15\, leg extension 2 x 12-15\, then weighted sit-ups 2
+  x 8-12. Temporary low-back recovery constraint: avoid loaded hinging and
+  max-brace loading\; use machines or supported positions where possible.\
+ n\nFueling:\n- Hit daily macros\, keep protein near target\, and place ca
+ rbohydrates before and after training.\n\nRecovery:\n- Sleep window stays
+  22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260728@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Easy Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
+  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
+ 0 km\nAdjustments:\n- Protective changes from prior-month body-part feedb
+ ack.\n- Reduced for prior-month recovery feedback.\n- Adjusted for tempor
+ ary low-back recovery constraint.\n- Return-to-impact loading ramp.\n\nWa
+ rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
+  before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 25-40 min convers
+ ational\; keep cadence smooth and pressure through the whole foot.\n- Foo
+ t prep: foot-intrinsic activation\, short-foot / arch lifts\, isometric i
+ nversion and eversion\, sole-to-sole isometrics\, and banded eversion or 
+ inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walking stays 
+ short and flat\; skip fast walking\, hills\, and long sloped surfaces.\n\
+ nFueling:\n- keep carbs before and after so size gain remains the main tr
+ aining priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mob
+ ility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260729@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Lower Hypertrophy + Posterior Chain
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Temporary 50% work
+ ing-load cap.\n\nWarm-Up:\n- 7-8 min bike\, split squat isometric holds\,
+  ankle rocks\, and hinge ramp sets.\n\nMain Work:\n- Progression: double 
+ progression\; add load only when tempo and knee control stay stable at RP
+ E 6-7 or lower. Prior-month recovery feedback: reduce one back-off set an
+ d cap all compounds at RPE 6-7. Lower-body feedback: trim one lower-body 
+ set\, stay 1-3 RIR\, and swap to the safest machine or unilateral pattern
+  if joints or back flare. Prior-month recovery feedback: reduce one back-
+ off set and cap all compounds at RPE 6-7. Temporary low-back recovery con
+ straint: cap loaded work at RPE 6-7 and stop if symptoms rise. Return-to-
+ impact ramp: progress only when symptoms stay 0-2/10 and the next morning
+  is not worse.\n- Bulgarian split squat or front-foot elevated split squa
+ t: 4 x 8-10 per leg at RPE 6-7.\n- Back-friendly posterior chain: seated 
+ or lying leg curl 3 x 10-15 at RPE 6-7\, plus bodyweight glute bridge 2 x
+  12 if symptom-free.\n- Leg extension or reverse Nordic curls: 2 x 8-12 a
+ t RPE 6-7.\n- Ankle tendon rehab: foot-intrinsic activation\, short-foot 
+ / arch lifts\, isometric inversion and eversion\, sole-to-sole isometrics
+ \, and banded eversion or inversion within 0-2/10 symptoms.\n\nFueling:\n
+ - Hit daily macros\, keep protein near target\, and place carbohydrates b
+ efore and after training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\
+ ; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260730@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Easy Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
+  then 25-35 g protein plus carbs after.\nCategory: gym\nRun volume: 0 km\
+ nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-Up:\n- 5-10 min 
+ easy movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\
+ nMain Work:\n- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cade
+ nce smooth and pressure through the whole foot.\n- Foot prep: foot-intrin
+ sic activation\, short-foot / arch lifts\, isometric inversion and eversi
+ on\, sole-to-sole isometrics\, and banded eversion or inversion within 0-
+ 2/10 symptoms.\n\nOptional:\n- Optional walking stays short and flat\; sk
+ ip fast walking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep c
+ arbs before and after so size gain remains the main training priority.\n\
+ nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints fee
+ l stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260731@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Core + Chest/Back Strength Capacity
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5 min easy bike\, shoulder prep\, thoracic mobility\, hip openers\,
+  and two light press/row ramp sets.\n\nMain Work:\n- Progression: this is
+  the eighth strength day in the 14-day wave\; cap work at RPE 6-7\, use s
+ upersets\, and trim accessories before anchor work if recovery dips. Temp
+ orary low-back recovery constraint: cap loaded work at RPE 6-7 and stop i
+ f symptoms rise. Return-to-impact ramp: progress only when symptoms stay 
+ 0-2/10 and the next morning is not worse.\n- Chest volume: bench press 3 
+ x 6-8\, incline dumbbell press 3 x 8-10\, dumbbell press 2 x 8-10\, pec-d
+ eck 2 x 12-15\, dips 2 x 6-10\, and push-ups 2 x clean reps.\n- Back volu
+ me: lat pulldown or pull-ups 3 x 8-12\, cable row or chest-supported row 
+ 3 x 8-12\, face pulls 2 x 12-15\, and rear delt fly or reverse pec-deck 2
+  x 15-20.\n- Leg maintenance: hip thrust or glute bridge 3 x 8-12\, leg e
+ xtension 2 x 12-15\, and seated or lying hamstring curl 2 x 10-15 at RPE 
+ 7.\n- Core volume: Pallof press 3 x 10 per side\, side plank 2 x 30 sec p
+ er side\, plank variations 2 x 30-45 sec\, hanging leg raises 2-3 sets\, 
+ weighted sit-ups 2 x 8-12\, and kettlebell side bend or around the head k
+ ettlebell 2 x 10. Arm top-up: tricep pulldown 2 x 10-15\, preacher curls 
+ 2 x 10-15\, and reverse curls 2 x 12-15. Temporary low-back recovery cons
+ traint: avoid loaded hinging and max-brace loading\; use machines or supp
+ orted positions where possible.\n\nFueling:\n- Hit daily macros\, keep pr
+ otein near target\, and place carbohydrates before and after training.\n\
+ nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints fee
+ l stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260801@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Bike Intervals + Ankle Rehab
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Protective chang
+ es from prior-month body-part feedback.\n- Reduced for prior-month recove
+ ry feedback.\n- Adjusted for temporary low-back recovery constraint.\n- R
+ eturn-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min easy movement\, joi
+ nt prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- Easy
+  bike warm-up: 10 min plus hip exercises with an elastic band\, shoulder 
+ prep\, and light mobility.\n- Bike intervals: 6 x 45 sec hard at RPE 7-8 
+ with 2 min easy spin\; no running\, hills\, jumps\, or strides.\n- Power 
+ substitute: med-ball slams 4 x 5 plus Pallof press 3 x 10 per side.\n- Fo
+ ot prep: foot-intrinsic activation\, short-foot / arch lifts\, isometric 
+ inversion and eversion\, sole-to-sole isometrics\, and banded eversion or
+  inversion within 0-2/10 symptoms.\n- Pain rule: progress only when sympt
+ oms stay 0-2/10 and the next morning is not worse.\n\nFueling:\n- Hit dai
+ ly macros\, keep protein near target\, and place carbohydrates before and
+  after training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mob
+ ility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260802@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Long Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Protective cha
+ nges from prior-month body-part feedback.\n- Reduced for prior-month reco
+ very feedback.\n- Adjusted for temporary low-back recovery constraint.\n-
+  Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min easy movement\, j
+ oint prep\, and 2-3 gradual ramp sets before loading.\n\nMain Work:\n- Bi
+ ke aerobic RPE 3-4: 45-60 min conversational\; keep cadence smooth and pr
+ essure through the whole foot.\n- Foot prep: foot-intrinsic activation\, 
+ short-foot / arch lifts\, isometric inversion and eversion\, sole-to-sole
+  isometrics\, and banded eversion or inversion within 0-2/10 symptoms.\n\
+ nOptional:\n- Optional walking stays short and flat\; skip fast walking\,
+  hills\, and long sloped surfaces.\n\nFueling:\n- keep carbs before and a
+ fter so size gain remains the main training priority.\n\nRecovery:\n- Sle
+ ep window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260803@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Upper Strength + Calisthenics Pull
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5-7 min easy bike\, band pull-aparts\, scap push-ups\, and 2 bench 
+ ramp sets.\n\nMain Work:\n- Progression: double progression\; add load on
+ ly after all sets reach the top of the range at RPE 6-7 or lower\, about 
+ 2 RIR. Temporary low-back recovery constraint: cap loaded work at RPE 6-7
+  and stop if symptoms rise. Return-to-impact ramp: progress only when sym
+ ptoms stay 0-2/10 and the next morning is not worse.\n- Bench press: top 
+ set 1 x 4-6 at RPE 6-7\, then 2 back-off sets x 5-7 at RPE 6-7.\n- Pull-u
+ ps: 4 x 4-8 at RPE 6-7 paired with chest-supported row 4 x 8-12 at RPE 6-
+ 7.\n- Overhead press or Arnold press: 3 x 6-10 at RPE 6-7 paired with inc
+ line dumbbell press or dumbbell press 2 x 8-10 at RPE 6-7.\n- Shoulder\, 
+ arm\, and core finisher: lateral raises 3 x 12-20\, preacher curls or ham
+ mer curls 2 x 10-15\, reverse curls 2 x 12-15\, Pallof press 3 x 10 per s
+ ide\, and side plank 2 x 30 sec per side. Temporary low-back recovery con
+ straint: avoid loaded hinging and max-brace loading\; use machines or sup
+ ported positions where possible.\n\nFueling:\n- Hit daily macros\, keep p
+ rotein near target\, and place carbohydrates before and after training.\n
+ \nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints fe
+ el stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260804@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Temporary 50% work
+ ing-load cap.\n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweight squa
+ ts\, and short-foot activation.\n\nMain Work:\n- Progression: double prog
+ ression\; add load only when knee tracking stays clean\, discomfort stays
+  0-2/10\, and top sets stay near RPE 6-7. Prior-month recovery feedback: 
+ reduce one back-off set and cap all compounds at RPE 6-7. Lower-body feed
+ back: trim one lower-body set\, stay 1-3 RIR\, and swap to the safest mac
+ hine or unilateral pattern if joints or back flare. Prior-month recovery 
+ feedback: reduce one back-off set and cap all compounds at RPE 6-7. Tempo
+ rary low-back recovery constraint: cap loaded work at RPE 6-7 and stop if
+  symptoms rise. Return-to-impact ramp: progress only when symptoms stay 0
+ -2/10 and the next morning is not worse.\n- Controlled hack squat or gobl
+ et squat: 3 x 6-10 at RPE 6-7\; stop if symptoms rise.\n- Back-friendly p
+ osterior chain: seated or lying leg curl 3 x 10-15 at RPE 6-7\, plus body
+ weight glute bridge 2 x 12 if symptom-free.\n- Leg extension: 3 x 12-15 a
+ t RPE 6-7 paired with front-foot elevated split squat 2-3 x 8-10 per leg 
+ at RPE 7.\n- Ankle tendon rehab: foot-intrinsic activation\, short-foot /
+  arch lifts\, isometric inversion and eversion\, sole-to-sole isometrics\
+ , and banded eversion or inversion within 0-2/10 symptoms.\n\nFueling:\n-
+  Hit daily macros\, keep protein near target\, and place carbohydrates be
+ fore and after training.\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
+  add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260805@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Easy Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
+  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
+ 0 km\nAdjustments:\n- Protective changes from prior-month body-part feedb
+ ack.\n- Reduced for prior-month recovery feedback.\n- Adjusted for tempor
+ ary low-back recovery constraint.\n- Return-to-impact loading ramp.\n\nWa
+ rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
+  before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 25-40 min convers
+ ational\; keep cadence smooth and pressure through the whole foot.\n- Foo
+ t prep: foot-intrinsic activation\, short-foot / arch lifts\, isometric i
+ nversion and eversion\, sole-to-sole isometrics\, and banded eversion or 
+ inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional walking stays 
+ short and flat\; skip fast walking\, hills\, and long sloped surfaces.\n\
+ nFueling:\n- keep carbs before and after so size gain remains the main tr
+ aining priority.\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mob
+ ility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260806@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5 min easy cardio\, shoulder prep\, light cable rows\, and scap pul
+ l-ups.\n\nMain Work:\n- Progression: double progression\; beat total qual
+ ity reps before adding load or a set\, keeping most work at RPE 6-7. Temp
+ orary low-back recovery constraint: cap loaded work at RPE 6-7 and stop i
+ f symptoms rise. Return-to-impact ramp: progress only when symptoms stay 
+ 0-2/10 and the next morning is not worse.\n- Pull-ups: 5 x 4-8 or 20-30 t
+ otal quality reps at RPE 6-7.\n- Dips or push-ups: 3 x 8-15 at RPE 6-7 pa
+ ired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 6-7.\n- Shoul
+ der and chest block: incline dumbbell press 2-3 x 8-12 at RPE 6-7 plus pe
+ c-deck 2 x 10-15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-20
+ .\n- Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg ra
+ ises 2-3 sets at RPE 6-7. Temporary low-back recovery constraint: avoid l
+ oaded hinging and max-brace loading\; use machines or supported positions
+  where possible.\n\nFueling:\n- Hit daily macros\, keep protein near targ
+ et\, and place carbohydrates before and after training.\n\nRecovery:\n- S
+ leep window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260807@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:Training Standby
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+SUMMARY:Legs + Delts Accessory
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5-6 min easy bike\, ankle rocks\, band pull-aparts\, and one ramp s
+ et for each pairing.\n\nMain Work:\n- Progression: keep this short and lo
+ w-fatigue\; stop 1-2 reps before failure and leave fresher than you arriv
+ ed. Lower-body feedback: trim one lower-body set\, stay 1-3 RIR\, and swa
+ p to the safest machine or unilateral pattern if joints or back flare. Pr
+ ior-month recovery feedback: reduce one back-off set and cap all compound
+ s at RPE 6-7. Temporary low-back recovery constraint: cap loaded work at 
+ RPE 6-7 and stop if symptoms rise. Return-to-impact ramp: progress only w
+ hen symptoms stay 0-2/10 and the next morning is not worse.\n- Leg extens
+ ion: 3 x 12-18 at RPE 6-7 paired with seated or lying hamstring curl 3 x 
+ 10-15 at RPE 6-7.\n- Ankle tendon rehab: foot-intrinsic activation\, shor
+ t-foot / arch lifts\, isometric inversion and eversion\, sole-to-sole iso
+ metrics\, and banded eversion or inversion within 0-2/10 symptoms.\n- Rea
+ r delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 6-7\; if time is tight
+ \, complete the first 3 exercises and leave.\n- Chest/back/core top-up: p
+ ush-ups 2 x clean reps\, dips 2 x 6-10\, cable row 2 x 10-12\, face pulls
+  2 x 12-15\, Pallof press 3 x 10 per side\, plank variations 2 x 30-45 se
+ c\, kettlebell side bend 2 x 10-12\, around the head kettlebell 2 x 8 eac
+ h way\, and weighted sit-ups 2 x 8-12. Temporary low-back recovery constr
+ aint: avoid loaded hinging and max-brace loading\; use machines or suppor
+ ted positions where possible.\n\nFueling:\n- Hit daily macros\, keep prot
+ ein near target\, and place carbohydrates before and after training.\n\nR
+ ecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel 
+ stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260808@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:Training Standby
+SUMMARY:Recovery + Sprint Preparation
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+ most carbs around activity.\nCategory: recovery\nRun volume: 0 km\nAdjust
+ ments:\n- Reduced for prior-month recovery feedback.\n- Adjusted for temp
+ orary low-back recovery constraint.\n- Return-to-impact loading ramp.\n\n
+ Warm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp se
+ ts before loading.\n\nMain Work:\n- Sprint preparation: A-skips\, ankling
+ \, and 3 relaxed buildups only if knees feel quiet.\n\nFueling:\n- add ca
+ rbohydrates before and after training until bodyweight and performance st
+ abilize.\n\nRecovery:\n- 30-45 min walk or easy bike\; skip sprinting thi
+ s exposure.\n- hips\, calves\, quads\, and ankles for 10-12 min.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260809@training-calendar
-DTSTAMP:20260710T163200Z
-LAST-MODIFIED:20260710T163200Z
-SEQUENCE:1783701120
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:Training Standby
+SUMMARY:Long Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Protective cha
+ nges from prior-month body-part feedback.\n- Reduced for prior-month reco
+ very feedback.\n- Back-friendly loading ramp.\n- Return-to-impact loading
+  ramp.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradu
+ al ramp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60
+  min conversational\; keep cadence smooth and pressure through the whole 
+ foot.\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\,
+  isometric inversion and eversion\, sole-to-sole isometrics\, and banded 
+ eversion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional wa
+ lking stays short and flat\; skip fast walking\, hills\, and long sloped 
+ surfaces.\n\nFueling:\n- keep carbs before and after so size gain remains
+  the main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:
+ 00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260810@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Full-Body Athletic Strength
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Temporary 50% work
+ ing-load cap.\n\nWarm-Up:\n- 7 min easy cardio\, squat-to-stand\, band pu
+ ll-aparts\, push-ups\, and hinge ramp sets.\n\nMain Work:\n- Progression:
+  double progression\; add load only when presses\, hinges\, and pulls are
+  all stable at RPE 8 or lower. Prior-month recovery feedback: reduce one 
+ back-off set and cap all compounds at RPE 7-8. Lower-body feedback: trim 
+ one lower-body set\, stay 1-3 RIR\, and swap to the safest machine or uni
+ lateral pattern if joints or back flare. Prior-month recovery feedback: r
+ educe one back-off set and cap all compounds at RPE 7-8. Low-back ramp: s
+ tart lightly and add load only when the next morning is symptom-free. Ret
+ urn-to-impact ramp: progress only when symptoms stay 0-2/10 and the next 
+ morning is not worse.\n- Incline press\, shoulder press\, or bench press:
+  top set 1 x 6-8 at RPE 8\, then 2-3 back-off sets x 8-10 at RPE 7-8.\n- 
+ Back-friendly posterior chain: hip thrust\, glute bridge\, or leg curl 3 
+ x 8-12 at RPE 6-7\; skip loaded hinges and back-extension work\; start li
+ ghtly.\n- Pull-ups or chest-supported rows: 4 x 6-10 at RPE 8 paired with
+  front-foot elevated split squat or hack squat 3 x 8-10 per leg at RPE 8.
+ \n- Shoulder\, trap\, and quad finisher: lateral raises 2-3 x 15-20\, dum
+ bbell trap raise 2 x 12-15\, leg extension 2 x 12-15\, then weighted sit-
+ ups 2 x 8-12. Low-back ramp: skip loaded hinges and back-extension work\;
+  start lightly and keep supported posterior-chain work pain-free.\n\nFuel
+ ing:\n- Hit daily macros\, keep protein near target\, and place carbohydr
+ ates before and after training.\n\nRecovery:\n- Sleep window stays 22:00-
+ 06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260811@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:Easy Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
+  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
+ 0 km\nAdjustments:\n- Protective changes from prior-month body-part feedb
+ ack.\n- Reduced for prior-month recovery feedback.\n- Back-friendly loadi
+ ng ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min easy m
+ ovement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMain 
+ Work:\n- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cadence sm
+ ooth and pressure through the whole foot.\n- Foot prep: foot-intrinsic ac
+ tivation\, short-foot / arch lifts\, isometric inversion and eversion\, s
+ ole-to-sole isometrics\, and banded eversion or inversion within 0-2/10 s
+ ymptoms.\n\nOptional:\n- Optional walking stays short and flat\; skip fas
+ t walking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep carbs b
+ efore and after so size gain remains the main training priority.\n\nRecov
+ ery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stif
+ f.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260812@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Lower Hypertrophy + Posterior Chain
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Temporary 50% work
+ ing-load cap.\n\nWarm-Up:\n- 7-8 min bike\, split squat isometric holds\,
+  ankle rocks\, and hinge ramp sets.\n\nMain Work:\n- Progression: double 
+ progression\; add load only when tempo and knee control stay stable at RP
+ E 8 or lower. Prior-month recovery feedback: reduce one back-off set and 
+ cap all compounds at RPE 7-8. Lower-body feedback: trim one lower-body se
+ t\, stay 1-3 RIR\, and swap to the safest machine or unilateral pattern i
+ f joints or back flare. Prior-month recovery feedback: reduce one back-of
+ f set and cap all compounds at RPE 7-8. Low-back ramp: start lightly and 
+ add load only when the next morning is symptom-free. Return-to-impact ram
+ p: progress only when symptoms stay 0-2/10 and the next morning is not wo
+ rse.\n- Bulgarian split squat or front-foot elevated split squat: 4 x 8-1
+ 0 per leg at RPE 7-8.\n- Back-friendly posterior chain: hip thrust\, glut
+ e bridge\, or leg curl 3 x 8-12 at RPE 6-7\; skip loaded hinges and back-
+ extension work\; start lightly.\n- Reverse Nordic curls: 2 x 6-10 at RPE 
+ 7 paired with leg extension 2 x 15-20 at RPE 8.\n- Ankle tendon rehab: fo
+ ot-intrinsic activation\, short-foot / arch lifts\, isometric inversion a
+ nd eversion\, sole-to-sole isometrics\, and banded eversion or inversion 
+ within 0-2/10 symptoms.\n\nFueling:\n- Hit daily macros\, keep protein ne
+ ar target\, and place carbohydrates before and after training.\n\nRecover
+ y:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260813@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Easy Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
+  then 25-35 g protein plus carbs after.\nCategory: gym\nRun volume: 0 km\
+ nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-Up:\n- 5-10 min 
+ easy movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\
+ nMain Work:\n- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cade
+ nce smooth and pressure through the whole foot.\n- Foot prep: foot-intrin
+ sic activation\, short-foot / arch lifts\, isometric inversion and eversi
+ on\, sole-to-sole isometrics\, and banded eversion or inversion within 0-
+ 2/10 symptoms.\n\nOptional:\n- Optional walking stays short and flat\; sk
+ ip fast walking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep c
+ arbs before and after so size gain remains the main training priority.\n\
+ nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints fee
+ l stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260814@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Core + Chest/Back Strength Capacity
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5 min easy bike\, shoulder prep\, thoracic mobility\, hip openers\,
+  and two light press/row ramp sets.\n\nMain Work:\n- Progression: this is
+  the eighth strength day in the 14-day wave\; cap work at RPE 7-8\, use s
+ upersets\, and trim accessories before anchor work if recovery dips. Low-
+ back ramp: start lightly and add load only when the next morning is sympt
+ om-free. Return-to-impact ramp: progress only when symptoms stay 0-2/10 a
+ nd the next morning is not worse.\n- Chest volume: bench press 3 x 6-8\, 
+ incline dumbbell press 3 x 8-10\, dumbbell press 2 x 8-10\, pec-deck 2 x 
+ 12-15\, dips 2 x 6-10\, and push-ups 2 x clean reps.\n- Back volume: lat 
+ pulldown or pull-ups 3 x 8-12\, cable row or chest-supported row 3 x 8-12
+ \, face pulls 2 x 12-15\, and rear delt fly or reverse pec-deck 2 x 15-20
+ .\n- Leg maintenance: hip thrust or glute bridge 3 x 8-12\, leg extension
+  2 x 12-15\, and seated or lying hamstring curl 2 x 10-15 at RPE 7.\n- Co
+ re volume: Pallof press 3 x 10 per side\, side plank 2 x 30 sec per side\
+ , plank variations 2 x 30-45 sec\, hanging leg raises 2-3 sets\, weighted
+  sit-ups 2 x 8-12\, and kettlebell side bend or around the head kettlebel
+ l 2 x 10. Arm top-up: tricep pulldown 2 x 10-15\, preacher curls 2 x 10-1
+ 5\, and reverse curls 2 x 12-15. Low-back ramp: skip loaded hinges and ba
+ ck-extension work\; start lightly and keep supported posterior-chain work
+  pain-free.\n\nFueling:\n- Hit daily macros\, keep protein near target\, 
+ and place carbohydrates before and after training.\n\nRecovery:\n- Sleep 
+ window stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260815@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Bike Intervals + Ankle Rehab
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: sprint\nRun volume: 0 km\nAdjustments:\n- Protective chang
+ es from prior-month body-part feedback.\n- Reduced for prior-month recove
+ ry feedback.\n- Back-friendly loading ramp.\n- Return-to-impact loading r
+ amp.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual
+  ramp sets before loading.\n\nMain Work:\n- Easy bike warm-up: 10 min plu
+ s hip exercises with an elastic band\, shoulder prep\, and light mobility
+ .\n- Bike intervals: 6 x 45 sec hard at RPE 7-8 with 2 min easy spin\; no
+  running\, hills\, jumps\, or strides.\n- Power substitute: med-ball slam
+ s 4 x 5 plus Pallof press 3 x 10 per side.\n- Foot prep: foot-intrinsic a
+ ctivation\, short-foot / arch lifts\, isometric inversion and eversion\, 
+ sole-to-sole isometrics\, and banded eversion or inversion within 0-2/10 
+ symptoms.\n- Pain rule: progress only when symptoms stay 0-2/10 and the n
+ ext morning is not worse.\n\nFueling:\n- Hit daily macros\, keep protein 
+ near target\, and place carbohydrates before and after training.\n\nRecov
+ ery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stif
+ f.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260816@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Long Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before the bike s
+ ession\, 25-35 g protein after\, and another carb-heavy meal within 2 hou
+ rs.\nCategory: long_run\nRun volume: 0 km\nAdjustments:\n- Protective cha
+ nges from prior-month body-part feedback.\n- Reduced for prior-month reco
+ very feedback.\n- Back-friendly loading ramp.\n- Return-to-impact loading
+  ramp.\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradu
+ al ramp sets before loading.\n\nMain Work:\n- Bike aerobic RPE 3-4: 45-60
+  min conversational\; keep cadence smooth and pressure through the whole 
+ foot.\n- Foot prep: foot-intrinsic activation\, short-foot / arch lifts\,
+  isometric inversion and eversion\, sole-to-sole isometrics\, and banded 
+ eversion or inversion within 0-2/10 symptoms.\n\nOptional:\n- Optional wa
+ lking stays short and flat\; skip fast walking\, hills\, and long sloped 
+ surfaces.\n\nFueling:\n- keep carbs before and after so size gain remains
+  the main training priority.\n\nRecovery:\n- Sleep window stays 22:00-06:
+ 00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260817@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Upper Strength + Calisthenics Pull
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5-7 min easy bike\, band pull-aparts\, scap push-ups\, and 2 bench 
+ ramp sets.\n\nMain Work:\n- Progression: double progression\; add load on
+ ly after all sets reach the top of the range at RPE 8 or lower\, about 2 
+ RIR. Low-back ramp: start lightly and add load only when the next morning
+  is symptom-free. Return-to-impact ramp: progress only when symptoms stay
+  0-2/10 and the next morning is not worse.\n- Bench press: top set 1 x 4-
+ 6 at RPE 8\, then 2 back-off sets x 5-7 at RPE 7-8.\n- Pull-ups: 4 x 4-8 
+ at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.\n- Overhead p
+ ress or Arnold press: 3 x 6-10 at RPE 8 paired with incline dumbbell pres
+ s or dumbbell press 2 x 8-10 at RPE 8.\n- Shoulder\, arm\, and core finis
+ her: lateral raises 3 x 12-20\, preacher curls or hammer curls 2 x 10-15\
+ , reverse curls 2 x 12-15\, Pallof press 3 x 10 per side\, and side plank
+  2 x 30 sec per side. Low-back ramp: skip loaded hinges and back-extensio
+ n work\; start lightly and keep supported posterior-chain work pain-free.
+ \n\nFueling:\n- Hit daily macros\, keep protein near target\, and place c
+ arbohydrates before and after training.\n\nRecovery:\n- Sleep window stay
+ s 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260818@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Lower Strength + Knee Capacity
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\nAdjustments:\n- Temporary 50% work
+ ing-load cap.\n\nWarm-Up:\n- 7-8 min bike\, ankle rocks\, bodyweight squa
+ ts\, and short-foot activation.\n\nMain Work:\n- Progression: double prog
+ ression\; add load only when knee tracking stays clean\, discomfort stays
+  0-2/10\, and top sets stay near RPE 8. Prior-month recovery feedback: re
+ duce one back-off set and cap all compounds at RPE 7-8. Lower-body feedba
+ ck: trim one lower-body set\, stay 1-3 RIR\, and swap to the safest machi
+ ne or unilateral pattern if joints or back flare. Prior-month recovery fe
+ edback: reduce one back-off set and cap all compounds at RPE 7-8. Low-bac
+ k ramp: start lightly and add load only when the next morning is symptom-
+ free. Return-to-impact ramp: progress only when symptoms stay 0-2/10 and 
+ the next morning is not worse.\n- Hack squat or goblet squat: top set 1 x
+  6-8 at RPE 8\, then 2 back-off sets x 8-10 at RPE 7-8.\n- Back-friendly 
+ posterior chain: hip thrust\, glute bridge\, or leg curl 3 x 8-12 at RPE 
+ 6-7\; skip loaded hinges and back-extension work\; start lightly.\n- Leg 
+ extension: 3 x 12-15 at RPE 8 paired with front-foot elevated split squat
+  2-3 x 8-10 per leg at RPE 7.\n- Ankle tendon rehab: foot-intrinsic activ
+ ation\, short-foot / arch lifts\, isometric inversion and eversion\, sole
+ -to-sole isometrics\, and banded eversion or inversion within 0-2/10 symp
+ toms.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
+ ace carbohydrates before and after training.\n\nRecovery:\n- Sleep window
+  stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260819@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Easy Bike Aerobic Substitute
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before the bike session\,
+  then 25-35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 
+ 0 km\nAdjustments:\n- Protective changes from prior-month body-part feedb
+ ack.\n- Reduced for prior-month recovery feedback.\n- Back-friendly loadi
+ ng ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min easy m
+ ovement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMain 
+ Work:\n- Bike aerobic RPE 3-4: 25-40 min conversational\; keep cadence sm
+ ooth and pressure through the whole foot.\n- Foot prep: foot-intrinsic ac
+ tivation\, short-foot / arch lifts\, isometric inversion and eversion\, s
+ ole-to-sole isometrics\, and banded eversion or inversion within 0-2/10 s
+ ymptoms.\n\nOptional:\n- Optional walking stays short and flat\; skip fas
+ t walking\, hills\, and long sloped surfaces.\n\nFueling:\n- keep carbs b
+ efore and after so size gain remains the main training priority.\n\nRecov
+ ery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stif
+ f.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260820@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5 min easy cardio\, shoulder prep\, light cable rows\, and scap pul
+ l-ups.\n\nMain Work:\n- Progression: double progression\; beat total qual
+ ity reps before adding load or a set\, keeping most work at RPE 8-9. Low-
+ back ramp: start lightly and add load only when the next morning is sympt
+ om-free. Return-to-impact ramp: progress only when symptoms stay 0-2/10 a
+ nd the next morning is not worse.\n- Pull-ups: 5 x 4-8 or 20-30 total qua
+ lity reps at RPE 8.\n- Dips or push-ups: 3 x 8-15 at RPE 8-9 paired with 
+ one-arm dumbbell row or cable row 3 x 8-12 at RPE 8.\n- Shoulder and ches
+ t block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-
+ 15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-20.\n- Arm and c
+ ore finisher: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets 
+ at RPE 8. Low-back ramp: skip loaded hinges and back-extension work\; sta
+ rt lightly and keep supported posterior-chain work pain-free.\n\nFueling:
+ \n- Hit daily macros\, keep protein near target\, and place carbohydrates
+  before and after training.\n\nRecovery:\n- Sleep window stays 22:00-06:0
+ 0\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260821@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Legs + Delts Accessory
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\nAdjustments:\n- Temporary 50% working-load cap.\n\nWarm-U
+ p:\n- 5-6 min easy bike\, ankle rocks\, band pull-aparts\, and one ramp s
+ et for each pairing.\n\nMain Work:\n- Progression: keep this short and lo
+ w-fatigue\; stop 1-2 reps before failure and leave fresher than you arriv
+ ed. Lower-body feedback: trim one lower-body set\, stay 1-3 RIR\, and swa
+ p to the safest machine or unilateral pattern if joints or back flare. Pr
+ ior-month recovery feedback: reduce one back-off set and cap all compound
+ s at RPE 7-8. Low-back ramp: start lightly and add load only when the nex
+ t morning is symptom-free. Return-to-impact ramp: progress only when symp
+ toms stay 0-2/10 and the next morning is not worse.\n- Leg extension: 3 x
+  12-18 at RPE 8 paired with seated or lying hamstring curl 3 x 10-15 at R
+ PE 8.\n- Ankle tendon rehab: foot-intrinsic activation\, short-foot / arc
+ h lifts\, isometric inversion and eversion\, sole-to-sole isometrics\, an
+ d banded eversion or inversion within 0-2/10 symptoms.\n- Rear delt fly o
+ r reverse pec-deck: 2-3 x 15-20 at RPE 8\; if time is tight\, complete th
+ e first 3 exercises and leave.\n- Chest/back/core top-up: push-ups 2 x cl
+ ean reps\, dips 2 x 6-10\, cable row 2 x 10-12\, face pulls 2 x 12-15\, P
+ allof press 3 x 10 per side\, plank variations 2 x 30-45 sec\, kettlebell
+  side bend 2 x 10-12\, around the head kettlebell 2 x 8 each way\, and we
+ ighted sit-ups 2 x 8-12. Low-back ramp: skip loaded hinges and back-exten
+ sion work\; start lightly and keep supported posterior-chain work pain-fr
+ ee.\n\nFueling:\n- Hit daily macros\, keep protein near target\, and plac
+ e carbohydrates before and after training.\n\nRecovery:\n- Sleep window s
+ tays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260822@training-calendar
+DTSTAMP:20260726T092249Z
+LAST-MODIFIED:20260726T092249Z
+SEQUENCE:1785057769
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Recovery + Sprint Preparation
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: standby\nRun volume: 0 km\nAdjustm
- ents:\n- Back-friendly loading ramp.\n- Adjusted for recovery standby.\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\nMain Work:\n- Standby: no planned workout or loade
- d conditioning today.\n- Return rule: keep this placeholder until standby
-  is explicitly cleared\, then resume through the return-to-training ramp 
- instead of jumping back to prior workload.\n- Nutrition: keep protein con
- sistent\, match carbohydrates to reduced activity\, hydrate normally\, an
- d keep sleep the priority.\n\nFueling:\n- Hit daily macros\, keep protein
-  near target\, and place carbohydrates before and after training.\n\nReco
- very:\n- easy daily movement and gentle mobility only if they stay comfor
- table and do not change normal movement.
+ most carbs around activity.\nCategory: recovery\nRun volume: 0 km\nAdjust
+ ments:\n- Reduced for prior-month recovery feedback.\n- Back-friendly loa
+ ding ramp.\n- Return-to-impact loading ramp.\n\nWarm-Up:\n- 5-10 min easy
+  movement\, joint prep\, and 2-3 gradual ramp sets before loading.\n\nMai
+ n Work:\n- Sprint preparation: A-skips\, ankling\, and 3 relaxed buildups
+  only if knees feel quiet.\n\nFueling:\n- add carbohydrates before and af
+ ter training until bodyweight and performance stabilize.\n\nRecovery:\n- 
+ 30-45 min walk or easy bike\; skip sprinting this exposure.\n- hips\, cal
+ ves\, quads\, and ankles for 10-12 min.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
