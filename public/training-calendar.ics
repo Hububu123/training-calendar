@@ -7,9 +7,9 @@ X-WR-CALNAME:Hubert Training
 X-WR-TIMEZONE:Europe/Copenhagen
 BEGIN:VEVENT
 UID:hubert-training-20260810@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
 SUMMARY:Full-Body Athletic Strength
@@ -18,27 +18,27 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 7 min easy cardio\
  , squat-to-stand\, band pull-aparts\, push-ups\, and hinge ramp sets.\n\n
- \nMain Work:\n- Progression: double progression\; add load only when pres
- ses\, hinges\, and pulls are all stable at RPE 8 or lower.\n- Incline pre
- ss\, shoulder press\, or bench press: top set 1 x 6-8 at RPE 8\, then 2-3
-  back-off sets x 8-10 at RPE 7-8.\n- Trap-bar deadlift or Romanian deadli
- ft: 2-3 x 5-6 at RPE 7-8\, leave 2-3 RIR.\n- Pull-ups or chest-supported 
- rows: 4 x 6-10 at RPE 8 paired with front-foot elevated split squat or ha
- ck squat 3 x 8-10 per leg at RPE 8.\n- Shoulder\, trap\, and quad finishe
- r: lateral raises 2-3 x 15-20\, dumbbell trap raise 2 x 12-15\, leg exten
- sion 2 x 12-15\, then weighted sit-ups 2 x 8-12.\n- Activation: light goo
- d mornings: 2 x 12-15 at RPE 5-6 using no more than 50% of normal working
-  load\; stop if symptoms rise or the next morning is worse.\n\n\nFueling:
- \n- Hit daily macros\, keep protein near target\, and place carbohydrates
-  before and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06
- :00\; add mobility if joints feel stiff.
+ \nMain Work:\n- Incline press\, shoulder press\, or bench press: top set 
+ 1 x 6-8 at RPE 8\, then 2-3 back-off sets x 8-10 at RPE 7-8.\n- Trap-bar 
+ deadlift or Romanian deadlift: 2-3 x 5-6 at RPE 7-8\, leave 2-3 RIR.\n- P
+ ull-ups or chest-supported rows: 4 x 6-10 at RPE 8 paired with front-foot
+  elevated split squat or hack squat 3 x 8-10 per leg at RPE 8.\n- Shoulde
+ r\, trap\, and quad finisher: lateral raises 2-3 x 15-20\, dumbbell trap 
+ raise 2 x 12-15\, leg extension 2 x 12-15\, then weighted sit-ups 2 x 8-1
+ 2.\n- Activation: light good mornings: 2 x 12-15 at RPE 5-6 using no more
+  than 50% of normal working load\; stop if symptoms rise or the next morn
+ ing is worse.\n\n\nFueling:\n- Hit daily macros\, keep protein near targe
+ t\, and place carbohydrates before and after training.\n\n\nRecovery:\n- 
+ Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\n
+ Progression & Guardrails:\n- Progression: double progression\; add load o
+ nly when presses\, hinges\, and pulls are all stable at RPE 8 or lower.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260811@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:Easy Run + Relaxed Strides
@@ -55,9 +55,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260812@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Lower Hypertrophy + Posterior Chain
@@ -66,26 +66,26 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 7-8 min bike\, spl
  it squat isometric holds\, ankle rocks\, and hinge ramp sets.\n\n\nMain W
- ork:\n- Progression: double progression\; add load only when tempo and kn
- ee control stay stable at RPE 8 or lower.\n- Bulgarian split squat or fro
- nt-foot elevated split squat: 4 x 8-10 per leg at RPE 7-8.\n- Romanian de
- adlift: 3 x 8 at RPE 7-8 paired with leg press or hack squat 3 x 10-15 at
-  RPE 8.\n- Walking lunges with dumbbells: 2-3 x 12 steps per leg at RPE 7
-  paired with reverse Nordic curls 2 x 6-10 at RPE 7 and leg extension 2 x
-  15-20 at RPE 8.\n- Core finisher: calf raises plus Copenhagen plank 2-3 
- sets each at RPE 7.\n- Activation: weighted hyperextensions: 2 x 10-15 at
-  RPE 5-6 using no more than 50% of normal working load\; stop if symptoms
-  rise or the next morning is worse.\n\n\nFueling:\n- Hit daily macros\, k
- eep protein near target\, and place carbohydrates before and after traini
- ng.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if jo
- ints feel stiff.
+ ork:\n- Bulgarian split squat or front-foot elevated split squat: 4 x 8-1
+ 0 per leg at RPE 7-8.\n- Romanian deadlift: 3 x 8 at RPE 7-8 paired with 
+ leg press or hack squat 3 x 10-15 at RPE 8.\n- Walking lunges with dumbbe
+ lls: 2-3 x 12 steps per leg at RPE 7 paired with reverse Nordic curls 2 x
+  6-10 at RPE 7 and leg extension 2 x 15-20 at RPE 8.\n- Core finisher: ca
+ lf raises plus Copenhagen plank 2-3 sets each at RPE 7.\n- Activation: we
+ ighted hyperextensions: 2 x 10-15 at RPE 5-6 using no more than 50% of no
+ rmal working load\; stop if symptoms rise or the next morning is worse.\n
+ \n\nFueling:\n- Hit daily macros\, keep protein near target\, and place c
+ arbohydrates before and after training.\n\n\nRecovery:\n- Sleep window st
+ ays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & G
+ uardrails:\n- Progression: double progression\; add load only when tempo 
+ and knee control stay stable at RPE 8 or lower.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260813@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Upper Hypertrophy + Shoulders / Upper Back
@@ -93,26 +93,26 @@ DESCRIPTION:Overview:\nMacros: 3550 kcal\, 175 g protein\, 525 g carbs\, 9
  5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
  35 g protein plus carbs after.\nCategory: gym\nRun volume: 4 km\n\n\nWarm
  -Up:\n- 5 min easy cardio\, shoulder prep\, light rows\, and thoracic mob
- ility.\n\n\nMain Work:\n- Progression: double progression\; add reps befo
- re load and keep the whole session capped around RPE 8.\n- Chest-supporte
- d row\, cable row\, Pendlay row\, or barbell row: 4 x 8-12 at RPE 8 paire
- d with dumbbell or machine shoulder press 3 x 8-10 at RPE 8.\n- Lat pull-
- down or pull-ups: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-
- 3 x 8-12 at RPE 8.\n- Shoulder and upper back finisher: lateral raises 3 
- x 15-20\, rear delt fly or reverse pec-deck 3 x 15-20\, face pulls 2 x 12
- -15\, and dumbbell rotator cuff work.\n- Easy run RPE 3-4: 3-4 km convers
- ational only if legs feel normal\; otherwise walk 20-30 min.\n\n\nRun:\n-
-  Planned running volume: 4 km.\n\n\nFueling:\n- Hit daily macros\, keep p
- rotein near target\, and place carbohydrates before and after training.\n
- \n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints 
- feel stiff.
+ ility.\n\n\nMain Work:\n- Chest-supported row\, cable row\, Pendlay row\,
+  or barbell row: 4 x 8-12 at RPE 8 paired with dumbbell or machine should
+ er press 3 x 8-10 at RPE 8.\n- Lat pull-down or pull-ups: 3 x 8-12 at RPE
+  8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.\n- Shoulder an
+ d upper back finisher: lateral raises 3 x 15-20\, rear delt fly or revers
+ e pec-deck 3 x 15-20\, face pulls 2 x 12-15\, and dumbbell rotator cuff w
+ ork.\n- Easy run RPE 3-4: 3-4 km conversational only if legs feel normal\
+ ; otherwise walk 20-30 min.\n\n\nRun:\n- Planned running volume: 4 km.\n\
+ n\nFueling:\n- Hit daily macros\, keep protein near target\, and place ca
+ rbohydrates before and after training.\n\n\nRecovery:\n- Sleep window sta
+ ys 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & Gu
+ ardrails:\n- Progression: double progression\; add reps before load and k
+ eep the whole session capped around RPE 8.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260814@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Core + Chest/Back Strength Capacity
@@ -121,28 +121,29 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5 min easy bike\, shoulder prep\, thoraci
  c mobility\, hip openers\, and two light press/row ramp sets.\n\n\nMain W
- ork:\n- Progression: this is the eighth strength day in the 14-day wave\;
-  cap work at RPE 7-8\, use supersets\, and trim accessories before anchor
-  work if recovery dips.\n- Chest volume: bench press 3 x 6-8\, incline du
- mbbell press 3 x 8-10\, dumbbell press 2 x 8-10\, pec-deck 2 x 12-15\, di
- ps 2 x 6-10\, and push-ups 2 x clean reps.\n- Back volume: lat pulldown o
- r pull-ups 3 x 8-12\, cable row or chest-supported row 3 x 8-12\, face pu
- lls 2 x 12-15\, and rear delt fly or reverse pec-deck 2 x 15-20.\n- Leg m
- aintenance: hip thrust or glute bridge 3 x 8-12\, leg extension 2 x 12-15
- \, and seated or lying hamstring curl 2 x 10-15 at RPE 7.\n- Core volume:
-  Pallof press 3 x 10 per side\, side plank 2 x 30 sec per side\, plank va
- riations 2 x 30-45 sec\, hanging leg raises 2-3 sets\, weighted sit-ups 2
-  x 8-12\, and kettlebell side bend or around the head kettlebell 2 x 10.\
- n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
- carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window s
- tays 22:00-06:00\; add mobility if joints feel stiff.
+ ork:\n- Chest volume: bench press 3 x 6-8\, incline dumbbell press 3 x 8-
+ 10\, dumbbell press 2 x 8-10\, pec-deck 2 x 12-15\, dips 2 x 6-10\, and p
+ ush-ups 2 x clean reps.\n- Back volume: lat pulldown or pull-ups 3 x 8-12
+ \, cable row or chest-supported row 3 x 8-12\, face pulls 2 x 12-15\, and
+  rear delt fly or reverse pec-deck 2 x 15-20.\n- Leg maintenance: hip thr
+ ust or glute bridge 3 x 8-12\, leg extension 2 x 12-15\, and seated or ly
+ ing hamstring curl 2 x 10-15 at RPE 7.\n- Core volume: Pallof press 3 x 1
+ 0 per side\, side plank 2 x 30 sec per side\, plank variations 2 x 30-45 
+ sec\, hanging leg raises 2-3 sets\, weighted sit-ups 2 x 8-12\, and kettl
+ ebell side bend or around the head kettlebell 2 x 10.\n\n\nFueling:\n- Hi
+ t daily macros\, keep protein near target\, and place carbohydrates befor
+ e and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; 
+ add mobility if joints feel stiff.\n\n\nProgression & Guardrails:\n- Prog
+ ression: this is the eighth strength day in the 14-day wave\; cap work at
+  RPE 7-8\, use supersets\, and trim accessories before anchor work if rec
+ overy dips.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260815@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Plyometrics + Functional Power
@@ -150,24 +151,24 @@ DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
  00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
  25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
  gory: sprint\nRun volume: 3 km\n\n\nWarm-Up:\n- 10 min easy plus skips\, 
- ankling\, hip openers\, and 3 relaxed strides.\n\n\nMain Work:\n- Progres
- sion: add power volume only when jumps stay crisp and knees stay quiet th
- e next day\; sprint RPE 7-8.\n- Plyometrics: pogos 3 x 20 sec\, low broad
-  jumps 4 x 2\, and med-ball slams 4 x 5 at crisp RPE 6-7 if available.\n-
-  Hill sprint technique: 4-6 x 8-10 sec at sprint RPE 7-8.\n- Functional w
- ork: sled push if easy to set up or farmer carries 4 x 30 m at RPE 7.\n- 
- Core: side plank 2 x 30 sec per side or Pallof press 3 x 10 per side.\n\n
- \nRun:\n- Planned running volume: 3 km.\n\n\nFueling:\n- Hit daily macros
- \, keep protein near target\, and place carbohydrates before and after tr
- aining.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility i
- f joints feel stiff.
+ ankling\, hip openers\, and 3 relaxed strides.\n\n\nMain Work:\n- Plyomet
+ rics: pogos 3 x 20 sec\, low broad jumps 4 x 2\, and med-ball slams 4 x 5
+  at crisp RPE 6-7 if available.\n- Hill sprint technique: 4-6 x 8-10 sec 
+ at sprint RPE 7-8.\n- Functional work: sled push if easy to set up or far
+ mer carries 4 x 30 m at RPE 7.\n- Core: side plank 2 x 30 sec per side or
+  Pallof press 3 x 10 per side.\n\n\nRun:\n- Planned running volume: 3 km.
+ \n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place
+  carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window 
+ stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression &
+  Guardrails:\n- Progression: add power volume only when jumps stay crisp 
+ and knees stay quiet the next day\; sprint RPE 7-8.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260816@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:Aerobic Base + Reset
@@ -186,9 +187,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260817@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -196,25 +197,25 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\, sc
- ap push-ups\, and 2 bench ramp sets.\n\n\nMain Work:\n- Progression: doub
- le progression\; add load only after all sets reach the top of the range 
- at RPE 8 or lower\, about 2 RIR.\n- Bench press: top set 1 x 4-6 at RPE 8
- \, then 2 back-off sets x 5-7 at RPE 7-8.\n- Pull-ups: 4 x 4-8 at RPE 8 p
- aired with chest-supported row 4 x 8-12 at RPE 8.\n- Overhead press or Ar
- nold press: 3 x 6-10 at RPE 8 paired with incline dumbbell press or dumbb
- ell press 2 x 8-10 at RPE 8.\n- Shoulder and arm finisher: lateral raises
-  3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m\, preacher curls or h
- ammer curls 2 x 10-15\, and reverse curls 2 x 12-15.\n\n\nFueling:\n- Hit
-  daily macros\, keep protein near target\, and place carbohydrates before
-  and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; a
- dd mobility if joints feel stiff.
+ ap push-ups\, and 2 bench ramp sets.\n\n\nMain Work:\n- Bench press: top 
+ set 1 x 4-6 at RPE 8\, then 2 back-off sets x 5-7 at RPE 7-8.\n- Pull-ups
+ : 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.\n- 
+ Overhead press or Arnold press: 3 x 6-10 at RPE 8 paired with incline dum
+ bbell press or dumbbell press 2 x 8-10 at RPE 8.\n- Shoulder and arm fini
+ sher: lateral raises 3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m\,
+  preacher curls or hammer curls 2 x 10-15\, and reverse curls 2 x 12-15.\
+ n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
+ carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window s
+ tays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & 
+ Guardrails:\n- Progression: double progression\; add load only after all 
+ sets reach the top of the range at RPE 8 or lower\, about 2 RIR.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260818@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:Lower Strength + Knee Capacity
@@ -223,23 +224,24 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 7-8 min bike\, ank
  le rocks\, bodyweight squats\, and short-foot activation.\n\n\nMain Work:
- \n- Progression: double progression\; add load only when knee tracking st
- ays clean\, discomfort stays 0-2/10\, and top sets stay near RPE 8.\n- Ha
- ck squat or goblet squat: top set 1 x 6-8 at RPE 8\, then 2 back-off sets
-  x 8-10 at RPE 7-8.\n- Romanian deadlift: 3 x 6-8 at RPE 7-8 with control
- led eccentrics.\n- Leg extension: 3 x 12-15 at RPE 8 paired with front-fo
- ot elevated split squat 2-3 x 8-10 per leg at RPE 7.\n- Core finisher: se
- ated calf raise plus tibialis raises 4 x 12-20 each at RPE 7\, then side 
- plank 2 x 30 sec.\n\n\nFueling:\n- Hit daily macros\, keep protein near t
- arget\, and place carbohydrates before and after training.\n\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+ \n- Hack squat or goblet squat: top set 1 x 6-8 at RPE 8\, then 2 back-of
+ f sets x 8-10 at RPE 7-8.\n- Romanian deadlift: 3 x 6-8 at RPE 7-8 with c
+ ontrolled eccentrics.\n- Leg extension: 3 x 12-15 at RPE 8 paired with fr
+ ont-foot elevated split squat 2-3 x 8-10 per leg at RPE 7.\n- Core finish
+ er: seated calf raise plus tibialis raises 4 x 12-20 each at RPE 7\, then
+  side plank 2 x 30 sec.\n\n\nFueling:\n- Hit daily macros\, keep protein 
+ near target\, and place carbohydrates before and after training.\n\n\nRec
+ overy:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel st
+ iff.\n\n\nProgression & Guardrails:\n- Progression: double progression\; 
+ add load only when knee tracking stays clean\, discomfort stays 0-2/10\, 
+ and top sets stay near RPE 8.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260819@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Recovery + Easy Zone 2
@@ -257,9 +259,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260820@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -267,24 +269,25 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, light
-  cable rows\, and scap pull-ups.\n\n\nMain Work:\n- Progression: double p
- rogression\; beat total quality reps before adding load or a set\, keepin
- g most work at RPE 8-9.\n- Pull-ups: 5 x 4-8 or 20-30 total quality reps 
- at RPE 8.\n- Dips or push-ups: 3 x 8-15 at RPE 8-9 paired with one-arm du
- mbbell row or cable row 3 x 8-12 at RPE 8.\n- Shoulder and chest block: i
- ncline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-15\, later
- al raises 3 x 15-20\, and rear delt fly 2 x 15-20.\n- Arm and core finish
- er: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 8.\
- n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
- carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window s
- tays 22:00-06:00\; add mobility if joints feel stiff.
+  cable rows\, and scap pull-ups.\n\n\nMain Work:\n- Pull-ups: 5 x 4-8 or 
+ 20-30 total quality reps at RPE 8.\n- Dips or push-ups: 3 x 8-15 at RPE 8
+ -9 paired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 8.\n- Sh
+ oulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus p
+ ec-deck 2 x 10-15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-2
+ 0.\n- Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg r
+ aises 2-3 sets at RPE 8.\n\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\n\nRe
+ covery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel s
+ tiff.\n\n\nProgression & Guardrails:\n- Progression: double progression\;
+  beat total quality reps before adding load or a set\, keeping most work 
+ at RPE 8-9.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260821@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Legs + Delts Accessory
@@ -292,27 +295,27 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5-6 min easy bike\, ankle rocks\, band pu
- ll-aparts\, and one ramp set for each pairing.\n\n\nMain Work:\n- Progres
- sion: keep this short and low-fatigue\; stop 1-2 reps before failure and 
- leave fresher than you arrived.\n- Leg extension: 3 x 12-18 at RPE 8 pair
- ed with seated or lying hamstring curl 3 x 10-15 at RPE 8.\n- Seated calf
-  raise: 3 x 10-15 at RPE 8 paired with lateral raises 3 x 15-25 at RPE 8.
- \n- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8\; if time is 
- tight\, complete the first 3 exercises and leave.\n- Chest/back/core top-
- up: push-ups 2 x clean reps\, dips 2 x 6-10\, cable row 2 x 10-12\, face 
- pulls 2 x 12-15\, Pallof press 3 x 10 per side\, plank variations 2 x 30-
- 45 sec\, kettlebell side bend 2 x 10-12\, around the head kettlebell 2 x 
- 8 each way\, and weighted sit-ups 2 x 8-12.\n\n\nFueling:\n- Hit daily ma
- cros\, keep protein near target\, and place carbohydrates before and afte
- r training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobili
- ty if joints feel stiff.
+ ll-aparts\, and one ramp set for each pairing.\n\n\nMain Work:\n- Leg ext
+ ension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x
+  10-15 at RPE 8.\n- Seated calf raise: 3 x 10-15 at RPE 8 paired with lat
+ eral raises 3 x 15-25 at RPE 8.\n- Rear delt fly or reverse pec-deck: 2-3
+  x 15-20 at RPE 8\; if time is tight\, complete the first 3 exercises and
+  leave.\n- Chest/back/core top-up: push-ups 2 x clean reps\, dips 2 x 6-1
+ 0\, cable row 2 x 10-12\, face pulls 2 x 12-15\, Pallof press 3 x 10 per 
+ side\, plank variations 2 x 30-45 sec\, kettlebell side bend 2 x 10-12\, 
+ around the head kettlebell 2 x 8 each way\, and weighted sit-ups 2 x 8-12
+ .\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and plac
+ e carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window
+  stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression 
+ & Guardrails:\n- Progression: keep this short and low-fatigue\; stop 1-2 
+ reps before failure and leave fresher than you arrived.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260822@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Plyometrics + Hill Sprint Technique
@@ -320,24 +323,24 @@ DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
  00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
  25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
  gory: sprint\nRun volume: 3 km\n\n\nWarm-Up:\n- 10-12 min easy plus leg s
- wings\, A-skips\, ankling\, and 3 relaxed strides.\n\n\nMain Work:\n- Pro
- gression: add sprint reps only when contacts stay snappy and knees stay q
- uiet the next day\; sprint RPE 7-8\, never max.\n- Plyometrics: pogos 3 x
-  20 sec\, snap-downs 3 x 5\, low broad jumps 3 x 3 at crisp RPE 6-7.\n- H
- ill sprints: 4 x 10-12 sec uphill at sprint RPE 7-8\; full walk-back reco
- very.\n- Stop the sprint set if mechanics get sloppy or knees feel sharp.
- \n\n\nOptional:\n- weighted sit-ups 2 x 8-12 and side plank 2 x 30 sec pe
- r side.\n\n\nRun:\n- Planned running volume: 3 km.\n\n\nFueling:\n- Hit d
- aily macros\, keep protein near target\, and place carbohydrates before a
- nd after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add
-  mobility if joints feel stiff.
+ wings\, A-skips\, ankling\, and 3 relaxed strides.\n\n\nMain Work:\n- Ply
+ ometrics: pogos 3 x 20 sec\, snap-downs 3 x 5\, low broad jumps 3 x 3 at 
+ crisp RPE 6-7.\n- Hill sprints: 4 x 10-12 sec uphill at sprint RPE 7-8\; 
+ full walk-back recovery.\n- Stop the sprint set if mechanics get sloppy o
+ r knees feel sharp.\n\n\nOptional:\n- weighted sit-ups 2 x 8-12 and side 
+ plank 2 x 30 sec per side.\n\n\nRun:\n- Planned running volume: 3 km.\n\n
+ \nFueling:\n- Hit daily macros\, keep protein near target\, and place car
+ bohydrates before and after training.\n\n\nRecovery:\n- Sleep window stay
+ s 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & Gua
+ rdrails:\n- Progression: add sprint reps only when contacts stay snappy a
+ nd knees stay quiet the next day\; sprint RPE 7-8\, never max.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260823@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Easy Longer Aerobic Run
@@ -356,9 +359,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260824@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:Full-Body Athletic Strength
@@ -367,27 +370,27 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 7 min easy cardio\
  , squat-to-stand\, band pull-aparts\, push-ups\, and hinge ramp sets.\n\n
- \nMain Work:\n- Progression: double progression\; add load only when pres
- ses\, hinges\, and pulls are all stable at RPE 8 or lower.\n- Incline pre
- ss\, shoulder press\, or bench press: top set 1 x 6-8 at RPE 8\, then 2-3
-  back-off sets x 8-10 at RPE 7-8.\n- Trap-bar deadlift or Romanian deadli
- ft: 2-3 x 5-6 at RPE 7-8\, leave 2-3 RIR.\n- Pull-ups or chest-supported 
- rows: 4 x 6-10 at RPE 8 paired with front-foot elevated split squat or ha
- ck squat 3 x 8-10 per leg at RPE 8.\n- Shoulder\, trap\, and quad finishe
- r: lateral raises 2-3 x 15-20\, dumbbell trap raise 2 x 12-15\, leg exten
- sion 2 x 12-15\, then weighted sit-ups 2 x 8-12.\n- Activation: light goo
- d mornings: 2 x 12-15 at RPE 5-6 using no more than 50% of normal working
-  load\; stop if symptoms rise or the next morning is worse.\n\n\nFueling:
- \n- Hit daily macros\, keep protein near target\, and place carbohydrates
-  before and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06
- :00\; add mobility if joints feel stiff.
+ \nMain Work:\n- Incline press\, shoulder press\, or bench press: top set 
+ 1 x 6-8 at RPE 8\, then 2-3 back-off sets x 8-10 at RPE 7-8.\n- Trap-bar 
+ deadlift or Romanian deadlift: 2-3 x 5-6 at RPE 7-8\, leave 2-3 RIR.\n- P
+ ull-ups or chest-supported rows: 4 x 6-10 at RPE 8 paired with front-foot
+  elevated split squat or hack squat 3 x 8-10 per leg at RPE 8.\n- Shoulde
+ r\, trap\, and quad finisher: lateral raises 2-3 x 15-20\, dumbbell trap 
+ raise 2 x 12-15\, leg extension 2 x 12-15\, then weighted sit-ups 2 x 8-1
+ 2.\n- Activation: light good mornings: 2 x 12-15 at RPE 5-6 using no more
+  than 50% of normal working load\; stop if symptoms rise or the next morn
+ ing is worse.\n\n\nFueling:\n- Hit daily macros\, keep protein near targe
+ t\, and place carbohydrates before and after training.\n\n\nRecovery:\n- 
+ Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\n
+ Progression & Guardrails:\n- Progression: double progression\; add load o
+ nly when presses\, hinges\, and pulls are all stable at RPE 8 or lower.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260825@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:Easy Run + Relaxed Strides
@@ -404,9 +407,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260826@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Lower Hypertrophy + Posterior Chain
@@ -415,26 +418,26 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 7-8 min bike\, spl
  it squat isometric holds\, ankle rocks\, and hinge ramp sets.\n\n\nMain W
- ork:\n- Progression: double progression\; add load only when tempo and kn
- ee control stay stable at RPE 8 or lower.\n- Bulgarian split squat or fro
- nt-foot elevated split squat: 4 x 8-10 per leg at RPE 7-8.\n- Romanian de
- adlift: 3 x 8 at RPE 7-8 paired with leg press or hack squat 3 x 10-15 at
-  RPE 8.\n- Walking lunges with dumbbells: 2-3 x 12 steps per leg at RPE 7
-  paired with reverse Nordic curls 2 x 6-10 at RPE 7 and leg extension 2 x
-  15-20 at RPE 8.\n- Core finisher: calf raises plus Copenhagen plank 2-3 
- sets each at RPE 7.\n- Activation: weighted hyperextensions: 2 x 10-15 at
-  RPE 5-6 using no more than 50% of normal working load\; stop if symptoms
-  rise or the next morning is worse.\n\n\nFueling:\n- Hit daily macros\, k
- eep protein near target\, and place carbohydrates before and after traini
- ng.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if jo
- ints feel stiff.
+ ork:\n- Bulgarian split squat or front-foot elevated split squat: 4 x 8-1
+ 0 per leg at RPE 7-8.\n- Romanian deadlift: 3 x 8 at RPE 7-8 paired with 
+ leg press or hack squat 3 x 10-15 at RPE 8.\n- Walking lunges with dumbbe
+ lls: 2-3 x 12 steps per leg at RPE 7 paired with reverse Nordic curls 2 x
+  6-10 at RPE 7 and leg extension 2 x 15-20 at RPE 8.\n- Core finisher: ca
+ lf raises plus Copenhagen plank 2-3 sets each at RPE 7.\n- Activation: we
+ ighted hyperextensions: 2 x 10-15 at RPE 5-6 using no more than 50% of no
+ rmal working load\; stop if symptoms rise or the next morning is worse.\n
+ \n\nFueling:\n- Hit daily macros\, keep protein near target\, and place c
+ arbohydrates before and after training.\n\n\nRecovery:\n- Sleep window st
+ ays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & G
+ uardrails:\n- Progression: double progression\; add load only when tempo 
+ and knee control stay stable at RPE 8 or lower.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260827@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Upper Hypertrophy + Shoulders / Upper Back
@@ -442,26 +445,26 @@ DESCRIPTION:Overview:\nMacros: 3550 kcal\, 175 g protein\, 525 g carbs\, 9
  5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
  35 g protein plus carbs after.\nCategory: gym\nRun volume: 4 km\n\n\nWarm
  -Up:\n- 5 min easy cardio\, shoulder prep\, light rows\, and thoracic mob
- ility.\n\n\nMain Work:\n- Progression: double progression\; add reps befo
- re load and keep the whole session capped around RPE 8.\n- Chest-supporte
- d row\, cable row\, Pendlay row\, or barbell row: 4 x 8-12 at RPE 8 paire
- d with dumbbell or machine shoulder press 3 x 8-10 at RPE 8.\n- Lat pull-
- down or pull-ups: 3 x 8-12 at RPE 8 paired with incline dumbbell press 2-
- 3 x 8-12 at RPE 8.\n- Shoulder and upper back finisher: lateral raises 3 
- x 15-20\, rear delt fly or reverse pec-deck 3 x 15-20\, face pulls 2 x 12
- -15\, and dumbbell rotator cuff work.\n- Easy run RPE 3-4: 3-4 km convers
- ational only if legs feel normal\; otherwise walk 20-30 min.\n\n\nRun:\n-
-  Planned running volume: 4 km.\n\n\nFueling:\n- Hit daily macros\, keep p
- rotein near target\, and place carbohydrates before and after training.\n
- \n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints 
- feel stiff.
+ ility.\n\n\nMain Work:\n- Chest-supported row\, cable row\, Pendlay row\,
+  or barbell row: 4 x 8-12 at RPE 8 paired with dumbbell or machine should
+ er press 3 x 8-10 at RPE 8.\n- Lat pull-down or pull-ups: 3 x 8-12 at RPE
+  8 paired with incline dumbbell press 2-3 x 8-12 at RPE 8.\n- Shoulder an
+ d upper back finisher: lateral raises 3 x 15-20\, rear delt fly or revers
+ e pec-deck 3 x 15-20\, face pulls 2 x 12-15\, and dumbbell rotator cuff w
+ ork.\n- Easy run RPE 3-4: 3-4 km conversational only if legs feel normal\
+ ; otherwise walk 20-30 min.\n\n\nRun:\n- Planned running volume: 4 km.\n\
+ n\nFueling:\n- Hit daily macros\, keep protein near target\, and place ca
+ rbohydrates before and after training.\n\n\nRecovery:\n- Sleep window sta
+ ys 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & Gu
+ ardrails:\n- Progression: double progression\; add reps before load and k
+ eep the whole session capped around RPE 8.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260828@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Core + Chest/Back Strength Capacity
@@ -470,28 +473,29 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5 min easy bike\, shoulder prep\, thoraci
  c mobility\, hip openers\, and two light press/row ramp sets.\n\n\nMain W
- ork:\n- Progression: this is the eighth strength day in the 14-day wave\;
-  cap work at RPE 7-8\, use supersets\, and trim accessories before anchor
-  work if recovery dips.\n- Chest volume: bench press 3 x 6-8\, incline du
- mbbell press 3 x 8-10\, dumbbell press 2 x 8-10\, pec-deck 2 x 12-15\, di
- ps 2 x 6-10\, and push-ups 2 x clean reps.\n- Back volume: lat pulldown o
- r pull-ups 3 x 8-12\, cable row or chest-supported row 3 x 8-12\, face pu
- lls 2 x 12-15\, and rear delt fly or reverse pec-deck 2 x 15-20.\n- Leg m
- aintenance: hip thrust or glute bridge 3 x 8-12\, leg extension 2 x 12-15
- \, and seated or lying hamstring curl 2 x 10-15 at RPE 7.\n- Core volume:
-  Pallof press 3 x 10 per side\, side plank 2 x 30 sec per side\, plank va
- riations 2 x 30-45 sec\, hanging leg raises 2-3 sets\, weighted sit-ups 2
-  x 8-12\, and kettlebell side bend or around the head kettlebell 2 x 10.\
- n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
- carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window s
- tays 22:00-06:00\; add mobility if joints feel stiff.
+ ork:\n- Chest volume: bench press 3 x 6-8\, incline dumbbell press 3 x 8-
+ 10\, dumbbell press 2 x 8-10\, pec-deck 2 x 12-15\, dips 2 x 6-10\, and p
+ ush-ups 2 x clean reps.\n- Back volume: lat pulldown or pull-ups 3 x 8-12
+ \, cable row or chest-supported row 3 x 8-12\, face pulls 2 x 12-15\, and
+  rear delt fly or reverse pec-deck 2 x 15-20.\n- Leg maintenance: hip thr
+ ust or glute bridge 3 x 8-12\, leg extension 2 x 12-15\, and seated or ly
+ ing hamstring curl 2 x 10-15 at RPE 7.\n- Core volume: Pallof press 3 x 1
+ 0 per side\, side plank 2 x 30 sec per side\, plank variations 2 x 30-45 
+ sec\, hanging leg raises 2-3 sets\, weighted sit-ups 2 x 8-12\, and kettl
+ ebell side bend or around the head kettlebell 2 x 10.\n\n\nFueling:\n- Hi
+ t daily macros\, keep protein near target\, and place carbohydrates befor
+ e and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; 
+ add mobility if joints feel stiff.\n\n\nProgression & Guardrails:\n- Prog
+ ression: this is the eighth strength day in the 14-day wave\; cap work at
+  RPE 7-8\, use supersets\, and trim accessories before anchor work if rec
+ overy dips.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260829@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Plyometrics + Functional Power
@@ -499,24 +503,24 @@ DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
  00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
  25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
  gory: sprint\nRun volume: 3 km\n\n\nWarm-Up:\n- 10 min easy plus skips\, 
- ankling\, hip openers\, and 3 relaxed strides.\n\n\nMain Work:\n- Progres
- sion: add power volume only when jumps stay crisp and knees stay quiet th
- e next day\; sprint RPE 7-8.\n- Plyometrics: pogos 3 x 20 sec\, low broad
-  jumps 4 x 2\, and med-ball slams 4 x 5 at crisp RPE 6-7 if available.\n-
-  Hill sprint technique: 4-6 x 8-10 sec at sprint RPE 7-8.\n- Functional w
- ork: sled push if easy to set up or farmer carries 4 x 30 m at RPE 7.\n- 
- Core: side plank 2 x 30 sec per side or Pallof press 3 x 10 per side.\n\n
- \nRun:\n- Planned running volume: 3 km.\n\n\nFueling:\n- Hit daily macros
- \, keep protein near target\, and place carbohydrates before and after tr
- aining.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility i
- f joints feel stiff.
+ ankling\, hip openers\, and 3 relaxed strides.\n\n\nMain Work:\n- Plyomet
+ rics: pogos 3 x 20 sec\, low broad jumps 4 x 2\, and med-ball slams 4 x 5
+  at crisp RPE 6-7 if available.\n- Hill sprint technique: 4-6 x 8-10 sec 
+ at sprint RPE 7-8.\n- Functional work: sled push if easy to set up or far
+ mer carries 4 x 30 m at RPE 7.\n- Core: side plank 2 x 30 sec per side or
+  Pallof press 3 x 10 per side.\n\n\nRun:\n- Planned running volume: 3 km.
+ \n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place
+  carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window 
+ stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression &
+  Guardrails:\n- Progression: add power volume only when jumps stay crisp 
+ and knees stay quiet the next day\; sprint RPE 7-8.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260830@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Aerobic Base + Reset
@@ -535,9 +539,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260831@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Upper Strength + Calisthenics Pull
@@ -545,25 +549,25 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5-7 min easy bike\, band pull-aparts\, sc
- ap push-ups\, and 2 bench ramp sets.\n\n\nMain Work:\n- Progression: doub
- le progression\; add load only after all sets reach the top of the range 
- at RPE 8 or lower\, about 2 RIR.\n- Bench press: top set 1 x 4-6 at RPE 8
- \, then 2 back-off sets x 5-7 at RPE 7-8.\n- Pull-ups: 4 x 4-8 at RPE 8 p
- aired with chest-supported row 4 x 8-12 at RPE 8.\n- Overhead press or Ar
- nold press: 3 x 6-10 at RPE 8 paired with incline dumbbell press or dumbb
- ell press 2 x 8-10 at RPE 8.\n- Shoulder and arm finisher: lateral raises
-  3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m\, preacher curls or h
- ammer curls 2 x 10-15\, and reverse curls 2 x 12-15.\n\n\nFueling:\n- Hit
-  daily macros\, keep protein near target\, and place carbohydrates before
-  and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; a
- dd mobility if joints feel stiff.
+ ap push-ups\, and 2 bench ramp sets.\n\n\nMain Work:\n- Bench press: top 
+ set 1 x 4-6 at RPE 8\, then 2 back-off sets x 5-7 at RPE 7-8.\n- Pull-ups
+ : 4 x 4-8 at RPE 8 paired with chest-supported row 4 x 8-12 at RPE 8.\n- 
+ Overhead press or Arnold press: 3 x 6-10 at RPE 8 paired with incline dum
+ bbell press or dumbbell press 2 x 8-10 at RPE 8.\n- Shoulder and arm fini
+ sher: lateral raises 3 x 12-20 at RPE 8 plus farmer carries 4 x 30-40 m\,
+  preacher curls or hammer curls 2 x 10-15\, and reverse curls 2 x 12-15.\
+ n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
+ carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window s
+ tays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & 
+ Guardrails:\n- Progression: double progression\; add load only after all 
+ sets reach the top of the range at RPE 8 or lower\, about 2 RIR.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260901@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Lower Strength + Knee Capacity
@@ -572,23 +576,24 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 7-8 min bike\, ank
  le rocks\, bodyweight squats\, and short-foot activation.\n\n\nMain Work:
- \n- Progression: double progression\; add load only when knee tracking st
- ays clean\, discomfort stays 0-2/10\, and top sets stay near RPE 8.\n- Ha
- ck squat or goblet squat: top set 1 x 6-8 at RPE 8\, then 2 back-off sets
-  x 8-10 at RPE 7-8.\n- Romanian deadlift: 3 x 6-8 at RPE 7-8 with control
- led eccentrics.\n- Leg extension: 3 x 12-15 at RPE 8 paired with front-fo
- ot elevated split squat 2-3 x 8-10 per leg at RPE 7.\n- Core finisher: se
- ated calf raise plus tibialis raises 4 x 12-20 each at RPE 7\, then side 
- plank 2 x 30 sec.\n\n\nFueling:\n- Hit daily macros\, keep protein near t
- arget\, and place carbohydrates before and after training.\n\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+ \n- Hack squat or goblet squat: top set 1 x 6-8 at RPE 8\, then 2 back-of
+ f sets x 8-10 at RPE 7-8.\n- Romanian deadlift: 3 x 6-8 at RPE 7-8 with c
+ ontrolled eccentrics.\n- Leg extension: 3 x 12-15 at RPE 8 paired with fr
+ ont-foot elevated split squat 2-3 x 8-10 per leg at RPE 7.\n- Core finish
+ er: seated calf raise plus tibialis raises 4 x 12-20 each at RPE 7\, then
+  side plank 2 x 30 sec.\n\n\nFueling:\n- Hit daily macros\, keep protein 
+ near target\, and place carbohydrates before and after training.\n\n\nRec
+ overy:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel st
+ iff.\n\n\nProgression & Guardrails:\n- Progression: double progression\; 
+ add load only when knee tracking stays clean\, discomfort stays 0-2/10\, 
+ and top sets stay near RPE 8.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260902@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Recovery + Easy Zone 2
@@ -606,9 +611,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260903@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Upper Calisthenics + Shoulder Hypertrophy
@@ -616,24 +621,25 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5 min easy cardio\, shoulder prep\, light
-  cable rows\, and scap pull-ups.\n\n\nMain Work:\n- Progression: double p
- rogression\; beat total quality reps before adding load or a set\, keepin
- g most work at RPE 8-9.\n- Pull-ups: 5 x 4-8 or 20-30 total quality reps 
- at RPE 8.\n- Dips or push-ups: 3 x 8-15 at RPE 8-9 paired with one-arm du
- mbbell row or cable row 3 x 8-12 at RPE 8.\n- Shoulder and chest block: i
- ncline dumbbell press 2-3 x 8-12 at RPE 8 plus pec-deck 2 x 10-15\, later
- al raises 3 x 15-20\, and rear delt fly 2 x 15-20.\n- Arm and core finish
- er: tricep pulldown 2 x 10-15 plus hanging leg raises 2-3 sets at RPE 8.\
- n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and place 
- carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window s
- tays 22:00-06:00\; add mobility if joints feel stiff.
+  cable rows\, and scap pull-ups.\n\n\nMain Work:\n- Pull-ups: 5 x 4-8 or 
+ 20-30 total quality reps at RPE 8.\n- Dips or push-ups: 3 x 8-15 at RPE 8
+ -9 paired with one-arm dumbbell row or cable row 3 x 8-12 at RPE 8.\n- Sh
+ oulder and chest block: incline dumbbell press 2-3 x 8-12 at RPE 8 plus p
+ ec-deck 2 x 10-15\, lateral raises 3 x 15-20\, and rear delt fly 2 x 15-2
+ 0.\n- Arm and core finisher: tricep pulldown 2 x 10-15 plus hanging leg r
+ aises 2-3 sets at RPE 8.\n\n\nFueling:\n- Hit daily macros\, keep protein
+  near target\, and place carbohydrates before and after training.\n\n\nRe
+ covery:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel s
+ tiff.\n\n\nProgression & Guardrails:\n- Progression: double progression\;
+  beat total quality reps before adding load or a set\, keeping most work 
+ at RPE 8-9.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260904@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Legs + Delts Accessory
@@ -641,27 +647,27 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5-6 min easy bike\, ankle rocks\, band pu
- ll-aparts\, and one ramp set for each pairing.\n\n\nMain Work:\n- Progres
- sion: keep this short and low-fatigue\; stop 1-2 reps before failure and 
- leave fresher than you arrived.\n- Leg extension: 3 x 12-18 at RPE 8 pair
- ed with seated or lying hamstring curl 3 x 10-15 at RPE 8.\n- Seated calf
-  raise: 3 x 10-15 at RPE 8 paired with lateral raises 3 x 15-25 at RPE 8.
- \n- Rear delt fly or reverse pec-deck: 2-3 x 15-20 at RPE 8\; if time is 
- tight\, complete the first 3 exercises and leave.\n- Chest/back/core top-
- up: push-ups 2 x clean reps\, dips 2 x 6-10\, cable row 2 x 10-12\, face 
- pulls 2 x 12-15\, Pallof press 3 x 10 per side\, plank variations 2 x 30-
- 45 sec\, kettlebell side bend 2 x 10-12\, around the head kettlebell 2 x 
- 8 each way\, and weighted sit-ups 2 x 8-12.\n\n\nFueling:\n- Hit daily ma
- cros\, keep protein near target\, and place carbohydrates before and afte
- r training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobili
- ty if joints feel stiff.
+ ll-aparts\, and one ramp set for each pairing.\n\n\nMain Work:\n- Leg ext
+ ension: 3 x 12-18 at RPE 8 paired with seated or lying hamstring curl 3 x
+  10-15 at RPE 8.\n- Seated calf raise: 3 x 10-15 at RPE 8 paired with lat
+ eral raises 3 x 15-25 at RPE 8.\n- Rear delt fly or reverse pec-deck: 2-3
+  x 15-20 at RPE 8\; if time is tight\, complete the first 3 exercises and
+  leave.\n- Chest/back/core top-up: push-ups 2 x clean reps\, dips 2 x 6-1
+ 0\, cable row 2 x 10-12\, face pulls 2 x 12-15\, Pallof press 3 x 10 per 
+ side\, plank variations 2 x 30-45 sec\, kettlebell side bend 2 x 10-12\, 
+ around the head kettlebell 2 x 8 each way\, and weighted sit-ups 2 x 8-12
+ .\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and plac
+ e carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window
+  stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression 
+ & Guardrails:\n- Progression: keep this short and low-fatigue\; stop 1-2 
+ reps before failure and leave fresher than you arrived.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260905@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Plyometrics + Hill Sprint Technique
@@ -669,24 +675,24 @@ DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
  00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
  25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
  gory: sprint\nRun volume: 3 km\n\n\nWarm-Up:\n- 10-12 min easy plus leg s
- wings\, A-skips\, ankling\, and 3 relaxed strides.\n\n\nMain Work:\n- Pro
- gression: add sprint reps only when contacts stay snappy and knees stay q
- uiet the next day\; sprint RPE 7-8\, never max.\n- Plyometrics: pogos 3 x
-  20 sec\, snap-downs 3 x 5\, low broad jumps 3 x 3 at crisp RPE 6-7.\n- H
- ill sprints: 4 x 10-12 sec uphill at sprint RPE 7-8\; full walk-back reco
- very.\n- Stop the sprint set if mechanics get sloppy or knees feel sharp.
- \n\n\nOptional:\n- weighted sit-ups 2 x 8-12 and side plank 2 x 30 sec pe
- r side.\n\n\nRun:\n- Planned running volume: 3 km.\n\n\nFueling:\n- Hit d
- aily macros\, keep protein near target\, and place carbohydrates before a
- nd after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add
-  mobility if joints feel stiff.
+ wings\, A-skips\, ankling\, and 3 relaxed strides.\n\n\nMain Work:\n- Ply
+ ometrics: pogos 3 x 20 sec\, snap-downs 3 x 5\, low broad jumps 3 x 3 at 
+ crisp RPE 6-7.\n- Hill sprints: 4 x 10-12 sec uphill at sprint RPE 7-8\; 
+ full walk-back recovery.\n- Stop the sprint set if mechanics get sloppy o
+ r knees feel sharp.\n\n\nOptional:\n- weighted sit-ups 2 x 8-12 and side 
+ plank 2 x 30 sec per side.\n\n\nRun:\n- Planned running volume: 3 km.\n\n
+ \nFueling:\n- Hit daily macros\, keep protein near target\, and place car
+ bohydrates before and after training.\n\n\nRecovery:\n- Sleep window stay
+ s 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & Gua
+ rdrails:\n- Progression: add sprint reps only when contacts stay snappy a
+ nd knees stay quiet the next day\; sprint RPE 7-8\, never max.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260906@training-calendar
-DTSTAMP:20260809T152415Z
-LAST-MODIFIED:20260809T152415Z
-SEQUENCE:1786289055
+DTSTAMP:20260809T163925Z
+LAST-MODIFIED:20260809T163925Z
+SEQUENCE:1786293565
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:Easy Longer Aerobic Run
