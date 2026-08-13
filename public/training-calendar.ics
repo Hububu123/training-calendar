@@ -168,35 +168,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260818@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-SUMMARY:Lower Strength
+SUMMARY:Lower Maintenance
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
- o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Hack squat or goblet squat: 3 working sets at RPE 8.\n- Romanian 
- deadlift: 3 working sets at RPE 8.\n- Seated or lying hamstring curl: 3 w
- orking sets at RPE 8.\n- Seated calf raise: 3 working sets at RPE 7.\n- T
- ibialis raises: 4 working sets at RPE 7.\n- Side plank: 2 working sets at
-  RPE 7.\n- Activation: light good mornings: 2 x 12-15 at RPE 5-6 using no
-  more than 50% of normal working load\; stop if symptoms rise or the next
-  morning is worse.\n\n\nFueling:\n- Hit daily macros\, keep protein near 
- target\, and place carbohydrates before and after training.\n\n\nRecovery
- :\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.\
- n\n\nProgression & Guardrails:\n- Progression: double progression\; add l
- oad only after clean top-range reps at RPE 8 or lower\, about 2 RIR.
+ ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5 min easy cardio 
+ and comfortable joint preparation.\n\n\nMain Work:\n- Goblet squat: 2 wor
+ king sets at RPE 6.\n- Seated hamstring curl: 2 working sets at RPE 6.\n-
+  Seated calf raise: 2 working sets at RPE 6.\n- Tibialis raises: 2 workin
+ g sets at RPE 6.\n- Keep every set crisp with no failure work and no addi
+ tional exercises.\n\n\nFueling:\n- Hit daily macros\, keep protein near t
+ arget\, and place carbohydrates before and after training.\n\n\nRecovery:
+ \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260819@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Recovery
@@ -206,17 +201,17 @@ DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
   before loading.\n\n\nMain Work:\n- Keep the day easy and complete only t
  he recovery work listed below.\n\n\nOptional:\n- easy walking and gentle 
- mobility at RPE 2-3 if comfortable.\n\n\nFueling:\n- Hit daily macros\, k
- eep protein near target\, and place carbohydrates before and after traini
- ng.\n\n\nRecovery:\n- no working resistance sets\, running\, sprinting\, 
- or plyometrics.
+ mobility only if normal movement stays comfortable.\n\n\nFueling:\n- Hit 
+ daily macros\, keep protein near target\, and place carbohydrates before 
+ and after training.\n\n\nRecovery:\n- no working resistance sets\, runnin
+ g\, sprinting\, or plyometrics.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260820@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Easy Aerobic
@@ -225,63 +220,62 @@ DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
  35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 5 km\n\n\
  nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
  ets before loading.\n\n\nMain Work:\n- Easy run RPE 3-4: 5 km at conversa
- tional effort.\n\n\nRun:\n- Planned running volume: 5 km.\n\n\nFueling:\n
- - use a small carbohydrate snack if training early or after poor sleep.\n
- \n\nRecovery:\n- 8-10 min for hips\, calves\, ankles\, and thoracic rotat
- ion.
+ tional effort.\n- Stop or switch to easy walking if symptoms alter normal
+  movement or are worse the next morning.\n\n\nRun:\n- Planned running vol
+ ume: 5 km.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\,
+  and place carbohydrates before and after training.\n\n\nRecovery:\n- Sle
+ ep window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260821@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:Upper Hypertrophy
+SUMMARY:Upper Maintenance
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardio\, joint preparation\,
-  and ramp sets for the first movement.\n\n\nMain Work:\n- Incline dumbbel
- l press: 3 working sets at RPE 8.\n- Lat pulldown or pull-ups: 3 working 
- sets at RPE 8.\n- Cable row: 3 working sets at RPE 8.\n- Lateral raises: 
- 3 working sets at RPE 8.\n- Rear delt fly or reverse pec-deck: 3 working 
- sets at RPE 8.\n- Rotator cuff external rotation: 3 working sets at RPE 7
- .\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and plac
- e carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window
-  stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression 
- & Guardrails:\n- Progression: double progression\; add load only after cl
- ean top-range reps at RPE 8 or lower\, about 2 RIR.
+ n volume: 0 km\n\n\nWarm-Up:\n- 5 min easy cardio and comfortable joint p
+ reparation.\n\n\nMain Work:\n- Bench press: 2 working sets at RPE 7.\n- L
+ at pulldown: 2 working sets at RPE 7.\n- Chest-supported row: 2 working s
+ ets at RPE 6.\n- Lateral raises: 2 working sets at RPE 6.\n- Rotator cuff
+  external rotation: 2 working sets at RPE 6.\n- Keep every set crisp with
+  no failure work and no additional exercises.\n\n\nFueling:\n- Hit daily 
+ macros\, keep protein near target\, and place carbohydrates before and af
+ ter training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobi
+ lity if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260822@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:Speed / Power
+SUMMARY:5K Sharpening
 DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
  00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
  25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
- gory: sprint\nRun volume: 3 km\n\n\nWarm-Up:\n- 10 min easy plus skips\, 
- ankling\, and 3 relaxed strides.\n\n\nMain Work:\n- Plyometrics: pogos 3 
- x 20 sec and low broad jumps 3 x 3 at crisp RPE 6-7.\n- Hill sprint techn
- ique: 4-6 x 8-12 sec at sprint RPE 7-8 with full walk-back recovery.\n- S
- top if mechanics soften or symptoms are worse the next morning.\n\n\nRun:
- \n- Planned running volume: 3 km.\n\n\nFueling:\n- Hit daily macros\, kee
- p protein near target\, and place carbohydrates before and after training
- .\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if join
- ts feel stiff.
+ gory: sprint\nRun volume: 3 km\n\n\nWarm-Up:\n- 10 min easy running\, dri
+ lls\, and two relaxed strides.\n\n\nMain Work:\n- Sharpening: 3 x 400 m a
+ t controlled 5K race pace with 2 min easy recovery.\n- Finish with four r
+ elaxed strides\; keep every repetition smooth and non-maximal.\n- Stop if
+  mechanics change or symptoms are worse the next morning.\n\n\nRun:\n- Pl
+ anned running volume: 3 km.\n\n\nFueling:\n- Hit daily macros\, keep prot
+ ein near target\, and place carbohydrates before and after training.\n\n\
+ nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints fee
+ l stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260823@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Recovery
@@ -291,105 +285,95 @@ DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
   before loading.\n\n\nMain Work:\n- Keep the day easy and complete only t
  he recovery work listed below.\n\n\nOptional:\n- easy walking and gentle 
- mobility at RPE 2-3 if comfortable.\n\n\nFueling:\n- Hit daily macros\, k
- eep protein near target\, and place carbohydrates before and after traini
- ng.\n\n\nRecovery:\n- no working resistance sets\, running\, sprinting\, 
- or plyometrics.
+ mobility only if normal movement stays comfortable.\n\n\nFueling:\n- Hit 
+ daily macros\, keep protein near target\, and place carbohydrates before 
+ and after training.\n\n\nRecovery:\n- no working resistance sets\, runnin
+ g\, sprinting\, or plyometrics.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260824@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-SUMMARY:Lower Hypertrophy
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
- o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Front-foot elevated split squat: 3 working sets at RPE 8.\n- Hip 
- thrust or glute bridge: 3 working sets at RPE 8.\n- Leg extension: 3 work
- ing sets at RPE 8.\n- Seated or lying hamstring curl: 3 working sets at R
- PE 8.\n- Calf raises: 2 working sets at RPE 7.\n- Hip adduction: 2 workin
- g sets at RPE 7.\n- Weighted sit-ups: 2 working sets at RPE 7.\n- Activat
- ion: weighted hyperextensions: 2 x 10-15 at RPE 5-6 using no more than 50
- % of normal working load\; stop if symptoms rise or the next morning is w
- orse.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and 
- place carbohydrates before and after training.\n\n\nRecovery:\n- Sleep wi
- ndow stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgress
- ion & Guardrails:\n- Progression: double progression\; add load only afte
- r clean top-range reps at RPE 8 or lower\, about 2 RIR.
+SUMMARY:Easy Run + Upper Primer
+DESCRIPTION:Overview:\nMacros: 3550 kcal\, 175 g protein\, 525 g carbs\, 9
+ 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
+ 35 g protein plus carbs after.\nCategory: gym\nRun volume: 3.5 km\n\n\nWa
+ rm-Up:\n- 5 min easy cardio and comfortable joint preparation.\n\n\nMain 
+ Work:\n- Easy run RPE 3: 3.5 km conversational\, then four relaxed stride
+ s with full easy recovery.\n- Incline dumbbell press: 2 working sets at R
+ PE 6.\n- Lat pulldown: 2 working sets at RPE 6.\n- Cable row: 2 working s
+ ets at RPE 5.\n- Lateral raises: 2 working sets at RPE 5.\n- Rotator cuff
+  external rotation: 2 working sets at RPE 5.\n- Keep the primer very ligh
+ t with no failure work or lower-body loading.\n\n\nRun:\n- Planned runnin
+ g volume: 3.5 km.\n\n\nFueling:\n- Hit daily macros\, keep protein near t
+ arget\, and place carbohydrates before and after training.\n\n\nRecovery:
+ \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260825@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:Upper Pull + Arms
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardio\, joint preparation\,
-  and ramp sets for the first movement.\n\n\nMain Work:\n- Pull-ups or lat
-  pulldown: 3 working sets at RPE 8.\n- Pendlay row or chest-supported row
- : 3 working sets at RPE 8.\n- Dumbbell trap raise: 2 working sets at RPE 
- 8.\n- Face pulls: 2 working sets at RPE 8.\n- Preacher curls or hammer cu
- rls: 3 working sets at RPE 8.\n- Tricep pulldown: 3 working sets at RPE 8
- .\n- Plank variations: 2 working sets at RPE 7.\n\n\nFueling:\n- Hit dail
- y macros\, keep protein near target\, and place carbohydrates before and 
- after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mo
- bility if joints feel stiff.\n\n\nProgression & Guardrails:\n- Progressio
- n: double progression\; add load only after clean top-range reps at RPE 8
-  or lower\, about 2 RIR.
+SUMMARY:Full Rest
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWa
+ rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
+  before loading.\n\n\nMain Work:\n- Complete training rest: no running\, 
+ resistance work\, sprinting\, or plyometrics.\n\n\nOptional:\n- gentle mo
+ bility only if it feels restorative and does not alter normal movement.\n
+ \n\nFueling:\n- Hit daily macros\, keep protein near target\, and place c
+ arbohydrates before and after training.\n\n\nRecovery:\n- Sleep window st
+ ays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260826@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:Easy Aerobic
-DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
- 5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
- 35 g protein plus carbs after.\nCategory: easy_run\nRun volume: 6 km\n\n\
- nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp s
- ets before loading.\n\n\nMain Work:\n- Easy run RPE 3-4: 6 km at conversa
- tional effort.\n\n\nRun:\n- Planned running volume: 6 km.\n\n\nFueling:\n
- - use a small carbohydrate snack if training early or after poor sleep.\n
- \n\nRecovery:\n- 8-10 min for hips\, calves\, ankles\, and thoracic rotat
- ion.
+SUMMARY:Priority 5K Race
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25
+ -35 g protein plus carbs after.\nCategory: race\nRun volume: 5 km\n\n\nWa
+ rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
+  before loading.\n\n\nMain Work:\n- Progressive warm-up: 10-15 min easy r
+ unning\, dynamic drills\, and four relaxed strides.\n- Race: 5 km at cont
+ rolled priority-race effort\; build through the first kilometre before se
+ ttling into pace.\n- Stop or downgrade if symptoms alter normal movement.
+ \n\n\nRun:\n- Planned running volume: 5 km.\n\n\nFueling:\n- Hit daily ma
+ cros\, keep protein near target\, and place carbohydrates before and afte
+ r training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobili
+ ty if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260827@training-calendar
-DTSTAMP:20260813T063531Z
-LAST-MODIFIED:20260813T063531Z
-SEQUENCE:1786602931
+DTSTAMP:20260813T092926Z
+LAST-MODIFIED:20260813T092926Z
+SEQUENCE:1786613366
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:Upper Push + Shoulders
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardio\, joint preparation\,
-  and ramp sets for the first movement.\n\n\nMain Work:\n- Bench press: 3 
- working sets at RPE 8.\n- Incline dumbbell press: 2 working sets at RPE 8
- .\n- Dumbbell shoulder press: 3 working sets at RPE 8.\n- Lateral raises:
-  3 working sets at RPE 8.\n- Tricep pulldown: 3 working sets at RPE 8.\n-
-  Rotator cuff external rotation: 3 working sets at RPE 7.\n\n\nFueling:\n
- - Hit daily macros\, keep protein near target\, and place carbohydrates b
- efore and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:0
- 0\; add mobility if joints feel stiff.\n\n\nProgression & Guardrails:\n- 
- Progression: double progression\; add load only after clean top-range rep
- s at RPE 8 or lower\, about 2 RIR.
+SUMMARY:Recovery
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWa
+ rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
+  before loading.\n\n\nMain Work:\n- Post-race recovery: no working resist
+ ance sets\, running\, sprinting\, or plyometrics.\n\n\nOptional:\n- easy 
+ walking and gentle mobility only if normal movement stays comfortable.\n\
+ n\nFueling:\n- Hit daily macros\, keep protein near target\, and place ca
+ rbohydrates before and after training.\n\n\nRecovery:\n- Sleep window sta
+ ys 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
