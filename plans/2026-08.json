@@ -939,7 +939,7 @@
     },
     {
       "date": "2026-08-31",
-      "title": "Upper Strength",
+      "title": "Upper Push Focus",
       "category": "gym",
       "run_km": 0,
       "macros": {
@@ -951,11 +951,11 @@
       "description": [
         "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
         "Bench press: 3 working sets at RPE 8.",
-        "Pull-ups: 3 working sets at RPE 8.",
-        "Overhead press or Arnold press: 3 working sets at RPE 8.",
-        "Chest-supported row: 3 working sets at RPE 8.",
+        "Incline dumbbell press: 3 working sets at RPE 8.",
+        "Dumbbell shoulder press: 3 working sets at RPE 8.",
         "Lateral raises: 3 working sets at RPE 8.",
-        "Pallof press: 3 working sets at RPE 7.",
+        "Pull-ups or lat pulldown: 2 working sets at RPE 8.",
+        "Chest-supported row: 2 working sets at RPE 8.",
         "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
       ],
       "exercise_targets": [
@@ -964,15 +964,11 @@
           "planned_kg": ""
         },
         {
-          "name": "Pull-ups",
+          "name": "Incline dumbbell press",
           "planned_kg": ""
         },
         {
-          "name": "Overhead press or Arnold press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Chest-supported row",
+          "name": "Dumbbell shoulder press",
           "planned_kg": ""
         },
         {
@@ -980,13 +976,15 @@
           "planned_kg": ""
         },
         {
-          "name": "Pallof press",
+          "name": "Pull-ups or lat pulldown",
+          "planned_kg": ""
+        },
+        {
+          "name": "Chest-supported row",
           "planned_kg": ""
         }
       ],
-      "adjustments": [
-        "Reduced for prior-month recovery feedback."
-      ]
+      "adjustments": []
     }
   ]
 }
