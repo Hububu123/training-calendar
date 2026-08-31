@@ -1,56 +1,7 @@
 {
-  "month": "2026-08-31..2026-09-27",
+  "month": "2026-09",
   "goal": "Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness. Size remains primary; secondary running targets: sub-19:00 5K on 2026-08-26; comfortable completion from the regular hybrid routine half marathon on 2026-11-22.",
   "days": [
-    {
-      "date": "2026-08-31",
-      "title": "Upper Push Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3350,
-        "protein_g": 175,
-        "carbs_g": 455,
-        "fat_g": 95
-      },
-      "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Bench press: 3 working sets at RPE 8.",
-        "Incline dumbbell press: 3 working sets at RPE 8.",
-        "Dumbbell shoulder press: 3 working sets at RPE 8.",
-        "Lateral raises: 3 working sets at RPE 8.",
-        "Pull-ups or lat pulldown: 2 working sets at RPE 8.",
-        "Chest-supported row: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
-      ],
-      "exercise_targets": [
-        {
-          "name": "Bench press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Incline dumbbell press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Dumbbell shoulder press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Lateral raises",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pull-ups or lat pulldown",
-          "planned_kg": ""
-        },
-        {
-          "name": "Chest-supported row",
-          "planned_kg": ""
-        }
-      ],
-      "adjustments": []
-    },
     {
       "date": "2026-09-01",
       "title": "Lower/Core — Leg Focus",
@@ -696,9 +647,404 @@
       ],
       "exercise_targets": [],
       "adjustments": []
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Upper Pull Focus",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
+        "Pull-ups or lat pulldown: 3 working sets at RPE 8.",
+        "Chest-supported row: 3 working sets at RPE 8.",
+        "Face pulls: 3 working sets at RPE 8.",
+        "Preacher curls or hammer curls: 3 working sets at RPE 8.",
+        "Incline dumbbell press: 2 working sets at RPE 8.",
+        "Tricep pulldown: 2 working sets at RPE 8.",
+        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Pull-ups or lat pulldown",
+          "planned_kg": ""
+        },
+        {
+          "name": "Chest-supported row",
+          "planned_kg": ""
+        },
+        {
+          "name": "Face pulls",
+          "planned_kg": ""
+        },
+        {
+          "name": "Preacher curls or hammer curls",
+          "planned_kg": ""
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Tricep pulldown",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Lower/Core — Core Focus",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3500,
+        "protein_g": 180,
+        "carbs_g": 505,
+        "fat_g": 100
+      },
+      "description": [
+        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
+        "Front plank: 3 working sets at RPE 7.",
+        "Pallof press: 3 working sets at RPE 7.",
+        "Weighted sit-ups: 3 working sets at RPE 7.",
+        "Side plank: 3 working sets at RPE 7.",
+        "Leg extension: 2 working sets at RPE 8.",
+        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
+        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
+        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Front plank",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Weighted sit-ups",
+          "planned_kg": ""
+        },
+        {
+          "name": "Side plank",
+          "planned_kg": ""
+        },
+        {
+          "name": "Leg extension",
+          "planned_kg": ""
+        },
+        {
+          "name": "Seated or lying hamstring curl",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Active Recovery + Soft Plyometrics",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
+        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
+        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
+        "Post-core cap — snap-downs: 2 x 5; soft pogos: 3 x 15 seconds; crisp skips: 3 x 15 metres. Do not add contacts.",
+        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Mostly Easy Long Run",
+      "category": "long_run",
+      "run_km": 10,
+      "macros": {
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
+      },
+      "description": [
+        "Mostly easy long run: 10 km at conversational zone 2 effort.",
+        "Preparation: begin with easy jogging; relaxed running strides are optional only when recovery is good.",
+        "Keep the finish controlled and preserve the mostly conversational effort."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Upper Push Focus",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
+        "Bench press: 3 working sets at RPE 8.",
+        "Incline dumbbell press: 3 working sets at RPE 8.",
+        "Dumbbell shoulder press: 3 working sets at RPE 8.",
+        "Lateral raises: 3 working sets at RPE 8.",
+        "Pull-ups or lat pulldown: 2 working sets at RPE 8.",
+        "Chest-supported row: 2 working sets at RPE 8.",
+        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Lateral raises",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pull-ups or lat pulldown",
+          "planned_kg": ""
+        },
+        {
+          "name": "Chest-supported row",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Lower/Core — Leg Focus",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3500,
+        "protein_g": 180,
+        "carbs_g": 505,
+        "fat_g": 100
+      },
+      "description": [
+        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
+        "Hack squat or goblet squat: 3 working sets at RPE 8.",
+        "Romanian deadlift: 3 working sets at RPE 8.",
+        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
+        "Calf raises: 2 working sets at RPE 7.",
+        "Tibialis raises: 2 working sets at RPE 7.",
+        "Pallof press: 4 working sets at RPE 7.",
+        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
+        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Hack squat or goblet squat",
+          "planned_kg": ""
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": ""
+        },
+        {
+          "name": "Seated or lying hamstring curl",
+          "planned_kg": ""
+        },
+        {
+          "name": "Calf raises",
+          "planned_kg": ""
+        },
+        {
+          "name": "Tibialis raises",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Active Recovery + Soft Plyometrics",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
+        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
+        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
+        "Post-leg cap — snap-downs: 2 x 4; soft pogos: 2 x 10 seconds; no skips. Do not add contacts.",
+        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Evenly Paced Hard 5K",
+      "category": "quality_run",
+      "run_km": 7,
+      "macros": {
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
+      },
+      "description": [
+        "Progressive warm-up: 12-15 minutes of easy jogging plus 3 relaxed running strides.",
+        "Main work: an evenly paced hard 5K; stay controlled early and reach heart-rate zone 5 late.",
+        "Cooldown: 10 minutes of easy jogging, then relaxed mobility."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Upper Pull Focus",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 175,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
+        "Pull-ups or lat pulldown: 3 working sets at RPE 8.",
+        "Chest-supported row: 3 working sets at RPE 8.",
+        "Face pulls: 3 working sets at RPE 8.",
+        "Preacher curls or hammer curls: 3 working sets at RPE 8.",
+        "Incline dumbbell press: 2 working sets at RPE 8.",
+        "Tricep pulldown: 2 working sets at RPE 8.",
+        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Pull-ups or lat pulldown",
+          "planned_kg": ""
+        },
+        {
+          "name": "Chest-supported row",
+          "planned_kg": ""
+        },
+        {
+          "name": "Face pulls",
+          "planned_kg": ""
+        },
+        {
+          "name": "Preacher curls or hammer curls",
+          "planned_kg": ""
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Tricep pulldown",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Lower/Core — Core Focus",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3500,
+        "protein_g": 180,
+        "carbs_g": 505,
+        "fat_g": 100
+      },
+      "description": [
+        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
+        "Front plank: 3 working sets at RPE 7.",
+        "Pallof press: 3 working sets at RPE 7.",
+        "Weighted sit-ups: 3 working sets at RPE 7.",
+        "Side plank: 3 working sets at RPE 7.",
+        "Leg extension: 2 working sets at RPE 8.",
+        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
+        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
+        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Front plank",
+          "planned_kg": ""
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": ""
+        },
+        {
+          "name": "Weighted sit-ups",
+          "planned_kg": ""
+        },
+        {
+          "name": "Side plank",
+          "planned_kg": ""
+        },
+        {
+          "name": "Leg extension",
+          "planned_kg": ""
+        },
+        {
+          "name": "Seated or lying hamstring curl",
+          "planned_kg": ""
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Active Recovery + Soft Plyometrics",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3150,
+        "protein_g": 165,
+        "carbs_g": 385,
+        "fat_g": 105
+      },
+      "description": [
+        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
+        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
+        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
+        "Post-core cap — snap-downs: 2 x 5; soft pogos: 3 x 15 seconds; crisp skips: 3 x 15 metres. Do not add contacts.",
+        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
     }
-  ],
-  "workout_count": 20,
-  "screened_window_end": "2026-09-27",
-  "reduced_workout_count_warning": null
+  ]
 }

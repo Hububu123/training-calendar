@@ -481,9 +481,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260831@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Upper Push Focus
@@ -505,35 +505,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260901@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:Lower/Core — Core Focus
+SUMMARY:Lower/Core — Leg Focus
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
  o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Front plank: 3 working sets at RPE 7.\n- Pallof press: 3 working 
- sets at RPE 7.\n- Weighted sit-ups: 3 working sets at RPE 7.\n- Side plan
- k: 3 working sets at RPE 7.\n- Leg extension: 2 working sets at RPE 8.\n-
-  Seated or lying hamstring curl: 2 working sets at RPE 8.\n\n\nOptional:\
- n- light good mornings or weighted hyperextensions for 2 light sets at RP
- E 5-6\, using no more than the configured load cap\; these are not hard w
- orking sets.\n\n\nFueling:\n- Hit daily macros\, keep protein near target
- \, and place carbohydrates before and after training.\n\n\nRecovery:\n- S
- leep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nP
- rogression & Guardrails:\n- Progression: double progression\; add load on
- ly after clean top-range reps at RPE 8 or lower\, about 2 RIR.
+ ork:\n- Hack squat or goblet squat: 3 working sets at RPE 8.\n- Romanian 
+ deadlift: 3 working sets at RPE 8.\n- Seated or lying hamstring curl: 2 w
+ orking sets at RPE 8.\n- Calf raises: 2 working sets at RPE 7.\n- Tibiali
+ s raises: 2 working sets at RPE 7.\n- Pallof press: 4 working sets at RPE
+  7.\n\n\nOptional:\n- light good mornings or weighted hyperextensions for
+  2 light sets at RPE 5-6\, using no more than the configured load cap\; t
+ hese are not hard working sets.\n\n\nFueling:\n- Hit daily macros\, keep 
+ protein near target\, and place carbohydrates before and after training.\
+ n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints
+  feel stiff.\n\n\nProgression & Guardrails:\n- Progression: double progre
+ ssion\; add load only after clean top-range reps at RPE 8 or lower\, abou
+ t 2 RIR.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260902@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Active Recovery + Soft Plyometrics
@@ -543,23 +544,23 @@ DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
   before loading.\n\n\nMain Work:\n- Active recovery: 30-45 minutes at ses
  sion RPE 3-4\; finish feeling better\, not fatigued.\n- Plyometric segmen
- t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-c
- ore cap — snap-downs: 2 x 5\; soft pogos: 3 x 15 seconds\; crisp skips:
-  3 x 15 metres. Do not add contacts.\n- Easy circuit: push-ups stopped wi
- th at least four repetitions in reserve\; band pull-aparts or band face p
- ulls\; banded hip-flexor marches\; banded flutter kicks\; and glute bridg
- es.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
- ace carbohydrates before and after training.\n\n\nRecovery:\n- cat-cow\, 
- open-book rotations\, 90/90 hip switches\, straight-knee and bent-knee ca
- lf stretches\, ankle rocks\, and relaxed static stretching of calves\, qu
- adriceps\, hips\, chest\, and upper back.
+ t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-l
+ eg cap — snap-downs: 2 x 4\; soft pogos: 2 x 10 seconds\; no skips. Do 
+ not add contacts.\n- Easy circuit: push-ups stopped with at least four re
+ petitions in reserve\; band pull-aparts or band face pulls\; banded hip-f
+ lexor marches\; banded flutter kicks\; and glute bridges.\n\n\nFueling:\n
+ - Hit daily macros\, keep protein near target\, and place carbohydrates b
+ efore and after training.\n\n\nRecovery:\n- cat-cow\, open-book rotations
+ \, 90/90 hip switches\, straight-knee and bent-knee calf stretches\, ankl
+ e rocks\, and relaxed static stretching of calves\, quadriceps\, hips\, c
+ hest\, and upper back.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260903@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Zone 5 Intervals
@@ -580,9 +581,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260904@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Upper Pull Focus
@@ -604,36 +605,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260905@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-SUMMARY:Lower/Core — Leg Focus
+SUMMARY:Lower/Core — Core Focus
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
  o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Hack squat or goblet squat: 3 working sets at RPE 8.\n- Romanian 
- deadlift: 3 working sets at RPE 8.\n- Seated or lying hamstring curl: 2 w
- orking sets at RPE 8.\n- Calf raises: 2 working sets at RPE 7.\n- Tibiali
- s raises: 2 working sets at RPE 7.\n- Pallof press: 4 working sets at RPE
-  7.\n\n\nOptional:\n- light good mornings or weighted hyperextensions for
-  2 light sets at RPE 5-6\, using no more than the configured load cap\; t
- hese are not hard working sets.\n\n\nFueling:\n- Hit daily macros\, keep 
- protein near target\, and place carbohydrates before and after training.\
- n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints
-  feel stiff.\n\n\nProgression & Guardrails:\n- Progression: double progre
- ssion\; add load only after clean top-range reps at RPE 8 or lower\, abou
- t 2 RIR.
+ ork:\n- Front plank: 3 working sets at RPE 7.\n- Pallof press: 3 working 
+ sets at RPE 7.\n- Weighted sit-ups: 3 working sets at RPE 7.\n- Side plan
+ k: 3 working sets at RPE 7.\n- Leg extension: 2 working sets at RPE 8.\n-
+  Seated or lying hamstring curl: 2 working sets at RPE 8.\n\n\nOptional:\
+ n- light good mornings or weighted hyperextensions for 2 light sets at RP
+ E 5-6\, using no more than the configured load cap\; these are not hard w
+ orking sets.\n\n\nFueling:\n- Hit daily macros\, keep protein near target
+ \, and place carbohydrates before and after training.\n\n\nRecovery:\n- S
+ leep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nP
+ rogression & Guardrails:\n- Progression: double progression\; add load on
+ ly after clean top-range reps at RPE 8 or lower\, about 2 RIR.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260906@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:Active Recovery + Soft Plyometrics
@@ -643,23 +643,23 @@ DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
   before loading.\n\n\nMain Work:\n- Active recovery: 30-45 minutes at ses
  sion RPE 3-4\; finish feeling better\, not fatigued.\n- Plyometric segmen
- t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-l
- eg cap — snap-downs: 2 x 4\; soft pogos: 2 x 10 seconds\; no skips. Do 
- not add contacts.\n- Easy circuit: push-ups stopped with at least four re
- petitions in reserve\; band pull-aparts or band face pulls\; banded hip-f
- lexor marches\; banded flutter kicks\; and glute bridges.\n\n\nFueling:\n
- - Hit daily macros\, keep protein near target\, and place carbohydrates b
- efore and after training.\n\n\nRecovery:\n- cat-cow\, open-book rotations
- \, 90/90 hip switches\, straight-knee and bent-knee calf stretches\, ankl
- e rocks\, and relaxed static stretching of calves\, quadriceps\, hips\, c
- hest\, and upper back.
+ t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-c
+ ore cap — snap-downs: 2 x 5\; soft pogos: 3 x 15 seconds\; crisp skips:
+  3 x 15 metres. Do not add contacts.\n- Easy circuit: push-ups stopped wi
+ th at least four repetitions in reserve\; band pull-aparts or band face p
+ ulls\; banded hip-flexor marches\; banded flutter kicks\; and glute bridg
+ es.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
+ ace carbohydrates before and after training.\n\n\nRecovery:\n- cat-cow\, 
+ open-book rotations\, 90/90 hip switches\, straight-knee and bent-knee ca
+ lf stretches\, ankle rocks\, and relaxed static stretching of calves\, qu
+ adriceps\, hips\, chest\, and upper back.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260907@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Mostly Easy Long Run
@@ -679,9 +679,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260908@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Upper Push Focus
@@ -703,35 +703,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260909@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:Lower/Core — Core Focus
+SUMMARY:Lower/Core — Leg Focus
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
  o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Front plank: 3 working sets at RPE 7.\n- Pallof press: 3 working 
- sets at RPE 7.\n- Weighted sit-ups: 3 working sets at RPE 7.\n- Side plan
- k: 3 working sets at RPE 7.\n- Leg extension: 2 working sets at RPE 8.\n-
-  Seated or lying hamstring curl: 2 working sets at RPE 8.\n\n\nOptional:\
- n- light good mornings or weighted hyperextensions for 2 light sets at RP
- E 5-6\, using no more than the configured load cap\; these are not hard w
- orking sets.\n\n\nFueling:\n- Hit daily macros\, keep protein near target
- \, and place carbohydrates before and after training.\n\n\nRecovery:\n- S
- leep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nP
- rogression & Guardrails:\n- Progression: double progression\; add load on
- ly after clean top-range reps at RPE 8 or lower\, about 2 RIR.
+ ork:\n- Hack squat or goblet squat: 3 working sets at RPE 8.\n- Romanian 
+ deadlift: 3 working sets at RPE 8.\n- Seated or lying hamstring curl: 2 w
+ orking sets at RPE 8.\n- Calf raises: 2 working sets at RPE 7.\n- Tibiali
+ s raises: 2 working sets at RPE 7.\n- Pallof press: 4 working sets at RPE
+  7.\n\n\nOptional:\n- light good mornings or weighted hyperextensions for
+  2 light sets at RPE 5-6\, using no more than the configured load cap\; t
+ hese are not hard working sets.\n\n\nFueling:\n- Hit daily macros\, keep 
+ protein near target\, and place carbohydrates before and after training.\
+ n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints
+  feel stiff.\n\n\nProgression & Guardrails:\n- Progression: double progre
+ ssion\; add load only after clean top-range reps at RPE 8 or lower\, abou
+ t 2 RIR.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260910@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Active Recovery + Soft Plyometrics
@@ -741,23 +742,23 @@ DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
   before loading.\n\n\nMain Work:\n- Active recovery: 30-45 minutes at ses
  sion RPE 3-4\; finish feeling better\, not fatigued.\n- Plyometric segmen
- t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-c
- ore cap — snap-downs: 2 x 5\; soft pogos: 3 x 15 seconds\; crisp skips:
-  3 x 15 metres. Do not add contacts.\n- Easy circuit: push-ups stopped wi
- th at least four repetitions in reserve\; band pull-aparts or band face p
- ulls\; banded hip-flexor marches\; banded flutter kicks\; and glute bridg
- es.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
- ace carbohydrates before and after training.\n\n\nRecovery:\n- cat-cow\, 
- open-book rotations\, 90/90 hip switches\, straight-knee and bent-knee ca
- lf stretches\, ankle rocks\, and relaxed static stretching of calves\, qu
- adriceps\, hips\, chest\, and upper back.
+ t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-l
+ eg cap — snap-downs: 2 x 4\; soft pogos: 2 x 10 seconds\; no skips. Do 
+ not add contacts.\n- Easy circuit: push-ups stopped with at least four re
+ petitions in reserve\; band pull-aparts or band face pulls\; banded hip-f
+ lexor marches\; banded flutter kicks\; and glute bridges.\n\n\nFueling:\n
+ - Hit daily macros\, keep protein near target\, and place carbohydrates b
+ efore and after training.\n\n\nRecovery:\n- cat-cow\, open-book rotations
+ \, 90/90 hip switches\, straight-knee and bent-knee calf stretches\, ankl
+ e rocks\, and relaxed static stretching of calves\, quadriceps\, hips\, c
+ hest\, and upper back.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260911@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Evenly Paced Hard 5K
@@ -777,9 +778,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260912@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Upper Pull Focus
@@ -801,36 +802,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260913@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-SUMMARY:Lower/Core — Leg Focus
+SUMMARY:Lower/Core — Core Focus
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
  ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
  o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Hack squat or goblet squat: 3 working sets at RPE 8.\n- Romanian 
- deadlift: 3 working sets at RPE 8.\n- Seated or lying hamstring curl: 2 w
- orking sets at RPE 8.\n- Calf raises: 2 working sets at RPE 7.\n- Tibiali
- s raises: 2 working sets at RPE 7.\n- Pallof press: 4 working sets at RPE
-  7.\n\n\nOptional:\n- light good mornings or weighted hyperextensions for
-  2 light sets at RPE 5-6\, using no more than the configured load cap\; t
- hese are not hard working sets.\n\n\nFueling:\n- Hit daily macros\, keep 
- protein near target\, and place carbohydrates before and after training.\
- n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints
-  feel stiff.\n\n\nProgression & Guardrails:\n- Progression: double progre
- ssion\; add load only after clean top-range reps at RPE 8 or lower\, abou
- t 2 RIR.
+ ork:\n- Front plank: 3 working sets at RPE 7.\n- Pallof press: 3 working 
+ sets at RPE 7.\n- Weighted sit-ups: 3 working sets at RPE 7.\n- Side plan
+ k: 3 working sets at RPE 7.\n- Leg extension: 2 working sets at RPE 8.\n-
+  Seated or lying hamstring curl: 2 working sets at RPE 8.\n\n\nOptional:\
+ n- light good mornings or weighted hyperextensions for 2 light sets at RP
+ E 5-6\, using no more than the configured load cap\; these are not hard w
+ orking sets.\n\n\nFueling:\n- Hit daily macros\, keep protein near target
+ \, and place carbohydrates before and after training.\n\n\nRecovery:\n- S
+ leep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nP
+ rogression & Guardrails:\n- Progression: double progression\; add load on
+ ly after clean top-range reps at RPE 8 or lower\, about 2 RIR.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260914@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Active Recovery + Soft Plyometrics
@@ -840,23 +840,23 @@ DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
   before loading.\n\n\nMain Work:\n- Active recovery: 30-45 minutes at ses
  sion RPE 3-4\; finish feeling better\, not fatigued.\n- Plyometric segmen
- t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-l
- eg cap — snap-downs: 2 x 4\; soft pogos: 2 x 10 seconds\; no skips. Do 
- not add contacts.\n- Easy circuit: push-ups stopped with at least four re
- petitions in reserve\; band pull-aparts or band face pulls\; banded hip-f
- lexor marches\; banded flutter kicks\; and glute bridges.\n\n\nFueling:\n
- - Hit daily macros\, keep protein near target\, and place carbohydrates b
- efore and after training.\n\n\nRecovery:\n- cat-cow\, open-book rotations
- \, 90/90 hip switches\, straight-knee and bent-knee calf stretches\, ankl
- e rocks\, and relaxed static stretching of calves\, quadriceps\, hips\, c
- hest\, and upper back.
+ t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-c
+ ore cap — snap-downs: 2 x 5\; soft pogos: 3 x 15 seconds\; crisp skips:
+  3 x 15 metres. Do not add contacts.\n- Easy circuit: push-ups stopped wi
+ th at least four repetitions in reserve\; band pull-aparts or band face p
+ ulls\; banded hip-flexor marches\; banded flutter kicks\; and glute bridg
+ es.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
+ ace carbohydrates before and after training.\n\n\nRecovery:\n- cat-cow\, 
+ open-book rotations\, 90/90 hip switches\, straight-knee and bent-knee ca
+ lf stretches\, ankle rocks\, and relaxed static stretching of calves\, qu
+ adriceps\, hips\, chest\, and upper back.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260915@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Mostly Easy Long Run
@@ -876,9 +876,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260916@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Upper Push Focus
@@ -900,110 +900,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260917@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:Lower/Core — Core Focus
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
- o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Front plank: 3 working sets at RPE 7.\n- Pallof press: 3 working 
- sets at RPE 7.\n- Weighted sit-ups: 3 working sets at RPE 7.\n- Side plan
- k: 3 working sets at RPE 7.\n- Leg extension: 2 working sets at RPE 8.\n-
-  Seated or lying hamstring curl: 2 working sets at RPE 8.\n\n\nOptional:\
- n- light good mornings or weighted hyperextensions for 2 light sets at RP
- E 5-6\, using no more than the configured load cap\; these are not hard w
- orking sets.\n\n\nFueling:\n- Hit daily macros\, keep protein near target
- \, and place carbohydrates before and after training.\n\n\nRecovery:\n- S
- leep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nP
- rogression & Guardrails:\n- Progression: double progression\; add load on
- ly after clean top-range reps at RPE 8 or lower\, about 2 RIR.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260918@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Active Recovery + Soft Plyometrics
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWa
- rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
-  before loading.\n\n\nMain Work:\n- Active recovery: 30-45 minutes at ses
- sion RPE 3-4\; finish feeling better\, not fatigued.\n- Plyometric segmen
- t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-c
- ore cap — snap-downs: 2 x 5\; soft pogos: 3 x 15 seconds\; crisp skips:
-  3 x 15 metres. Do not add contacts.\n- Easy circuit: push-ups stopped wi
- th at least four repetitions in reserve\; band pull-aparts or band face p
- ulls\; banded hip-flexor marches\; banded flutter kicks\; and glute bridg
- es.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
- ace carbohydrates before and after training.\n\n\nRecovery:\n- cat-cow\, 
- open-book rotations\, 90/90 hip switches\, straight-knee and bent-knee ca
- lf stretches\, ankle rocks\, and relaxed static stretching of calves\, qu
- adriceps\, hips\, chest\, and upper back.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260919@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Zone 5 Intervals
-DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
- 00 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25
- -35 g protein plus carbs after.\nCategory: quality_run\nRun volume: 6 km\
- n\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ra
- mp sets before loading.\n\n\nMain Work:\n- Progressive warm-up: 12-15 min
- utes of easy jogging plus 3 relaxed running strides.\n- Intervals: 5 x 3 
- minutes at controlled hard effort with 2 minutes easy jogging recovery\; 
- reach heart-rate zone 5 late. Each repetition is hard but not an all-out 
- sprint.\n- Cooldown: 10 minutes of easy jogging\, then relaxed mobility.\
- n\n\nRun:\n- Planned running volume: 6 km.\n\n\nFueling:\n- Hit daily mac
- ros\, keep protein near target\, and place carbohydrates before and after
-  training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobilit
- y if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260920@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:Upper Pull Focus
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
- lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
- n volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardio\, joint preparation\,
-  and ramp sets for the first movement.\n\n\nMain Work:\n- Pull-ups or lat
-  pulldown: 3 working sets at RPE 8.\n- Chest-supported row: 3 working set
- s at RPE 8.\n- Face pulls: 3 working sets at RPE 8.\n- Preacher curls or 
- hammer curls: 3 working sets at RPE 8.\n- Incline dumbbell press: 2 worki
- ng sets at RPE 8.\n- Tricep pulldown: 2 working sets at RPE 8.\n\n\nFueli
- ng:\n- Hit daily macros\, keep protein near target\, and place carbohydra
- tes before and after training.\n\n\nRecovery:\n- Sleep window stays 22:00
- -06:00\; add mobility if joints feel stiff.\n\n\nProgression & Guardrails
- :\n- Progression: double progression\; add load only after clean top-rang
- e reps at RPE 8 or lower\, about 2 RIR.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20260921@training-calendar
-DTSTAMP:20260825T094553Z
-LAST-MODIFIED:20260825T094553Z
-SEQUENCE:1787651153
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
 SUMMARY:Lower/Core — Leg Focus
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
@@ -1022,6 +923,55 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
   feel stiff.\n\n\nProgression & Guardrails:\n- Progression: double progre
  ssion\; add load only after clean top-range reps at RPE 8 or lower\, abou
  t 2 RIR.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260918@training-calendar
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Active Recovery + Soft Plyometrics
+DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
+ 05 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWa
+ rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
+  before loading.\n\n\nMain Work:\n- Active recovery: 30-45 minutes at ses
+ sion RPE 3-4\; finish feeling better\, not fatigued.\n- Plyometric segmen
+ t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-l
+ eg cap — snap-downs: 2 x 4\; soft pogos: 2 x 10 seconds\; no skips. Do 
+ not add contacts.\n- Easy circuit: push-ups stopped with at least four re
+ petitions in reserve\; band pull-aparts or band face pulls\; banded hip-f
+ lexor marches\; banded flutter kicks\; and glute bridges.\n\n\nFueling:\n
+ - Hit daily macros\, keep protein near target\, and place carbohydrates b
+ efore and after training.\n\n\nRecovery:\n- cat-cow\, open-book rotations
+ \, 90/90 hip switches\, straight-knee and bent-knee calf stretches\, ankl
+ e rocks\, and relaxed static stretching of calves\, quadriceps\, hips\, c
+ hest\, and upper back.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20260919@training-calendar
+DTSTAMP:20260831T172323Z
+LAST-MODIFIED:20260831T172323Z
+SEQUENCE:1788197003
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Zone 5 Intervals
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25
+ -35 g protein plus carbs after.\nCategory: quality_run\nRun volume: 6 km\
+ n\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ra
+ mp sets before loading.\n\n\nMain Work:\n- Progressive warm-up: 12-15 min
+ utes of easy jogging plus 3 relaxed running strides.\n- Intervals: 5 x 3 
+ minutes at controlled hard effort with 2 minutes easy jogging recovery\; 
+ reach heart-rate zone 5 late. Each repetition is hard but not an all-out 
+ sprint.\n- Cooldown: 10 minutes of easy jogging\, then relaxed mobility.\
+ n\n\nRun:\n- Planned running volume: 6 km.\n\n\nFueling:\n- Hit daily mac
+ ros\, keep protein near target\, and place carbohydrates before and after
+  training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobilit
+ y if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
