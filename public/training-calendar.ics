@@ -772,28 +772,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260913@training-calendar
-DTSTAMP:20260831T172323Z
-LAST-MODIFIED:20260831T172323Z
-SEQUENCE:1788197003
+DTSTAMP:20260913T133753Z
+LAST-MODIFIED:20260913T133753Z
+SEQUENCE:1789306673
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-SUMMARY:Lower/Core — Core Focus
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
- o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Front plank: 3 working sets at RPE 7.\n- Pallof press: 3 working 
- sets at RPE 7.\n- Weighted sit-ups: 3 working sets at RPE 7.\n- Side plan
- k: 3 working sets at RPE 7.\n- Leg extension: 2 working sets at RPE 8.\n-
-  Seated or lying hamstring curl: 2 working sets at RPE 8.\n\n\nOptional:\
- n- light good mornings or weighted hyperextensions for 2 light sets at RP
- E 5-6\, using no more than the configured load cap\; these are not hard w
- orking sets.\n\n\nFueling:\n- Hit daily macros\, keep protein near target
- \, and place carbohydrates before and after training.\n\n\nRecovery:\n- S
- leep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nP
- rogression & Guardrails:\n- Progression: double progression\; add load on
- ly after clean top-range reps at RPE 8 or lower\, about 2 RIR.
+SUMMARY:Skipped
+DESCRIPTION:Session skipped.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
