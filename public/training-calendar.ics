@@ -605,54 +605,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260905@training-calendar
-DTSTAMP:20260831T172323Z
-LAST-MODIFIED:20260831T172323Z
-SEQUENCE:1788197003
+DTSTAMP:20260913T080412Z
+LAST-MODIFIED:20260913T080412Z
+SEQUENCE:1789286652
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-SUMMARY:Lower/Core — Core Focus
-DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
- 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
- n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-8 min easy cardi
- o\, joint preparation\, and ramp sets for the first movement.\n\n\nMain W
- ork:\n- Front plank: 3 working sets at RPE 7.\n- Pallof press: 3 working 
- sets at RPE 7.\n- Weighted sit-ups: 3 working sets at RPE 7.\n- Side plan
- k: 3 working sets at RPE 7.\n- Leg extension: 2 working sets at RPE 8.\n-
-  Seated or lying hamstring curl: 2 working sets at RPE 8.\n\n\nOptional:\
- n- light good mornings or weighted hyperextensions for 2 light sets at RP
- E 5-6\, using no more than the configured load cap\; these are not hard w
- orking sets.\n\n\nFueling:\n- Hit daily macros\, keep protein near target
- \, and place carbohydrates before and after training.\n\n\nRecovery:\n- S
- leep window stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nP
- rogression & Guardrails:\n- Progression: double progression\; add load on
- ly after clean top-range reps at RPE 8 or lower\, about 2 RIR.
+SUMMARY:Skipped
+DESCRIPTION:Session skipped.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260906@training-calendar
-DTSTAMP:20260831T172323Z
-LAST-MODIFIED:20260831T172323Z
-SEQUENCE:1788197003
+DTSTAMP:20260913T080412Z
+LAST-MODIFIED:20260913T080412Z
+SEQUENCE:1789286652
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-SUMMARY:Active Recovery + Soft Plyometrics
-DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
- 05 g fat\nMacro timing: keep protein evenly split across meals and place 
- most carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWa
- rm-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets
-  before loading.\n\n\nMain Work:\n- Active recovery: 30-45 minutes at ses
- sion RPE 3-4\; finish feeling better\, not fatigued.\n- Plyometric segmen
- t: no more than 8 minutes\; every crisp set is capped at RPE 6.\n- Post-c
- ore cap — snap-downs: 2 x 5\; soft pogos: 3 x 15 seconds\; crisp skips:
-  3 x 15 metres. Do not add contacts.\n- Easy circuit: push-ups stopped wi
- th at least four repetitions in reserve\; band pull-aparts or band face p
- ulls\; banded hip-flexor marches\; banded flutter kicks\; and glute bridg
- es.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
- ace carbohydrates before and after training.\n\n\nRecovery:\n- cat-cow\, 
- open-book rotations\, 90/90 hip switches\, straight-knee and bent-knee ca
- lf stretches\, ankle rocks\, and relaxed static stretching of calves\, qu
- adriceps\, hips\, chest\, and upper back.
+SUMMARY:Skipped
+DESCRIPTION:Session skipped.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
