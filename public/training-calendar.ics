@@ -981,12 +981,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260922@training-calendar
-DTSTAMP:20260919T070913Z
-LAST-MODIFIED:20260919T070913Z
-SEQUENCE:1789801753
+DTSTAMP:20260927T095845Z
+LAST-MODIFIED:20260927T095845Z
+SEQUENCE:1790503125
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Active Recovery + Soft Plyometrics
+SUMMARY:Skipped
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nMacro timing: keep protein evenly split across meals and place 
  most carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWa
@@ -1007,12 +1007,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260923@training-calendar
-DTSTAMP:20260919T070913Z
-LAST-MODIFIED:20260919T070913Z
-SEQUENCE:1789801753
+DTSTAMP:20260927T095845Z
+LAST-MODIFIED:20260927T095845Z
+SEQUENCE:1790503125
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Mostly Easy Long Run
+SUMMARY:Skipped
 DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
  00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
  25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
@@ -1029,12 +1029,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260924@training-calendar
-DTSTAMP:20260919T070913Z
-LAST-MODIFIED:20260919T070913Z
-SEQUENCE:1789801753
+DTSTAMP:20260927T095845Z
+LAST-MODIFIED:20260927T095845Z
+SEQUENCE:1790503125
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Upper Push Focus
+SUMMARY:Skipped
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
@@ -1053,12 +1053,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260925@training-calendar
-DTSTAMP:20260919T070913Z
-LAST-MODIFIED:20260919T070913Z
-SEQUENCE:1789801753
+DTSTAMP:20260927T095845Z
+LAST-MODIFIED:20260927T095845Z
+SEQUENCE:1790503125
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Lower/Core — Leg Focus
+SUMMARY:Skipped
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
@@ -1080,12 +1080,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260926@training-calendar
-DTSTAMP:20260919T070913Z
-LAST-MODIFIED:20260919T070913Z
-SEQUENCE:1789801753
+DTSTAMP:20260927T095845Z
+LAST-MODIFIED:20260927T095845Z
+SEQUENCE:1790503125
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:Active Recovery + Soft Plyometrics
+SUMMARY:Skipped
 DESCRIPTION:Overview:\nMacros: 3150 kcal\, 165 g protein\, 385 g carbs\, 1
  05 g fat\nMacro timing: keep protein evenly split across meals and place 
  most carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWa
@@ -1106,12 +1106,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260927@training-calendar
-DTSTAMP:20260919T070913Z
-LAST-MODIFIED:20260919T070913Z
-SEQUENCE:1789801753
+DTSTAMP:20260927T095845Z
+LAST-MODIFIED:20260927T095845Z
+SEQUENCE:1790503125
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:Evenly Paced Hard 5K
+SUMMARY:Skipped
 DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
  00 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25
  -35 g protein plus carbs after.\nCategory: quality_run\nRun volume: 7 km\
@@ -1128,12 +1128,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20260928@training-calendar
-DTSTAMP:20260919T070913Z
-LAST-MODIFIED:20260919T070913Z
-SEQUENCE:1789801753
+DTSTAMP:20260927T095845Z
+LAST-MODIFIED:20260927T095845Z
+SEQUENCE:1790503125
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:Upper Pull Focus
+SUMMARY:Skipped
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
