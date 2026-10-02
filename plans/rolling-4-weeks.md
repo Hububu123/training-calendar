@@ -77,13 +77,15 @@ Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein af
 
 Plan:
 - 2 km at 5:30-6:00/km, then 3 relaxed strides.
-- 3:55-4:05/km; recover at 5:45-6:20/km
+- 3:50-4:00/km; RPE 8-9, start at the slower end
 - 5 x 3 minutes
 - 2 minutes of easy jogging at 5:45-6:20/km between repetitions.
 - 1.5-2 km at 5:35-6:10/km, adjusted to the prescribed total.
-- Pallof press 2 x 12 per side at 10 kg
-- Front plank 2 x 45 seconds
-- Reach zone 5 late in the repetitions without sprinting.
+- Ab-wheel rollout from knees: 2 x 6-8; bodyweight, short controlled range, RPE 6. Substitute front plank 2 x 30 seconds if control is lost.
+- Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.
+- Aim for zone 5 late in the repetitions if heart-rate zones are established; do not sprint to chase the number.
+- Effort takes priority over pace. If the easy warm-up still feels unusually hard or the legs remain heavy, replace quality work with 30-40 minutes easy at RPE 2-4; do not make up the hard work.
+- Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued.
 
 ## 2026-10-05 - Upper B — Pull and Shoulder Emphasis
 
@@ -94,12 +96,12 @@ Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a pr
 
 Plan:
 - Pull-ups: 4 x 6 at bodyweight; RPE 7-8.
-- Chest-supported row: 4 x 8 at 45 kg; RPE 8.
+- Chest-supported row: 4 x 8 at 40 kg; RPE 8.
 - Face pulls: 3 x 12 at 20 kg; RPE 8.
-- Hammer curls: 3 x 10 at 12 kg per hand; RPE 8.
+- Hammer curls: 3 x 10-12 per side at 16 kg per hand; RPE 8.
 - Bench press: 3 x 6 at 67.5 kg; RPE 7-8.
-- Dumbbell shoulder press: 2 x 10 at 16 kg per hand; RPE 8.
-- Tricep pulldown: 2 x 12 at 27.5 kg; RPE 8.
+- Dumbbell shoulder press: 2 x 10 at 20 kg per hand; RPE 8.
+- Tricep pulldown: 2 x 12 at 32 kg; RPE 8.
 - Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.
 - Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.
@@ -161,8 +163,10 @@ Plan:
 - 5:15-5:50/km, conversational zone 2
 - 12 km entirely conversational; this is not a progression run.
 - Finish with easy walking.
-- Weighted sit-ups 2 x 10 at 8 kg
-- Side plank 2 x 30 seconds per side
+- Side plank: 2 x 30 seconds per side on the mat; RPE 5-6.
+- Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.
+- Keep RPE 2-4 and full-sentence conversation; run slower than the pace range whenever needed.
+- Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued.
 
 ## 2026-10-08 - Rest or Optional Easy Mobility
 
@@ -183,18 +187,18 @@ Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a pr
 
 Plan:
 - Bench press: 5 x 4 at 77.5 kg; RPE 7-8.
-- Incline dumbbell press: 4 x 8 at 24 kg per hand; RPE 8.
-- Dumbbell shoulder press: 3 x 8 at 18 kg per hand; RPE 8.
-- Tricep pulldown: 3 x 10 at 30 kg; RPE 8.
-- Lat pulldown: 2 x 8 at 55 kg; RPE 8.
-- Chest-supported row: 2 x 10 at 45 kg; RPE 8.
-- Hammer curls: 1 x 12 at 12 kg per hand; RPE 8.
+- Chest-supported row: 2 x 10 at 40 kg; RPE 8.
+- Incline dumbbell press: 4 x 8 at 28 kg per hand; RPE 8.
+- Lat pulldown: 2 x 8 at 64 kg; RPE 8.
+- Dumbbell shoulder press: 3 x 8 at 22 kg per hand; RPE 8.
+- Tricep pulldown: 3 x 10 at 36 kg; RPE 8.
+- Hammer curls: 1 x 10-12 per side at 16 kg per hand; RPE 8.
 - Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.
+- Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Incline dumbbell press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
+- Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.
-- Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
-- Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.
 - Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.
 - Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.
@@ -249,13 +253,14 @@ Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein af
 
 Plan:
 - 2 km at 5:30-6:00/km, then 3 relaxed strides.
-- 4:10-4:15/km for the 5 km
+- 4:00-4:10/km for the 5 km; controlled RPE 8, not an all-out test
 - 5 km
 - 1 km at 5:40-6:15/km.
-- Pallof press 2 x 12 per side at 10 kg
-- Front plank 2 x 45 seconds
-- The first kilometre must not be faster than 4:10/km.
-- Reach zone 5 only late.
+- Ab-wheel rollout from knees: 2 x 6-8; bodyweight, short controlled range, RPE 6. Substitute front plank 2 x 30 seconds if control is lost.
+- Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.
+- Start the first kilometre at 4:10/km; keep an even effort and reach zone 5 only late if appropriate.
+- Effort takes priority over pace. If the easy warm-up still feels unusually hard or the legs remain heavy, replace quality work with 30-40 minutes easy at RPE 2-4; do not make up the hard work.
+- Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued.
 
 ## 2026-10-12 - Upper B — Pull and Shoulder Emphasis
 
@@ -266,12 +271,12 @@ Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a pr
 
 Plan:
 - Pull-ups: 4 x 6 at bodyweight; RPE 7-8.
-- Chest-supported row: 4 x 8 at 45 kg; RPE 8.
+- Chest-supported row: 4 x 8 at 40 kg; RPE 8.
 - Face pulls: 3 x 12 at 20 kg; RPE 8.
-- Hammer curls: 3 x 10 at 12 kg per hand; RPE 8.
+- Hammer curls: 3 x 10-12 per side at 16 kg per hand; RPE 8.
 - Bench press: 3 x 7 at 67.5 kg; RPE 7-8.
-- Dumbbell shoulder press: 2 x 10 at 16 kg per hand; RPE 8.
-- Tricep pulldown: 2 x 12 at 27.5 kg; RPE 8.
+- Dumbbell shoulder press: 2 x 10 at 20 kg per hand; RPE 8.
+- Tricep pulldown: 2 x 12 at 32 kg; RPE 8.
 - Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.
 - Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.
@@ -333,8 +338,10 @@ Plan:
 - 5:15-5:50/km, conversational zone 2
 - 12 km entirely conversational; this is not a progression run.
 - Finish with easy walking.
-- Weighted sit-ups 2 x 10 at 8 kg
-- Side plank 2 x 30 seconds per side
+- Side plank: 2 x 30 seconds per side on the mat; RPE 5-6.
+- Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.
+- Keep RPE 2-4 and full-sentence conversation; run slower than the pace range whenever needed.
+- Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued.
 
 ## 2026-10-15 - Rest or Optional Easy Mobility
 
@@ -355,18 +362,18 @@ Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a pr
 
 Plan:
 - Bench press: 5 x 3 at 80 kg; RPE 7-8.
-- Incline dumbbell press: 4 x 8 at 24 kg per hand; RPE 8.
-- Dumbbell shoulder press: 3 x 8 at 18 kg per hand; RPE 8.
-- Tricep pulldown: 3 x 10 at 30 kg; RPE 8.
-- Lat pulldown: 2 x 8 at 55 kg; RPE 8.
-- Chest-supported row: 2 x 10 at 45 kg; RPE 8.
-- Hammer curls: 1 x 12 at 12 kg per hand; RPE 8.
+- Chest-supported row: 2 x 10 at 40 kg; RPE 8.
+- Incline dumbbell press: 4 x 8 at 28 kg per hand; RPE 8.
+- Lat pulldown: 2 x 8 at 64 kg; RPE 8.
+- Dumbbell shoulder press: 3 x 8 at 22 kg per hand; RPE 8.
+- Tricep pulldown: 3 x 10 at 36 kg; RPE 8.
+- Hammer curls: 1 x 10-12 per side at 16 kg per hand; RPE 8.
 - Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.
+- Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Incline dumbbell press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
+- Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.
-- Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
-- Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.
 - Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.
 - Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.
@@ -421,13 +428,15 @@ Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein af
 
 Plan:
 - 2 km at 5:30-6:00/km, then 3 relaxed strides.
-- 3:55-4:05/km; recover at 5:45-6:20/km
+- 3:50-4:00/km; RPE 8-9, start at the slower end
 - 5 x 3 minutes
 - 2 minutes of easy jogging at 5:45-6:20/km between repetitions.
 - 1.5-2 km at 5:35-6:10/km, adjusted to the prescribed total.
-- Pallof press 2 x 12 per side at 10 kg
-- Front plank 2 x 45 seconds
-- Reach zone 5 late in the repetitions without sprinting.
+- Ab-wheel rollout from knees: 2 x 6-8; bodyweight, short controlled range, RPE 6. Substitute front plank 2 x 30 seconds if control is lost.
+- Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.
+- Aim for zone 5 late in the repetitions if heart-rate zones are established; do not sprint to chase the number.
+- Effort takes priority over pace. If the easy warm-up still feels unusually hard or the legs remain heavy, replace quality work with 30-40 minutes easy at RPE 2-4; do not make up the hard work.
+- Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued.
 
 ## 2026-10-19 - Upper B — Pull and Shoulder Emphasis
 
@@ -438,12 +447,12 @@ Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a pr
 
 Plan:
 - Pull-ups: 4 x 6 at bodyweight; RPE 7-8.
-- Chest-supported row: 4 x 8 at 45 kg; RPE 8.
+- Chest-supported row: 4 x 8 at 40 kg; RPE 8.
 - Face pulls: 3 x 12 at 20 kg; RPE 8.
-- Hammer curls: 3 x 10 at 12 kg per hand; RPE 8.
+- Hammer curls: 3 x 10-12 per side at 16 kg per hand; RPE 8.
 - Bench press: 3 x 8 at 67.5 kg; RPE 7-8.
-- Dumbbell shoulder press: 2 x 10 at 16 kg per hand; RPE 8.
-- Tricep pulldown: 2 x 12 at 27.5 kg; RPE 8.
+- Dumbbell shoulder press: 2 x 10 at 20 kg per hand; RPE 8.
+- Tricep pulldown: 2 x 12 at 32 kg; RPE 8.
 - Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.
 - Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.
@@ -505,8 +514,10 @@ Plan:
 - 5:15-5:50/km, conversational zone 2
 - 12 km entirely conversational; this is not a progression run.
 - Finish with easy walking.
-- Weighted sit-ups 2 x 10 at 8 kg
-- Side plank 2 x 30 seconds per side
+- Side plank: 2 x 30 seconds per side on the mat; RPE 5-6.
+- Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.
+- Keep RPE 2-4 and full-sentence conversation; run slower than the pace range whenever needed.
+- Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued.
 
 ## 2026-10-22 - Rest or Optional Easy Mobility
 
@@ -527,18 +538,18 @@ Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a pr
 
 Plan:
 - Bench press: 4 x 3 at 72.5 kg; RPE 7-8.
-- Incline dumbbell press: 3 x 8 at 24 kg per hand; RPE 8.
-- Dumbbell shoulder press: 2 x 8 at 18 kg per hand; RPE 8.
-- Tricep pulldown: 2 x 10 at 30 kg; RPE 8.
-- Lat pulldown: 1 x 8 at 55 kg; RPE 8.
-- Chest-supported row: 1 x 10 at 45 kg; RPE 8.
-- Hammer curls: 1 x 12 at 12 kg per hand; RPE 8.
+- Chest-supported row: 1 x 10 at 40 kg; RPE 8.
+- Incline dumbbell press: 3 x 8 at 28 kg per hand; RPE 8.
+- Lat pulldown: 1 x 8 at 64 kg; RPE 8.
+- Dumbbell shoulder press: 2 x 8 at 22 kg per hand; RPE 8.
+- Tricep pulldown: 2 x 10 at 36 kg; RPE 8.
+- Hammer curls: 1 x 10-12 per side at 16 kg per hand; RPE 8.
 - Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.
+- Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Incline dumbbell press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
+- Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.
-- Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
-- Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.
 - Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.
 - Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.
