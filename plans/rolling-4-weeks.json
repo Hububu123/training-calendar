@@ -1,704 +1,1276 @@
 {
-  "month": "2026-09-19..2026-10-16",
+  "month": "2026-10-02..2026-10-29",
   "goal": "Growth-biased hybrid block: rebuild strength, gain size, maintain aerobic fitness, and reintroduce controlled explosiveness. Size remains primary; secondary running targets: sub-19:00 5K on 2026-08-26; comfortable completion from the regular hybrid routine half marathon on 2026-11-22.",
   "days": [
     {
-      "date": "2026-09-19",
-      "title": "Zone 5 Intervals",
-      "category": "quality_run",
-      "run_km": 6,
-      "macros": {
-        "calories": 3600,
-        "protein_g": 170,
-        "carbs_g": 550,
-        "fat_g": 100
-      },
-      "description": [
-        "Progressive warm-up: 12-15 minutes of easy jogging plus 3 relaxed running strides.",
-        "Intervals: 5 x 3 minutes at controlled hard effort with 2 minutes easy jogging recovery; reach heart-rate zone 5 late. Each repetition is hard but not an all-out sprint.",
-        "Cooldown: 10 minutes of easy jogging, then relaxed mobility."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Upper Pull Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3350,
-        "protein_g": 175,
-        "carbs_g": 455,
-        "fat_g": 95
-      },
-      "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Pull-ups or lat pulldown: 3 working sets at RPE 8.",
-        "Chest-supported row: 3 working sets at RPE 8.",
-        "Face pulls: 3 working sets at RPE 8.",
-        "Preacher curls or hammer curls: 3 working sets at RPE 8.",
-        "Incline dumbbell press: 2 working sets at RPE 8.",
-        "Tricep pulldown: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
-      ],
-      "exercise_targets": [
-        {
-          "name": "Pull-ups or lat pulldown",
-          "planned_kg": ""
-        },
-        {
-          "name": "Chest-supported row",
-          "planned_kg": ""
-        },
-        {
-          "name": "Face pulls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Preacher curls or hammer curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Incline dumbbell press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Tricep pulldown",
-          "planned_kg": ""
-        }
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Lower/Core — Core Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3500,
-        "protein_g": 180,
-        "carbs_g": 505,
-        "fat_g": 100
-      },
-      "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Front plank: 3 working sets at RPE 7.",
-        "Pallof press: 3 working sets at RPE 7.",
-        "Weighted sit-ups: 3 working sets at RPE 7.",
-        "Side plank: 3 working sets at RPE 7.",
-        "Leg extension: 2 working sets at RPE 8.",
-        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
-        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
-      ],
-      "exercise_targets": [
-        {
-          "name": "Front plank",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pallof press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Weighted sit-ups",
-          "planned_kg": ""
-        },
-        {
-          "name": "Side plank",
-          "planned_kg": ""
-        },
-        {
-          "name": "Leg extension",
-          "planned_kg": ""
-        },
-        {
-          "name": "Seated or lying hamstring curl",
-          "planned_kg": ""
-        }
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Active Recovery + Soft Plyometrics",
-      "category": "recovery",
-      "run_km": 0,
-      "macros": {
-        "calories": 3150,
-        "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
-      },
-      "description": [
-        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
-        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
-        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
-        "Post-core cap — snap-downs: 2 x 5; soft pogos: 3 x 15 seconds; crisp skips: 3 x 15 metres. Do not add contacts.",
-        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Mostly Easy Long Run",
-      "category": "long_run",
-      "run_km": 10,
-      "macros": {
-        "calories": 3600,
-        "protein_g": 170,
-        "carbs_g": 550,
-        "fat_g": 100
-      },
-      "description": [
-        "Mostly easy long run: 10 km at conversational zone 2 effort.",
-        "Preparation: begin with easy jogging; relaxed running strides are optional only when recovery is good.",
-        "Keep the finish controlled and preserve the mostly conversational effort."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Upper Push Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3350,
-        "protein_g": 175,
-        "carbs_g": 455,
-        "fat_g": 95
-      },
-      "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Bench press: 3 working sets at RPE 8.",
-        "Incline dumbbell press: 3 working sets at RPE 8.",
-        "Dumbbell shoulder press: 3 working sets at RPE 8.",
-        "Lateral raises: 3 working sets at RPE 8.",
-        "Pull-ups or lat pulldown: 2 working sets at RPE 8.",
-        "Chest-supported row: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
-      ],
-      "exercise_targets": [
-        {
-          "name": "Bench press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Incline dumbbell press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Dumbbell shoulder press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Lateral raises",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pull-ups or lat pulldown",
-          "planned_kg": ""
-        },
-        {
-          "name": "Chest-supported row",
-          "planned_kg": ""
-        }
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Lower/Core — Leg Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3500,
-        "protein_g": 180,
-        "carbs_g": 505,
-        "fat_g": 100
-      },
-      "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Hack squat or goblet squat: 3 working sets at RPE 8.",
-        "Romanian deadlift: 3 working sets at RPE 8.",
-        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
-        "Calf raises: 2 working sets at RPE 7.",
-        "Tibialis raises: 2 working sets at RPE 7.",
-        "Pallof press: 4 working sets at RPE 7.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
-        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
-      ],
-      "exercise_targets": [
-        {
-          "name": "Hack squat or goblet squat",
-          "planned_kg": ""
-        },
-        {
-          "name": "Romanian deadlift",
-          "planned_kg": ""
-        },
-        {
-          "name": "Seated or lying hamstring curl",
-          "planned_kg": ""
-        },
-        {
-          "name": "Calf raises",
-          "planned_kg": ""
-        },
-        {
-          "name": "Tibialis raises",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pallof press",
-          "planned_kg": ""
-        }
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Active Recovery + Soft Plyometrics",
-      "category": "recovery",
-      "run_km": 0,
-      "macros": {
-        "calories": 3150,
-        "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
-      },
-      "description": [
-        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
-        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
-        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
-        "Post-leg cap — snap-downs: 2 x 4; soft pogos: 2 x 10 seconds; no skips. Do not add contacts.",
-        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Evenly Paced Hard 5K",
-      "category": "quality_run",
-      "run_km": 7,
-      "macros": {
-        "calories": 3600,
-        "protein_g": 170,
-        "carbs_g": 550,
-        "fat_g": 100
-      },
-      "description": [
-        "Progressive warm-up: 12-15 minutes of easy jogging plus 3 relaxed running strides.",
-        "Main work: an evenly paced hard 5K; stay controlled early and reach heart-rate zone 5 late.",
-        "Cooldown: 10 minutes of easy jogging, then relaxed mobility."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Upper Pull Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3350,
-        "protein_g": 175,
-        "carbs_g": 455,
-        "fat_g": 95
-      },
-      "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Pull-ups or lat pulldown: 3 working sets at RPE 8.",
-        "Chest-supported row: 3 working sets at RPE 8.",
-        "Face pulls: 3 working sets at RPE 8.",
-        "Preacher curls or hammer curls: 3 working sets at RPE 8.",
-        "Incline dumbbell press: 2 working sets at RPE 8.",
-        "Tricep pulldown: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
-      ],
-      "exercise_targets": [
-        {
-          "name": "Pull-ups or lat pulldown",
-          "planned_kg": ""
-        },
-        {
-          "name": "Chest-supported row",
-          "planned_kg": ""
-        },
-        {
-          "name": "Face pulls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Preacher curls or hammer curls",
-          "planned_kg": ""
-        },
-        {
-          "name": "Incline dumbbell press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Tricep pulldown",
-          "planned_kg": ""
-        }
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Lower/Core — Core Focus",
-      "category": "gym",
-      "run_km": 0,
-      "macros": {
-        "calories": 3500,
-        "protein_g": 180,
-        "carbs_g": 505,
-        "fat_g": 100
-      },
-      "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Front plank: 3 working sets at RPE 7.",
-        "Pallof press: 3 working sets at RPE 7.",
-        "Weighted sit-ups: 3 working sets at RPE 7.",
-        "Side plank: 3 working sets at RPE 7.",
-        "Leg extension: 2 working sets at RPE 8.",
-        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
-        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
-      ],
-      "exercise_targets": [
-        {
-          "name": "Front plank",
-          "planned_kg": ""
-        },
-        {
-          "name": "Pallof press",
-          "planned_kg": ""
-        },
-        {
-          "name": "Weighted sit-ups",
-          "planned_kg": ""
-        },
-        {
-          "name": "Side plank",
-          "planned_kg": ""
-        },
-        {
-          "name": "Leg extension",
-          "planned_kg": ""
-        },
-        {
-          "name": "Seated or lying hamstring curl",
-          "planned_kg": ""
-        }
-      ],
-      "adjustments": []
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Active Recovery + Soft Plyometrics",
-      "category": "recovery",
-      "run_km": 0,
-      "macros": {
-        "calories": 3150,
-        "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
-      },
-      "description": [
-        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
-        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
-        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
-        "Post-core cap — snap-downs: 2 x 5; soft pogos: 3 x 15 seconds; crisp skips: 3 x 15 metres. Do not add contacts.",
-        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Mostly Easy Long Run",
-      "category": "long_run",
-      "run_km": 11,
-      "macros": {
-        "calories": 3600,
-        "protein_g": 170,
-        "carbs_g": 550,
-        "fat_g": 100
-      },
-      "description": [
-        "Mostly easy long run: 11 km at conversational zone 2 effort.",
-        "Preparation: begin with easy jogging; relaxed running strides are optional only when recovery is good.",
-        "Keep the finish controlled and preserve the mostly conversational effort."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
       "date": "2026-10-02",
-      "title": "Upper Push Focus",
+      "title": "Upper A — Bench and Push Emphasis",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 175,
+        "protein_g": 165,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Bench press: 3 working sets at RPE 8.",
-        "Incline dumbbell press: 3 working sets at RPE 8.",
-        "Dumbbell shoulder press: 3 working sets at RPE 8.",
-        "Lateral raises: 3 working sets at RPE 8.",
-        "Pull-ups or lat pulldown: 2 working sets at RPE 8.",
-        "Chest-supported row: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
+        "Bench press: 5 x 3 at 77.5 kg; RPE 7-8.",
+        "Incline dumbbell press: 4 x 8 at 24 kg per hand; RPE 8.",
+        "Dumbbell shoulder press: 3 x 8 at 18 kg per hand; RPE 8.",
+        "Tricep pulldown: 3 x 10 at 30 kg; RPE 8.",
+        "Lat pulldown: 2 x 8 at 55 kg; RPE 8.",
+        "Chest-supported row: 2 x 10 at 45 kg; RPE 8.",
+        "Hammer curls: 1 x 12 at 12 kg per hand; RPE 8.",
+        "Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Incline dumbbell press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
       ],
       "exercise_targets": [
         {
           "name": "Bench press",
-          "planned_kg": ""
+          "planned_kg": "77.5 kg",
+          "instructions": "5 x 3; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
         },
         {
           "name": "Incline dumbbell press",
-          "planned_kg": ""
+          "planned_kg": "24 kg per hand",
+          "instructions": "4 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
           "name": "Dumbbell shoulder press",
-          "planned_kg": ""
+          "planned_kg": "18 kg per hand",
+          "instructions": "3 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
-          "name": "Lateral raises",
-          "planned_kg": ""
+          "name": "Tricep pulldown",
+          "planned_kg": "30 kg",
+          "instructions": "3 x 10; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
         },
         {
-          "name": "Pull-ups or lat pulldown",
-          "planned_kg": ""
+          "name": "Lat pulldown",
+          "planned_kg": "55 kg",
+          "instructions": "2 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
           "name": "Chest-supported row",
-          "planned_kg": ""
+          "planned_kg": "45 kg",
+          "instructions": "2 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Hammer curls",
+          "planned_kg": "12 kg per hand",
+          "instructions": "1 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
         }
       ],
       "adjustments": []
     },
     {
       "date": "2026-10-03",
-      "title": "Lower/Core — Leg Focus",
+      "title": "Lower A — Leg Emphasis plus Core",
       "category": "gym",
       "run_km": 0,
       "macros": {
-        "calories": 3500,
-        "protein_g": 180,
-        "carbs_g": 505,
-        "fat_g": 100
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Hack squat or goblet squat: 3 working sets at RPE 8.",
-        "Romanian deadlift: 3 working sets at RPE 8.",
-        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
-        "Calf raises: 2 working sets at RPE 7.",
-        "Tibialis raises: 2 working sets at RPE 7.",
-        "Pallof press: 4 working sets at RPE 7.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
-        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
+        "Hack squat: 4 x 6 at 80 kg added weight; RPE 7-8.",
+        "Romanian deadlift: 4 x 6 at 85 kg; RPE 7-8.",
+        "Seated hamstring curl: 3 x 10 at 40 kg; RPE 8.",
+        "Calf raises: 3 x 12 at 60 kg; RPE 8.",
+        "Tibialis raises: 2 x 15 at 15 kg; RPE 7-8.",
+        "Pallof press: 2 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.",
+        "Optional activation — Weighted hyperextensions: 2 x 12 at 10 kg; RPE 5-6.",
+        "Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Romanian deadlift: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Seated hamstring curl: Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower.",
+        "Progression — Calf raises: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
+        "Progression — Tibialis raises: Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower.",
+        "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
+        "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
+        "Progression — Weighted hyperextensions: This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
       ],
       "exercise_targets": [
         {
-          "name": "Hack squat or goblet squat",
-          "planned_kg": ""
+          "name": "Hack squat",
+          "planned_kg": "80 kg added weight",
+          "instructions": "4 x 6; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
         },
         {
           "name": "Romanian deadlift",
-          "planned_kg": ""
+          "planned_kg": "85 kg",
+          "instructions": "4 x 6; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
         },
         {
-          "name": "Seated or lying hamstring curl",
-          "planned_kg": ""
+          "name": "Seated hamstring curl",
+          "planned_kg": "40 kg",
+          "instructions": "3 x 10; RPE 8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
         },
         {
           "name": "Calf raises",
-          "planned_kg": ""
+          "planned_kg": "60 kg",
+          "instructions": "3 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
         },
         {
           "name": "Tibialis raises",
-          "planned_kg": ""
+          "planned_kg": "15 kg",
+          "instructions": "2 x 15; RPE 7-8. Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower."
         },
         {
           "name": "Pallof press",
-          "planned_kg": ""
+          "planned_kg": "10 kg",
+          "instructions": "2 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+        },
+        {
+          "name": "Front plank",
+          "planned_kg": "45",
+          "instructions": "2 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+        },
+        {
+          "name": "Weighted hyperextensions",
+          "planned_kg": "10 kg",
+          "instructions": "2 x 12; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
         }
       ],
       "adjustments": []
     },
     {
       "date": "2026-10-04",
-      "title": "Active Recovery + Soft Plyometrics",
-      "category": "recovery",
-      "run_km": 0,
+      "title": "Zone-5 Intervals",
+      "category": "quality_run",
+      "run_km": 9.0,
       "macros": {
-        "calories": 3150,
+        "calories": 3350,
         "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
-        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
-        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
-        "Post-leg cap — snap-downs: 2 x 4; soft pogos: 2 x 10 seconds; no skips. Do not add contacts.",
-        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
+        "2 km at 5:30-6:00/km, then 3 relaxed strides.",
+        "3:55-4:05/km; recover at 5:45-6:20/km",
+        "5 x 3 minutes",
+        "2 minutes of easy jogging at 5:45-6:20/km between repetitions.",
+        "1.5-2 km at 5:35-6:10/km, adjusted to the prescribed total.",
+        "Pallof press 2 x 12 per side at 10 kg",
+        "Front plank 2 x 45 seconds",
+        "Reach zone 5 late in the repetitions without sprinting."
       ],
       "exercise_targets": [],
       "adjustments": []
     },
     {
       "date": "2026-10-05",
-      "title": "Zone 5 Intervals",
-      "category": "quality_run",
-      "run_km": 6,
-      "macros": {
-        "calories": 3600,
-        "protein_g": 170,
-        "carbs_g": 550,
-        "fat_g": 100
-      },
-      "description": [
-        "Progressive warm-up: 12-15 minutes of easy jogging plus 3 relaxed running strides.",
-        "Intervals: 5 x 3 minutes at controlled hard effort with 2 minutes easy jogging recovery; reach heart-rate zone 5 late. Each repetition is hard but not an all-out sprint.",
-        "Cooldown: 10 minutes of easy jogging, then relaxed mobility."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Upper Pull Focus",
+      "title": "Upper B — Pull and Shoulder Emphasis",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 175,
+        "protein_g": 165,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Pull-ups or lat pulldown: 3 working sets at RPE 8.",
-        "Chest-supported row: 3 working sets at RPE 8.",
-        "Face pulls: 3 working sets at RPE 8.",
-        "Preacher curls or hammer curls: 3 working sets at RPE 8.",
-        "Incline dumbbell press: 2 working sets at RPE 8.",
-        "Tricep pulldown: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR."
+        "Pull-ups: 4 x 6 at bodyweight; RPE 7-8.",
+        "Chest-supported row: 4 x 8 at 45 kg; RPE 8.",
+        "Face pulls: 3 x 12 at 20 kg; RPE 8.",
+        "Hammer curls: 3 x 10 at 12 kg per hand; RPE 8.",
+        "Bench press: 3 x 6 at 67.5 kg; RPE 7-8.",
+        "Dumbbell shoulder press: 2 x 10 at 16 kg per hand; RPE 8.",
+        "Tricep pulldown: 2 x 12 at 27.5 kg; RPE 8.",
+        "Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.",
+        "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
+        "Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
       ],
       "exercise_targets": [
         {
-          "name": "Pull-ups or lat pulldown",
-          "planned_kg": ""
+          "name": "Pull-ups",
+          "planned_kg": "bodyweight",
+          "instructions": "4 x 6; RPE 7-8. Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6."
         },
         {
           "name": "Chest-supported row",
-          "planned_kg": ""
+          "planned_kg": "45 kg",
+          "instructions": "4 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
           "name": "Face pulls",
-          "planned_kg": ""
+          "planned_kg": "20 kg",
+          "instructions": "3 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
         },
         {
-          "name": "Preacher curls or hammer curls",
-          "planned_kg": ""
+          "name": "Hammer curls",
+          "planned_kg": "12 kg per hand",
+          "instructions": "3 x 10; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
         },
         {
-          "name": "Incline dumbbell press",
-          "planned_kg": ""
+          "name": "Bench press",
+          "planned_kg": "67.5 kg",
+          "instructions": "3 x 6; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": "16 kg per hand",
+          "instructions": "2 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
           "name": "Tricep pulldown",
-          "planned_kg": ""
+          "planned_kg": "27.5 kg",
+          "instructions": "2 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Lower B — Core Emphasis plus Legs",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Weighted sit-ups: 4 x 10 at 12 kg; RPE 7-8.",
+        "Pallof press: 4 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 3 x 45-60 seconds at 45; Leave form in reserve.",
+        "Side plank: 3 x 35-45 seconds per side at 35; Leave form in reserve.",
+        "Hack squat: 3 x 8 at 70 kg added weight; RPE 7.",
+        "Seated hamstring curl: 2 x 12 at 35 kg; RPE 7-8.",
+        "Optional activation — Light good mornings: 2 x 15 at 20 kg; RPE 5-6.",
+        "Progression — Weighted sit-ups: Progress from 4 x 10 to 4 x 12 before adding 2 kg.",
+        "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
+        "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
+        "Progression — Side plank: Add 5 seconds per set to 60 seconds, then hold there with cleaner control.",
+        "Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Seated hamstring curl: Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower.",
+        "Progression — Light good mornings: This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Weighted sit-ups",
+          "planned_kg": "12 kg",
+          "instructions": "4 x 10; RPE 7-8. Progress from 4 x 10 to 4 x 12 before adding 2 kg."
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": "10 kg",
+          "instructions": "4 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+        },
+        {
+          "name": "Front plank",
+          "planned_kg": "45",
+          "instructions": "3 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+        },
+        {
+          "name": "Side plank",
+          "planned_kg": "35",
+          "instructions": "3 x 35-45 seconds per side; Leave form in reserve. Add 5 seconds per set to 60 seconds, then hold there with cleaner control."
+        },
+        {
+          "name": "Hack squat",
+          "planned_kg": "70 kg added weight",
+          "instructions": "3 x 8; RPE 7. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Seated hamstring curl",
+          "planned_kg": "35 kg",
+          "instructions": "2 x 12; RPE 7-8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
+        },
+        {
+          "name": "Light good mornings",
+          "planned_kg": "20 kg",
+          "instructions": "2 x 15; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
         }
       ],
       "adjustments": []
     },
     {
       "date": "2026-10-07",
-      "title": "Lower/Core — Core Focus",
+      "title": "Mostly Easy Long Run",
+      "category": "long_run",
+      "run_km": 12.0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Begin easily and settle into conversational zone 2.",
+        "5:15-5:50/km, conversational zone 2",
+        "12 km entirely conversational; this is not a progression run.",
+        "Finish with easy walking.",
+        "Weighted sit-ups 2 x 10 at 8 kg",
+        "Side plank 2 x 30 seconds per side"
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Rest or Optional Easy Mobility",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "The seventh day is a real recovery day. Complete rest is allowed. Optional movement is limited to 15-20 easy minutes using the approved cat-cow, open-book rotations, 90/90 hip switches, calf/ankle mobility, relaxed stretching, band pull-aparts or face pulls, and easy banded flutter kicks. It must finish feeling better, not trained."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Upper A — Bench and Push Emphasis",
       "category": "gym",
       "run_km": 0,
       "macros": {
-        "calories": 3500,
-        "protein_g": 180,
-        "carbs_g": 505,
-        "fat_g": 100
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Warm-up: 5-8 min easy cardio, joint preparation, and ramp sets for the first movement.",
-        "Front plank: 3 working sets at RPE 7.",
-        "Pallof press: 3 working sets at RPE 7.",
-        "Weighted sit-ups: 3 working sets at RPE 7.",
-        "Side plank: 3 working sets at RPE 7.",
-        "Leg extension: 2 working sets at RPE 8.",
-        "Seated or lying hamstring curl: 2 working sets at RPE 8.",
-        "Progression: double progression; add load only after clean top-range reps at RPE 8 or lower, about 2 RIR.",
-        "Optional uncounted lower-back activation: light good mornings or weighted hyperextensions for 2 light sets at RPE 5-6, using no more than the configured load cap; these are not hard working sets."
+        "Bench press: 5 x 4 at 77.5 kg; RPE 7-8.",
+        "Incline dumbbell press: 4 x 8 at 24 kg per hand; RPE 8.",
+        "Dumbbell shoulder press: 3 x 8 at 18 kg per hand; RPE 8.",
+        "Tricep pulldown: 3 x 10 at 30 kg; RPE 8.",
+        "Lat pulldown: 2 x 8 at 55 kg; RPE 8.",
+        "Chest-supported row: 2 x 10 at 45 kg; RPE 8.",
+        "Hammer curls: 1 x 12 at 12 kg per hand; RPE 8.",
+        "Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Incline dumbbell press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
       ],
       "exercise_targets": [
         {
-          "name": "Front plank",
-          "planned_kg": ""
+          "name": "Bench press",
+          "planned_kg": "77.5 kg",
+          "instructions": "5 x 4; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
         },
         {
-          "name": "Pallof press",
-          "planned_kg": ""
+          "name": "Incline dumbbell press",
+          "planned_kg": "24 kg per hand",
+          "instructions": "4 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
-          "name": "Weighted sit-ups",
-          "planned_kg": ""
+          "name": "Dumbbell shoulder press",
+          "planned_kg": "18 kg per hand",
+          "instructions": "3 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
-          "name": "Side plank",
-          "planned_kg": ""
+          "name": "Tricep pulldown",
+          "planned_kg": "30 kg",
+          "instructions": "3 x 10; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
         },
         {
-          "name": "Leg extension",
-          "planned_kg": ""
+          "name": "Lat pulldown",
+          "planned_kg": "55 kg",
+          "instructions": "2 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
         },
         {
-          "name": "Seated or lying hamstring curl",
-          "planned_kg": ""
+          "name": "Chest-supported row",
+          "planned_kg": "45 kg",
+          "instructions": "2 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Hammer curls",
+          "planned_kg": "12 kg per hand",
+          "instructions": "1 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
         }
       ],
       "adjustments": []
     },
     {
-      "date": "2026-10-08",
-      "title": "Active Recovery + Soft Plyometrics",
+      "date": "2026-10-10",
+      "title": "Lower A — Leg Emphasis plus Core",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Hack squat: 4 x 7 at 80 kg added weight; RPE 7-8.",
+        "Romanian deadlift: 4 x 7 at 85 kg; RPE 7-8.",
+        "Seated hamstring curl: 3 x 10 at 40 kg; RPE 8.",
+        "Calf raises: 3 x 12 at 60 kg; RPE 8.",
+        "Tibialis raises: 2 x 15 at 15 kg; RPE 7-8.",
+        "Pallof press: 2 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.",
+        "Optional activation — Weighted hyperextensions: 2 x 12 at 10 kg; RPE 5-6.",
+        "Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Romanian deadlift: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Seated hamstring curl: Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower.",
+        "Progression — Calf raises: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
+        "Progression — Tibialis raises: Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower.",
+        "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
+        "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
+        "Progression — Weighted hyperextensions: This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Hack squat",
+          "planned_kg": "80 kg added weight",
+          "instructions": "4 x 7; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": "85 kg",
+          "instructions": "4 x 7; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Seated hamstring curl",
+          "planned_kg": "40 kg",
+          "instructions": "3 x 10; RPE 8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
+        },
+        {
+          "name": "Calf raises",
+          "planned_kg": "60 kg",
+          "instructions": "3 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
+        },
+        {
+          "name": "Tibialis raises",
+          "planned_kg": "15 kg",
+          "instructions": "2 x 15; RPE 7-8. Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower."
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": "10 kg",
+          "instructions": "2 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+        },
+        {
+          "name": "Front plank",
+          "planned_kg": "45",
+          "instructions": "2 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+        },
+        {
+          "name": "Weighted hyperextensions",
+          "planned_kg": "10 kg",
+          "instructions": "2 x 12; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Evenly Paced Hard 5K",
+      "category": "quality_run",
+      "run_km": 8.0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "2 km at 5:30-6:00/km, then 3 relaxed strides.",
+        "4:10-4:15/km for the 5 km",
+        "5 km",
+        "1 km at 5:40-6:15/km.",
+        "Pallof press 2 x 12 per side at 10 kg",
+        "Front plank 2 x 45 seconds",
+        "The first kilometre must not be faster than 4:10/km.",
+        "Reach zone 5 only late."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Upper B — Pull and Shoulder Emphasis",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Pull-ups: 4 x 6 at bodyweight; RPE 7-8.",
+        "Chest-supported row: 4 x 8 at 45 kg; RPE 8.",
+        "Face pulls: 3 x 12 at 20 kg; RPE 8.",
+        "Hammer curls: 3 x 10 at 12 kg per hand; RPE 8.",
+        "Bench press: 3 x 7 at 67.5 kg; RPE 7-8.",
+        "Dumbbell shoulder press: 2 x 10 at 16 kg per hand; RPE 8.",
+        "Tricep pulldown: 2 x 12 at 27.5 kg; RPE 8.",
+        "Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.",
+        "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
+        "Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Pull-ups",
+          "planned_kg": "bodyweight",
+          "instructions": "4 x 6; RPE 7-8. Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6."
+        },
+        {
+          "name": "Chest-supported row",
+          "planned_kg": "45 kg",
+          "instructions": "4 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Face pulls",
+          "planned_kg": "20 kg",
+          "instructions": "3 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
+        },
+        {
+          "name": "Hammer curls",
+          "planned_kg": "12 kg per hand",
+          "instructions": "3 x 10; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        },
+        {
+          "name": "Bench press",
+          "planned_kg": "67.5 kg",
+          "instructions": "3 x 7; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": "16 kg per hand",
+          "instructions": "2 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Tricep pulldown",
+          "planned_kg": "27.5 kg",
+          "instructions": "2 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Lower B — Core Emphasis plus Legs",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Weighted sit-ups: 4 x 10 at 12 kg; RPE 7-8.",
+        "Pallof press: 4 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 3 x 45-60 seconds at 45; Leave form in reserve.",
+        "Side plank: 3 x 35-45 seconds per side at 35; Leave form in reserve.",
+        "Hack squat: 3 x 8 at 70 kg added weight; RPE 7.",
+        "Seated hamstring curl: 2 x 12 at 35 kg; RPE 7-8.",
+        "Optional activation — Light good mornings: 2 x 15 at 20 kg; RPE 5-6.",
+        "Progression — Weighted sit-ups: Progress from 4 x 10 to 4 x 12 before adding 2 kg.",
+        "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
+        "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
+        "Progression — Side plank: Add 5 seconds per set to 60 seconds, then hold there with cleaner control.",
+        "Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Seated hamstring curl: Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower.",
+        "Progression — Light good mornings: This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Weighted sit-ups",
+          "planned_kg": "12 kg",
+          "instructions": "4 x 10; RPE 7-8. Progress from 4 x 10 to 4 x 12 before adding 2 kg."
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": "10 kg",
+          "instructions": "4 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+        },
+        {
+          "name": "Front plank",
+          "planned_kg": "45",
+          "instructions": "3 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+        },
+        {
+          "name": "Side plank",
+          "planned_kg": "35",
+          "instructions": "3 x 35-45 seconds per side; Leave form in reserve. Add 5 seconds per set to 60 seconds, then hold there with cleaner control."
+        },
+        {
+          "name": "Hack squat",
+          "planned_kg": "70 kg added weight",
+          "instructions": "3 x 8; RPE 7. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Seated hamstring curl",
+          "planned_kg": "35 kg",
+          "instructions": "2 x 12; RPE 7-8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
+        },
+        {
+          "name": "Light good mornings",
+          "planned_kg": "20 kg",
+          "instructions": "2 x 15; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Mostly Easy Long Run",
+      "category": "long_run",
+      "run_km": 12.0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Begin easily and settle into conversational zone 2.",
+        "5:15-5:50/km, conversational zone 2",
+        "12 km entirely conversational; this is not a progression run.",
+        "Finish with easy walking.",
+        "Weighted sit-ups 2 x 10 at 8 kg",
+        "Side plank 2 x 30 seconds per side"
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Rest or Optional Easy Mobility",
       "category": "recovery",
       "run_km": 0,
       "macros": {
-        "calories": 3150,
+        "calories": 3350,
         "protein_g": 165,
-        "carbs_g": 385,
-        "fat_g": 105
+        "carbs_g": 455,
+        "fat_g": 95
       },
       "description": [
-        "Active recovery: 30-45 minutes at session RPE 3-4; finish feeling better, not fatigued.",
-        "Mobility: cat-cow, open-book rotations, 90/90 hip switches, straight-knee and bent-knee calf stretches, ankle rocks, and relaxed static stretching of calves, quadriceps, hips, chest, and upper back.",
-        "Plyometric segment: no more than 8 minutes; every crisp set is capped at RPE 6.",
-        "Post-core cap — snap-downs: 2 x 5; soft pogos: 3 x 15 seconds; crisp skips: 3 x 15 metres. Do not add contacts.",
-        "Easy circuit: push-ups stopped with at least four repetitions in reserve; band pull-aparts or band face pulls; banded hip-flexor marches; banded flutter kicks; and glute bridges."
+        "The seventh day is a real recovery day. Complete rest is allowed. Optional movement is limited to 15-20 easy minutes using the approved cat-cow, open-book rotations, 90/90 hip switches, calf/ankle mobility, relaxed stretching, band pull-aparts or face pulls, and easy banded flutter kicks. It must finish feeling better, not trained."
       ],
       "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Upper A — Bench and Push Emphasis",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Bench press: 5 x 3 at 80 kg; RPE 7-8.",
+        "Incline dumbbell press: 4 x 8 at 24 kg per hand; RPE 8.",
+        "Dumbbell shoulder press: 3 x 8 at 18 kg per hand; RPE 8.",
+        "Tricep pulldown: 3 x 10 at 30 kg; RPE 8.",
+        "Lat pulldown: 2 x 8 at 55 kg; RPE 8.",
+        "Chest-supported row: 2 x 10 at 45 kg; RPE 8.",
+        "Hammer curls: 1 x 12 at 12 kg per hand; RPE 8.",
+        "Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Incline dumbbell press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": "80 kg",
+          "instructions": "5 x 3; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": "24 kg per hand",
+          "instructions": "4 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": "18 kg per hand",
+          "instructions": "3 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Tricep pulldown",
+          "planned_kg": "30 kg",
+          "instructions": "3 x 10; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        },
+        {
+          "name": "Lat pulldown",
+          "planned_kg": "55 kg",
+          "instructions": "2 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Chest-supported row",
+          "planned_kg": "45 kg",
+          "instructions": "2 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Hammer curls",
+          "planned_kg": "12 kg per hand",
+          "instructions": "1 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Lower A — Leg Emphasis plus Core",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Hack squat: 4 x 8 at 80 kg added weight; RPE 7-8.",
+        "Romanian deadlift: 4 x 8 at 85 kg; RPE 7-8.",
+        "Seated hamstring curl: 3 x 10 at 40 kg; RPE 8.",
+        "Calf raises: 3 x 12 at 60 kg; RPE 8.",
+        "Tibialis raises: 2 x 15 at 15 kg; RPE 7-8.",
+        "Pallof press: 2 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.",
+        "Optional activation — Weighted hyperextensions: 2 x 12 at 10 kg; RPE 5-6.",
+        "Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Romanian deadlift: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Seated hamstring curl: Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower.",
+        "Progression — Calf raises: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
+        "Progression — Tibialis raises: Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower.",
+        "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
+        "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
+        "Progression — Weighted hyperextensions: This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Hack squat",
+          "planned_kg": "80 kg added weight",
+          "instructions": "4 x 8; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": "85 kg",
+          "instructions": "4 x 8; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Seated hamstring curl",
+          "planned_kg": "40 kg",
+          "instructions": "3 x 10; RPE 8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
+        },
+        {
+          "name": "Calf raises",
+          "planned_kg": "60 kg",
+          "instructions": "3 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
+        },
+        {
+          "name": "Tibialis raises",
+          "planned_kg": "15 kg",
+          "instructions": "2 x 15; RPE 7-8. Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower."
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": "10 kg",
+          "instructions": "2 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+        },
+        {
+          "name": "Front plank",
+          "planned_kg": "45",
+          "instructions": "2 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+        },
+        {
+          "name": "Weighted hyperextensions",
+          "planned_kg": "10 kg",
+          "instructions": "2 x 12; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Zone-5 Intervals",
+      "category": "quality_run",
+      "run_km": 9.0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "2 km at 5:30-6:00/km, then 3 relaxed strides.",
+        "3:55-4:05/km; recover at 5:45-6:20/km",
+        "5 x 3 minutes",
+        "2 minutes of easy jogging at 5:45-6:20/km between repetitions.",
+        "1.5-2 km at 5:35-6:10/km, adjusted to the prescribed total.",
+        "Pallof press 2 x 12 per side at 10 kg",
+        "Front plank 2 x 45 seconds",
+        "Reach zone 5 late in the repetitions without sprinting."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Upper B — Pull and Shoulder Emphasis",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Pull-ups: 4 x 6 at bodyweight; RPE 7-8.",
+        "Chest-supported row: 4 x 8 at 45 kg; RPE 8.",
+        "Face pulls: 3 x 12 at 20 kg; RPE 8.",
+        "Hammer curls: 3 x 10 at 12 kg per hand; RPE 8.",
+        "Bench press: 3 x 8 at 67.5 kg; RPE 7-8.",
+        "Dumbbell shoulder press: 2 x 10 at 16 kg per hand; RPE 8.",
+        "Tricep pulldown: 2 x 12 at 27.5 kg; RPE 8.",
+        "Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.",
+        "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
+        "Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Pull-ups",
+          "planned_kg": "bodyweight",
+          "instructions": "4 x 6; RPE 7-8. Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6."
+        },
+        {
+          "name": "Chest-supported row",
+          "planned_kg": "45 kg",
+          "instructions": "4 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Face pulls",
+          "planned_kg": "20 kg",
+          "instructions": "3 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
+        },
+        {
+          "name": "Hammer curls",
+          "planned_kg": "12 kg per hand",
+          "instructions": "3 x 10; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        },
+        {
+          "name": "Bench press",
+          "planned_kg": "67.5 kg",
+          "instructions": "3 x 8; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": "16 kg per hand",
+          "instructions": "2 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Tricep pulldown",
+          "planned_kg": "27.5 kg",
+          "instructions": "2 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Lower B — Core Emphasis plus Legs",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Weighted sit-ups: 4 x 10 at 12 kg; RPE 7-8.",
+        "Pallof press: 4 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 3 x 45-60 seconds at 45; Leave form in reserve.",
+        "Side plank: 3 x 35-45 seconds per side at 35; Leave form in reserve.",
+        "Hack squat: 3 x 8 at 70 kg added weight; RPE 7.",
+        "Seated hamstring curl: 2 x 12 at 35 kg; RPE 7-8.",
+        "Optional activation — Light good mornings: 2 x 15 at 20 kg; RPE 5-6.",
+        "Progression — Weighted sit-ups: Progress from 4 x 10 to 4 x 12 before adding 2 kg.",
+        "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
+        "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
+        "Progression — Side plank: Add 5 seconds per set to 60 seconds, then hold there with cleaner control.",
+        "Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Seated hamstring curl: Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower.",
+        "Progression — Light good mornings: This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Weighted sit-ups",
+          "planned_kg": "12 kg",
+          "instructions": "4 x 10; RPE 7-8. Progress from 4 x 10 to 4 x 12 before adding 2 kg."
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": "10 kg",
+          "instructions": "4 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+        },
+        {
+          "name": "Front plank",
+          "planned_kg": "45",
+          "instructions": "3 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+        },
+        {
+          "name": "Side plank",
+          "planned_kg": "35",
+          "instructions": "3 x 35-45 seconds per side; Leave form in reserve. Add 5 seconds per set to 60 seconds, then hold there with cleaner control."
+        },
+        {
+          "name": "Hack squat",
+          "planned_kg": "70 kg added weight",
+          "instructions": "3 x 8; RPE 7. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Seated hamstring curl",
+          "planned_kg": "35 kg",
+          "instructions": "2 x 12; RPE 7-8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
+        },
+        {
+          "name": "Light good mornings",
+          "planned_kg": "20 kg",
+          "instructions": "2 x 15; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Mostly Easy Long Run",
+      "category": "long_run",
+      "run_km": 12.0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Begin easily and settle into conversational zone 2.",
+        "5:15-5:50/km, conversational zone 2",
+        "12 km entirely conversational; this is not a progression run.",
+        "Finish with easy walking.",
+        "Weighted sit-ups 2 x 10 at 8 kg",
+        "Side plank 2 x 30 seconds per side"
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Rest or Optional Easy Mobility",
+      "category": "recovery",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "The seventh day is a real recovery day. Complete rest is allowed. Optional movement is limited to 15-20 easy minutes using the approved cat-cow, open-book rotations, 90/90 hip switches, calf/ankle mobility, relaxed stretching, band pull-aparts or face pulls, and easy banded flutter kicks. It must finish feeling better, not trained."
+      ],
+      "exercise_targets": [],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Upper A — Bench and Push Emphasis",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Bench press: 4 x 3 at 72.5 kg; RPE 7-8.",
+        "Incline dumbbell press: 3 x 8 at 24 kg per hand; RPE 8.",
+        "Dumbbell shoulder press: 2 x 8 at 18 kg per hand; RPE 8.",
+        "Tricep pulldown: 2 x 10 at 30 kg; RPE 8.",
+        "Lat pulldown: 1 x 8 at 55 kg; RPE 8.",
+        "Chest-supported row: 1 x 10 at 45 kg; RPE 8.",
+        "Hammer curls: 1 x 12 at 12 kg per hand; RPE 8.",
+        "Progression — Bench press: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Incline dumbbell press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Dumbbell shoulder press: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Tricep pulldown: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Progression — Lat pulldown: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
+        "Progression — Hammer curls: Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Bench press",
+          "planned_kg": "72.5 kg",
+          "instructions": "4 x 3; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Incline dumbbell press",
+          "planned_kg": "24 kg per hand",
+          "instructions": "3 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "planned_kg": "18 kg per hand",
+          "instructions": "2 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Tricep pulldown",
+          "planned_kg": "30 kg",
+          "instructions": "2 x 10; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        },
+        {
+          "name": "Lat pulldown",
+          "planned_kg": "55 kg",
+          "instructions": "1 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Chest-supported row",
+          "planned_kg": "45 kg",
+          "instructions": "1 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+        },
+        {
+          "name": "Hammer curls",
+          "planned_kg": "12 kg per hand",
+          "instructions": "1 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+        }
+      ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Lower A — Leg Emphasis plus Core",
+      "category": "gym",
+      "run_km": 0,
+      "macros": {
+        "calories": 3350,
+        "protein_g": 165,
+        "carbs_g": 455,
+        "fat_g": 95
+      },
+      "description": [
+        "Hack squat: 3 x 6 at 70 kg added weight; RPE 7-8.",
+        "Romanian deadlift: 3 x 6 at 75 kg; RPE 7-8.",
+        "Seated hamstring curl: 2 x 10 at 40 kg; RPE 8.",
+        "Calf raises: 2 x 12 at 60 kg; RPE 8.",
+        "Tibialis raises: 1 x 15 at 15 kg; RPE 7-8.",
+        "Pallof press: 1 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 1 x 45-60 seconds at 45; Leave form in reserve.",
+        "Optional activation — Weighted hyperextensions: 2 x 12 at 10 kg; RPE 5-6.",
+        "Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Romanian deadlift: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.",
+        "Progression — Seated hamstring curl: Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower.",
+        "Progression — Calf raises: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
+        "Progression — Tibialis raises: Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower.",
+        "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
+        "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
+        "Progression — Weighted hyperextensions: This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in.",
+        "Every gym session includes 10-15 minutes of warm-up and movement-specific ramp sets.",
+        "Rest 3-4 minutes after bench press, hack squat, Romanian deadlift, pull-ups, and other demanding compounds.",
+        "Rest 90-150 seconds for accessories.",
+        "The expected duration is 90-120 minutes.",
+        "Compound work stops with about two repetitions in reserve.",
+        "Accessories stop with one to three repetitions in reserve.",
+        "No routine set is taken to failure.",
+        "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+      ],
+      "exercise_targets": [
+        {
+          "name": "Hack squat",
+          "planned_kg": "70 kg added weight",
+          "instructions": "3 x 6; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Romanian deadlift",
+          "planned_kg": "75 kg",
+          "instructions": "3 x 6; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+        },
+        {
+          "name": "Seated hamstring curl",
+          "planned_kg": "40 kg",
+          "instructions": "2 x 10; RPE 8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
+        },
+        {
+          "name": "Calf raises",
+          "planned_kg": "60 kg",
+          "instructions": "2 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
+        },
+        {
+          "name": "Tibialis raises",
+          "planned_kg": "15 kg",
+          "instructions": "1 x 15; RPE 7-8. Progress within 15-20 repetitions; add the smallest practical load only when every set reaches 20 at RPE 8 or lower."
+        },
+        {
+          "name": "Pallof press",
+          "planned_kg": "10 kg",
+          "instructions": "1 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+        },
+        {
+          "name": "Front plank",
+          "planned_kg": "45",
+          "instructions": "1 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+        },
+        {
+          "name": "Weighted hyperextensions",
+          "planned_kg": "10 kg",
+          "instructions": "2 x 12; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
+        }
+      ],
       "adjustments": []
     }
   ],
   "workout_count": 20,
-  "screened_window_end": "2026-10-16",
+  "screened_window_end": "2026-10-29",
   "reduced_workout_count_warning": null
 }
