@@ -1464,10 +1464,10 @@ BEGIN:VEVENT
 UID:hubert-training-20261010@training-calendar
 DTSTAMP:20261003T091229Z
 LAST-MODIFIED:20261003T091229Z
-SEQUENCE:1791018749
+SEQUENCE:1791018750
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:Upper A — Bench and Push Emphasis
+SUMMARY:Skipped — Upper A — Bench and Push Emphasis
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
@@ -1495,9 +1495,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261011@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Upper A — Bench and Push Emphasis
@@ -1528,44 +1528,52 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261012@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Lower A — Leg Emphasis plus Core
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
-  in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again aft
- er.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movem
- ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOptiona
- l Activation (before lifting):\n- Weighted hyperextensions: 2 x 12 at 10 
- kg\; RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Ha
- ck squat: 4 x 7 at 80 kg added weight\; RPE 7-8.\n2. Romanian deadlift: 4
-  x 7 at 85 kg\; RPE 7-8.\n\n\nAccessories — rest 90–150 sec between s
- ets:\n3. Seated hamstring curl: 3 x 10 at 40 kg\; RPE 8.\n4. Calf raises:
-  3 x 12 at 60 kg\; RPE 8.\n5. Tibialis raises: 2 x 15 at 15 kg\; RPE 7-8.
- \n\n\nCore:\n6. Pallof press: 2 x 12 per side at 10 kg\; RPE 7.\n7. Front
-  plank: 2 x 45-60 seconds at 45\; Leave form in reserve.\n\n\nSession Not
- es:\n- The expected duration is 90-120 minutes.\n- Compound work stops wi
- th about two repetitions in reserve.\n- Accessories stop with one to thre
- e repetitions in reserve.\n- No routine set is taken to failure.\n- If a 
- prescribed starting load exceeds RPE 8 on the first working set\, reduce 
- it immediately by 5-10%\; do not force the written number.\n\n\nFueling:\
- n- Hit daily macros\, keep protein near target\, and place carbohydrates 
- before and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:
- 00\; add mobility if joints feel stiff.\n\n\nProgression & Guardrails:\n-
-  Complete every set with clean form and about 2 reps left. Then use the n
- ext scheduled weight\, or the smallest increase after reaching the top of
-  the rep/time range\; otherwise repeat. Keep activation and reduced sessi
- ons at the listed dose.
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\n\n\nAdjustments:\n- Reduced for pr
+ ior-month recovery feedback.\n\n\nWarm-Up:\n- 5-10 min easy movement\, jo
+ int prep\, and 2-3 gradual ramp sets before loading.\n\n\nOptional Activa
+ tion (before lifting):\n- Weighted hyperextensions: 2 x 12 at 10 kg\; RPE
+  5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack squat
+ : 3 x 8\; added weight\; RPE 7-8. Keep about two clean reps in reserve. 
+ · Planned load: 70 kg\n2. Romanian deadlift: 3 x 8\; RPE 7-8. Keep about
+  two clean reps in reserve. · Planned load: 80 kg\n\n\nAccessories — r
+ est 90–150 sec between sets:\n3. Seated hamstring curl: 3 x 10 at 40 kg
+ \; RPE 8. Existing load note: 40 kg\n4. Calf raises: 3 x 12\; RPE 7-8. Us
+ e the same machine setup. · Planned load: 55 kg\n5. Tibialis raises: 2 x
+  15 at 15 kg\; RPE 7-8. Existing load note: 15 kg\n6. Weighted hyperexten
+ sions: 2 x 12\; RPE 5-6. This is a fixed activation dose for the first fo
+ ur weeks\; do not progress automatically. Stop if symptoms return or the 
+ next morning is worse. Any increase requires symptom-free next mornings a
+ nd explicit approval in a weekly check-in. Existing load note: 10 kg\n\n\
+ nCore:\n7. Pallof press: 2 x 12 per side at 10 kg\; RPE 7. Existing load 
+ note: 10 kg\n8. Front plank: 2 x 45-60 seconds at 45\; Leave form in rese
+ rve.\n\n\nSession Notes:\n- The expected duration is 90-120 minutes.\n- C
+ ompound work stops with about two repetitions in reserve.\n- Accessories 
+ stop with one to three repetitions in reserve.\n- No routine set is taken
+  to failure.\n- If a prescribed starting load exceeds RPE 8 on the first 
+ working set\, reduce it immediately by 5-10%\; do not force the written n
+ umber.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and
+  place carbohydrates before and after training.\n\n\nRecovery:\n- Sleep w
+ indow stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgres
+ sion & Guardrails:\n- Complete every set with clean form and about 2 reps
+  left. Then use the next scheduled weight\, or the smallest increase afte
+ r reaching the top of the rep/time range\; otherwise repeat. Keep activat
+ ion and reduced sessions at the listed dose.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261013@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Evenly Paced Hard 5K
@@ -1594,9 +1602,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261014@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Upper B — Pull and Shoulder Emphasis
@@ -1627,9 +1635,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261015@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Lower B — Core Emphasis plus Legs
@@ -1662,9 +1670,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261016@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Mostly Easy Long Run
@@ -1689,9 +1697,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261017@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Rest or Optional Easy Mobility
@@ -1711,9 +1719,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261018@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Upper A — Bench and Push Emphasis
@@ -1744,9 +1752,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261019@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Lower A — Leg Emphasis plus Core
@@ -1760,7 +1768,7 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  ck squat: 4 x 8 at 80 kg added weight\; RPE 7-8.\n2. Romanian deadlift: 4
   x 8 at 85 kg\; RPE 7-8.\n\n\nAccessories — rest 90–150 sec between s
  ets:\n3. Seated hamstring curl: 3 x 10 at 40 kg\; RPE 8.\n4. Calf raises:
-  3 x 12 at 60 kg\; RPE 8.\n5. Tibialis raises: 2 x 15 at 15 kg\; RPE 7-8.
+  3 x 12 at 55 kg\; RPE 8.\n5. Tibialis raises: 2 x 15 at 15 kg\; RPE 7-8.
  \n\n\nCore:\n6. Pallof press: 2 x 12 per side at 10 kg\; RPE 7.\n7. Front
   plank: 2 x 45-60 seconds at 45\; Leave form in reserve.\n\n\nSession Not
  es:\n- The expected duration is 90-120 minutes.\n- Compound work stops wi
@@ -1779,9 +1787,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261020@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Zone-5 Intervals
@@ -1811,9 +1819,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261021@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Upper B — Pull and Shoulder Emphasis
@@ -1844,9 +1852,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261022@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Lower B — Core Emphasis plus Legs
@@ -1879,9 +1887,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261023@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mostly Easy Long Run
@@ -1906,9 +1914,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261024@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Rest or Optional Easy Mobility
@@ -1928,9 +1936,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261025@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Upper A — Bench and Push Emphasis
@@ -1961,9 +1969,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261026@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Lower A — Leg Emphasis plus Core
@@ -1977,7 +1985,7 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  ck squat: 3 x 6 at 70 kg added weight\; RPE 7-8.\n2. Romanian deadlift: 3
   x 6 at 75 kg\; RPE 7-8.\n\n\nAccessories — rest 90–150 sec between s
  ets:\n3. Seated hamstring curl: 2 x 10 at 40 kg\; RPE 8.\n4. Calf raises:
-  2 x 12 at 60 kg\; RPE 8.\n5. Tibialis raises: 1 x 15 at 15 kg\; RPE 7-8.
+  2 x 12 at 55 kg\; RPE 8.\n5. Tibialis raises: 1 x 15 at 15 kg\; RPE 7-8.
  \n\n\nCore:\n6. Pallof press: 1 x 12 per side at 10 kg\; RPE 7.\n7. Front
   plank: 1 x 45-60 seconds at 45\; Leave form in reserve.\n\n\nSession Not
  es:\n- The expected duration is 90-120 minutes.\n- Compound work stops wi
@@ -1996,9 +2004,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261027@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Zone-5 Intervals
@@ -2028,9 +2036,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261028@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Upper B — Pull and Shoulder Emphasis
@@ -2061,9 +2069,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261029@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Lower B — Core Emphasis plus Legs
@@ -2096,9 +2104,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261030@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Mostly Easy Long Run
@@ -2123,9 +2131,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261031@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Rest or Optional Easy Mobility
@@ -2145,9 +2153,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261101@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Upper A — Bench and Push Emphasis
@@ -2178,9 +2186,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261102@training-calendar
-DTSTAMP:20261011T072245Z
-LAST-MODIFIED:20261011T072245Z
-SEQUENCE:1791703365
+DTSTAMP:20261011T081705Z
+LAST-MODIFIED:20261011T081705Z
+SEQUENCE:1791706625
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Lower A — Leg Emphasis plus Core
@@ -2192,7 +2200,7 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  d Lifts — rest 3–4 min between sets:\n1. Hack squat: 4 x 6 at 82.5 kg
   added weight\; RPE 7-8.\n2. Romanian deadlift: 4 x 6 at 90 kg\; RPE 7-8.
  \n\n\nAccessories — rest 90–150 sec between sets:\n3. Seated hamstrin
- g curl: 3 x 10 at 40 kg\; RPE 8.\n4. Calf raises: 3 x 12 at 60 kg\; RPE 8
+ g curl: 3 x 10 at 40 kg\; RPE 8.\n4. Calf raises: 3 x 12 at 55 kg\; RPE 8
  .\n5. Tibialis raises: 2 x 15 at 15 kg\; RPE 7-8.\n\n\nCore:\n6. Pallof p
  ress: 2 x 12 per side at 10 kg\; RPE 7.\n7. Front plank: 2 x 45-60 second
  s at 45\; Leave form in reserve.\n\n\nSession Notes:\n- The expected dura

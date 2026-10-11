@@ -38,17 +38,13 @@ Plan:
 
 Category: gym
 Run volume: 0 km
-Macros: 3350 kcal, 165 g protein, 455 g carbs, 95 g fat
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
 Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
 
+Adjustments:
+- Reduced for prior-month recovery feedback.
+
 Plan:
-- Hack squat: 4 x 7 at 80 kg added weight; RPE 7-8.
-- Romanian deadlift: 4 x 7 at 85 kg; RPE 7-8.
-- Seated hamstring curl: 3 x 10 at 40 kg; RPE 8.
-- Calf raises: 3 x 12 at 60 kg; RPE 8.
-- Tibialis raises: 2 x 15 at 15 kg; RPE 7-8.
-- Pallof press: 2 x 12 per side at 10 kg; RPE 7.
-- Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.
 - Optional activation — Weighted hyperextensions: 2 x 12 at 10 kg; RPE 5-6.
 - Progression — Hack squat: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.
 - Progression — Romanian deadlift: Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure.
@@ -67,6 +63,14 @@ Plan:
 - No routine set is taken to failure.
 - If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.
 - If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number.
+- Hack squat: 3 x 8; added weight; RPE 7-8. Keep about two clean reps in reserve. · Planned load: 70 kg
+- Romanian deadlift: 3 x 8; RPE 7-8. Keep about two clean reps in reserve. · Planned load: 80 kg
+- Seated hamstring curl: 3 x 10 at 40 kg; RPE 8. Existing load note: 40 kg
+- Calf raises: 3 x 12; RPE 7-8. Use the same machine setup. · Planned load: 55 kg
+- Tibialis raises: 2 x 15 at 15 kg; RPE 7-8. Existing load note: 15 kg
+- Pallof press: 2 x 12 per side at 10 kg; RPE 7. Existing load note: 10 kg
+- Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.
+- Weighted hyperextensions: 2 x 12; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in. Existing load note: 10 kg
 
 ## 2026-10-13 - Evenly Paced Hard 5K
 
@@ -220,7 +224,7 @@ Plan:
 - Hack squat: 4 x 8 at 80 kg added weight; RPE 7-8.
 - Romanian deadlift: 4 x 8 at 85 kg; RPE 7-8.
 - Seated hamstring curl: 3 x 10 at 40 kg; RPE 8.
-- Calf raises: 3 x 12 at 60 kg; RPE 8.
+- Calf raises: 3 x 12 at 55 kg; RPE 8.
 - Tibialis raises: 2 x 15 at 15 kg; RPE 7-8.
 - Pallof press: 2 x 12 per side at 10 kg; RPE 7.
 - Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.
@@ -396,7 +400,7 @@ Plan:
 - Hack squat: 3 x 6 at 70 kg added weight; RPE 7-8.
 - Romanian deadlift: 3 x 6 at 75 kg; RPE 7-8.
 - Seated hamstring curl: 2 x 10 at 40 kg; RPE 8.
-- Calf raises: 2 x 12 at 60 kg; RPE 8.
+- Calf raises: 2 x 12 at 55 kg; RPE 8.
 - Tibialis raises: 1 x 15 at 15 kg; RPE 7-8.
 - Pallof press: 1 x 12 per side at 10 kg; RPE 7.
 - Front plank: 1 x 45-60 seconds at 45; Leave form in reserve.
@@ -572,7 +576,7 @@ Plan:
 - Hack squat: 4 x 6 at 82.5 kg added weight; RPE 7-8.
 - Romanian deadlift: 4 x 6 at 90 kg; RPE 7-8.
 - Seated hamstring curl: 3 x 10 at 40 kg; RPE 8.
-- Calf raises: 3 x 12 at 60 kg; RPE 8.
+- Calf raises: 3 x 12 at 55 kg; RPE 8.
 - Tibialis raises: 2 x 15 at 15 kg; RPE 7-8.
 - Pallof press: 2 x 12 per side at 10 kg; RPE 7.
 - Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.
