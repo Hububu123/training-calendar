@@ -1571,44 +1571,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261013@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
+DTSTAMP:20261013T134126Z
+LAST-MODIFIED:20261013T134126Z
+SEQUENCE:1791898886
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Evenly Paced Hard 5K
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
- 5-35 g protein after\, and another carb-heavy meal within 2 hours.\nCateg
- ory: quality_run\nRun volume: 8 km\n\n\nWarm-Up:\n- 5-10 min easy movemen
- t\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nMain Work
- :\n- 2 km at 5:30-6:00/km\, then 3 relaxed strides.\n- 4:00-4:10/km for t
- he 5 km\; controlled RPE 8\, not an all-out test\n- 5 km\n- 1 km at 5:40-
- 6:15/km.\n- Ab-wheel rollout from knees: 2 x 6-8\; bodyweight\, short con
- trolled range\, RPE 6. Substitute front plank 2 x 30 seconds if control i
- s lost.\n- Banded flutter kicks: 2 x 15-20 seconds alternating legs\; lig
- ht resistance\, ribs down and pelvis still\, RPE 5-6.\n- Start the first 
- kilometre at 4:10/km\; keep an even effort and reach zone 5 only late if 
- appropriate.\n- Effort takes priority over pace. If the easy warm-up stil
- l feels unusually hard or the legs remain heavy\, replace quality work wi
- th 30-40 minutes easy at RPE 2-4\; do not make up the hard work.\n- Do co
- re after the run and cool-down\, resting 45-60 seconds between sets. Shor
- ten the range or stop for back or hip discomfort\; halve or omit core whe
- n fatigued.\n\n\nRun:\n- Planned running volume: 8 km.\n\n\nFueling:\n- H
- it daily macros\, keep protein near target\, and place carbohydrates befo
- re and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\;
-  add mobility if joints feel stiff.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hubert-training-20261014@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
 SUMMARY:Upper B — Pull and Shoulder Emphasis
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
  lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
  n volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and
@@ -1631,6 +1600,28 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  e next scheduled weight\, or the smallest increase after reaching the top
   of the rep/time range\; otherwise repeat. Keep activation and reduced se
  ssions at the listed dose.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261014@training-calendar
+DTSTAMP:20261013T134146Z
+LAST-MODIFIED:20261013T134146Z
+SEQUENCE:1791898906
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:8 km Run + Moderate BodyCombat + 8 km Run
+DESCRIPTION:Overview:\nMacros: 3600 kcal\, 170 g protein\, 550 g carbs\, 1
+ 00 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 
+ 25-35 g protein after\, and another carb-heavy meal within 2 hours.\nCate
+ gory: long_run\nRun volume: 16 km\n\n\nWarm-Up:\n- 5-10 min easy movement
+ \, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nMain Work:
+ \n- Order of the session:\n- 1. Run 8 km at an easy\, conversational effo
+ rt.\n- 2. BodyCombat at moderate intensity.\n- 3. Run 8 km at an easy\, c
+ onversational effort.\n- Total running distance: 16 km. No extra interval
+ s or hard 5K today.\n\n\nRun:\n- Planned running volume: 16 km.\n\n\nFuel
+ ing:\n- Hit daily macros\, keep protein near target\, and place carbohydr
+ ates before and after training.\n\n\nRecovery:\n- Sleep window stays 22:0
+ 0-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

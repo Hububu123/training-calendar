@@ -72,39 +72,14 @@ Plan:
 - Front plank: 2 x 45-60 seconds at 45; Leave form in reserve.
 - Weighted hyperextensions: 2 x 12; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in. Existing load note: 10 kg
 
-## 2026-10-13 - Evenly Paced Hard 5K
-
-Category: quality_run
-Run volume: 8 km
-Macros: 3350 kcal, 165 g protein, 455 g carbs, 95 g fat
-Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein after, and another carb-heavy meal within 2 hours.
-
-Plan:
-- 2 km at 5:30-6:00/km, then 3 relaxed strides.
-- 4:00-4:10/km for the 5 km; controlled RPE 8, not an all-out test
-- 5 km
-- 1 km at 5:40-6:15/km.
-- Ab-wheel rollout from knees: 2 x 6-8; bodyweight, short controlled range, RPE 6. Substitute front plank 2 x 30 seconds if control is lost.
-- Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.
-- Start the first kilometre at 4:10/km; keep an even effort and reach zone 5 only late if appropriate.
-- Effort takes priority over pace. If the easy warm-up still feels unusually hard or the legs remain heavy, replace quality work with 30-40 minutes easy at RPE 2-4; do not make up the hard work.
-- Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued.
-
-## 2026-10-14 - Upper B — Pull and Shoulder Emphasis
+## 2026-10-13 - Upper B — Pull and Shoulder Emphasis
 
 Category: gym
 Run volume: 0 km
-Macros: 3350 kcal, 165 g protein, 455 g carbs, 95 g fat
+Macros: 3350 kcal, 175 g protein, 455 g carbs, 95 g fat
 Macro timing: 35-45 g protein in 4 meals, 40-70 g carbs before lifting, and a protein-plus-carb meal after training.
 
 Plan:
-- Pull-ups: 4 x 6 at bodyweight; RPE 7-8.
-- Chest-supported row: 4 x 8 at 40 kg; RPE 8.
-- Face pulls: 3 x 12 at 20 kg; RPE 8.
-- Hammer curls: 3 x 10-12 per side at 16 kg per hand; RPE 8.
-- Bench press: 3 x 7 at 67.5 kg; RPE 7-8.
-- Dumbbell shoulder press: 2 x 10 at 20 kg per hand; RPE 8.
-- Tricep pulldown: 2 x 12 at 32 kg; RPE 8.
 - Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.
 - Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.
 - Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.
@@ -121,6 +96,27 @@ Plan:
 - No routine set is taken to failure.
 - If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.
 - If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number.
+- Pull-ups: 4 x 6 at bodyweight; RPE 7-8.
+- Chest-supported row: 4 x 8 at 40 kg; RPE 8.
+- Face pulls: 3 x 12 at 20 kg; RPE 8.
+- Hammer curls: 3 x 10-12 per side at 16 kg per hand; RPE 8.
+- Bench press: 3 x 7 at 67.5 kg; RPE 7-8.
+- Dumbbell shoulder press: 2 x 10 at 20 kg per hand; RPE 8.
+- Tricep pulldown: 2 x 12 at 32 kg; RPE 8.
+
+## 2026-10-14 - 8 km Run + Moderate BodyCombat + 8 km Run
+
+Category: long_run
+Run volume: 16 km
+Macros: 3600 kcal, 170 g protein, 550 g carbs, 100 g fat
+Macro timing: 80-110 g carbs in the 2-3 hours before running, 25-35 g protein after, and another carb-heavy meal within 2 hours.
+
+Plan:
+- Order of the session:
+- 1. Run 8 km at an easy, conversational effort.
+- 2. BodyCombat at moderate intensity.
+- 3. Run 8 km at an easy, conversational effort.
+- Total running distance: 16 km. No extra intervals or hard 5K today.
 
 ## 2026-10-15 - Lower B — Core Emphasis plus Legs
 

@@ -164,48 +164,16 @@
     },
     {
       "date": "2026-10-13",
-      "title": "Evenly Paced Hard 5K",
-      "category": "quality_run",
-      "run_km": 8.0,
-      "macros": {
-        "calories": 3350,
-        "protein_g": 165,
-        "carbs_g": 455,
-        "fat_g": 95
-      },
-      "description": [
-        "2 km at 5:30-6:00/km, then 3 relaxed strides.",
-        "4:00-4:10/km for the 5 km; controlled RPE 8, not an all-out test",
-        "5 km",
-        "1 km at 5:40-6:15/km.",
-        "Ab-wheel rollout from knees: 2 x 6-8; bodyweight, short controlled range, RPE 6. Substitute front plank 2 x 30 seconds if control is lost.",
-        "Banded flutter kicks: 2 x 15-20 seconds alternating legs; light resistance, ribs down and pelvis still, RPE 5-6.",
-        "Start the first kilometre at 4:10/km; keep an even effort and reach zone 5 only late if appropriate.",
-        "Effort takes priority over pace. If the easy warm-up still feels unusually hard or the legs remain heavy, replace quality work with 30-40 minutes easy at RPE 2-4; do not make up the hard work.",
-        "Do core after the run and cool-down, resting 45-60 seconds between sets. Shorten the range or stop for back or hip discomfort; halve or omit core when fatigued."
-      ],
-      "exercise_targets": [],
-      "adjustments": []
-    },
-    {
-      "date": "2026-10-14",
       "title": "Upper B — Pull and Shoulder Emphasis",
       "category": "gym",
       "run_km": 0,
       "macros": {
         "calories": 3350,
-        "protein_g": 165,
+        "protein_g": 175,
         "carbs_g": 455,
         "fat_g": 95
       },
       "description": [
-        "Pull-ups: 4 x 6 at bodyweight; RPE 7-8.",
-        "Chest-supported row: 4 x 8 at 40 kg; RPE 8.",
-        "Face pulls: 3 x 12 at 20 kg; RPE 8.",
-        "Hammer curls: 3 x 10-12 per side at 16 kg per hand; RPE 8.",
-        "Bench press: 3 x 7 at 67.5 kg; RPE 7-8.",
-        "Dumbbell shoulder press: 2 x 10 at 20 kg per hand; RPE 8.",
-        "Tricep pulldown: 2 x 12 at 32 kg; RPE 8.",
         "Progression — Pull-ups: Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6.",
         "Progression — Chest-supported row: Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower.",
         "Progression — Face pulls: Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower.",
@@ -221,45 +189,73 @@
         "Accessories stop with one to three repetitions in reserve.",
         "No routine set is taken to failure.",
         "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
-        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number.",
+        "Pull-ups: 4 x 6 at bodyweight; RPE 7-8.",
+        "Chest-supported row: 4 x 8 at 40 kg; RPE 8.",
+        "Face pulls: 3 x 12 at 20 kg; RPE 8.",
+        "Hammer curls: 3 x 10-12 per side at 16 kg per hand; RPE 8.",
+        "Bench press: 3 x 7 at 67.5 kg; RPE 7-8.",
+        "Dumbbell shoulder press: 2 x 10 at 20 kg per hand; RPE 8.",
+        "Tricep pulldown: 2 x 12 at 32 kg; RPE 8."
       ],
       "exercise_targets": [
         {
           "name": "Pull-ups",
-          "planned_kg": "bodyweight",
-          "instructions": "4 x 6; RPE 7-8. Progress from 4 x 6 to 4 x 8; after controlled 4 x 8, add 2.5 kg and return to 4 x 6."
+          "planned_kg": "",
+          "instructions": "4 x 6 at bodyweight; RPE 7-8."
         },
         {
           "name": "Chest-supported row",
-          "planned_kg": "40 kg",
-          "instructions": "4 x 8; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+          "planned_kg": "",
+          "instructions": "4 x 8 at 40 kg; RPE 8."
         },
         {
           "name": "Face pulls",
-          "planned_kg": "20 kg",
-          "instructions": "3 x 12; RPE 8. Progress within 12-15 repetitions; add the smallest practical load only when every set reaches 15 at RPE 8 or lower."
+          "planned_kg": "",
+          "instructions": "3 x 12 at 20 kg; RPE 8."
         },
         {
           "name": "Hammer curls",
-          "planned_kg": "16 kg per hand",
-          "instructions": "3 x 10-12 per side; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+          "planned_kg": "",
+          "instructions": "3 x 10-12 per side at 16 kg per hand; RPE 8."
         },
         {
           "name": "Bench press",
-          "planned_kg": "67.5 kg",
-          "instructions": "3 x 7; RPE 7-8. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+          "planned_kg": "",
+          "instructions": "3 x 7 at 67.5 kg; RPE 7-8."
         },
         {
           "name": "Dumbbell shoulder press",
-          "planned_kg": "20 kg per hand",
-          "instructions": "2 x 10; RPE 8. Progress within 8-10 repetitions; add the smallest practical load only when every set reaches 10 at RPE 8 or lower."
+          "planned_kg": "",
+          "instructions": "2 x 10 at 20 kg per hand; RPE 8."
         },
         {
           "name": "Tricep pulldown",
-          "planned_kg": "32 kg",
-          "instructions": "2 x 12; RPE 8. Progress within 10-12 repetitions; add the smallest practical load only when every set reaches 12 at RPE 8 or lower."
+          "planned_kg": "",
+          "instructions": "2 x 12 at 32 kg; RPE 8."
         }
       ],
+      "adjustments": []
+    },
+    {
+      "date": "2026-10-14",
+      "title": "8 km Run + Moderate BodyCombat + 8 km Run",
+      "category": "long_run",
+      "run_km": 16,
+      "macros": {
+        "calories": 3600,
+        "protein_g": 170,
+        "carbs_g": 550,
+        "fat_g": 100
+      },
+      "description": [
+        "Order of the session:",
+        "1. Run 8 km at an easy, conversational effort.",
+        "2. BodyCombat at moderate intensity.",
+        "3. Run 8 km at an easy, conversational effort.",
+        "Total running distance: 16 km. No extra intervals or hard 5K today."
+      ],
+      "exercise_targets": [],
       "adjustments": []
     },
     {
