@@ -1626,11 +1626,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261015@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
+DTSTAMP:20261014T184259Z
+LAST-MODIFIED:20261014T184259Z
+SEQUENCE:1792003379
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
+SUMMARY:Rest Day
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 175 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: keep protein evenly split across meals and place m
+ ost carbs around activity.\nCategory: buffer\nRun volume: 0 km\n\n\nWarm-
+ Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets be
+ fore loading.\n\n\nMain Work:\n- Rest day. No scheduled workout.\n- Resum
+ e with the next scheduled session\; the remaining workout order is preser
+ ved.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and p
+ lace carbohydrates before and after training.\n\n\nRecovery:\n- Sleep win
+ dow stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261016@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
 SUMMARY:Lower B — Core Emphasis plus Legs
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
@@ -1660,12 +1679,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261016@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
+UID:hubert-training-20261017@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
 SUMMARY:Mostly Easy Long Run
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
@@ -1687,12 +1706,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261017@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+UID:hubert-training-20261018@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
 SUMMARY:Rest or Optional Easy Mobility
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: keep protein evenly split across meals and place m
@@ -1709,12 +1728,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261018@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+UID:hubert-training-20261019@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
 SUMMARY:Upper A — Bench and Push Emphasis
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
@@ -1742,12 +1761,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261019@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
+UID:hubert-training-20261020@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
 SUMMARY:Lower A — Leg Emphasis plus Core
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
@@ -1777,12 +1796,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261020@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
+UID:hubert-training-20261021@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
 SUMMARY:Zone-5 Intervals
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
@@ -1809,12 +1828,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261021@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
+UID:hubert-training-20261022@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
 SUMMARY:Upper B — Pull and Shoulder Emphasis
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
@@ -1842,47 +1861,47 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261022@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
+UID:hubert-training-20261023@training-calendar
+DTSTAMP:20261014T184506Z
+LAST-MODIFIED:20261014T184506Z
+SEQUENCE:1792003506
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
 SUMMARY:Lower B — Core Emphasis plus Legs
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
-  in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again aft
- er.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movem
- ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOptiona
- l Activation (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\; 
- RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack sq
- uat: 3 x 8 at 70 kg added weight\; RPE 7.\n\n\nAccessories — rest 90–
- 150 sec between sets:\n2. Seated hamstring curl: 2 x 12 at 35 kg\; RPE 7-
- 8.\n\n\nCore:\n3. Weighted sit-ups: 4 x 10 at 12 kg\; RPE 7-8.\n4. Pallof
-  press: 4 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 3 x 45-60 seco
- nds at 45\; Leave form in reserve.\n6. Side plank: 3 x 35-45 seconds per 
- side at 35\; Leave form in reserve.\n\n\nSession Notes:\n- The expected d
- uration is 90-120 minutes.\n- Compound work stops with about two repetiti
- ons in reserve.\n- Accessories stop with one to three repetitions in rese
- rve.\n- No routine set is taken to failure.\n- If a prescribed starting l
- oad exceeds RPE 8 on the first working set\, reduce it immediately by 5-1
- 0%\; do not force the written number.\n\n\nFueling:\n- Hit daily macros\,
-  keep protein near target\, and place carbohydrates before and after trai
- ning.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if 
- joints feel stiff.\n\n\nProgression & Guardrails:\n- Complete every set w
- ith clean form and about 2 reps left. Then use the next scheduled weight\
- , or the smallest increase after reaching the top of the rep/time range\;
-  otherwise repeat. Keep activation and reduced sessions at the listed dos
- e.
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy move
+ ment\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOption
+ al Activation (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\;
+  RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack s
+ quat: 3 x 8 at 70 kg added weight\; RPE 7.\n\n\nAccessories — rest 90
+ –150 sec between sets:\n2. Seated hamstring curl: 2 x 12 at 35 kg\; RPE
+  7-8.\n\n\nCore:\n3. Weighted sit-ups: 4 x 10 at 12 kg\; RPE 7-8.\n4. Pal
+ lof press: 4 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 3 x 45-60 s
+ econds at 45\; Leave form in reserve.\n6. Side plank: 3 x 35-45 seconds p
+ er side at 35\; Leave form in reserve.\n\n\nSession Notes:\n- The expecte
+ d duration is 90-120 minutes.\n- Compound work stops with about two repet
+ itions in reserve.\n- Accessories stop with one to three repetitions in r
+ eserve.\n- No routine set is taken to failure.\n- If a prescribed startin
+ g load exceeds RPE 8 on the first working set\, reduce it immediately by 
+ 5-10%\; do not force the written number.\n\n\nFueling:\n- Hit daily macro
+ s\, keep protein near target\, and place carbohydrates before and after t
+ raining.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility 
+ if joints feel stiff.\n\n\nProgression & Guardrails:\n- Complete every se
+ t with clean form and about 2 reps left. Then use the next scheduled weig
+ ht\, or the smallest increase after reaching the top of the rep/time rang
+ e\; otherwise repeat. Keep activation and reduced sessions at the listed 
+ dose.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261023@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
+UID:hubert-training-20261024@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
 SUMMARY:Mostly Easy Long Run
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
@@ -1904,12 +1923,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261024@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+UID:hubert-training-20261025@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
 SUMMARY:Rest or Optional Easy Mobility
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: keep protein evenly split across meals and place m
@@ -1926,12 +1945,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261025@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+UID:hubert-training-20261026@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
 SUMMARY:Upper A — Bench and Push Emphasis
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
@@ -1959,12 +1978,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261026@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
+UID:hubert-training-20261027@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
 SUMMARY:Lower A — Leg Emphasis plus Core
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
@@ -1994,12 +2013,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261027@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
+UID:hubert-training-20261028@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
 SUMMARY:Zone-5 Intervals
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 30-60 g carbs 60-120 min before running\, then 25-
@@ -2026,12 +2045,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261028@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
+UID:hubert-training-20261029@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
 SUMMARY:Upper B — Pull and Shoulder Emphasis
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
@@ -2059,21 +2078,21 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261029@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
+UID:hubert-training-20261030@training-calendar
+DTSTAMP:20261014T184508Z
+LAST-MODIFIED:20261014T184508Z
+SEQUENCE:1792003508
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
 SUMMARY:Lower B — Core Emphasis plus Legs
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
-  in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again aft
- er.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movem
- ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOptiona
- l Activation (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\; 
- RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack sq
- uat: 2 x 8 at 62.5 kg added weight\; RPE 7.\n\n\nAccessories — rest 90
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
+ n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
+ ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy move
+ ment\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOption
+ al Activation (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\;
+  RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack s
+ quat: 2 x 8 at 62.5 kg added weight\; RPE 7.\n\n\nAccessories — rest 90
  –150 sec between sets:\n2. Seated hamstring curl: 1 x 12 at 35 kg\; RPE
   7-8.\n\n\nCore:\n3. Weighted sit-ups: 3 x 10 at 12 kg\; RPE 7-8.\n4. Pal
  lof press: 3 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 2 x 45-60 s
@@ -2094,12 +2113,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261030@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
+UID:hubert-training-20261031@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
 SUMMARY:Mostly Easy Long Run
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
@@ -2121,12 +2140,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261031@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+UID:hubert-training-20261101@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
 SUMMARY:Rest or Optional Easy Mobility
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: keep protein evenly split across meals and place m
@@ -2143,12 +2162,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261101@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+UID:hubert-training-20261102@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
 SUMMARY:Upper A — Bench and Push Emphasis
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
@@ -2176,12 +2195,12 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hubert-training-20261102@training-calendar
-DTSTAMP:20261011T081705Z
-LAST-MODIFIED:20261011T081705Z
-SEQUENCE:1791706625
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
+UID:hubert-training-20261103@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
 SUMMARY:Lower A — Leg Emphasis plus Core
 DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
@@ -2206,6 +2225,104 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
   clean form and about 2 reps left. Then use the next scheduled weight\, o
  r the smallest increase after reaching the top of the rep/time range\; ot
  herwise repeat. Keep activation and reduced sessions at the listed dose.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261104@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Zone-5 Intervals
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
+ 5-35 g protein after\, and another carb-heavy meal within 2 hours.\nCateg
+ ory: quality_run\nRun volume: 9 km\n\n\nWarm-Up:\n- 5-10 min easy movemen
+ t\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nMain Work
+ :\n- 2 km at 5:30-6:00/km\, then 3 relaxed strides.\n- 3:50-4:00/km\; RPE
+  8-9\, start at the slower end\n- 5 x 3 minutes\n- 2 minutes of easy jogg
+ ing at 5:45-6:20/km between repetitions.\n- 1.5-2 km at 5:35-6:10/km\, ad
+ justed to the prescribed total.\n- Ab-wheel rollout from knees: 2 x 6-8\;
+  bodyweight\, short controlled range\, RPE 6. Substitute front plank 2 x 
+ 30 seconds if control is lost.\n- Banded flutter kicks: 2 x 15-20 seconds
+  alternating legs\; light resistance\, ribs down and pelvis still\, RPE 5
+ -6.\n- Aim for zone 5 late in the repetitions if heart-rate zones are est
+ ablished\; do not sprint to chase the number.\n- Effort takes priority ov
+ er pace. If the easy warm-up still feels unusually hard or the legs remai
+ n heavy\, replace quality work with 30-40 minutes easy at RPE 2-4\; do no
+ t make up the hard work.\n- Do core after the run and cool-down\, resting
+  45-60 seconds between sets. Shorten the range or stop for back or hip di
+ scomfort\; halve or omit core when fatigued.\n\n\nRun:\n- Planned running
+  volume: 9 km.\n\n\nFueling:\n- Hit daily macros\, keep protein near targ
+ et\, and place carbohydrates before and after training.\n\n\nRecovery:\n-
+  Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261105@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Upper B — Pull and Shoulder Emphasis
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and
+  2-3 gradual ramp sets before loading.\n\n\nCompound Lifts — rest 3–4
+  min between sets:\n1. Pull-ups: 4 x 6 at bodyweight\; RPE 7-8.\n2. Chest
+ -supported row: 4 x 8 at 40 kg\; RPE 8.\n3. Bench press: 4 x 5 at 70 kg\;
+  RPE 7-8.\n4. Dumbbell shoulder press: 2 x 10 at 20 kg per hand\; RPE 8.\
+ n\n\nAccessories — rest 90–150 sec between sets:\n5. Face pulls: 3 x 
+ 12 at 20 kg\; RPE 8.\n6. Hammer curls: 3 x 10-12 per side at 16 kg per ha
+ nd\; RPE 8.\n7. Tricep pulldown: 2 x 12 at 32 kg\; RPE 8.\n\n\nSession No
+ tes:\n- The expected duration is 90-120 minutes.\n- Compound work stops w
+ ith about two repetitions in reserve.\n- Accessories stop with one to thr
+ ee repetitions in reserve.\n- No routine set is taken to failure.\n- If a
+  prescribed starting load exceeds RPE 8 on the first working set\, reduce
+  it immediately by 5-10%\; do not force the written number.\n\n\nFueling:
+ \n- Hit daily macros\, keep protein near target\, and place carbohydrates
+  before and after training.\n\n\nRecovery:\n- Sleep window stays 22:00-06
+ :00\; add mobility if joints feel stiff.\n\n\nProgression & Guardrails:\n
+ - Complete every set with clean form and about 2 reps left. Then use the 
+ next scheduled weight\, or the smallest increase after reaching the top o
+ f the rep/time range\; otherwise repeat. Keep activation and reduced sess
+ ions at the listed dose.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261106@training-calendar
+DTSTAMP:20261014T184228Z
+LAST-MODIFIED:20261014T184228Z
+SEQUENCE:1792003348
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Lower B — Core Emphasis plus Legs
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
+  in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again aft
+ er.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movem
+ ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nCompoun
+ d Lifts — rest 3–4 min between sets:\n1. Hack squat: 3 x 8 at 72.5 kg
+  added weight\; RPE 7.\n\n\nAccessories — rest 90–150 sec between set
+ s:\n2. Seated hamstring curl: 2 x 12 at 35 kg\; RPE 7-8.\n\n\nCore:\n3. W
+ eighted sit-ups: 4 x 10 at 12 kg\; RPE 7-8.\n4. Pallof press: 4 x 12 per 
+ side at 10 kg\; RPE 7.\n5. Front plank: 3 x 45-60 seconds at 45\; Leave f
+ orm in reserve.\n6. Side plank: 3 x 35-45 seconds per side at 35\; Leave 
+ form in reserve.\n\n\nSession Notes:\n- The expected duration is 90-120 m
+ inutes.\n- Compound work stops with about two repetitions in reserve.\n- 
+ Accessories stop with one to three repetitions in reserve.\n- No routine 
+ set is taken to failure.\n- If a prescribed starting load exceeds RPE 8 o
+ n the first working set\, reduce it immediately by 5-10%\; do not force t
+ he written number.\n\n\nFueling:\n- Hit daily macros\, keep protein near 
+ target\, and place carbohydrates before and after training.\n\n\nRecovery
+ :\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.\
+ n\n\nProgression & Guardrails:\n- Complete every set with clean form and 
+ about 2 reps left. Then use the next scheduled weight\, or the smallest i
+ ncrease after reaching the top of the rep/time range\; otherwise repeat. 
+ Keep activation and reduced sessions at the listed dose.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
