@@ -30,21 +30,15 @@ Plan:
 - Rest day. No scheduled workout.
 - Resume with the next scheduled session; the remaining workout order is preserved.
 
-## 2026-10-16 - Lower B — Core Emphasis plus Legs
+## 2026-10-16 - Skipped — Lower B — Core Emphasis plus Legs
 
-Category: gym
+Category: skipped
 Run volume: 0 km
-Macros: 3350 kcal, 165 g protein, 455 g carbs, 95 g fat
-Macro timing: hit the higher protein target with 40-45 g protein in 4 meals, plus 50-80 g carbs before heavy lifting and carbs again after.
+Macros: 3500 kcal, 180 g protein, 505 g carbs, 100 g fat
+Macro timing: keep protein evenly split across meals and place most carbs around activity.
 
 Plan:
-- Weighted sit-ups: 4 x 10 at 12 kg; RPE 7-8.
-- Pallof press: 4 x 12 per side at 10 kg; RPE 7.
-- Front plank: 3 x 45-60 seconds at 45; Leave form in reserve.
-- Side plank: 3 x 35-45 seconds per side at 35; Leave form in reserve.
-- Hack squat: 3 x 8 at 70 kg added weight; RPE 7.
-- Seated hamstring curl: 2 x 12 at 35 kg; RPE 7-8.
-- Optional activation — Light good mornings: 2 x 15 at 20 kg; RPE 5-6.
+- Status: Skipped. The original planned workout is retained below for reference.
 - Progression — Weighted sit-ups: Progress from 4 x 10 to 4 x 12 before adding 2 kg.
 - Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.
 - Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.
@@ -61,6 +55,13 @@ Plan:
 - No routine set is taken to failure.
 - If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.
 - If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number.
+- Weighted sit-ups: 4 x 10 at 12 kg; RPE 7-8.
+- Pallof press: 4 x 12 per side at 10 kg; RPE 7.
+- Front plank: 3 x 45-60 seconds at 45; Leave form in reserve.
+- Side plank: 3 x 35-45 seconds per side at 35; Leave form in reserve.
+- Hack squat: 3 x 8 at 70 kg added weight; RPE 7.
+- Seated hamstring curl: 2 x 12 at 35 kg; RPE 7-8.
+- Optional activation — Light good mornings: 2 x 15 at 20 kg; RPE 5-6.
 
 ## 2026-10-17 - Mostly Easy Long Run
 

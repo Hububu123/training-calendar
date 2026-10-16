@@ -45,23 +45,17 @@
     },
     {
       "date": "2026-10-16",
-      "title": "Lower B — Core Emphasis plus Legs",
-      "category": "gym",
+      "title": "Skipped — Lower B — Core Emphasis plus Legs",
+      "category": "skipped",
       "run_km": 0,
       "macros": {
-        "calories": 3350,
-        "protein_g": 165,
-        "carbs_g": 455,
-        "fat_g": 95
+        "calories": 3500,
+        "protein_g": 180,
+        "carbs_g": 505,
+        "fat_g": 100
       },
       "description": [
-        "Weighted sit-ups: 4 x 10 at 12 kg; RPE 7-8.",
-        "Pallof press: 4 x 12 per side at 10 kg; RPE 7.",
-        "Front plank: 3 x 45-60 seconds at 45; Leave form in reserve.",
-        "Side plank: 3 x 35-45 seconds per side at 35; Leave form in reserve.",
-        "Hack squat: 3 x 8 at 70 kg added weight; RPE 7.",
-        "Seated hamstring curl: 2 x 12 at 35 kg; RPE 7-8.",
-        "Optional activation — Light good mornings: 2 x 15 at 20 kg; RPE 5-6.",
+        "Status: Skipped. The original planned workout is retained below for reference.",
         "Progression — Weighted sit-ups: Progress from 4 x 10 to 4 x 12 before adding 2 kg.",
         "Progression — Pallof press: Progress from 12 to 15 repetitions per side before adding the smallest stack increment.",
         "Progression — Front plank: Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds.",
@@ -77,43 +71,50 @@
         "Accessories stop with one to three repetitions in reserve.",
         "No routine set is taken to failure.",
         "If a machine's leverage or stack makes the listed load fall outside RPE 7-8, move by one machine increment to restore RPE 7-8.",
-        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number."
+        "If a prescribed starting load exceeds RPE 8 on the first working set, reduce it immediately by 5-10%; do not force the written number.",
+        "Weighted sit-ups: 4 x 10 at 12 kg; RPE 7-8.",
+        "Pallof press: 4 x 12 per side at 10 kg; RPE 7.",
+        "Front plank: 3 x 45-60 seconds at 45; Leave form in reserve.",
+        "Side plank: 3 x 35-45 seconds per side at 35; Leave form in reserve.",
+        "Hack squat: 3 x 8 at 70 kg added weight; RPE 7.",
+        "Seated hamstring curl: 2 x 12 at 35 kg; RPE 7-8.",
+        "Optional activation — Light good mornings: 2 x 15 at 20 kg; RPE 5-6."
       ],
       "exercise_targets": [
         {
           "name": "Weighted sit-ups",
-          "planned_kg": "12 kg",
-          "instructions": "4 x 10; RPE 7-8. Progress from 4 x 10 to 4 x 12 before adding 2 kg."
+          "planned_kg": "",
+          "instructions": "4 x 10 at 12 kg; RPE 7-8."
         },
         {
           "name": "Pallof press",
-          "planned_kg": "10 kg",
-          "instructions": "4 x 12 per side; RPE 7. Progress from 12 to 15 repetitions per side before adding the smallest stack increment."
+          "planned_kg": "",
+          "instructions": "4 x 12 per side at 10 kg; RPE 7."
         },
         {
           "name": "Front plank",
-          "planned_kg": "45",
-          "instructions": "3 x 45-60 seconds; Leave form in reserve. Add 5 seconds per set to 60 seconds, then add a 5 kg plate and return to 45 seconds."
+          "planned_kg": "",
+          "instructions": "3 x 45-60 seconds at 45; Leave form in reserve."
         },
         {
           "name": "Side plank",
-          "planned_kg": "35",
-          "instructions": "3 x 35-45 seconds per side; Leave form in reserve. Add 5 seconds per set to 60 seconds, then hold there with cleaner control."
+          "planned_kg": "",
+          "instructions": "3 x 35-45 seconds per side at 35; Leave form in reserve."
         },
         {
           "name": "Hack squat",
-          "planned_kg": "70 kg added weight",
-          "instructions": "3 x 8; RPE 7. Follow the exact 12-week main-lift table; do not add load before the next scheduled exposure."
+          "planned_kg": "",
+          "instructions": "3 x 8 at 70 kg added weight; RPE 7."
         },
         {
           "name": "Seated hamstring curl",
-          "planned_kg": "35 kg",
-          "instructions": "2 x 12; RPE 7-8. Progress within the prescribed repetition range; add the smallest practical load only when every set reaches its top at RPE 8 or lower."
+          "planned_kg": "",
+          "instructions": "2 x 12 at 35 kg; RPE 7-8."
         },
         {
-          "name": "Light good mornings",
-          "planned_kg": "20 kg",
-          "instructions": "2 x 15; RPE 5-6. This is a fixed activation dose for the first four weeks; do not progress automatically. Stop if symptoms return or the next morning is worse. Any increase requires symptom-free next mornings and explicit approval in a weekly check-in."
+          "name": "Optional activation — Light good mornings",
+          "planned_kg": "",
+          "instructions": "2 x 15 at 20 kg; RPE 5-6."
         }
       ],
       "adjustments": []

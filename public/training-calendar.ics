@@ -1645,37 +1645,37 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261016@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261016T171838Z
+LAST-MODIFIED:20261016T171838Z
+SEQUENCE:1792171118
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Lower B — Core Emphasis plus Legs
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
- 5 g fat\nMacro timing: hit the higher protein target with 40-45 g protein
-  in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again aft
- er.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movem
- ent\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOptiona
- l Activation (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\; 
- RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack sq
- uat: 3 x 8 at 70 kg added weight\; RPE 7.\n\n\nAccessories — rest 90–
- 150 sec between sets:\n2. Seated hamstring curl: 2 x 12 at 35 kg\; RPE 7-
- 8.\n\n\nCore:\n3. Weighted sit-ups: 4 x 10 at 12 kg\; RPE 7-8.\n4. Pallof
-  press: 4 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 3 x 45-60 seco
- nds at 45\; Leave form in reserve.\n6. Side plank: 3 x 35-45 seconds per 
- side at 35\; Leave form in reserve.\n\n\nSession Notes:\n- The expected d
- uration is 90-120 minutes.\n- Compound work stops with about two repetiti
- ons in reserve.\n- Accessories stop with one to three repetitions in rese
- rve.\n- No routine set is taken to failure.\n- If a prescribed starting l
- oad exceeds RPE 8 on the first working set\, reduce it immediately by 5-1
- 0%\; do not force the written number.\n\n\nFueling:\n- Hit daily macros\,
-  keep protein near target\, and place carbohydrates before and after trai
- ning.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if 
- joints feel stiff.\n\n\nProgression & Guardrails:\n- Complete every set w
- ith clean form and about 2 reps left. Then use the next scheduled weight\
- , or the smallest increase after reaching the top of the rep/time range\;
-  otherwise repeat. Keep activation and reduced sessions at the listed dos
- e.
+SUMMARY:Skipped — Lower B — Core Emphasis plus Legs
+DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
+ 00 g fat\nMacro timing: keep protein evenly split across meals and place 
+ most carbs around activity.\nCategory: skipped\nRun volume: 0 km\n\n\nWar
+ m-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets 
+ before loading.\n\n\nMain Work:\n- Status: Skipped. The original planned 
+ workout is retained below for reference.\n- Rest 3-4 minutes after bench 
+ press\, hack squat\, Romanian deadlift\, pull-ups\, and other demanding c
+ ompounds.\n- Rest 90-150 seconds for accessories.\n- The expected duratio
+ n is 90-120 minutes.\n- Compound work stops with about two repetitions in
+  reserve.\n- Accessories stop with one to three repetitions in reserve.\n
+ - No routine set is taken to failure.\n- If a prescribed starting load ex
+ ceeds RPE 8 on the first working set\, reduce it immediately by 5-10%\; d
+ o not force the written number.\n- Weighted sit-ups: 4 x 10 at 12 kg\; RP
+ E 7-8.\n- Pallof press: 4 x 12 per side at 10 kg\; RPE 7.\n- Front plank:
+  3 x 45-60 seconds at 45\; Leave form in reserve.\n- Side plank: 3 x 35-4
+ 5 seconds per side at 35\; Leave form in reserve.\n- Hack squat: 3 x 8 at
+  70 kg added weight\; RPE 7.\n- Seated hamstring curl: 2 x 12 at 35 kg\; 
+ RPE 7-8.\n\n\nOptional:\n- Light good mornings: 2 x 15 at 20 kg\; RPE 5-6
+ .\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and plac
+ e carbohydrates before and after training.\n\n\nRecovery:\n- Sleep window
+  stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression 
+ & Guardrails:\n- Complete every set with clean form and about 2 reps left
+ . Then use the next scheduled weight\, or the smallest increase after rea
+ ching the top of the rep/time range\; otherwise repeat. Keep activation a
+ nd reduced sessions at the listed dose.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
