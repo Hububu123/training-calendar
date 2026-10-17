@@ -1680,36 +1680,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261017@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:Mostly Easy Long Run
-DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+SUMMARY:Completed Easy Run — approx. 8–9 km
+DESCRIPTION:Overview:\nMacros: 3400 kcal\, 165 g protein\, 485 g carbs\, 9
  5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
  5-35 g protein after\, and another carb-heavy meal within 2 hours.\nCateg
- ory: long_run\nRun volume: 12 km\n\n\nWarm-Up:\n- 5-10 min easy movement\
- , joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nMain Work:\
- n- Begin easily and settle into conversational zone 2.\n- 5:15-5:50/km\, 
- conversational zone 2\n- 12 km entirely conversational\; this is not a pr
- ogression run.\n- Finish with easy walking.\n- Side plank: 2 x 30 seconds
-  per side on the mat\; RPE 5-6.\n- Banded flutter kicks: 2 x 15-20 second
- s alternating legs\; light resistance\, ribs down and pelvis still\, RPE 
- 5-6.\n- Keep RPE 2-4 and full-sentence conversation\; run slower than the
-  pace range whenever needed.\n- Do core after the run and cool-down\, res
- ting 45-60 seconds between sets. Shorten the range or stop for back or hi
- p discomfort\; halve or omit core when fatigued.\n\n\nRun:\n- Planned run
- ning volume: 12 km.\n\n\nFueling:\n- Hit daily macros\, keep protein near
-  target\, and place carbohydrates before and after training.\n\n\nRecover
- y:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+ ory: easy_run\nRun volume: 8.5 km\n\n\nAdjustments:\n- Reduced for prior-
+ month recovery feedback.\n\n\nWarm-Up:\n- 5-10 min easy movement\, joint 
+ prep\, and 2-3 gradual ramp sets before loading.\n\n\nMain Work:\n- Compl
+ eted approximately 8–9 km at approximately 5:20/km.\n- Effort was repor
+ ted as very gentle.\n- Distance is approximate: 8.5 km is only the midpoi
+ nt used for display\, not an exact measured distance.\n- This replaces th
+ e originally planned 12 km run. Additional core work was not reported.\n-
+  No catch-up distance is added.\n\n\nRun:\n- Planned running volume: 8.5 
+ km.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and pl
+ ace carbohydrates before and after training.\n\n\nRecovery:\n- Sleep wind
+ ow stays 22:00-06:00\; add mobility if joints feel stiff.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261018@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Rest or Optional Easy Mobility
@@ -1729,9 +1726,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261019@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Upper A — Bench and Push Emphasis
@@ -1762,9 +1759,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261020@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Lower A — Leg Emphasis plus Core
@@ -1797,9 +1794,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261021@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Zone-5 Intervals
@@ -1829,9 +1826,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261022@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Upper B — Pull and Shoulder Emphasis
@@ -1862,44 +1859,44 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261023@training-calendar
-DTSTAMP:20261014T184506Z
-LAST-MODIFIED:20261014T184506Z
-SEQUENCE:1792003506
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Lower B — Core Emphasis plus Legs
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy move
- ment\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOption
- al Activation (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\;
-  RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack s
- quat: 3 x 8 at 70 kg added weight\; RPE 7.\n\n\nAccessories — rest 90
- –150 sec between sets:\n2. Seated hamstring curl: 2 x 12 at 35 kg\; RPE
-  7-8.\n\n\nCore:\n3. Weighted sit-ups: 4 x 10 at 12 kg\; RPE 7-8.\n4. Pal
- lof press: 4 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 3 x 45-60 s
- econds at 45\; Leave form in reserve.\n6. Side plank: 3 x 35-45 seconds p
- er side at 35\; Leave form in reserve.\n\n\nSession Notes:\n- The expecte
- d duration is 90-120 minutes.\n- Compound work stops with about two repet
- itions in reserve.\n- Accessories stop with one to three repetitions in r
- eserve.\n- No routine set is taken to failure.\n- If a prescribed startin
- g load exceeds RPE 8 on the first working set\, reduce it immediately by 
- 5-10%\; do not force the written number.\n\n\nFueling:\n- Hit daily macro
- s\, keep protein near target\, and place carbohydrates before and after t
- raining.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility 
- if joints feel stiff.\n\n\nProgression & Guardrails:\n- Complete every se
- t with clean form and about 2 reps left. Then use the next scheduled weig
- ht\, or the smallest increase after reaching the top of the rep/time rang
- e\; otherwise repeat. Keep activation and reduced sessions at the listed 
- dose.
+ ter.\nCategory: gym\nRun volume: 0 km\n\n\nAdjustments:\n- Reduced for pr
+ ior-month recovery feedback.\n\n\nWarm-Up:\n- 5-10 min easy movement\, jo
+ int prep\, and 2-3 gradual ramp sets before loading.\n\n\nOptional Activa
+ tion (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\; RPE 5-6.
+ \n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack squat: 3 x
+  8 at 70 kg added weight\; RPE 7.\n\n\nAccessories — rest 90–150 sec 
+ between sets:\n2. Seated hamstring curl: 2 x 12 at 35 kg\; RPE 7-8.\n\n\n
+ Core:\n3. Weighted sit-ups: 4 x 10 at 12 kg\; RPE 7-8.\n4. Pallof press: 
+ 4 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 3 x 45-60 seconds at 4
+ 5\; Leave form in reserve.\n6. Side plank: 3 x 35-45 seconds per side at 
+ 35\; Leave form in reserve.\n\n\nSession Notes:\n- The expected duration 
+ is 90-120 minutes.\n- Compound work stops with about two repetitions in r
+ eserve.\n- Accessories stop with one to three repetitions in reserve.\n- 
+ No routine set is taken to failure.\n- If a prescribed starting load exce
+ eds RPE 8 on the first working set\, reduce it immediately by 5-10%\; do 
+ not force the written number.\n\n\nFueling:\n- Hit daily macros\, keep pr
+ otein near target\, and place carbohydrates before and after training.\n\
+ n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints f
+ eel stiff.\n\n\nProgression & Guardrails:\n- Complete every set with clea
+ n form and about 2 reps left. Then use the next scheduled weight\, or the
+  smallest increase after reaching the top of the rep/time range\; otherwi
+ se repeat. Keep activation and reduced sessions at the listed dose.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261024@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Mostly Easy Long Run
@@ -1924,9 +1921,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261025@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Rest or Optional Easy Mobility
@@ -1946,9 +1943,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261026@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Upper A — Bench and Push Emphasis
@@ -1979,9 +1976,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261027@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Lower A — Leg Emphasis plus Core
@@ -2014,9 +2011,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261028@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Zone-5 Intervals
@@ -2046,9 +2043,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261029@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Upper B — Pull and Shoulder Emphasis
@@ -2079,44 +2076,44 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261030@training-calendar
-DTSTAMP:20261014T184508Z
-LAST-MODIFIED:20261014T184508Z
-SEQUENCE:1792003508
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Lower B — Core Emphasis plus Legs
 DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  00 g fat\nMacro timing: hit the higher protein target with 40-45 g protei
  n in 4 meals\, plus 50-80 g carbs before heavy lifting and carbs again af
- ter.\nCategory: gym\nRun volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy move
- ment\, joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nOption
- al Activation (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\;
-  RPE 5-6.\n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack s
- quat: 2 x 8 at 62.5 kg added weight\; RPE 7.\n\n\nAccessories — rest 90
- –150 sec between sets:\n2. Seated hamstring curl: 1 x 12 at 35 kg\; RPE
-  7-8.\n\n\nCore:\n3. Weighted sit-ups: 3 x 10 at 12 kg\; RPE 7-8.\n4. Pal
- lof press: 3 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 2 x 45-60 s
- econds at 45\; Leave form in reserve.\n6. Side plank: 2 x 35-45 seconds p
- er side at 35\; Leave form in reserve.\n\n\nSession Notes:\n- The expecte
- d duration is 90-120 minutes.\n- Compound work stops with about two repet
- itions in reserve.\n- Accessories stop with one to three repetitions in r
- eserve.\n- No routine set is taken to failure.\n- If a prescribed startin
- g load exceeds RPE 8 on the first working set\, reduce it immediately by 
- 5-10%\; do not force the written number.\n\n\nFueling:\n- Hit daily macro
- s\, keep protein near target\, and place carbohydrates before and after t
- raining.\n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility 
- if joints feel stiff.\n\n\nProgression & Guardrails:\n- Complete every se
- t with clean form and about 2 reps left. Then use the next scheduled weig
- ht\, or the smallest increase after reaching the top of the rep/time rang
- e\; otherwise repeat. Keep activation and reduced sessions at the listed 
- dose.
+ ter.\nCategory: gym\nRun volume: 0 km\n\n\nAdjustments:\n- Reduced for pr
+ ior-month recovery feedback.\n\n\nWarm-Up:\n- 5-10 min easy movement\, jo
+ int prep\, and 2-3 gradual ramp sets before loading.\n\n\nOptional Activa
+ tion (before lifting):\n- Light good mornings: 2 x 15 at 20 kg\; RPE 5-6.
+ \n\n\nCompound Lifts — rest 3–4 min between sets:\n1. Hack squat: 2 x
+  8 at 62.5 kg added weight\; RPE 7.\n\n\nAccessories — rest 90–150 se
+ c between sets:\n2. Seated hamstring curl: 1 x 12 at 35 kg\; RPE 7-8.\n\n
+ \nCore:\n3. Weighted sit-ups: 3 x 10 at 12 kg\; RPE 7-8.\n4. Pallof press
+ : 3 x 12 per side at 10 kg\; RPE 7.\n5. Front plank: 2 x 45-60 seconds at
+  45\; Leave form in reserve.\n6. Side plank: 2 x 35-45 seconds per side a
+ t 35\; Leave form in reserve.\n\n\nSession Notes:\n- The expected duratio
+ n is 90-120 minutes.\n- Compound work stops with about two repetitions in
+  reserve.\n- Accessories stop with one to three repetitions in reserve.\n
+ - No routine set is taken to failure.\n- If a prescribed starting load ex
+ ceeds RPE 8 on the first working set\, reduce it immediately by 5-10%\; d
+ o not force the written number.\n\n\nFueling:\n- Hit daily macros\, keep 
+ protein near target\, and place carbohydrates before and after training.\
+ n\n\nRecovery:\n- Sleep window stays 22:00-06:00\; add mobility if joints
+  feel stiff.\n\n\nProgression & Guardrails:\n- Complete every set with cl
+ ean form and about 2 reps left. Then use the next scheduled weight\, or t
+ he smallest increase after reaching the top of the rep/time range\; other
+ wise repeat. Keep activation and reduced sessions at the listed dose.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261031@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Mostly Easy Long Run
@@ -2141,9 +2138,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261101@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Rest or Optional Easy Mobility
@@ -2163,9 +2160,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261102@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Upper A — Bench and Push Emphasis
@@ -2196,9 +2193,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261103@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Lower A — Leg Emphasis plus Core
@@ -2229,9 +2226,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261104@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Zone-5 Intervals
@@ -2261,9 +2258,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261105@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Upper B — Pull and Shoulder Emphasis
@@ -2294,9 +2291,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261106@training-calendar
-DTSTAMP:20261014T184228Z
-LAST-MODIFIED:20261014T184228Z
-SEQUENCE:1792003348
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Lower B — Core Emphasis plus Legs
@@ -2323,6 +2320,88 @@ DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
  about 2 reps left. Then use the next scheduled weight\, or the smallest i
  ncrease after reaching the top of the rep/time range\; otherwise repeat. 
  Keep activation and reduced sessions at the listed dose.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261107@training-calendar
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Mostly Easy Long Run
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 80-110 g carbs in the 2-3 hours before running\, 2
+ 5-35 g protein after\, and another carb-heavy meal within 2 hours.\nCateg
+ ory: long_run\nRun volume: 12 km\n\n\nWarm-Up:\n- 5-10 min easy movement\
+ , joint prep\, and 2-3 gradual ramp sets before loading.\n\n\nMain Work:\
+ n- Begin easily and settle into conversational zone 2.\n- 5:15-5:50/km\, 
+ conversational zone 2\n- 12 km entirely conversational\; this is not a pr
+ ogression run.\n- Finish with easy walking.\n- Side plank: 2 x 30 seconds
+  per side on the mat\; RPE 5-6.\n- Banded flutter kicks: 2 x 15-20 second
+ s alternating legs\; light resistance\, ribs down and pelvis still\, RPE 
+ 5-6.\n- Keep RPE 2-4 and full-sentence conversation\; run slower than the
+  pace range whenever needed.\n- Do core after the run and cool-down\, res
+ ting 45-60 seconds between sets. Shorten the range or stop for back or hi
+ p discomfort\; halve or omit core when fatigued.\n\n\nRun:\n- Planned run
+ ning volume: 12 km.\n\n\nFueling:\n- Hit daily macros\, keep protein near
+  target\, and place carbohydrates before and after training.\n\n\nRecover
+ y:\n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261108@training-calendar
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Rest or Optional Easy Mobility
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: keep protein evenly split across meals and place m
+ ost carbs around activity.\nCategory: recovery\nRun volume: 0 km\n\n\nWar
+ m-Up:\n- 5-10 min easy movement\, joint prep\, and 2-3 gradual ramp sets 
+ before loading.\n\n\nMain Work:\n- The seventh day is a real recovery day
+ . Complete rest is allowed. Optional movement is limited to 15-20 easy mi
+ nutes using the approved cat-cow\, open-book rotations\, 90/90 hip switch
+ es\, calf/ankle mobility\, relaxed stretching\, band pull-aparts or face 
+ pulls\, and easy banded flutter kicks. It must finish feeling better\, no
+ t trained.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\,
+  and place carbohydrates before and after training.\n\n\nRecovery:\n- Sle
+ ep window stays 22:00-06:00\; add mobility if joints feel stiff.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hubert-training-20261109@training-calendar
+DTSTAMP:20261017T113725Z
+LAST-MODIFIED:20261017T113725Z
+SEQUENCE:1792237045
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Upper A — Bench and Push Emphasis
+DESCRIPTION:Overview:\nMacros: 3350 kcal\, 165 g protein\, 455 g carbs\, 9
+ 5 g fat\nMacro timing: 35-45 g protein in 4 meals\, 40-70 g carbs before 
+ lifting\, and a protein-plus-carb meal after training.\nCategory: gym\nRu
+ n volume: 0 km\n\n\nWarm-Up:\n- 5-10 min easy movement\, joint prep\, and
+  2-3 gradual ramp sets before loading.\n\n\nCompound Lifts — rest 3–4
+  min between sets:\n1. Bench press: 6 x 2 at 82.5 kg\; RPE 7-8.\n2. Chest
+ -supported row: 2 x 10 at 40 kg\; RPE 8.\n3. Incline dumbbell press: 4 x 
+ 8 at 28 kg per hand\; RPE 8.\n4. Lat pulldown: 2 x 8 at 64 kg\; RPE 8.\n5
+ . Dumbbell shoulder press: 3 x 8 at 22 kg per hand\; RPE 8.\n\n\nAccessor
+ ies — rest 90–150 sec between sets:\n6. Tricep pulldown: 3 x 10 at 36
+  kg\; RPE 8.\n7. Hammer curls: 1 x 10-12 per side at 16 kg per hand\; RPE
+  8.\n\n\nSession Notes:\n- The expected duration is 90-120 minutes.\n- Co
+ mpound work stops with about two repetitions in reserve.\n- Accessories s
+ top with one to three repetitions in reserve.\n- No routine set is taken 
+ to failure.\n- If a prescribed starting load exceeds RPE 8 on the first w
+ orking set\, reduce it immediately by 5-10%\; do not force the written nu
+ mber.\n\n\nFueling:\n- Hit daily macros\, keep protein near target\, and 
+ place carbohydrates before and after training.\n\n\nRecovery:\n- Sleep wi
+ ndow stays 22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgress
+ ion & Guardrails:\n- Complete every set with clean form and about 2 reps 
+ left. Then use the next scheduled weight\, or the smallest increase after
+  reaching the top of the rep/time range\; otherwise repeat. Keep activati
+ on and reduced sessions at the listed dose.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
