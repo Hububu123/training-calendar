@@ -1864,9 +1864,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hubert-training-20261023@training-calendar
-DTSTAMP:20261021T163731Z
-LAST-MODIFIED:20261021T163731Z
-SEQUENCE:1792600651
+DTSTAMP:20261021T164022Z
+LAST-MODIFIED:20261021T164022Z
+SEQUENCE:1792600822
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Reduced Return — Lower A
@@ -1886,19 +1886,19 @@ DESCRIPTION:Overview:\nMacros: 3500 kcal\, 180 g protein\, 505 g carbs\, 1
  15\; RPE 5–6. Use an available load at or below 12.0 kg\, reducing furt
  her as needed.\n\n\nCore:\n6. Pallof press: 1 x 12 per side\; RPE 5–6. 
  Use an available load at or below 8.0 kg\, reducing further as needed.\n7
- . Front plank: 1 x 45-60 seconds\; RPE 5–6. Use an available load at or
-  below 36.0 seconds\, reducing further as needed.\n\n\nSession Notes:\n- 
- Continue only if the previous session felt normal and the next morning is
-  no worse\; otherwise rest and report back before continuing.\n- Warm up 
- easily for 10–20 minutes. Keep every working set at RPE 5–6 with at l
- east 4 repetitions left\; no failure work or extra sets.\n- Use a weight 
- comfortably lighter than your usual working load. Start below 80% of the 
- ordinary prescribed weight and round down to an available weight. Stop if
-  symptoms return.\n\n\nFueling:\n- Hit daily macros\, keep protein near t
- arget\, and place carbohydrates before and after training.\n\n\nRecovery:
- \n- Sleep window stays 22:00-06:00\; add mobility if joints feel stiff.\n
- \n\nProgression & Guardrails:\n- Progression: no load increase is earned 
- from this reduced session.
+ . Front plank: 1 x 25–30 seconds\; bodyweight only\, RPE 5–6. Stop ea
+ rlier if form deteriorates.\n\n\nSession Notes:\n- Continue only if the p
+ revious session felt normal and the next morning is no worse\; otherwise 
+ rest and report back before continuing.\n- Warm up easily for 10–20 min
+ utes. Keep every working set at RPE 5–6 with at least 4 repetitions lef
+ t\; no failure work or extra sets.\n- Use a weight comfortably lighter th
+ an your usual working load. Start below 80% of the ordinary prescribed we
+ ight and round down to an available weight. Stop if symptoms return.\n\n\
+ nFueling:\n- Hit daily macros\, keep protein near target\, and place carb
+ ohydrates before and after training.\n\n\nRecovery:\n- Sleep window stays
+  22:00-06:00\; add mobility if joints feel stiff.\n\n\nProgression & Guar
+ drails:\n- Progression: no load increase is earned from this reduced sess
+ ion.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

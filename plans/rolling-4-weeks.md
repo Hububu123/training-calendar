@@ -66,7 +66,7 @@ Plan:
 - Calf raises: 1 x 12; RPE 5–6. Use an available load at or below 44.0 kg, reducing further as needed.
 - Tibialis raises: 1 x 15; RPE 5–6. Use an available load at or below 12.0 kg, reducing further as needed.
 - Pallof press: 1 x 12 per side; RPE 5–6. Use an available load at or below 8.0 kg, reducing further as needed.
-- Front plank: 1 x 45-60 seconds; RPE 5–6. Use an available load at or below 36.0 seconds, reducing further as needed.
+- Front plank: 1 x 25–30 seconds; bodyweight only, RPE 5–6. Stop earlier if form deteriorates.
 
 ## 2026-10-24 - Easy Return Run
 
